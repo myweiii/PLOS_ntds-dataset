@@ -195,6 +195,8 @@ for article_url in tqdm(article_urls):
             json.dump(content, file, indent=4)
             
         '''
+        ### Crawling figures, tables, and pdfs
+        
         if not os.path.exists(folder_path + "src/"):
             os.makedirs(folder_path + "src/")
         for name, url in figure.items():

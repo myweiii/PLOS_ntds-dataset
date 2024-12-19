@@ -1,6 +1,10 @@
 # PLOS_ntds
 ### This dataset is collected from the [Journal Archive](https://journals.plos.org/plosntds/volume) section of [PLOS Neglected Tropical Disease](https://journals.plos.org/plosntds/). 
 
+#### According to [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/), articles from PLOS are legally available for reuse, without permission or fees. Anyone may copy, distribute, or reuse these articles, as long as the author and original source are properly cited.
+
+#### [See more on PLOS](https://journals.plos.org/plosntds/s/journal-information#loc-open-access)
+
 ---
 
 The PLOS_ntds dataset exclusively comprises 10100 pieces of research articles from PLOS Neglected Tropical Diseases. It captures various components of each article, including the abstract, article content, author summary, acknowledgements, and other features. Below is a sample structure for one article:
@@ -36,4 +40,4 @@ The `src` folder contains the original PDF file. Figures and tables, downloaded 
 
 ---
 
-`crawler.py` provides a python script for establishing this dataset.
+`crawler.py` provides a python script for establishing this dataset. Crawling figures and pdfs is disabled due to the limitation of disk space.
