@@ -1,0 +1,1 @@
+LJS would like to thank Prof Giuseppe Crignoli and the Laboratori del Centro Regionale per il Monitoraggio delle Parassitosi (CREMOPAR) staff members for excellent education and hands-on training on parasitic coprological methods. We would like to thank Gustav Jonsson-Glans (Etteplan) for reviewing the AI code.

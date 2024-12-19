@@ -1,0 +1,1 @@
+We thank Andrew MacDonald and Rinku Rajan for supplying the worm samples for sex-specific differential expression and Maria Ninova for technical assistance with the TaqMan assays. We are also grateful to three anonymous reviewers for helpful comments on the manuscript and to Matt Berriman for discussion on the Schistosoma mansoni genome assembly.

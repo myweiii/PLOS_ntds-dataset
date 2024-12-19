@@ -1,0 +1,89 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008889",
+    "Published": "December 22, 2020",
+    "Subject_Areas": [
+        "MicroRNAs",
+        "Gene expression",
+        "Myocardium",
+        "Inflammation",
+        "Fibrosis",
+        "Cytokines",
+        "Principal component analysis",
+        "Mitochondria"
+    ],
+    "Authors": {
+        "Laurie Laugier": [
+            "Aix Marseille Universit\u00e9, G\u00e9n\u00e9tique et Immunologie des Maladies Parasitaires, Unit\u00e9 Mixte de Recherche S906, Marseille, France; INSERM, U906, Marseille, France"
+        ],
+        "Ludmila Rodrigues Pinto Ferreira": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Frederico Moraes Ferreira": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Sandrine Cabantous": [
+            "Aix Marseille Universit\u00e9, G\u00e9n\u00e9tique et Immunologie des Maladies Parasitaires, Unit\u00e9 Mixte de Recherche S906, Marseille, France; INSERM, U906, Marseille, France"
+        ],
+        "Amanda Farage Frade": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Joao Paulo Nunes": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Rafael Almeida Ribeiro": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Pauline Brochet": [
+            "Aix Marseille Universit\u00e9, TAGC Theories and Approaches of Genomic Complexity, Inserm, INSERM, UMR_1090, Marseille, France"
+        ],
+        "Priscila Camillo Teixeira": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Ronaldo Honorato Barros Santos": [
+            "Division of Transplantation, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil"
+        ],
+        "Edimar A. Bocchi": [
+            "Division of Transplantation, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil"
+        ],
+        "Fernando Bacal": [
+            "Division of Transplantation, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil"
+        ],
+        "Darlan da Silva C\u00e2ndido": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Vanessa Escolano Maso": [
+            "Department of Pathophysiology and Toxicology, School of Pharmaceutical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Helder I. Nakaya": [
+            "Department of Pathophysiology and Toxicology, School of Pharmaceutical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+            "Scientific Platform Pasteur, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Jorge Kalil": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Edecio Cunha-Neto": [
+            "Laboratory of Immunology, Heart Institute (InCor), University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Division of Clinical Immunology and Allergy, University of S\u00e3o Paulo, School of Medicine, S\u00e3o Paulo, Brazil",
+            "Institute for Investigation in Immunology (iii), INCT, S\u00e3o Paulo, Brazil"
+        ],
+        "Christophe Chevillard": [
+            "Aix Marseille Universit\u00e9, TAGC Theories and Approaches of Genomic Complexity, Inserm, INSERM, UMR_1090, Marseille, France"
+        ]
+    }
+}

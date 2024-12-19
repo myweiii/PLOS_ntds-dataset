@@ -1,0 +1,125 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0009361",
+    "Published": "June 1, 2021",
+    "Subject_Areas": [
+        "Helminths",
+        "Malaria",
+        "Helminth infections",
+        "Schistosoma haematobium",
+        "Vaccines",
+        "Vaccination and immunization",
+        "Antigens",
+        "Antibodies"
+    ],
+    "Authors": {
+        "Odilon Nouatin": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "D\u00e9partement de Biochimie et de Biologie Cellulaire, Facult\u00e9 des Sciences et Techniques, Universit\u00e9 d\u2019Abomey-Calavi, Cotonou, B\u00e9nin"
+        ],
+        "Juliana Boex Mengue": [
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Jean Claude Dejon-Agob\u00e9": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Center of Tropical Medicine and Travel Medicine, Department of Infectious Diseases, Amsterdam University Medical Centers, Amsterdam Infection & Immunity, Amsterdam Public Health, University of Amsterdam, Amsterdam, The Netherlands"
+        ],
+        "Rolf Fendel": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Javier Ib\u00e1\u00f1ez": [
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Ulysse Ateba Ngoa": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon"
+        ],
+        "Jean Ronald Edoa": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon"
+        ],
+        "Bayod\u00e9 Rom\u00e9o Ad\u00e9gbit\u00e9": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Center of Tropical Medicine and Travel Medicine, Department of Infectious Diseases, Amsterdam University Medical Centers, Amsterdam Infection & Immunity, Amsterdam Public Health, University of Amsterdam, Amsterdam, The Netherlands",
+            "Fondation pour la Recherche Scientifique, Cotonou, B\u00e9nin"
+        ],
+        "Yabo Josiane Honkp\u00e9h\u00e9dji": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Fondation pour la Recherche Scientifique, Cotonou, B\u00e9nin",
+            "Department of Parasitology, Leiden University Medical Centre (LUMC), Leiden, The Netherlands"
+        ],
+        "Jeannot Fr\u00e9jus Zinsou": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Fondation pour la Recherche Scientifique, Cotonou, B\u00e9nin",
+            "Department of Parasitology, Leiden University Medical Centre (LUMC), Leiden, The Netherlands"
+        ],
+        "Aurore Bouyoukou Hounkpatin": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Kabirou Moutairou": [
+            "D\u00e9partement de Biochimie et de Biologie Cellulaire, Facult\u00e9 des Sciences et Techniques, Universit\u00e9 d\u2019Abomey-Calavi, Cotonou, B\u00e9nin"
+        ],
+        "Andreas Homoet": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Meral Esen": [
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Andrea Kreidenweiss": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Stephen L. Hoffman": [
+            "Sanaria, Inc., Rockville, Maryland, United States of America"
+        ],
+        "Michael Theisen": [
+            "Department of Congenital Disorders, Statens Serum Institut, Copenhagen, Denmark",
+            "Centre for Medical Parasitology at Department of International Health, Immunology and Microbiology, University of Copenhagen, Copenhagen, Denmark",
+            "Department of Infectious Diseases, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark"
+        ],
+        "Adrian J. F. Luty": [
+            "Centre d\u2019Etude et de Recherche sur le Paludisme Associ\u00e9 \u00e0 la Grossesse et \u00e0 l\u2019Enfance, Calavi, B\u00e9nin",
+            "Universit\u00e9 de Paris, MERIT, IRD, Paris, France"
+        ],
+        "Bertrand Lell": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Department of Medicine I, Division of Infectious Diseases and Tropical Medicine, Medical University of Vienna, Vienna, Austria"
+        ],
+        "Selidji Todagbe Agnandji": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Ghyslain Mombo-Ngoma": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "Department of Tropical Medicine, Bernhard Nocht Institute for Tropical Medicine & I, Department of Medicine, University Medical Centre, Hamburg-Eppendorf, Hamburg, Germany"
+        ],
+        "Michael Ramharter": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Department of Tropical Medicine, Bernhard Nocht Institute for Tropical Medicine & I, Department of Medicine, University Medical Centre, Hamburg-Eppendorf, Hamburg, Germany"
+        ],
+        "Peter Kremsner": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany"
+        ],
+        "Benjamin Mordm\u00fcller": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany",
+            "Department of Medical Microbiology, Radboud University Medical Center, Nijmegen, the Netherlands"
+        ],
+        "Ay\u00f4la Akim Adegnika": [
+            "Centre de Recherches M\u00e9dicales de Lambar\u00e9n\u00e9, Lambar\u00e9n\u00e9, Gabon",
+            "Institut f\u00fcr Tropenmedizin, Universit\u00e4t T\u00fcbingen, T\u00fcbingen, Germany",
+            "German Center for Infection Research (DZIF), Partner Site T\u00fcbingen, T\u00fcbingen, Germany",
+            "Fondation pour la Recherche Scientifique, Cotonou, B\u00e9nin",
+            "Department of Parasitology, Leiden University Medical Centre (LUMC), Leiden, The Netherlands"
+        ]
+    }
+}

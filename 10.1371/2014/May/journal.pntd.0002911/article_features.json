@@ -1,0 +1,40 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0002911",
+    "Published": "May 22, 2014",
+    "Subject_Areas": [
+        "Tsetse fly",
+        "Saliva",
+        "Enzyme-linked immunoassays",
+        "Swine",
+        "Trypanosoma",
+        "Glossina",
+        "Serology",
+        "Antibodies"
+    ],
+    "Authors": {
+        "Guy Caljon": [
+            "Unit of Veterinary Protozoology, Department of Biomedical Sciences, Institute of Tropical Medicine Antwerp (ITM), Antwerp, Belgium",
+            "Unit of Cellular and Molecular Immunology, Vrije Universiteit Brussel (VUB), Brussels, Belgium",
+            "Laboratory of Myeloid Cell Immunology, Vlaams Instituut voor Biotechnologie (VIB), Brussels, Belgium"
+        ],
+        "Reta Duguma": [
+            "Faculty of Veterinary Medicine, Addis Ababa University, Debre Zeit, Ethiopia"
+        ],
+        "Reginald De Deken": [
+            "Unit Veterinary Entomology, Department of Biomedical Sciences, Institute of Tropical Medicine Antwerp (ITM), Antwerp, Belgium"
+        ],
+        "Stijn Schauvliege": [
+            "Department of Surgery and Anaesthesia of Domestic Animals, Faculty of Veterinary Medicine, Ghent University (UGent), Ghent, Belgium"
+        ],
+        "Frank Gasthuys": [
+            "Department of Surgery and Anaesthesia of Domestic Animals, Faculty of Veterinary Medicine, Ghent University (UGent), Ghent, Belgium"
+        ],
+        "Luc Duchateau": [
+            "Department of Comparative Physiology and Biometrics, Faculty of Veterinary Medicine, Ghent University (UGent), Ghent, Belgium"
+        ],
+        "Jan Van Den Abbeele": [
+            "Unit of Veterinary Protozoology, Department of Biomedical Sciences, Institute of Tropical Medicine Antwerp (ITM), Antwerp, Belgium",
+            "Laboratory of Zoophysiology, Department of Physiology, Ghent University (UGent), Ghent, Belgium"
+        ]
+    }
+}

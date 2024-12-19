@@ -1,0 +1,79 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008720",
+    "Published": "October 1, 2020",
+    "Subject_Areas": [
+        "Mites",
+        "Genomics",
+        "Proteases",
+        "Allergens",
+        "RNA interference",
+        "Gene prediction",
+        "Scabies",
+        "Excretion"
+    ],
+    "Authors": {
+        "Pasi K. Korhonen": [
+            "Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Robin B. Gasser": [
+            "Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Guangxu Ma": [
+            "Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Tao Wang": [
+            "Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Andreas J. Stroehlein": [
+            "Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Neil D. Young": [
+            "Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Ching-Seng Ang": [
+            "Bio21 Mass Spectrometry and Proteomics Facility, The University of Melbourne, Melbourne, Victoria, Australia"
+        ],
+        "Deepani D. Fernando": [
+            "Cell and Molecular Biology Department, Infectious Diseases Program, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ],
+        "Hieng C. Lu": [
+            "Cell and Molecular Biology Department, Infectious Diseases Program, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ],
+        "Sara Taylor": [
+            "Cell and Molecular Biology Department, Infectious Diseases Program, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ],
+        "Simone L. Reynolds": [
+            "Cell and Molecular Biology Department, Infectious Diseases Program, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ],
+        "Ehtesham Mofiz": [
+            "Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia"
+        ],
+        "Shivashankar H. Najaraj": [
+            "Faculty of Health, School\u2014Biomedical Sciences, Queensland University of Technology, Brisbane, Queensland, Australia"
+        ],
+        "Harsha Gowda": [
+            "Cell and Molecular Biology Department, Infectious Diseases Program, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ],
+        "Anil Madugundu": [
+            "Institute of Bioinformatics, Bangalore, India",
+            "Center for Individualized Medicine and Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, United States of America",
+            "Manipal Academy of Higher Education (MAHE), Manipal, Karnataka, India"
+        ],
+        "Santosh Renuse": [
+            "Institute of Bioinformatics, Bangalore, India"
+        ],
+        "Deborah Holt": [
+            "Menzies School of Health Research, Charles Darwin University, Darwin, Australia",
+            "College of Health and Human Sciences, Charles Darwin University, Darwin, Australia"
+        ],
+        "Akhilesh Pandey": [
+            "Center for Individualized Medicine and Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, United States of America"
+        ],
+        "Anthony T. Papenfuss": [
+            "Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research, Melbourne, Victoria, Australia"
+        ],
+        "Katja Fischer": [
+            "Cell and Molecular Biology Department, Infectious Diseases Program, QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ]
+    }
+}

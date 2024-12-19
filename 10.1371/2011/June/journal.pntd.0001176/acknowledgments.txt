@@ -1,0 +1,1 @@
+Thanks to Matt Berriman and John Gilleard for granting access to unpublished H. contortus RNAseq data. We would also like to acknowledge the contribution of the laboratories responsible for generating publically-available nematode sequence datasets, without whom this work would have been impossible.

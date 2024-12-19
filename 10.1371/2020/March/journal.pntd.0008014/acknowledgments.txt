@@ -1,0 +1,1 @@
+We are indebt with Dr. José M.C. Ribeiro for bioinformatic and scientific discussions and for critical review of the manuscript, and with Dr. Ben Krajacich for R software support. We are also thankful to T.R. Wilson and B.G. Bonilla from LMVR, NIAID for sand fly insectary support.

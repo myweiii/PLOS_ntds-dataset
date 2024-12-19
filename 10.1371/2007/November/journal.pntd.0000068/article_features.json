@@ -1,0 +1,28 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000068",
+    "Published": "November 14, 2007",
+    "Subject_Areas": [
+        "Ligases",
+        "Crystal structure",
+        "Trypanosoma",
+        "Biochemical simulations",
+        "Electrostatic bonding",
+        "Hydrogen bonding",
+        "Molecular dynamics",
+        "RNA editing"
+    ],
+    "Authors": {
+        "Rommie E. Amaro": [
+            "Department of Chemistry and Biochemistry, University of California San Diego, La Jolla, California, United States of America"
+        ],
+        "Robert V. Swift": [
+            "Department of Chemistry and Biochemistry, University of California San Diego, La Jolla, California, United States of America"
+        ],
+        "J. Andrew McCammon": [
+            "Department of Chemistry and Biochemistry, University of California San Diego, La Jolla, California, United States of America",
+            "NSF Center for Theoretical Biological Physics (CTBP), University of California San Diego, La Jolla, California, United States of America",
+            "Department of Pharmacology, University of California San Diego, La Jolla, California, United States of America",
+            "Howard Hughes Medical Institute, University of California San Diego, La Jolla, California, United States of America"
+        ]
+    }
+}

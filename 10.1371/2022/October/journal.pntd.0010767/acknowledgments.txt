@@ -1,0 +1,1 @@
+We would like to thank Patsy Zendejas for her work on developing the Ct-to-EPG conversion equations used in this study. We also thank and acknowledge Professor Alex Loukas and Paul Giacomin from James Cook University for providing the Necator eggs used in developing these equations.

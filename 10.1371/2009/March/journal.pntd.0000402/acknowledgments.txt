@@ -1,0 +1,1 @@
+This analysis started life as a paper by AH and SH on best practices in deworming for the Copenhagen Consensus, whom they thank. We also thank Kithsiri Gunawardana for preparing the map and Martin Walker for advice on R statistical software.

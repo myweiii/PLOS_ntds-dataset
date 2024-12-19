@@ -1,0 +1,117 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007846",
+    "Published": "November 21, 2019",
+    "Subject_Areas": [
+        "Invertebrate genomics",
+        "Phylogenetic analysis",
+        "Helminths",
+        "Parasitic life cycles",
+        "Proteases",
+        "Genomics",
+        "Nematoda",
+        "Snails"
+    ],
+    "Authors": {
+        "Lian Xu": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Meng Xu": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Xi Sun": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Junyang Xu": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Xin Zeng": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Dai Shan": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Dongjuan Yuan": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Ping He": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Weiming He": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Yulan Yang": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Shiqi Luo": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Jie Wei": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Xiaoying Wu": [
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China"
+        ],
+        "Zhen Liu": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Xiaomin Xu": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Zhensheng Dong": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Langui Song": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Beibei Zhang": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Zilong Yu": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Lifu Wang": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China",
+            "Provincial Engineering Technology Research Center for Disease and Vector Control, Guangdong, Guangzhou, China"
+        ],
+        "Chi Zhang": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Xiaodong Fang": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Qiang Gao": [
+            "BGI Genomics, BGI-Shenzhen, Shenzhen, China"
+        ],
+        "Zhiyue Lv": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China"
+        ],
+        "Zhongdao Wu": [
+            "Department of Parasitology, Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China",
+            "Key Laboratory for Tropical Diseases Control of the National Ministry of Education, Sun Yat-sen University, Guangzhou, China"
+        ]
+    }
+}

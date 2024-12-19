@@ -1,0 +1,5 @@
+We are grateful for the project management support of Dr Gayle Chapman (Biomedical Catalyst Ltd), UK. We would like to acknowledge the support of Dr Surbi Gupta (King’s IP & Licensing team) who was involved in the IP assessment of the project.
+We would like to acknowledge the support of Drugs for Neglected Diseases initiative (DNDi) a collaborative, patients’ needs-driven, non-profit drug research and development organization that is developing new treatments for Neglected Diseases.
+We would like to thank Miss Raha Ahmadkhanbeigi (King’s College London) for help with the haemolysis assay. We would like to thank Ms Anncharlott Berglar (King’s College London) for help with acquisition of the preliminary data.
+We would like to thank ISIS, Rutherford-Appleton Laboratory (Science and Technology Facilities Council, Didcot, Oxford) for the award of neutron beam time on the LOQ instrument to perform the SANS experiments.
+According to the UK research councils’ and Wellcome Trust Common Principles on Data Policy, all data supporting this study will be openly available as a supporting file.

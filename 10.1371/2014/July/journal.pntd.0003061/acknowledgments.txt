@@ -1,0 +1,2 @@
+We would like to thank John Coller and the staff of the Stanford Functional Genomics Facility for supplying us with the human cDNA microarrays used for this study.
+Footnotes: Opinions, interpretations, conclusions, and recommendations are those of the author and are not necessarily endorsed by the U.S. Army.

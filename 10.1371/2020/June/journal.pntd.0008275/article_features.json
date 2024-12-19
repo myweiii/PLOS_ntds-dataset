@@ -1,0 +1,44 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008275",
+    "Published": "June 23, 2020",
+    "Subject_Areas": [
+        "Molting",
+        "Brugia malayi",
+        "Larvae",
+        "Gene expression",
+        "Transcription factors",
+        "Sequence motif analysis",
+        "Caenorhabditis elegans",
+        "Gene regulation"
+    ],
+    "Authors": {
+        "Alexandra Grote": [
+            "Department of Biology, Center for Genomics and Systems Biology, New York University, New York, New York, United States of America"
+        ],
+        "Yichao Li": [
+            "School of Computer Science and Electrical Engineering, Ohio University, Athens, Ohio, United States of America"
+        ],
+        "Canhui Liu": [
+            "Center for Global Infectious Disease Research, University of South Florida, Tampa, FL, Florida, United States of America"
+        ],
+        "Denis Voronin": [
+            "Laboratory of Molecular Parasitology, Lindsley F. Kimball Research Institute, New York Blood Center, New York, New York, United States of America"
+        ],
+        "Adam Geber": [
+            "Department of Biology, Center for Genomics and Systems Biology, New York University, New York, New York, United States of America"
+        ],
+        "Sara Lustigman": [
+            "Laboratory of Molecular Parasitology, Lindsley F. Kimball Research Institute, New York Blood Center, New York, New York, United States of America"
+        ],
+        "Thomas R. Unnasch": [
+            "Center for Global Infectious Disease Research, University of South Florida, Tampa, FL, Florida, United States of America"
+        ],
+        "Lonnie Welch": [
+            "School of Computer Science and Electrical Engineering, Ohio University, Athens, Ohio, United States of America"
+        ],
+        "Elodie Ghedin": [
+            "Department of Biology, Center for Genomics and Systems Biology, New York University, New York, New York, United States of America",
+            "Department of Epidemiology, School of Global Public Health, New York University, New York, New York, United States of America"
+        ]
+    }
+}

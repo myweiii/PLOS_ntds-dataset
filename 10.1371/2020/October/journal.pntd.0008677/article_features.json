@@ -1,0 +1,47 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008677",
+    "Published": "October 9, 2020",
+    "Subject_Areas": [
+        "Etiology",
+        "Diarrhea",
+        "Machine learning",
+        "Bacterial pathogens",
+        "Antibiotics",
+        "Vomiting",
+        "Forecasting",
+        "Blood"
+    ],
+    "Authors": {
+        "Ben J. Brintz": [
+            "Division of Infectious Diseases, Department of Internal Medicine, University of Utah, Salt Lake City, UT, United States of America"
+        ],
+        "Joel I. Howard": [
+            "Division of Pediatric Infectious Diseases, Department of Pediatrics, University of Utah, Salt Lake City, UT, United States of America"
+        ],
+        "Benjamin Haaland": [
+            "Division of Biostatistics, Department of Population Sciences, University of Utah, Salt Lake City, UT, United States of America"
+        ],
+        "James A. Platts-Mills": [
+            "Division of Infectious Diseases and International Health, Department of Medicine, University of Virginia, Charlottesville, VA, United States of America"
+        ],
+        "Tom Greene": [
+            "Division of Biostatistics, Department of Population Sciences, University of Utah, Salt Lake City, UT, United States of America"
+        ],
+        "Adam C. Levine": [
+            "Department of Emergency Medicine, Brown University, Providence, RI, United States of America"
+        ],
+        "Eric J. Nelson": [
+            "Departments of Pediatrics and Environmental and Global Health, University of Florida, Gainesville, FL, United States of America"
+        ],
+        "Andrew T. Pavia": [
+            "Division of Pediatric Infectious Diseases, Department of Pediatrics, University of Utah, Salt Lake City, UT, United States of America"
+        ],
+        "Karen L. Kotloff": [
+            "Division of Infectious Disease and Tropical Pediatrics, Center for Vaccine Development and Global Health, University of Maryland School of Medicine, Baltimore, MD, United States of America"
+        ],
+        "Daniel T. Leung": [
+            "Division of Infectious Diseases, Department of Internal Medicine, University of Utah, Salt Lake City, UT, United States of America",
+            "Division of Microbiology and Immunology, Department of Pathology, University of Utah, Salt Lake City, UT, United States of America"
+        ]
+    }
+}

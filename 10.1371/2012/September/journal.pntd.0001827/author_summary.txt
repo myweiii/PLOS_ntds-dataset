@@ -1,0 +1,11 @@
+Open source drug discovery can be an influential model
+for discovering and developing new medicines and diagnostics for neglected diseases. It offers the opportunity
+to accelerate the discovery progress while keeping expenditures to a minimum by encouraging incremental
+contributions from volunteer scientists. Publishing raw data and results in the public domain is positive within the
+context of neglected diseases since it facilitates open collaboration while obviating the ability to patent any
+results. In this way it effectively de-links the research and development costs from the sales price of the end
+product, the new medicine or diagnostic. This case study demonstrates that implementations of the open source
+model can differ while still achieving the ultimate goal of obtaining high quality research at reduced costs. However,
+the importance of clearly defined entry points, transparency and funding are shared success factors. These
+findings present the practical challenges of implementing a theoretical concept and hopefully will assist other
+scientists in organizing future open source drug discovery projects.

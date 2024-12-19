@@ -1,0 +1,1 @@
+The authors would like to thank Dr. Yan Hu for training JBN to work with the A. ceylanicum—hamster model, and David Koch and David Gazzola for maintaining the parasites. We thank Titus Brown and the Michigan State University High-Performance Computing Center for computational support.

@@ -1,0 +1,19 @@
+Soil-transmitted helminths (roundworms, whipworms and hookworms) infect millions
+                    of children in (sub)tropical countries, resulting in malnutrition, growth
+                    stunting, intellectual retardation and cognitive deficits. Currently, there is a
+                    need to closely monitor anthelmintic drug efficacy and to develop standard
+                    operating procedures, as highlighted in a World Health Organization–World
+                    Bank meeting on “Monitoring of Drug Efficacy in Large Scale Treatment
+                    Programs for Human Helminthiasis” in Washington DC at the end of 2007.
+                    Therefore, we have evaluated the efficacy of a commonly used treatment against
+                    these parasitic infections in school children in Africa, Asia and South-America
+                    using a standardized protocol. In addition, different statistical approaches to
+                    analyzing the data were evaluated in order to develop standardized procedures
+                    for data analysis. The results demonstrate that the applied treatment was highly
+                    efficacious against round- and hookworms, but not against whipworms. However,
+                    there was large variation in efficacy across the different trials which warrants
+                    further attention. This study also provides new insights into the statistical
+                    analysis of efficacy data, which should be considered in future monitoring and
+                    evaluation studies of large scale anthelmintic treatment programs. Finally, our
+                    findings emphasize the need to update the World Health Organization recommended
+                    efficacy threshold for the treatment of STH.

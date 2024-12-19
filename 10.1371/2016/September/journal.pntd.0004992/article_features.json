@@ -1,0 +1,52 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0004992",
+    "Published": "September 15, 2016",
+    "Subject_Areas": [
+        "Gene expression",
+        "Parasitic diseases",
+        "Lesions",
+        "Leishmaniasis",
+        "Principal component analysis",
+        "Transcriptome analysis",
+        "Immune response",
+        "Macrophages"
+    ],
+    "Authors": {
+        "Stephen M. Christensen": [
+            "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, United States of America"
+        ],
+        "Laura A. L. Dillon": [
+            "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, United States of America",
+            "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, Maryland, United States of America"
+        ],
+        "Lucas P. Carvalho": [
+            "Universidade Federal da Bahia Salvador, Bahia, Brazil"
+        ],
+        "Sara Passos": [
+            "Universidade Federal da Bahia Salvador, Bahia, Brazil"
+        ],
+        "Fernanda O. Novais": [
+            "Department of Pathobiology, School of Veterinary Medicine, The University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "V. Keith Hughitt": [
+            "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, United States of America",
+            "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, Maryland, United States of America"
+        ],
+        "Daniel P. Beiting": [
+            "Department of Pathobiology, School of Veterinary Medicine, The University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Edgar M. Carvalho": [
+            "Universidade Federal da Bahia Salvador, Bahia, Brazil"
+        ],
+        "Phillip Scott": [
+            "Department of Pathobiology, School of Veterinary Medicine, The University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Najib M. El-Sayed": [
+            "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, United States of America",
+            "Center for Bioinformatics and Computational Biology, University of Maryland, College Park, Maryland, United States of America"
+        ],
+        "David M. Mosser": [
+            "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, Maryland, United States of America"
+        ]
+    }
+}

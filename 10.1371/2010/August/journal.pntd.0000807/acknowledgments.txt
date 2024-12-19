@@ -1,0 +1,1 @@
+We thank Prof Xiao ShuHua, National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention, Shanghai, for his helpful suggestions in experimental design, Mr Huang Yongda for assistance in sample collection, and Dr Zhu Hang for modifying Matlab scripts.

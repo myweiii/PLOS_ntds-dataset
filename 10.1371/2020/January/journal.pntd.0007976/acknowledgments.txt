@@ -1,0 +1,1 @@
+The authors thank WHO HAT team for facilitating access to the HAT Atlas data; and to José R. Franco and Gerardo Priotto for helpful discussion and comments on this manuscript. Calculations for the Model S were performed at the sciCORE (http://scicore.unibas.ch/) scientific computing core facility at the University of Basel.

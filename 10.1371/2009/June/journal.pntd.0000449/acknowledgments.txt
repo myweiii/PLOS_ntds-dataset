@@ -1,0 +1,1 @@
+We thank Dr. Peng Wu for technical assistance with size exclusion chromatography. We also are grateful to Chakrapani Kalyanaraman and Matt Jacobson in the Jacobson lab at UCSF for their help in creating the SmCL3 model using their homology modeling program PLOP.

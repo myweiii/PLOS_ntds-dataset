@@ -1,0 +1,5 @@
+{
+    "Background": "The induction of hepatic stellate cell (HSC) apoptosis has potential as a potent strategy to diminish the progression of liver fibrosis. Previous studies have demonstrated the ability of soluble egg antigens (SEA) from schistosomes to inhibit HSC activation and to induce apoptosis in vitro. In this study, we aimed to explore the mechanism of SEA-induced apoptosis in HSCs.",
+    "Methodology/Principal Findings": "In this study, we found that SEA could upregulate p53 and DR5 and downregulate the p-Akt. The apoptosis of HSCs induced by SEA could be reduced in HSCs that were treated with p53-specific siRNA and in HSCs that were treated with DR5-specific shRNA. In addition, GW501516, which enhances the expression of Akt, could also decrease the SEA-induced HSC apoptosis. We also found that the increased expression of p53 and DR5 induced by SEA through Mdm2 were reduced by GW501516.",
+    "Conclusions/Significance": "Our data suggest that SEA can induce HSC apoptosis by downregulating Akt expression and upregulating p53-dependent DR5 expression."
+}

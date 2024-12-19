@@ -1,0 +1,65 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007976",
+    "Published": "January 21, 2020",
+    "Subject_Areas": [
+        "Infectious disease control",
+        "Medical risk factors",
+        "African trypanosomiasis",
+        "Epidemiology",
+        "Health screening",
+        "Infectious disease epidemiology",
+        "Simulation and modeling",
+        "Mathematical models"
+    ],
+    "Authors": {
+        "Mar\u00eda Soledad Casta\u00f1o": [
+            "Department of Epidemiology and Public Health, Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland"
+        ],
+        "Martial L. Ndeffo-Mbah": [
+            "School of Public Health, Yale University, New Haven, Connecticut, United States of America",
+            "College of Veterinary Medicine and Biosciences, Texas A&M University, College Station, Texas, United States of America"
+        ],
+        "Kat S. Rock": [
+            "Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, United Kingdom",
+            "Mathematics Institute, University of Warwick, Coventry, United Kingdom"
+        ],
+        "Cody Palmer": [
+            "Institute of Disease Modeling, Seattle, Washington, United States of America"
+        ],
+        "Edward Knock": [
+            "Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, United Kingdom",
+            "Department of Statistics, University of Warwick, Coventry, United Kingdom"
+        ],
+        "Erick Mwamba Miaka": [
+            "Programme National de Lutte contre la Trypanosomiase Humaine Africaine, Kinshasa, the Democratic Republic of the Congo"
+        ],
+        "Joseph M. Ndung\u2019u": [
+            "Foundation for Innovative New Diagnostics, Geneva, Switzerland"
+        ],
+        "Steve Torr": [
+            "Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Paul Verl\u00e9": [
+            "Department of Public Health, Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Simon E. F. Spencer": [
+            "Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, United Kingdom",
+            "Department of Statistics, University of Warwick, Coventry, United Kingdom"
+        ],
+        "Alison Galvani": [
+            "School of Public Health, Yale University, New Haven, Connecticut, United States of America"
+        ],
+        "Caitlin Bever": [
+            "Institute of Disease Modeling, Seattle, Washington, United States of America"
+        ],
+        "Matt J. Keeling": [
+            "Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, United Kingdom",
+            "Mathematics Institute, University of Warwick, Coventry, United Kingdom"
+        ],
+        "Nakul Chitnis": [
+            "Department of Epidemiology and Public Health, Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland"
+        ]
+    }
+}

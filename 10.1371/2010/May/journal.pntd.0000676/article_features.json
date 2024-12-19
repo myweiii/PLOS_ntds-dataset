@@ -1,0 +1,31 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000676",
+    "Published": "May 11, 2010",
+    "Subject_Areas": [
+        "Biochemical simulations",
+        "Crystal structure",
+        "Parasitic diseases",
+        "Hydrogen bonding",
+        "Proteases",
+        "Trypanosoma cruzi",
+        "Carbon",
+        "Molecular dynamics"
+    ],
+    "Authors": {
+        "Jacob D. Durrant": [
+            "Biomedical Sciences Program, University of California San Diego, La Jolla, California, United States of America"
+        ],
+        "Henrik Ker\u00e4nen": [
+            "Department of Cell and Molecular Biology, Biomedical Center, Uppsala University, Uppsala, Sweden",
+            "University of California San Diego, La Jolla, California, United States of America"
+        ],
+        "Benjamin A. Wilson": [
+            "Department of Ecology & Evolutionary Biology, University of Arizona, Tucson, Arizona, United States of America"
+        ],
+        "J. Andrew McCammon": [
+            "Department of Chemistry & Biochemistry, National Science Foundation Center for Theoretical Biological Physics, National Biomedical Computation Resource, University of California San Diego, La Jolla, California, United States of America",
+            "Department of Pharmacology, University of California San Diego, La Jolla, California, United States of America",
+            "Howard Hughes Medical Institute, University of California San Diego, La Jolla, California, United States of America"
+        ]
+    }
+}

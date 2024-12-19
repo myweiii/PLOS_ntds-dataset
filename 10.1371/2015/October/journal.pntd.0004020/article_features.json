@@ -1,0 +1,53 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0004020",
+    "Published": "October 1, 2015",
+    "Subject_Areas": [
+        "Helminth infections",
+        "Anthropometry",
+        "Weight gain",
+        "Adverse events",
+        "Soil-transmitted helminthiases",
+        "Linear regression analysis",
+        "Age groups",
+        "Trichuris"
+    ],
+    "Authors": {
+        "Serene A. Joseph": [
+            "McGill University, Department of Epidemiology, Biostatistics and Occupational Health, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "Research Institute of the McGill University Health Centre, Division of Clinical Epidemiology, Montr\u00e9al, Qu\u00e9bec, Canada"
+        ],
+        "Mart\u00edn Casap\u00eda": [
+            "Asociaci\u00f3n Civil Selva Amaz\u00f3nica, Iquitos, Peru"
+        ],
+        "Antonio Montresor": [
+            "Department of Control of Neglected Tropical Diseases, World Health Organization, Geneva, Switzerland"
+        ],
+        "Elham Rahme": [
+            "Research Institute of the McGill University Health Centre, Division of Clinical Epidemiology, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "McGill University, Department of Medicine, Montr\u00e9al, Qu\u00e9bec, Canada"
+        ],
+        "Brian J. Ward": [
+            "JD MacLean Centre for Tropical Diseases, McGill University, Department of Medicine, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "National Reference Centre for Parasitology, Research Institute of the McGill University Health Centre, Montr\u00e9al, Qu\u00e9bec, Canada"
+        ],
+        "Grace S. Marquis": [
+            "McGill University, School of Dietetics and Human Nutrition, Sainte Anne-de-Bellevue, Qu\u00e9bec, Canada"
+        ],
+        "Lidsky Pezo": [
+            "Asociaci\u00f3n Civil Selva Amaz\u00f3nica, Iquitos, Peru"
+        ],
+        "Brittany Blouin": [
+            "McGill University, Department of Epidemiology, Biostatistics and Occupational Health, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "Research Institute of the McGill University Health Centre, Division of Clinical Epidemiology, Montr\u00e9al, Qu\u00e9bec, Canada"
+        ],
+        "Mathieu Maheu-Giroux": [
+            "Department of Infectious Disease Epidemiology, Imperial College London, St. Mary\u2019s Hospital, London, United Kingdom"
+        ],
+        "Theresa W. Gyorkos": [
+            "McGill University, Department of Epidemiology, Biostatistics and Occupational Health, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "Research Institute of the McGill University Health Centre, Division of Clinical Epidemiology, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "McGill University, Department of Medicine, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "JD MacLean Centre for Tropical Diseases, McGill University, Department of Medicine, Montr\u00e9al, Qu\u00e9bec, Canada"
+        ]
+    }
+}

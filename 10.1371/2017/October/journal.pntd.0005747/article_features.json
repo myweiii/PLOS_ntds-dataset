@@ -1,0 +1,31 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0005747",
+    "Published": "October 9, 2017",
+    "Subject_Areas": [
+        "Network analysis",
+        "Centrality",
+        "Bibliometrics",
+        "Data processing",
+        "United States",
+        "Social networks",
+        "Computer software",
+        "Finance"
+    ],
+    "Authors": {
+        "Christiane Hagel": [
+            "Institute for Social Medicine, Epidemiology and Health Economics, Charit\u00e9-Universit\u00e4tsmedizin Berlin, Berlin, Germany"
+        ],
+        "Felix Weidemann": [
+            "Department for Infectious Diseases Epidemiology, Robert Koch-Institut, Berlin, Germany"
+        ],
+        "Stephan Gauch": [
+            "Department for Research System and Science Dynamics, German Centre for Higher Education Research and Science Studies, Berlin, Germany"
+        ],
+        "Suzanne Edwards": [
+            "Department of Health Care Management, Berlin University of Technology, Berlin, Germany"
+        ],
+        "Peter Tinnemann": [
+            "Institute for Social Medicine, Epidemiology and Health Economics, Charit\u00e9-Universit\u00e4tsmedizin Berlin, Berlin, Germany"
+        ]
+    }
+}

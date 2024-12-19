@@ -1,0 +1,52 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0002805",
+    "Published": "May 1, 2014",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Humidity",
+        "Weather",
+        "Singapore",
+        "Epidemiology",
+        "Autocorrelation",
+        "Meteorology",
+        "Rain"
+    ],
+    "Authors": {
+        "Hai-Yan Xu": [
+            "Institute of High Performance Computing, Singapore"
+        ],
+        "Xiuju Fu": [
+            "Institute of High Performance Computing, Singapore"
+        ],
+        "Lionel Kim Hock Lee": [
+            "Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore"
+        ],
+        "Stefan Ma": [
+            "Ministry of Health, Singapore"
+        ],
+        "Kee Tai Goh": [
+            "Ministry of Health, Singapore"
+        ],
+        "Jiancheng Wong": [
+            "Institute of High Performance Computing, Singapore"
+        ],
+        "Mohamed Salahuddin Habibullah": [
+            "Institute of High Performance Computing, Singapore"
+        ],
+        "Gary Kee Khoon Lee": [
+            "Institute of High Performance Computing, Singapore"
+        ],
+        "Tian Kuay Lim": [
+            "National Environment Agency, Singapore"
+        ],
+        "Paul Anantharajah Tambyah": [
+            "National University of Hospital, Singapore"
+        ],
+        "Chin Leong Lim": [
+            "Singapore Sports Institute, Singapore"
+        ],
+        "Lee Ching Ng": [
+            "National Environment Agency, Singapore"
+        ]
+    }
+}

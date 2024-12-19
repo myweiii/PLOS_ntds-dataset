@@ -1,0 +1,1 @@
+The ZIKV-CDB is publicly available through a web interface at http://zikadb.cpqrr.fiocruz.br.

@@ -1,0 +1,1 @@
+We are grateful to the J. Craig Venter Institute sequencing, bioinformatics and IT departments for supporting the infrastructure required to determine the genome sequences, annotation and pan-genome and other analyses carried out in this project.

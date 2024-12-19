@@ -1,0 +1,1 @@
+We acknowledge Jaco Verweij for development and implementation of the Schistosoma PCR employed, and Fleur Schaper for her contributions in data cleaning and preliminary statistical analysis.

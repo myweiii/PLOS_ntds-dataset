@@ -1,0 +1,6 @@
+{
+    "Background": "Mucosal Associated Invariant T (MAIT) cells are innate-like T cells found in abundance in the intestinal mucosa, and are thought to play a role in bridging the innate-adaptive interface.",
+    "Methods": "We measured MAIT cell frequencies and antibody responses in blood from patients presenting with culture-confirmed severe cholera to a hospital in Dhaka, Bangladesh at days 2, 7, 30, and 90 of illness.",
+    "Results": "We found that MAIT (CD3+CD4\u2212CD161hiV\u03b17.2+) cells were maximally activated at day 7 after onset of cholera. In adult patients, MAIT frequencies did not change over time, whereas in child patients, MAITs were significantly decreased at day 7, and this decrease persisted to day 90. Fold changes in MAIT frequency correlated with increases in LPS IgA and IgG, but not LPS IgM nor antibody responses to cholera toxin B subunit.",
+    "Conclusions": "In the acute phase of cholera, MAIT cells are activated, depleted from the periphery, and as part of the innate response against V. cholerae infection, are possibly involved in mechanisms underlying class switching of antibody responses to T cell-independent antigens."
+}

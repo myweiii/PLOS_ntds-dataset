@@ -1,0 +1,1 @@
+We acknowledge the help of Finn Lindgren, Daniel Simpson, and Håvard Rue for their inputs on INLA methodology and code and for providing access to a remote server. We thank the Ministry of Health in Brazil for providing the annual incidence data of leishmaniasis. We thank the PAHO Neglected Infectious Diseases Programme for their contribution to the data collection.

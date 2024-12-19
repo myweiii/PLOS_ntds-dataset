@@ -1,0 +1,1 @@
+We are grateful to all subjects and the staff of malaria clinics in Chumphon and Ranong Provinces, Thailand, for blood sample collection. We thank Dr. Tuan M. Tran for providing example of R script for estimation of half-lives of PE antigen-specific antibody responses.

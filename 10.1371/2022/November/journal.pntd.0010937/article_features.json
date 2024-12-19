@@ -1,0 +1,35 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010937",
+    "Published": "November 18, 2022",
+    "Subject_Areas": [
+        "Caenorhabditis elegans",
+        "Fecundity",
+        "Phenotypes",
+        "Schistosoma mansoni",
+        "Metadata",
+        "Deep learning",
+        "Open source software",
+        "Helminths"
+    ],
+    "Authors": {
+        "Nicolas J. Wheeler": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin United States of America"
+        ],
+        "Kendra J. Gallo": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin United States of America"
+        ],
+        "Elena J. G. Rehborg": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin United States of America"
+        ],
+        "Kaetlyn T. Ryan": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin United States of America"
+        ],
+        "John D. Chan": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin United States of America",
+            "Department of Chemistry, University of Wisconsin-Oshkosh, Oshkosh, Wisconsin United States of America"
+        ],
+        "Mostafa Zamanian": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin United States of America"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010441",
+    "Published": "June 9, 2022",
+    "Subject_Areas": [
+        "Chikungunya infection",
+        "Epidemiology",
+        "Dengue fever",
+        "Brazil",
+        "Disease surveillance",
+        "Epidemiological methods and statistics",
+        "Statistical data",
+        "Epidemiological statistics"
+    ],
+    "Authors": {
+        "Sam Miller": [
+            "Data Science Lab, Behavioural Science, Warwick Business School, University of Warwick, Coventry, United Kingdom",
+            "The Alan Turing Institute, London, United Kingdom"
+        ],
+        "Tobias Preis": [
+            "Data Science Lab, Behavioural Science, Warwick Business School, University of Warwick, Coventry, United Kingdom",
+            "The Alan Turing Institute, London, United Kingdom"
+        ],
+        "Giovanni Mizzi": [
+            "Data Science Lab, Behavioural Science, Warwick Business School, University of Warwick, Coventry, United Kingdom"
+        ],
+        "Leonardo Soares Bastos": [
+            "Programa de Computa\u00e7\u00e3o Cient\u00edfica, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Marcelo Ferreira da Costa Gomes": [
+            "Programa de Computa\u00e7\u00e3o Cient\u00edfica, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Fl\u00e1vio Code\u00e7o Coelho": [
+            "Escola de Matem\u00e1tica Aplicada, Funda\u00e7\u00e3o Getulio Vargas, Rio de Janeiro, Brazil",
+            "Institute of Global Health, University of Geneva, Geneva, Switzerland"
+        ],
+        "Claudia Torres Code\u00e7o": [
+            "Programa de Computa\u00e7\u00e3o Cient\u00edfica, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Helen Susannah Moat": [
+            "Data Science Lab, Behavioural Science, Warwick Business School, University of Warwick, Coventry, United Kingdom",
+            "The Alan Turing Institute, London, United Kingdom"
+        ]
+    }
+}

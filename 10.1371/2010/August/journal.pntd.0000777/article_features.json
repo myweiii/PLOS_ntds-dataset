@@ -1,0 +1,27 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000777",
+    "Published": "August 3, 2010",
+    "Subject_Areas": [
+        "Forests",
+        "Population dynamics",
+        "Insect vectors",
+        "Infectious disease control",
+        "Probability distribution",
+        "Chagas disease",
+        "Habitats",
+        "Simulation and modeling"
+    ],
+    "Authors": {
+        "Corentin Barbu": [
+            "UMR 5244 CNRS/UPVD/EPHE, \u2018Biologie et Ecologie Tropicale et M\u00e9diterran\u00e9enne\u2019, Universit\u00e9 de Perpignan Via Domitia, Perpignan, France"
+        ],
+        "Eric Dumonteil": [
+            "Laboratorio de Parasitolog\u00eda, Centro de Investigaciones Regionales \u201cDr. Hideyo Noguchi\u201d, Universidad Aut\u00f3noma de Yucat\u00e1n, M\u00e9rida, Yucatan, Mexico",
+            "Department of Tropical Medicine, School of Public Health and Tropical Medicine, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "S\u00e9bastien Gourbi\u00e8re": [
+            "UMR 5244 CNRS/UPVD/EPHE, \u2018Biologie et Ecologie Tropicale et M\u00e9diterran\u00e9enne\u2019, Universit\u00e9 de Perpignan Via Domitia, Perpignan, France",
+            "Centre for the Study of Evolution, School of Biological Sciences, University of Sussex, Brighton, United Kingdom"
+        ]
+    }
+}

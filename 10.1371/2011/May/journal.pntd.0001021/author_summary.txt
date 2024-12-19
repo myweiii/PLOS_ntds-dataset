@@ -1,0 +1,15 @@
+Leishmania is a group of parasites (Protozoa, Trypanosomatidae)
+                    responsible for a wide spectrum of clinical forms. Among the factors explaining
+                    this phenotypic polymorphism, parasite features are important contributors. One
+                    approach to identify them consists in characterizing the gene expression
+                    profiles throughout the life cycle. In a recent study, the transcriptome of 3
+                        Leishmania species was compared and this revealed
+                    species-specific differences, albeit in a low number. A key issue, however, is
+                    to ensure that the observed differences are indeed species-specific and not
+                    specific of the strains selected for representing the species. In order to
+                    illustrate the relevance of this concern, we analyzed here the gene expression
+                    profiles of 5 clinical isolates of L. braziliensis at seven
+                    time points of the life cycle. Our results clearly illustrate the unique
+                    character of each isolate in terms of gene expression dynamics: one
+                        Leishmania strain is not necessarily representative of a
+                    given species.

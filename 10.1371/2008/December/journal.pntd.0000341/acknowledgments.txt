@@ -1,0 +1,1 @@
+We would like to thank Chris Jackson for developing the multistate modelling R package (msm) and for helpful discussion, and Christophe Fraser, Peter Dodd and Fede Calboli for suggestions and discussion of the methods.

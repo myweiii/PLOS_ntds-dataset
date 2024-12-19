@@ -1,0 +1,30 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000258",
+    "Published": "July 2, 2008",
+    "Subject_Areas": [
+        "Protein domains",
+        "Nematoda",
+        "Caenorhabditis elegans",
+        "Expressed sequence tags",
+        "Proteomes",
+        "Signal peptides",
+        "Invertebrate genomics",
+        "Parasite evolution"
+    ],
+    "Authors": {
+        "James Wasmuth": [
+            "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United Kingdom",
+            "Program for Molecular Structure and Function, Hospital for Sick Children, Toronto, Ontario, Canada"
+        ],
+        "Ralf Schmid": [
+            "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United Kingdom",
+            "Department of Biochemistry, University of Leicester, Leicester, United Kingdom"
+        ],
+        "Ann Hedley": [
+            "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United Kingdom"
+        ],
+        "Mark Blaxter": [
+            "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United Kingdom"
+        ]
+    }
+}

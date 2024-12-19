@@ -1,0 +1,1 @@
+The authors thank Mr. John Haniotis (Department of Medical Entomology, Westmead Hospital, University of Sydney and ICPMR, New South Wales, Australia) for laboratory support. The Chimera package was developed by the Resource for Biocomputing, Visualization, and Informatics at the University of California, San Francisco.

@@ -1,0 +1,1 @@
+We thank C. Barnabe and M. Tibayrenc at the IRD, Montpellier, France for kindly providing additional samples. Support in the field was generously given by M. R. Cortez, M. Solano, B. Chang, K. Shanley and A. Warren in Bolivia, and by D. Feliciangeli in Venezuela. J. Rivett-Carnac designed the diploid re-sampling software.

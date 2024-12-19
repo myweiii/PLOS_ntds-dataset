@@ -1,0 +1,151 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000931",
+    "Published": "January 11, 2011",
+    "Subject_Areas": [
+        "Polymerase chain reaction",
+        "Kinetoplasts",
+        "Trypanosoma cruzi",
+        "DNA extraction",
+        "Parasitic diseases",
+        "Blood",
+        "Chagas disease",
+        "Satellite DNA"
+    ],
+    "Authors": {
+        "Alejandro G. Schijman": [
+            "Laboratorio de Biolog\u00eda Molecular de la Enfermedad de Chagas (LabMECh), Instituto de Investigaciones en Ingenier\u00eda Gen\u00e9tica y Biolog\u00eda Molecular (INGEBI-CONICET), Buenos Aires, Argentina"
+        ],
+        "Margarita Bisio": [
+            "Laboratorio de Biolog\u00eda Molecular de la Enfermedad de Chagas (LabMECh), Instituto de Investigaciones en Ingenier\u00eda Gen\u00e9tica y Biolog\u00eda Molecular (INGEBI-CONICET), Buenos Aires, Argentina"
+        ],
+        "Liliana Orellana": [
+            "Instituto de C\u00e1lculo, Universidad de Buenos Aires (UBA), Buenos Aires, Argentina"
+        ],
+        "Mariela Sued": [
+            "Instituto de C\u00e1lculo, Universidad de Buenos Aires (UBA), Buenos Aires, Argentina"
+        ],
+        "Tom\u00e1s Duffy": [
+            "Laboratorio de Biolog\u00eda Molecular de la Enfermedad de Chagas (LabMECh), Instituto de Investigaciones en Ingenier\u00eda Gen\u00e9tica y Biolog\u00eda Molecular (INGEBI-CONICET), Buenos Aires, Argentina"
+        ],
+        "Ana M. Mejia Jaramillo": [
+            "Grupo Chagas, Universidad de Antioquia, Medell\u00edn, Colombia"
+        ],
+        "Carolina Cura": [
+            "Laboratorio de Biolog\u00eda Molecular de la Enfermedad de Chagas (LabMECh), Instituto de Investigaciones en Ingenier\u00eda Gen\u00e9tica y Biolog\u00eda Molecular (INGEBI-CONICET), Buenos Aires, Argentina"
+        ],
+        "Frederic Auter": [
+            "French Blood Services, La Plaine Saint Denis, Paris, France"
+        ],
+        "Vincent Veron": [
+            "Laboratorio Hospitalario, Universidad de Parasitolog\u00eda, Cayene, French Guiana"
+        ],
+        "Yvonne Qvarnstrom": [
+            "Department of Parasitic Diseases, Centers for Disease Control, Atlanta, Georgia, United States of America"
+        ],
+        "Stijn Deborggraeve": [
+            "Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Gisely Hijar": [
+            "Instituto Nacional de Salud, Lima, Per\u00fa"
+        ],
+        "In\u00e9s Zulantay": [
+            "Facultad de Medicina, Santiago de Chile, Chile"
+        ],
+        "Ra\u00fal Horacio Lucero": [
+            "Universidad Nacional del Nordeste, Chaco, Argentina"
+        ],
+        "Elsa Velazquez": [
+            "Instituto Nacional de Chagas, Fatala Chab\u00e9n, Buenos Aires, Argentina"
+        ],
+        "Tatiana Tellez": [
+            "Centro Universitario de Medicina Tropical, Facultad de Medicina, Universidad Mayor de San Simon, Cochabamba, Bolivia"
+        ],
+        "Zunilda Sanchez Leon": [
+            "Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunci\u00f3n, Asunci\u00f3n del Paraguay, Paraguay"
+        ],
+        "Lucia Galv\u00e3o": [
+            "Faculdade de Farm\u00e1cia, Petr\u00f3polis, Natal, Rio Grande do Norte, Brazil"
+        ],
+        "Debbie Nolder": [
+            "London School of Tropical Medicine and Hygiene Department of Clinical Parasitology, Hospital for Tropical Diseases, London, United Kingdom"
+        ],
+        "Mar\u00eda Monje Rumi": [
+            "Laboratorio de Patolog\u00eda Experimental, Universidad Nacional de Salta, Salta, Argentina"
+        ],
+        "Jos\u00e9 E. Levi": [
+            "Blood Bank, Hospital Sirio Liban\u00eas, S\u00e3o Paulo, Brazil"
+        ],
+        "Juan D. Ramirez": [
+            "Centro de Investigaciones en Microbiolog\u00eda y Parasitolog\u00eda Tropical, Universidad de los Andes, Bogot\u00e1, Colombia"
+        ],
+        "Pilar Zorrilla": [
+            "Instituto Pasteur, Montevideo, Uruguay"
+        ],
+        "Mar\u00eda Flores": [
+            "Centro de Mahahonda, Centro Nacional de Microbiologia, Instituto de Salud Carlos III, Madrid, Espa\u00f1a"
+        ],
+        "Maria I. Jercic": [
+            "Secci\u00f3n Parasitolog\u00eda, Instituto Nacional De Salud, Santiago de Chile, Chile"
+        ],
+        "Gladys Crisante": [
+            "Centro de Investigaciones Parasitol\u00f3gicas \u201cJ.F. Torrealba,\u201d Universidad de los Andes, M\u00e9rida, Venezuela"
+        ],
+        "N\u00e9stor A\u00f1ez": [
+            "Centro de Investigaciones Parasitol\u00f3gicas \u201cJ.F. Torrealba,\u201d Universidad de los Andes, M\u00e9rida, Venezuela"
+        ],
+        "Ana M. De Castro": [
+            "Instituto de Patologia Tropical e Sa\u00fade P\u00fablica (IPTSP), Universidade Federal de Goi\u00e1s, Goi\u00e2nia, Brazil"
+        ],
+        "Clara I. Gonzalez": [
+            "Grupo de Inmunolog\u00eda y Epidemiolog\u00eda Molecular (GIEM), Facultad de Salud, Universidad Industrial de Santander, Bucaramanga, Colombia"
+        ],
+        "Karla Acosta Viana": [
+            "Departamento de Biomedicina de Enfermedades Infecciosas y Parasitarias Laboratorio de Biolog\u00eda Celular, Centro de Investigaciones Regionales (CIR) \u201cDr Hideyo Noguchi,\u201d Universidad Aut\u00f3noma de Yucat\u00e1n, Yucat\u00e1n, M\u00e9xico"
+        ],
+        "Pedro Yachelini": [
+            "Instituto de Biomedicina, Universidad Cat\u00f3lica de Santiago del Estero, Santiago del Estero, Argentina"
+        ],
+        "Faustino Torrico": [
+            "Centro Universitario de Medicina Tropical, Facultad de Medicina, Universidad Mayor de San Simon, Cochabamba, Bolivia"
+        ],
+        "Carlos Robello": [
+            "Instituto Pasteur, Montevideo, Uruguay"
+        ],
+        "Patricio Diosque": [
+            "Laboratorio de Patolog\u00eda Experimental, Universidad Nacional de Salta, Salta, Argentina"
+        ],
+        "Omar Triana Chavez": [
+            "Grupo Chagas, Universidad de Antioquia, Medell\u00edn, Colombia"
+        ],
+        "Christine Aznar": [
+            "Laboratorio Hospitalario, Universidad de Parasitolog\u00eda, Cayene, French Guiana"
+        ],
+        "Graciela Russomando": [
+            "Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunci\u00f3n, Asunci\u00f3n del Paraguay, Paraguay"
+        ],
+        "Philippe B\u00fcscher": [
+            "Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Azzedine Assal": [
+            "French Blood Services, La Plaine Saint Denis, Paris, France"
+        ],
+        "Felipe Guhl": [
+            "Centro de Investigaciones en Microbiolog\u00eda y Parasitolog\u00eda Tropical, Universidad de los Andes, Bogot\u00e1, Colombia"
+        ],
+        "Sergio Sosa Estani": [
+            "Centro Nacional de Diagn\u00f3stico e Investigaci\u00f3n de Endemoepidemias (CeNDIE) ANLIS Dr. Carlos G. Malbr\u00e1n, Buenos Aires, Argentina"
+        ],
+        "Alexandre DaSilva": [
+            "Department of Parasitic Diseases, Centers for Disease Control, Atlanta, Georgia, United States of America"
+        ],
+        "Constan\u00e7a Britto": [
+            "Laborat\u00f3rio de Biologia Molecular e Doen\u00e7as End\u00eamicas, Instituto Oswaldo Cruz/FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Alejandro Luquetti": [
+            "Laborat\u00f3rio de Pesquisa de Doen\u00e7a de Chagas, Goi\u00e3nia, Brazil"
+        ],
+        "Janis Ladzins": [
+            "Special Programme for Research and Training in Tropical Diseases (TDR), World Health Organization (WHO), Geneve, Switzerland"
+        ]
+    }
+}

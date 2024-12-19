@@ -1,0 +1,41 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000827",
+    "Published": "September 21, 2010",
+    "Subject_Areas": [
+        "Positron emission tomography",
+        "Radioactivity",
+        "Abdomen",
+        "Magnetic resonance imaging",
+        "Schistosoma",
+        "Mouse models",
+        "Portal veins",
+        "Schistosomiasis"
+    ],
+    "Authors": {
+        "Nicolas Salem": [
+            "Department of Radiology, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ],
+        "Jason D. Balkman": [
+            "Department of Radiology, University Hospitals Case Medical Center, Cleveland, Ohio, United States of America"
+        ],
+        "Jing Wang": [
+            "Department of Radiology, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ],
+        "David L. Wilson": [
+            "Department of Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ],
+        "Zhenghong Lee": [
+            "Department of Radiology, University Hospitals Case Medical Center, Cleveland, Ohio, United States of America",
+            "Department of Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ],
+        "Christopher L. King": [
+            "Center for Global Health and Disease, Case Western Reserve University, Cleveland, Ohio, United States of America",
+            "Veterans Affairs Medical Center, Cleveland, Ohio, United States of America"
+        ],
+        "James P. Basilion": [
+            "Department of Radiology, Case Western Reserve University, Cleveland, Ohio, United States of America",
+            "Department of Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio, United States of America",
+            "NFCR Center for Molecular Imaging, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ]
+    }
+}

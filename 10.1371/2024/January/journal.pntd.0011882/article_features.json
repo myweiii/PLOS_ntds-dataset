@@ -1,0 +1,73 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011882",
+    "Published": "January 16, 2024",
+    "Subject_Areas": [
+        "Morbidity",
+        "Lymphatic filariasis",
+        "Diet",
+        "Drug therapy",
+        "Database searching",
+        "Drug administration",
+        "Metaanalysis",
+        "Ultrasound imaging"
+    ],
+    "Authors": {
+        "Luzia T. Freitas": [
+            "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "London Centre for Neglected Tropical Disease Research, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Mashroor Ahmad Khan": [
+            "ICMR-Vector Control Research Centre, Puducherry, India"
+        ],
+        "Azhar Uddin": [
+            "ICMR-Vector Control Research Centre, Puducherry, India"
+        ],
+        "Julia B. Halder": [
+            "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "London Centre for Neglected Tropical Disease Research, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom",
+            "Department of Pathobiology and Population Sciences, Royal Veterinary College, Hatfield, United Kingdom"
+        ],
+        "Sauman Singh-Phulgenda": [
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom",
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Jeyapal Dinesh Raja": [
+            "ICMR-Vector Control Research Centre, Puducherry, India"
+        ],
+        "Vijayakumar Balakrishnan": [
+            "ICMR-Vector Control Research Centre, Puducherry, India"
+        ],
+        "Eli Harriss": [
+            "The Knowledge Centre, Bodleian Health Care Libraries, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Manju Rahi": [
+            "ICMR-Vector Control Research Centre, Puducherry, India"
+        ],
+        "Matthew Brack": [
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom",
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Philippe J. Gu\u00e9rin": [
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom",
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Maria-Gloria Bas\u00e1\u00f1ez": [
+            "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "London Centre for Neglected Tropical Disease Research, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Ashwani Kumar": [
+            "Saveetha Institute of Medical and Technical Sciences, Saveetha University, Chennai, India"
+        ],
+        "Martin Walker": [
+            "London Centre for Neglected Tropical Disease Research, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom",
+            "Infectious Diseases Data Observatory, University of Oxford, Oxford, United Kingdom",
+            "Department of Pathobiology and Population Sciences, Royal Veterinary College, Hatfield, United Kingdom"
+        ],
+        "Adinarayanan Srividya": [
+            "ICMR-Vector Control Research Centre, Puducherry, India"
+        ]
+    }
+}

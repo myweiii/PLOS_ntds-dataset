@@ -1,0 +1,107 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0003631",
+    "Published": "March 17, 2015",
+    "Subject_Areas": [
+        "RNA viruses",
+        "Rhabdoviruses",
+        "Hemorrhagic fever viruses",
+        "Viral pathogens",
+        "Rabies virus",
+        "Vesicular stomatitis virus",
+        "Phylogenetic analysis",
+        "Next-generation sequencing"
+    ],
+    "Authors": {
+        "Matthew H. Stremlau": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Kristian G. Andersen": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Onikepe A. Folarin": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria",
+            "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Redemption City, Ogun State, Nigeria"
+        ],
+        "Jessica N. Grove": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Ikponmwonsa Odia": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Philomena E. Ehiane": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Omowunmi Omoniwa": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Omigie Omoregie": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Pan-Pan Jiang": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Nathan L. Yozwiak": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Christian B. Matranga": [
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Xiao Yang": [
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Stephen K. Gire": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Sarah Winnicki": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Ridhi Tariyal": [
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Stephen F. Schaffner": [
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Peter O. Okokhere": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Sylvanus Okogbenin": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "George O. Akpede": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Danny A. Asogun": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria"
+        ],
+        "Dennis E. Agbonlahor": [
+            "Lahor Research Laboratories and Medical Centre, Benin City, Edo State, Nigeria"
+        ],
+        "Peter J. Walker": [
+            "CSIRO Animal, Food and Health Sciences, Australian Animal Health Laboratory, Geelong, Australia"
+        ],
+        "Robert B. Tesh": [
+            "Department of Pathology, University of Texas Medical Branch, Galveston, Texas, United States of America"
+        ],
+        "Joshua Z. Levin": [
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Robert F. Garry": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Pardis C. Sabeti": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America",
+            "Department of Immunology and Infectious Disease, Harvard School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Christian T. Happi": [
+            "Institute of Lassa Fever Research and Control, Irrua Specialist Teaching Hospital, Irrua, Edo State, Nigeria",
+            "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Redemption City, Ogun State, Nigeria"
+        ]
+    }
+}

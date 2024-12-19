@@ -1,0 +1,2 @@
+We acknowledge the scientists and researchers from all over the world for depositing the genomic sequences of SARS-CoV-2 in the Global Initiative on Sharing All Influenza (GISAID) and the Nucleotide database of the National Center for Biotechnology Information (NCBI).
+See S3 Table for full list of acknowledgement.

@@ -1,0 +1,1 @@
+Academic licenses to OpenEye Scientific Software and ChemAxon for their suites of programs are gratefully acknowledged. We are grateful to AstraZeneca for performing the in vitro ADME experiments tabulated in the Supplementary Information and to GALVmed for granting us access to their platform for T. congolense and T. vivax drug discovery.

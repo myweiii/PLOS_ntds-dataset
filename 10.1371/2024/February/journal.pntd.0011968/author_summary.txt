@@ -1,0 +1,18 @@
+Why was this study done?
+
+TB recurrence contributes to TB burden and incidence globally, especially among high TB burden countries. Patients previously treated for TB have a high likelihood of acquiring a recurrent TB episode.
+Recurrent TB is associated with lower cure rates and a high risk of TB drug resistance. A recent systematic review reported successful treatment outcomes in only 68.4% of patients previously treated for TB.
+In Tanzania, it was reported in 2018 that patients who had previously undergone TB treatment had an approximate 89% success rate, with 6.6% of those who had recurrent TB dying during treatment. The necessity for more studies in this specific re-treatment group is driven by the absence of evidence regarding the treatment outcomes for patients with recurrent TB.
+
+
+What did the researchers do and find?
+
+We analysed a national dataset of all patients with TB diagnosis from 2018 to 2021 recorded in the DHIS2-ETL database countrywide. We determined TB treatment outcome as either favourable if the patients were considered cured or completed treatment; or unfavourable if they were lost to follow-up (default), with treatment failure, or died. We established possible determinants for poor treatment outcomes and considered both individual and facility-level effects in the analysis through a multilevel regression model.
+About 10% of patients with recurrent TB had unfavourable treatment outcomes; death was the most reported poor outcome affecting 6% of recurrent TB patients. Patients coinfected with HIV, those treated under facility-based DOT, and patients who received treatment in Zanzibar, Coastal, and Central geographical zones had higher rates of poor outcomes. Patients with bacteriologically confirmed TB and who were treated at the hospital were more likely to have unfavourable treatment outcomes.
+
+
+What do these findings mean?
+
+There is a need to design and implement interventions that are specifically targeted for managing patients with TB recurrence, especially for HIV coinfected patients.
+Drug susceptibility testing and close monitoring after treatment completion are crucial to prevent recurrence. Also, ensuring early detection and treatment and promoting short- and long-term improvements in treatment outcomes for these patients.
+Capacitating and strengthening Primary health care facilities for TB diagnosis and treatment may be a promising approach to promote early TB detection and treatment initiation and subsequently maintain better outcomes for patients with recurrent TB. This should be coupled with close monitoring of patients treated at the hospital level through an appropriate DOT strategy.

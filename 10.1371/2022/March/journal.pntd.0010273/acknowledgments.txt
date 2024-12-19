@@ -1,0 +1,4 @@
+We would like to thank the WUHA study participants and field team without whom this research would not be possible. We would also like to thank Abbott for its donation of the m2000 RealTime molecular diagnostics system and consumables. The findings and conclusions in this article are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention. Use of trade names is for identification only and does not imply endorsement by the Public Health Service or by the U.S. Department of Health and Human Services.
+
+Software
+All analysis was conducted in R Version 4.0.2 (“Taking Off Again”) [98]. The main R packages used for this analysis were automap (variograms) [99], rgee (Google Earth Engine) [100], glmnet (feature selection) [101], spaMM (regression with spatial Gaussian process) [102], sl3 (stacked ensemble) [103], and blockCV (spatial cross-validation) [104].

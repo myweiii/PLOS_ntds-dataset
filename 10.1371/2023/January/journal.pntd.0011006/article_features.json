@@ -1,0 +1,34 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011006",
+    "Published": "January 6, 2023",
+    "Subject_Areas": [
+        "Burkholderia pseudomallei",
+        "Antimicrobial resistance",
+        "Protein expression",
+        "Virulence factors",
+        "Proteomes",
+        "Secretion systems",
+        "Proteomic databases",
+        "Database searching"
+    ],
+    "Authors": {
+        "Armand Paauw": [
+            "Netherlands Organization for Applied Scientific Research TNO, Department of CBRN Protection, Rijswijk, The Netherlands"
+        ],
+        "Holger C. Scholz": [
+            "Centre for Biological Threats and Special Pathogens, Highly Pathogenic Microorganisms (ZBS 2), Robert Koch Institute, Berlin, Germany"
+        ],
+        "Roos H. Mars-Groenendijk": [
+            "Netherlands Organization for Applied Scientific Research TNO, Department of CBRN Protection, Rijswijk, The Netherlands"
+        ],
+        "Lennard J. M. Dekker": [
+            "Department of Neurology, Erasmus MC, Rotterdam, The Netherlands"
+        ],
+        "Theo M. Luider": [
+            "Department of Neurology, Erasmus MC, Rotterdam, The Netherlands"
+        ],
+        "Hans C. van Leeuwen": [
+            "Netherlands Organization for Applied Scientific Research TNO, Department of CBRN Protection, Rijswijk, The Netherlands"
+        ]
+    }
+}

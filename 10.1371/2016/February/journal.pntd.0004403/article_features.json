@@ -1,0 +1,112 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0004403",
+    "Published": "February 18, 2016",
+    "Subject_Areas": [
+        "Leptospira",
+        "Bacterial pathogens",
+        "Leptospira interrogans",
+        "Genomics",
+        "Pathogens",
+        "Biosynthesis",
+        "Genome analysis",
+        "Bacteriophages"
+    ],
+    "Authors": {
+        "Derrick E. Fouts": [
+            "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+        ],
+        "Michael A. Matthias": [
+            "Division of Infectious Diseases, Department of Medicine, University of California San Diego School of Medicine, La Jolla, California, United States of America"
+        ],
+        "Haritha Adhikarla": [
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+        ],
+        "Ben Adler": [
+            "Australian Research Council Centre of Excellence in Structural and Functional Microbial Genomics, Department of Microbiology, Monash University, Clayton, Australia"
+        ],
+        "Luciane Amorim-Santos": [
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+            "Centro de Pesquisas Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz/MS, Salvador, Bahia, Brazil"
+        ],
+        "Douglas E. Berg": [
+            "Division of Infectious Diseases, Department of Medicine, University of California San Diego School of Medicine, La Jolla, California, United States of America"
+        ],
+        "Dieter Bulach": [
+            "Victorian Bioinformatics Consortium, Monash University, Clayton, Victoria, Australia"
+        ],
+        "Alejandro Buschiazzo": [
+            "Institut Pasteur de Montevideo, Laboratory of Molecular and Structural Microbiology, Montevideo, Uruguay",
+            "Institut Pasteur, Department of Structural Biology and Chemistry, Paris, France"
+        ],
+        "Yung-Fu Chang": [
+            "Department of Population Medicine & Diagnostic Sciences, College of Veterinary Medicine, Cornell University, Ithaca, New York, United States of America"
+        ],
+        "Renee L. Galloway": [
+            "Centers for Disease Control and Prevention (DHHS, CDC, OID, NCEZID, DHCPP, BSPB), Atlanta, Georgia, United States of America"
+        ],
+        "David A. Haake": [
+            "VA Greater Los Angeles Healthcare System, Los Angeles, California, United States of America",
+            "David Geffen School of Medicine at UCLA, Los Angeles, California, United States of America"
+        ],
+        "Daniel H. Haft": [
+            "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+        ],
+        "Rudy Hartskeerl": [
+            "WHO/FAO/OIE and National Collaborating Centre for Reference and Research on Leptospirosis, KIT Biomedical Research, Royal Tropical Institute (KIT), Amsterdam, The Netherlands"
+        ],
+        "Albert I. Ko": [
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+            "Centro de Pesquisas Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz/MS, Salvador, Bahia, Brazil"
+        ],
+        "Paul N. Levett": [
+            "Government of Saskatchewan, Disease Control Laboratory Regina, Canada"
+        ],
+        "James Matsunaga": [
+            "VA Greater Los Angeles Healthcare System, Los Angeles, California, United States of America",
+            "David Geffen School of Medicine at UCLA, Los Angeles, California, United States of America"
+        ],
+        "Ariel E. Mechaly": [
+            "Institut Pasteur de Montevideo, Laboratory of Molecular and Structural Microbiology, Montevideo, Uruguay"
+        ],
+        "Jonathan M. Monk": [
+            "Department of Bioengineering, University of California, San Diego, La Jolla, California, United States of America"
+        ],
+        "Ana L. T. Nascimento": [
+            "Centro de Biotecnologia, Instituto Butantan, S\u00e3o Paulo, SP, Brazil",
+            "Programa Interunidades em Biotecnologia, Instituto de Ci\u00eancias Biom\u00e9dicas, USP, S\u00e3o Paulo, SP, Brazil"
+        ],
+        "Karen E. Nelson": [
+            "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+        ],
+        "Bernhard Palsson": [
+            "Department of Bioengineering, University of California, San Diego, La Jolla, California, United States of America"
+        ],
+        "Sharon J. Peacock": [
+            "Department of Medicine, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Mathieu Picardeau": [
+            "Institut Pasteur, Biology of Spirochetes Unit, National Reference Centre and WHO Collaborating Center for Leptospirosis, Paris, France"
+        ],
+        "Jessica N. Ricaldi": [
+            "Instituto de Medicina Tropical Alexander von Humboldt; Facultad de Medicina Alberto Hurtado, Universidd Peruana Cayetano Heredia, Lima, Peru"
+        ],
+        "Janjira Thaipandungpanit": [
+            "Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand"
+        ],
+        "Elsio A. Wunder Jr.": [
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+            "Centro de Pesquisas Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz/MS, Salvador, Bahia, Brazil"
+        ],
+        "X. Frank Yang": [
+            "Department of Microbiology and Immunology, Indiana University School of Medicine, Indianapolis, Indiana, United States of America"
+        ],
+        "Jun-Jie Zhang": [
+            "Department of Microbiology and Immunology, Indiana University School of Medicine, Indianapolis, Indiana, United States of America"
+        ],
+        "Joseph M. Vinetz": [
+            "Division of Infectious Diseases, Department of Medicine, University of California San Diego School of Medicine, La Jolla, California, United States of America",
+            "Instituto de Medicina Tropical Alexander von Humboldt; Facultad de Medicina Alberto Hurtado, Universidd Peruana Cayetano Heredia, Lima, Peru",
+            "Instituto de Medicina \u201cAlexander von Humboldt,\u201d Universidad Peruana Cayetano Heredia, Lima, Peru"
+        ]
+    }
+}

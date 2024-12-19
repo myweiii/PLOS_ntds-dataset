@@ -1,0 +1,1 @@
+IVX908 was acquired by Dr. James Dale from ID Biomedical, and was kindly provided to our laboratory for use in these studies. We appreciate the assistance of Ramy Aziz of the National Microbial Pathogen Data Resource (NMPDR) in implementing RAST analysis of ETEC genomes.

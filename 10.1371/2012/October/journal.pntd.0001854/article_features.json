@@ -1,0 +1,31 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0001854",
+    "Published": "October 25, 2012",
+    "Subject_Areas": [
+        "Strongyloides stercoralis",
+        "Caenorhabditis elegans",
+        "Larvae",
+        "Gene regulation",
+        "Parasitic diseases",
+        "Sequence alignment",
+        "cGMP signaling",
+        "Protein structure comparison"
+    ],
+    "Authors": {
+        "Jonathan D. Stoltzfus": [
+            "Department of Pathobiology, University of Pennsylvania School of Veterinary Medicine, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Samuel Minot": [
+            "Department of Microbiology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Matthew Berriman": [
+            "Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+        ],
+        "Thomas J. Nolan": [
+            "Department of Pathobiology, University of Pennsylvania School of Veterinary Medicine, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "James B. Lok": [
+            "Department of Pathobiology, University of Pennsylvania School of Veterinary Medicine, Philadelphia, Pennsylvania, United States of America"
+        ]
+    }
+}

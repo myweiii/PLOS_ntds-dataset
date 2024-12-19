@@ -1,0 +1,43 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011926",
+    "Published": "January 29, 2024",
+    "Subject_Areas": [
+        "Plasmodium",
+        "Gametocytes",
+        "Gene expression",
+        "Red blood cells",
+        "Transcriptome analysis",
+        "Brazil",
+        "Geography",
+        "Reticulocytes"
+    ],
+    "Authors": {
+        "Daniel Kepple": [
+            "Biological Sciences, University of North Carolina, Charlotte, North Carolina, United States of America"
+        ],
+        "Colby T. Ford": [
+            "Bioinformatics and Genomics, University of North Carolina, Charlotte, North Carolina, United States of America",
+            "School of Data Science, University of North Carolina, Charlotte, North Carolina, United States of America"
+        ],
+        "Jonathan Williams": [
+            "Biological Sciences, University of North Carolina, Charlotte, North Carolina, United States of America"
+        ],
+        "Beka Abagero": [
+            "Biological Sciences, University of North Carolina, Charlotte, North Carolina, United States of America"
+        ],
+        "Shaoyu Li": [
+            "Mathematics and Statistics, University of North Carolina, Charlotte, North Carolina, United States of America"
+        ],
+        "Jean Popovici": [
+            "Malaria Research Unit, Institut Pasteur du Cambodge, Phnom Penh, Cambodia"
+        ],
+        "Delenasaw Yewhalaw": [
+            "Tropical and Infectious Diseases Research Center, Jimma University, Jimma, Ethiopia",
+            "School of Medical Laboratory Sciences, Faculty of Health Sciences, Jimma University, Jimma, Ethiopia"
+        ],
+        "Eugenia Lo": [
+            "Biological Sciences, University of North Carolina, Charlotte, North Carolina, United States of America",
+            "Microbiology and Immunology, College of Medicine, Drexel University, Philadelphia, Pennsylvania, United States of America"
+        ]
+    }
+}

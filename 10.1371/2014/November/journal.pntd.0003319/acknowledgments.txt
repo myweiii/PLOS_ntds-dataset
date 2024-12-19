@@ -1,0 +1,1 @@
+The authors are grateful to the Department of Control of Neglected Tropical Diseases, WHO, Geneva, for making the LF MDA data accessible through its website. We have used the data to evaluate the impact of the MDA in this paper.

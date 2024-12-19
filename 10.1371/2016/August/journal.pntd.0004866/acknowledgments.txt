@@ -1,0 +1,1 @@
+The authors would like to thank Giovanni Zambotti, GIS Specialist at the Center for Geographic Analysis of Harvard University, for his assistance with the geographic information system software ArcGIS version 10.2.

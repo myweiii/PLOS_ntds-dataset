@@ -1,0 +1,6 @@
+The authors thank Dr. David Cox for providing the Mexico A strain.
+
+Accession Numbers (GenBank)
+
+Genomes: TPA Mexico A CP003064.1, TPA Nichols AE000520.1, TPA SS14 CP000805.1, TPA Chicago CP001752.1, TPE Samoa D CP002374.1, TPE CDC-2 CP002375.1, TPE Gauthier CP002376.1, T. paraluiscuniculi strain Cuniculi A CP002103.1.
+Genes: TPA Mexico A: tp92 EU102088.1, fliG-tp0027 EU101896.1, tp0347 EU102160.1, rpiA-tp0617 EU101922.1; TPA South Africa: tp92 EU102098.1, fliG-tp0027 EU101902.1, tp0347 EU102170.1, rpiA-tp0617 EU101910.1; TEN Bosnia A: tp92 EU102075.1, TP0326: JX392330.1, TP0488 JX392331.1.

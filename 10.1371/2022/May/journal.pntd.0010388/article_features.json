@@ -1,0 +1,70 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010388",
+    "Published": "May 4, 2022",
+    "Subject_Areas": [
+        "Machine learning",
+        "Death rates",
+        "Forecasting",
+        "Respiratory infections",
+        "Platelets",
+        "T cells",
+        "Respiratory failure",
+        "Learning curves"
+    ],
+    "Authors": {
+        "Minjuan Shi": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Jianyan Lin": [
+            "Fourth People\u2019s Hospital of Nanning, Nanning, Guangxi, China"
+        ],
+        "Wudi Wei": [
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Yaqin Qin": [
+            "Fourth People\u2019s Hospital of Nanning, Nanning, Guangxi, China"
+        ],
+        "Sirun Meng": [
+            "Fourth People\u2019s Hospital of Nanning, Nanning, Guangxi, China"
+        ],
+        "Xiaoyu Chen": [
+            "Fourth People\u2019s Hospital of Nanning, Nanning, Guangxi, China"
+        ],
+        "Yueqi Li": [
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Rongfeng Chen": [
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Zongxiang Yuan": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Yingmei Qin": [
+            "Fourth People\u2019s Hospital of Nanning, Nanning, Guangxi, China"
+        ],
+        "Jiegang Huang": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Bingyu Liang": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Yanyan Liao": [
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Li Ye": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China",
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Hao Liang": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China",
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ],
+        "Zhiman Xie": [
+            "Fourth People\u2019s Hospital of Nanning, Nanning, Guangxi, China"
+        ],
+        "Junjun Jiang": [
+            "Guangxi Key Laboratory of AIDS Prevention and Treatment & School of Public Health, Guangxi Medical University, Nanning, Guangxi, China",
+            "Joint Laboratory for Emerging Infectious Diseases in China (Guangxi)-ASEAN, Life Sciences Institute, Guangxi Medical University, Nanning, Guangxi, China"
+        ]
+    }
+}

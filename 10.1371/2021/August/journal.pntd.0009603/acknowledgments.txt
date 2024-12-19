@@ -1,0 +1,1 @@
+We thank Amy Morrison (University of California, Davis) for helpful discussion and commentary on the manuscript. We also thank the Proyecto Dengue team in Iquitos for performing research over many years that informed the development of our model. This research made extensive use of computing resources provided by the Center for Research Computing at the University of Notre Dame.

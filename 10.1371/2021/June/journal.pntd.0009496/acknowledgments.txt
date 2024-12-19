@@ -1,0 +1,1 @@
+We thank Adrían Martín-Taboada for his contribution in the grid-cell design, and Jose M. García-Carrasco for his support with the verification of some predictor variables.

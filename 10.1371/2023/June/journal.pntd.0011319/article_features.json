@@ -1,0 +1,59 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011319",
+    "Published": "June 1, 2023",
+    "Subject_Areas": [
+        "Drug absorption",
+        "Dose prediction methods",
+        "Drug administration",
+        "Lymphatic system",
+        "Pharmacokinetics",
+        "Blood plasma",
+        "Body weight",
+        "Simulation and modeling"
+    ],
+    "Authors": {
+        "Abdullah Alshehri": [
+            "Clinical Pharmacology Laboratory, Department of Pharmacy Practice and Science, College of Pharmacy, University of Nebraska Medical Center, Omaha, Nebraska, United States of America",
+            "Department of Clinical Pharmacy, College of Pharmacy, King Khalid University, Abha, Saudi Arabia"
+        ],
+        "Yashpal S. Chhonker": [
+            "Clinical Pharmacology Laboratory, Department of Pharmacy Practice and Science, College of Pharmacy, University of Nebraska Medical Center, Omaha, Nebraska, United States of America"
+        ],
+        "Veenu Bala": [
+            "Clinical Pharmacology Laboratory, Department of Pharmacy Practice and Science, College of Pharmacy, University of Nebraska Medical Center, Omaha, Nebraska, United States of America"
+        ],
+        "Constant Edi": [
+            "Centre Suisse de Recherche Scientifique en C\u00f4te d\u2019Ivoire, Abidjan, C\u00f4te d\u2019Ivoire"
+        ],
+        "Catherine M. Bjerum": [
+            "Center for Global Health and Diseases, Case Western Reserve University School of Medicine, Cleveland, Ohio, United States of America"
+        ],
+        "Benjamin G. Koudou": [
+            "Centre Suisse de Recherche Scientifique en C\u00f4te d\u2019Ivoire, Abidjan, C\u00f4te d\u2019Ivoire",
+            "Universit\u00e9 Nangui Abrogoua, Abidjan, C\u00f4te d\u2019Ivoire",
+            "Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, United Kingdom"
+        ],
+        "Lucy N. John": [
+            "Barcelona Institute for Global Health\u2014University of Barcelona, Barcelona, Spain",
+            "School of Medicine and Health Sciences, University of Papua New Guinea, Port Moresby, Papua New Guinea",
+            "National Department of Health, Port Moresby, Papua New Guinea"
+        ],
+        "Oriol Mitj\u00e0": [
+            "Barcelona Institute for Global Health\u2014University of Barcelona, Barcelona, Spain",
+            "School of Medicine and Health Sciences, University of Papua New Guinea, Port Moresby, Papua New Guinea"
+        ],
+        "Michael Marks": [
+            "London School of Hygiene and Tropical Medicine, London, United Kingdom",
+            "Hospital for Tropical Diseases, London, United Kingdom",
+            "Division of Infection and Immunity, University College London, London, United Kingdom"
+        ],
+        "Christopher L. King": [
+            "Center for Global Health and Diseases, Case Western Reserve University School of Medicine, Cleveland, Ohio, United States of America",
+            "Veterans Affairs Research Service, Cleveland Veterans Affairs Medical Center, Cleveland, Ohio, United States of America"
+        ],
+        "Daryl J. Murry": [
+            "Clinical Pharmacology Laboratory, Department of Pharmacy Practice and Science, College of Pharmacy, University of Nebraska Medical Center, Omaha, Nebraska, United States of America",
+            "Fred and Pamela Buffett Cancer Center, University of Nebraska Medical Center, Omaha, Nebraska, United States of America"
+        ]
+    }
+}

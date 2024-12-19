@@ -1,0 +1,1 @@
+We thank William Klimstra for providing the CHIKV clone expressing luciferase.

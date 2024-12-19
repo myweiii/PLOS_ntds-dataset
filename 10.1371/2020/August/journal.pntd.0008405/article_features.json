@@ -1,0 +1,126 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008405",
+    "Published": "August 11, 2020",
+    "Subject_Areas": [
+        "Brazil",
+        "Mammalian genomics",
+        "Phylogenetic analysis",
+        "Infectious disease surveillance",
+        "Epidemiology",
+        "Epizootics",
+        "Primates",
+        "Polymerase chain reaction"
+    ],
+    "Authors": {
+        "Jaqueline Goes de Jesus": [
+            "Laborat\u00f3rio de Patologia Experimental, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil",
+            "Laborat\u00f3rio de Parasitologia M\u00e9dica, Instituto de Medicina Tropical de S\u00e3o Paulo, Universidade de S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Tiago Gr\u00e4f": [
+            "Laborat\u00f3rio de Patologia Experimental, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "Marta Giovanetti": [
+            "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Maria Ang\u00e9lica Mares-Guia": [
+            "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Joilson Xavier": [
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Maricelia Lima Maia": [
+            "Universidade Estadual de Feira de Santana, Feira de Santana, Brazil",
+            "Secretaria de Sa\u00fade de Feira de Santana, Minist\u00e9rio da Sa\u00fade, Feira de Santana, Brazil"
+        ],
+        "Vagner Fonseca": [
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil",
+            "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), College of Health Sciences, University of KwaZulu-Natal, Durban 4001, South Africa"
+        ],
+        "Allison Fabri": [
+            "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Roberto Fonseca dos Santos": [
+            "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica da Bahia Professor Gon\u00e7alo Moniz (LACEN/BA), Salvador, Bahia, Brazil"
+        ],
+        "Felicidade Mota Pereira": [
+            "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica da Bahia Professor Gon\u00e7alo Moniz (LACEN/BA), Salvador, Bahia, Brazil"
+        ],
+        "Leandro Ferraz Oliveira Santos": [
+            "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica da Bahia Professor Gon\u00e7alo Moniz (LACEN/BA), Salvador, Bahia, Brazil"
+        ],
+        "Luciana Reboredo de Oliveira da Silva": [
+            "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica da Bahia Professor Gon\u00e7alo Moniz (LACEN/BA), Salvador, Bahia, Brazil"
+        ],
+        "Zuinara Pereira Gusm\u00e3o Maia": [
+            "Faculdade Maria Milza\u2014FAMAM, Bahia, Brazil"
+        ],
+        "Jananci Xavier Gomes Cerqueira": [
+            "Vigil\u00e2ncia Epidemiol\u00f3gica do Estado da Bahia, Secretaria de Sa\u00fade do Estado da Bahia, Salvador, Brazil"
+        ],
+        "Julien Th\u00e8ze": [
+            "Department of Zoology, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Leandro Abade": [
+            "The Global Health Network, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Mirza de Carvalho Santana Cordeiro": [
+            "Secretaria de Sa\u00fade de Feira de Santana, Minist\u00e9rio da Sa\u00fade, Feira de Santana, Brazil"
+        ],
+        "Sintia Sacramento Cerqueira Torquato": [
+            "Secretaria de Sa\u00fade de Feira de Santana, Minist\u00e9rio da Sa\u00fade, Feira de Santana, Brazil"
+        ],
+        "Eloisa Bahia Santana": [
+            "Secretaria de Sa\u00fade de Feira de Santana, Minist\u00e9rio da Sa\u00fade, Feira de Santana, Brazil"
+        ],
+        "Neuza Santos de Jesus Silva": [
+            "Secretaria de Sa\u00fade de Feira de Santana, Minist\u00e9rio da Sa\u00fade, Feira de Santana, Brazil"
+        ],
+        "Rosemary Sarmento Oiti\u00e7ica Dourado": [
+            "Secretaria de Sa\u00fade de Feira de Santana, Minist\u00e9rio da Sa\u00fade, Feira de Santana, Brazil"
+        ],
+        "Ademilson Br\u00e1s Alves": [
+            "Vigil\u00e2ncia Epidemiol\u00f3gica do Estado da Bahia, Secretaria de Sa\u00fade do Estado da Bahia, Salvador, Brazil"
+        ],
+        "Adeilde do Socorro Guedes": [
+            "Vigil\u00e2ncia Epidemiol\u00f3gica do Estado da Bahia, Secretaria de Sa\u00fade do Estado da Bahia, Salvador, Brazil"
+        ],
+        "Pedro Macedo da Silva Filho": [
+            "Vigil\u00e2ncia Epidemiol\u00f3gica do Estado da Bahia, Secretaria de Sa\u00fade do Estado da Bahia, Salvador, Brazil"
+        ],
+        "Nuno Rodrigues Faria": [
+            "Department of Zoology, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Carlos F. Campelo de Albuquerque": [
+            "Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade/Organiza\u00e7\u00e3o Mundial da Sa\u00fade, Bras\u00edlia, Distrito Federal, Brazil"
+        ],
+        "Andr\u00e9 Luiz de Abreu": [
+            "Coordena\u00e7\u00e3o Geral dos Laborat\u00f3rios de Sa\u00fade P\u00fablica/Secretaria de Vigil\u00e2ncia em Sa\u00fade, Minist\u00e9rio da Sa\u00fade, (CGLAB/SVS-MS) Bras\u00edlia, Distrito Federal, Brazil"
+        ],
+        "Alessandro Pecego Martins Romano": [
+            "Coordena\u00e7\u00e3o Geral de Vigil\u00e2ncia de Arboviroses (CGARB)"
+        ],
+        "Julio Croda": [
+            "Departamento de Vigil\u00e2ncia de Doen\u00e7as Transmiss\u00edveis/Secretaria de Vigil\u00e2ncia em Sa\u00fade, Minist\u00e9rio da Sa\u00fade (DEVIT/SVS-MS)"
+        ],
+        "Rodrigo Fabiano do Carmo Said": [
+            "Coordena\u00e7\u00e3o Geral de Vigil\u00e2ncia de Arboviroses (CGARB)"
+        ],
+        "Gabriel Muricy Cunha": [
+            "Vigil\u00e2ncia Epidemiol\u00f3gica do Estado da Bahia, Secretaria de Sa\u00fade do Estado da Bahia, Salvador, Brazil"
+        ],
+        "Jeane Magnavita da Fonseca Cerqueira": [
+            "Vigil\u00e2ncia Epidemiol\u00f3gica do Estado da Bahia, Secretaria de Sa\u00fade do Estado da Bahia, Salvador, Brazil"
+        ],
+        "Arabela Leal e Silva de Mello": [
+            "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica da Bahia Professor Gon\u00e7alo Moniz (LACEN/BA), Salvador, Bahia, Brazil"
+        ],
+        "Ana Maria Bispo de Filippis": [
+            "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Luiz Carlos Junior Alcantara": [
+            "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ]
+    }
+}

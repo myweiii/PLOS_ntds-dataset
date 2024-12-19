@@ -1,0 +1,58 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011456",
+    "Published": "July 13, 2023",
+    "Subject_Areas": [
+        "Co-infections",
+        "Dengue virus",
+        "Chikungunya virus",
+        "Arboviral infections",
+        "RNA interference",
+        "Small interfering RNA",
+        "Chikungunya infection",
+        "RNA sequencing"
+    ],
+    "Authors": {
+        "Mayke Leggewie": [
+            "Bernhard-Nocht Institute for Tropical Medicine, Hamburg, Germany",
+            "German Center for Infection; Research (DZIF), partner site Hamburg-Luebeck-Borstel-Riems, Germany"
+        ],
+        "Christina Scherer": [
+            "Bernhard-Nocht Institute for Tropical Medicine, Hamburg, Germany",
+            "German Center for Infection; Research (DZIF), partner site Hamburg-Luebeck-Borstel-Riems, Germany"
+        ],
+        "Mine Altinli": [
+            "Bernhard-Nocht Institute for Tropical Medicine, Hamburg, Germany",
+            "German Center for Infection; Research (DZIF), partner site Hamburg-Luebeck-Borstel-Riems, Germany"
+        ],
+        "Rommel J. Gestuveo": [
+            "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom",
+            "Division of Biological Sciences, University of the Philippines Visayas, Miagao, Iloilo, Philippines"
+        ],
+        "Vattipally B. Sreenu": [
+            "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom"
+        ],
+        "Janina Fuss": [
+            "Institute of Clinical Molecular Biology (IKMB), Kiel University, Kiel, Germany"
+        ],
+        "Marie Vazeille": [
+            "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Arboviruses and Insect Vectors, Paris, France"
+        ],
+        "Laurence Mousson": [
+            "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Arboviruses and Insect Vectors, Paris, France"
+        ],
+        "Marlis Badusche": [
+            "Bernhard-Nocht Institute for Tropical Medicine, Hamburg, Germany"
+        ],
+        "Alain Kohl": [
+            "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom"
+        ],
+        "Anna-Bella Failloux": [
+            "Institut Pasteur, Universit\u00e9 Paris Cit\u00e9, Arboviruses and Insect Vectors, Paris, France"
+        ],
+        "Esther Schnettler": [
+            "Bernhard-Nocht Institute for Tropical Medicine, Hamburg, Germany",
+            "German Center for Infection; Research (DZIF), partner site Hamburg-Luebeck-Borstel-Riems, Germany",
+            "University Hamburg, Faculty of Mathematics, Informatics and Natural Sciences, Hamburg, Germany"
+        ]
+    }
+}

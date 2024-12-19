@@ -1,0 +1,36 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007346",
+    "Published": "November 6, 2019",
+    "Subject_Areas": [
+        "Arboviral infections",
+        "Cloning",
+        "Viral persistence and latency",
+        "Arboviruses",
+        "Viral replication",
+        "Vesicular stomatitis virus",
+        "Dengue virus",
+        "Mosquitoes"
+    ],
+    "Authors": {
+        "Anthony C. Fredericks": [
+            "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America"
+        ],
+        "Tiffany A. Russell": [
+            "Department of Microbial Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, United Kingdom"
+        ],
+        "Louisa E. Wallace": [
+            "Department of Microbial Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, United Kingdom"
+        ],
+        "Andrew D. Davidson": [
+            "School of Cellular and Molecular Medicine, Faculty of Life Sciences, University of Bristol, Bristol, United Kingdom"
+        ],
+        "Ana Fernandez-Sesma": [
+            "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America"
+        ],
+        "Kevin Maringer": [
+            "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America",
+            "Department of Microbial Sciences, Faculty of Health and Medical Sciences, University of Surrey, Guildford, United Kingdom",
+            "School of Cellular and Molecular Medicine, Faculty of Life Sciences, University of Bristol, Bristol, United Kingdom"
+        ]
+    }
+}

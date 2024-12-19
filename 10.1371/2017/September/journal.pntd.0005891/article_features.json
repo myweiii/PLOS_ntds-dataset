@@ -1,0 +1,41 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0005891",
+    "Published": "September 15, 2017",
+    "Subject_Areas": [
+        "Giardia lamblia",
+        "Giardia",
+        "Trophozoites",
+        "Saccharomyces cerevisiae",
+        "Yeast",
+        "Sequence alignment",
+        "Hidden Markov models",
+        "Transfection"
+    ],
+    "Authors": {
+        "Stefan Kunz": [
+            "Institute of Parasitology, Vetsuisse Faculty, University of Bern, Bern, Switzerland",
+            "Division of Medicinal Chemistry, Faculty of Sciences, Amsterdam Institute of Molecules, Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+        ],
+        "Vreni Balmer": [
+            "Institute of Parasitology, Vetsuisse Faculty, University of Bern, Bern, Switzerland"
+        ],
+        "Geert Jan Sterk": [
+            "Division of Medicinal Chemistry, Faculty of Sciences, Amsterdam Institute of Molecules, Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+        ],
+        "Michael P. Pollastri": [
+            "Department of Chemistry and Chemical Biology, Northeastern University, Boston, Massachusetts, United States of America"
+        ],
+        "Rob Leurs": [
+            "Division of Medicinal Chemistry, Faculty of Sciences, Amsterdam Institute of Molecules, Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, Amsterdam, The Netherlands"
+        ],
+        "Norbert M\u00fcller": [
+            "Institute of Parasitology, Vetsuisse Faculty, University of Bern, Bern, Switzerland"
+        ],
+        "Andrew Hemphill": [
+            "Institute of Parasitology, Vetsuisse Faculty, University of Bern, Bern, Switzerland"
+        ],
+        "Cornelia Spycher": [
+            "Institute of Parasitology, Vetsuisse Faculty, University of Bern, Bern, Switzerland"
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+Special thanks go to Omar Wagih, University of Cambridge for adaptation of his R package “ggseqlogo” enabling smooth visualization of SigniSite results.

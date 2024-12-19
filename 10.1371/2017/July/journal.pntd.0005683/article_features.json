@@ -1,0 +1,27 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0005683",
+    "Published": "July 3, 2017",
+    "Subject_Areas": [
+        "Mosquitoes",
+        "Pathogens",
+        "Aircraft",
+        "Dengue virus",
+        "Medical risk factors",
+        "Vector-borne diseases",
+        "Malaria",
+        "Plasmodium"
+    ],
+    "Authors": {
+        "Luis Mier-y-Teran-Romero": [
+            "Dengue Branch, Division of Vector-Borne Diseases, Centers for Disease Control and Prevention, San Juan, PR"
+        ],
+        "Andrew J. Tatem": [
+            "WorldPop, Department of Geography and Environment, University of Southampton, Southampton, United Kingdom",
+            "Flowminder Foundation, Stockholm, Sweden"
+        ],
+        "Michael A. Johansson": [
+            "Dengue Branch, Division of Vector-Borne Diseases, Centers for Disease Control and Prevention, San Juan, PR",
+            "Center for Communicable Disease Dynamics, Harvard TH Chan School of Public Health, Boston, Massachusetts"
+        ]
+    }
+}

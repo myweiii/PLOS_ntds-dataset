@@ -1,0 +1,39 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010135",
+    "Published": "March 4, 2022",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Entomology",
+        "Insecticides",
+        "Mosquitoes",
+        "Infectious disease control",
+        "Pupae",
+        "Aedes aegypti",
+        "Larvae"
+    ],
+    "Authors": {
+        "Audrey Lenhart": [
+            "Vector Biology Department, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Carmen Elena Castillo": [
+            "Vector Biology Department, Liverpool School of Tropical Medicine, Liverpool, United Kingdom",
+            "Universidad de los Andes, N\u00facleo Rafael Rangel, Instituto Experimental Jose Witremundo Torrealba, Trujillo, Venezuela"
+        ],
+        "Elci Villegas": [
+            "Universidad de los Andes, N\u00facleo Rafael Rangel, Instituto Experimental Jose Witremundo Torrealba, Trujillo, Venezuela"
+        ],
+        "Neal Alexander": [
+            "MRC International Statistics and Epidemiology Group, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Veerle Vanlerberghe": [
+            "Department of Public Health, Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Patrick van der Stuyft": [
+            "Department of Public Health, Institute of Tropical Medicine, Antwerp, Belgium",
+            "Department of Public Health and Primary Care, Ghent University, Ghent, Belgium"
+        ],
+        "Philip J. McCall": [
+            "Vector Biology Department, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ]
+    }
+}

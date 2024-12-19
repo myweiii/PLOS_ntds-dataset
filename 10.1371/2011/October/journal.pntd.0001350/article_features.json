@@ -1,0 +1,39 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0001350",
+    "Published": "October 11, 2011",
+    "Subject_Areas": [
+        "Phylogenetic analysis",
+        "Africa",
+        "Phylogeography",
+        "Livestock",
+        "Medical risk factors",
+        "Asia",
+        "Nucleotide sequencing",
+        "Europe"
+    ],
+    "Authors": {
+        "Gilda Grard": [
+            "Centre International de Recherches M\u00e9dicales de Franceville (CIRMF), Franceville, Gabon"
+        ],
+        "Jan Felix Drexler": [
+            "Institute of Virology, University of Bonn Medical Centre, Bonn, Germany"
+        ],
+        "Joseph Fair": [
+            "Global Viral Forecasting, San Francisco, California, United States of America"
+        ],
+        "Jean-Jacques Muyembe": [
+            "Institut National de Recherche Biom\u00e9dicale, Kinshasa, Democratic Republic of the Congo"
+        ],
+        "Nathan D. Wolfe": [
+            "Global Viral Forecasting, San Francisco, California, United States of America",
+            "Department of Epidemiology, School of Public Health, University of California Los Angeles, Los Angeles, California, United States of America"
+        ],
+        "Christian Drosten": [
+            "Institute of Virology, University of Bonn Medical Centre, Bonn, Germany"
+        ],
+        "Eric M. Leroy": [
+            "Centre International de Recherches M\u00e9dicales de Franceville (CIRMF), Franceville, Gabon",
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), UMR 224 (MIVEGEC), IRD/CNRS/UM1, Montpellier, France"
+        ]
+    }
+}

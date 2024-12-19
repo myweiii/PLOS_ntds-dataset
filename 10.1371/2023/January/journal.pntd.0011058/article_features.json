@@ -1,0 +1,52 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011058",
+    "Published": "January 19, 2023",
+    "Subject_Areas": [
+        "Genome annotation",
+        "Genomics",
+        "Genome analysis",
+        "Gene ontologies",
+        "Data visualization",
+        "Database searching",
+        "Trypanosoma",
+        "Kinetoplastids"
+    ],
+    "Authors": {
+        "Achchuthan Shanmugasundram": [
+            "Department of Biochemistry and Systems Biology, Institute of Integrative, Systems and Molecular Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "David Starns": [
+            "Department of Biochemistry and Systems Biology, Institute of Integrative, Systems and Molecular Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Ulrike B\u00f6hme": [
+            "Department of Biochemistry and Systems Biology, Institute of Integrative, Systems and Molecular Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Beatrice Amos": [
+            "Department of Biochemistry and Systems Biology, Institute of Integrative, Systems and Molecular Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Paul A. Wilkinson": [
+            "Department of Biochemistry and Systems Biology, Institute of Integrative, Systems and Molecular Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Omar S. Harb": [
+            "Department of Biology, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Susanne Warrenfeltz": [
+            "Center for Tropical & Emerging Global Diseases, Department of Genetics, Institute of Bioinformatics, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Jessica C. Kissinger": [
+            "Center for Tropical & Emerging Global Diseases, Department of Genetics, Institute of Bioinformatics, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Mary Ann McDowell": [
+            "Department of Biological Sciences, Eck Institute for Global Health, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "David S. Roos": [
+            "Department of Biology, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Kathryn Crouch": [
+            "School of Infection and Immunity, University of Glasgow, Glasgow, United Kingdom"
+        ],
+        "Andrew R. Jones": [
+            "Department of Biochemistry and Systems Biology, Institute of Integrative, Systems and Molecular Biology, University of Liverpool, Liverpool, United Kingdom"
+        ]
+    }
+}

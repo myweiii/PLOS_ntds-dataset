@@ -1,0 +1,1 @@
+Authors acknowledge the use of the B. glabrata genome draft (genome assembly version BglaB1) in the Vectorbase database.

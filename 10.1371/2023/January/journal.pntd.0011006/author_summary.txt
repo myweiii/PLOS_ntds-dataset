@@ -1,0 +1,11 @@
+Meliodosis and glanders are both potential biological threat agents. Glanders is endemic in Southeast Asia and Northern Australia but occasionally found in other countries. Meliodosis is caused by Burkholderia pseudomallei, while glanders is caused by Burkholderia mallei. The diagnosis of these diseases is difficult because the clinical picture varies and the causative agents are difficult to identify. There is no vaccine available and antimicrobial therapy is lengthy and with an uncertain outcome.
+This study was conducted to determine whether certain characteristics are or aren’t expressed by multiple isolates from the same species. Therefore, the proteins expressed by 5 B. mallei and 6 B. pseudomallei were characterized using LC-HRMS/MS. Results of this study demonstrated;
+
+
+
+The homogeneity in B. mallei isolates and the diversity in B. pseudomallei isolates.
+That proteomic analysis can be used to identify B. pseudomallei and B. mallei.
+The need to study multiple isolates of a pathogen to determine whether a particular virulence factor or antimicrobial related protein is important for the species to be pathogenic or confer antimicrobial resistance.
+The expression of multiple virulence factors, proteins of several PKS/NRPS clusters and antimicrobial related proteins was demonstrated. No relation between phenotype and antimicrobial proteins could be made.
+
+The demonstrated expression of virulence factors in all isolates can be used for the development of new diagnostic assays or drug development. Proteome analysis of infectious bacteria can be used to identify the species but also to characterize the presence of important factors that putatively contribute to the pathogenesis of the species.

@@ -1,0 +1,5 @@
+{
+    "Background": "The non-structural 3 protease (NS3pro) is an essential flaviviral enzyme and therefore one of the most promising targets for drug development against West Nile virus (WNV) and dengue infections.",
+    "Methodology": "In this work, a small-molecule inhibitor of the WNV NS3pro has been identified by automatic fragment-based docking of about 12000 compounds and testing by nuclear magnetic resonance (NMR) spectroscopy of only 22 molecules. Specific binding of the inhibitor into the active site of NS3pro and its binding mode are confirmed by 15N-HSQC NMR spectra. The inhibitory activity is further validated by an enzymatic assay and a tryptophan fluorescence quenching assay.",
+    "Conclusion": "The inhibitor [4-(carbamimidoylsulfanylmethyl)-2,5-dimethylphenyl]-methylsulfanylmethanimidamide has a good ratio of binding affinity versus molecular weight (ligand efficiency of 0.33 kcal/mol per non-hydrogen atom), and thus has good potential as lead compound for further development to combat West Nile virus infections."
+}

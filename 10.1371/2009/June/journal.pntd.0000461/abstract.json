@@ -1,0 +1,8 @@
+{
+    "Objective": "We sought to evaluate the relationship between onchocerciasis prevalence and that of epilepsy using available data collected at community level.",
+    "Design": "We conducted a systematic review and meta-regression of available data.",
+    "Data Sources": "Electronic and paper records on subject area ever produced up to February 2008.",
+    "Review Methods": "We searched for population-based studies reporting on the prevalence of epilepsy in communities for which onchocerciasis prevalence was available or could be estimated. Two authors independently assessed eligibility and study quality and extracted data. The estimation of point prevalence of onchocerciasis was standardized across studies using appropriate correction factors. Variation in epilepsy prevalence was then analyzed as a function of onchocerciasis endemicity using random-effect logistic models.",
+    "Results": "Eight studies from west (Benin and Nigeria), central (Cameroon and Central African Republic) and east Africa (Uganda, Tanzania and Burundi) met the criteria for inclusion and analysis. Ninety-one communities with a total population of 79,270 individuals screened for epilepsy were included in the analysis. The prevalence of epilepsy ranged from 0 to 8.7% whereas that of onchocerciasis ranged from 5.2 to 100%. Variation in epilepsy prevalence was consistent with a logistic function of onchocerciasis prevalence, with epilepsy prevalence being increased, on average, by 0.4% for each 10% increase in onchocerciasis prevalence.",
+    "Conclusion": "These results give further evidence that onchocerciasis is associated with epilepsy and that the disease burden of onchocerciasis might have to be re-estimated by taking into account this relationship."
+}

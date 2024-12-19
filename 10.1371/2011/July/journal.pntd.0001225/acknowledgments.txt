@@ -1,0 +1,2 @@
+We thank Fengyun Wang and Jin Pan for their technical assistance.
+Nucleotide sequence data reported in this paper is available in the GenBank™ database under the accession numbers: EF429310.

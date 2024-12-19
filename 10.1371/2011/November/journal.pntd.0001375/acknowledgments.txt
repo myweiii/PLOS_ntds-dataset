@@ -1,0 +1,8 @@
+We thank Dr. Sylviane Muller and Prof. Sylvie Fournel (UPR 9021 Strasbourg, France) for helpful collaboration in the publication of this article; Maximiliano Juri-Ayub and Josiane Gregoire for production and purification of mAb 17.2 and A. Benatar for his collaboration with FACS experiments. HEK-β1 cells were kindly provided by Dr. Federico Mayor Jr. (Universidad Autónoma de Madrid, Spain). We thank the staff of the European Synchrotron Radiation Facility, Grenoble, France, for providing facilities for diffraction measurements and for assistance.
+
+In memory of Dr. Mariano J. Levin (1951–2010), Director of the Laboratory of Molecular Biology of Chagas' disease, INGEBI-CONICET, Buenos Aires, Argentina, from 1985 to 2010.
+
+
+Author Information
+
+Coordinates have been submitted to the PDB database under accession codes 3SGD and 3SGE for Fab 17.2 apo and Fab 17.2-R13 complex respectively.

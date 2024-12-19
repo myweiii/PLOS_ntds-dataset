@@ -1,0 +1,46 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0012235",
+    "Published": "June 13, 2024",
+    "Subject_Areas": [
+        "Schistosomiasis",
+        "Liver fibrosis",
+        "Ultrasound imaging",
+        "Machine learning",
+        "Support vector machines",
+        "Diagnostic medicine",
+        "Schistosomiasis japonica",
+        "Wavelet transforms"
+    ],
+    "Authors": {
+        "Zhaoyu Guo": [
+            "National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention (Chinese Center for Tropical Diseases Research); National Key Laboratory of Intelligent Tracking and Forecasting for Infectious Diseases; NHC Key Laboratory of Parasite and Vector Biology; WHO Collaborating Centre for Tropical Diseases; National Center for International Research on Tropical Diseases, Shanghai, China"
+        ],
+        "Miaomiao Zhao": [
+            "Department of Ultrasound, The Yancheng Clinical College of Xuzhou Medical University, The First People\u2019s Hospital of Yancheng, Yancheng, Jiangsu, China"
+        ],
+        "Zhenhua Liu": [
+            "Department of Ultrasound, The Yancheng Clinical College of Xuzhou Medical University, The First People\u2019s Hospital of Yancheng, Yancheng, Jiangsu, China"
+        ],
+        "Jinxin Zheng": [
+            "School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+        ],
+        "Yanfeng Gong": [
+            "School of Public Health, Fudan University, Shanghai, China"
+        ],
+        "Lulu Huang": [
+            "National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention (Chinese Center for Tropical Diseases Research); National Key Laboratory of Intelligent Tracking and Forecasting for Infectious Diseases; NHC Key Laboratory of Parasite and Vector Biology; WHO Collaborating Centre for Tropical Diseases; National Center for International Research on Tropical Diseases, Shanghai, China"
+        ],
+        "Jingbo Xue": [
+            "National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention (Chinese Center for Tropical Diseases Research); National Key Laboratory of Intelligent Tracking and Forecasting for Infectious Diseases; NHC Key Laboratory of Parasite and Vector Biology; WHO Collaborating Centre for Tropical Diseases; National Center for International Research on Tropical Diseases, Shanghai, China",
+            "School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+        ],
+        "Xiaonong Zhou": [
+            "National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention (Chinese Center for Tropical Diseases Research); National Key Laboratory of Intelligent Tracking and Forecasting for Infectious Diseases; NHC Key Laboratory of Parasite and Vector Biology; WHO Collaborating Centre for Tropical Diseases; National Center for International Research on Tropical Diseases, Shanghai, China",
+            "School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+        ],
+        "Shizhu Li": [
+            "National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention (Chinese Center for Tropical Diseases Research); National Key Laboratory of Intelligent Tracking and Forecasting for Infectious Diseases; NHC Key Laboratory of Parasite and Vector Biology; WHO Collaborating Centre for Tropical Diseases; National Center for International Research on Tropical Diseases, Shanghai, China",
+            "School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+        ]
+    }
+}

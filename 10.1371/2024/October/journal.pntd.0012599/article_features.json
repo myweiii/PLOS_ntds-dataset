@@ -1,0 +1,28 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0012599",
+    "Published": "October 21, 2024",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Epidemiology",
+        "Forecasting",
+        "Algorithms",
+        "Artificial neural networks",
+        "Machine learning algorithms",
+        "Land use",
+        "Wind"
+    ],
+    "Authors": {
+        "Micanaldo Ernesto Francisco": [
+            "Center for Marine Environmental Studies (CMES), Ehime University, Matsuyama, Japan",
+            "Graduate School of Science and Engineering, Ehime University, Matsuyama, Ehime, Japan",
+            "Faculty of Architecture and Physical Planning (FAPF), Lurio University, Nampula, Mozambique"
+        ],
+        "Thaddeus M. Carvajal": [
+            "Center for Marine Environmental Studies (CMES), Ehime University, Matsuyama, Japan",
+            "Department of Biology De La Salle University, Taft Ave Manila, Philippines"
+        ],
+        "Kozo Watanabe": [
+            "Center for Marine Environmental Studies (CMES), Ehime University, Matsuyama, Japan"
+        ]
+    }
+}

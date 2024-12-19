@@ -1,0 +1,35 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0001708",
+    "Published": "June 19, 2012",
+    "Subject_Areas": [
+        "Trypanosoma",
+        "Parasitic diseases",
+        "Gene expression",
+        "Trypanosoma brucei gambiense",
+        "Trypanosoma brucei",
+        "Salivary glands",
+        "Computer software",
+        "Genomics"
+    ],
+    "Authors": {
+        "Amy F. Savage": [
+            "Division of Epidemiology of Microbial Diseases, Yale School of Public Health, Yale University, New Haven, Connecticut, United States of America"
+        ],
+        "Gustavo C. Cerqueira": [
+            "Department of Cell Biology and Molecular Genetics, Maryland Pathogen Research Institute (MPRI), University of Maryland, College Park, Maryland, United States of America"
+        ],
+        "Sandesh Regmi": [
+            "Division of Epidemiology of Microbial Diseases, Yale School of Public Health, Yale University, New Haven, Connecticut, United States of America"
+        ],
+        "Yineng Wu": [
+            "Division of Epidemiology of Microbial Diseases, Yale School of Public Health, Yale University, New Haven, Connecticut, United States of America"
+        ],
+        "Najib M. El Sayed": [
+            "Department of Cell Biology and Molecular Genetics, Maryland Pathogen Research Institute (MPRI), University of Maryland, College Park, Maryland, United States of America",
+            "Center for Bioinformatics and Computational Biology, College of Chemical & Life Sciences, University of Maryland, College Park, Maryland, United States of America"
+        ],
+        "Serap Aksoy": [
+            "Division of Epidemiology of Microbial Diseases, Yale School of Public Health, Yale University, New Haven, Connecticut, United States of America"
+        ]
+    }
+}

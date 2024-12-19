@@ -1,0 +1,49 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008110",
+    "Published": "March 6, 2020",
+    "Subject_Areas": [
+        "Islands",
+        "Dengue fever",
+        "Dengue virus",
+        "French Polynesia",
+        "Epidemiology",
+        "Spatial epidemiology",
+        "Viral persistence and latency",
+        "Viral transmission and infection"
+    ],
+    "Authors": {
+        "Yoann Teissier": [
+            "Laboratoire de recherche sur les maladies infectieuses \u00e0 transmission vectorielle, Institut Louis Malard\u00e9, Papeete, Tahiti, French Polynesia",
+            "Universit\u00e9 Paris Descartes, PSL University, Paris, France"
+        ],
+        "Richard Paul": [
+            "Institut Pasteur, Unit\u00e9 de G\u00e9n\u00e9tique Fonctionnelle des Maladies Infectieuses, UMR 2000 CNRS, Paris, France",
+            "Pasteur Kyoto International Joint Research Unit for Integrative Vaccinomics, Kyoto, Japan"
+        ],
+        "Maite Aubry": [
+            "Laboratoire de recherche sur les maladies infectieuses \u00e0 transmission vectorielle, Institut Louis Malard\u00e9, Papeete, Tahiti, French Polynesia"
+        ],
+        "Xavier Rodo": [
+            "ICREA, Barcelona, Spain",
+            "CLIMA (Climate and Health) Program, ISGlobal, Barcelona, Spain"
+        ],
+        "Carlos Dommar": [
+            "CLIMA (Climate and Health) Program, ISGlobal, Barcelona, Spain"
+        ],
+        "Henrik Salje": [
+            "Institut Pasteur, Mathematical Modelling of Infectious Diseases Unit, UMR 2000, Centre National de la Recherche Scientifique, Paris, France"
+        ],
+        "Anavaj Sakuntabhai": [
+            "Institut Pasteur, Unit\u00e9 de G\u00e9n\u00e9tique Fonctionnelle des Maladies Infectieuses, UMR 2000 CNRS, Paris, France",
+            "Pasteur Kyoto International Joint Research Unit for Integrative Vaccinomics, Kyoto, Japan"
+        ],
+        "Bernard Cazelles": [
+            "International Center for Mathematical and Computational Modeling of Complex Systems (UMMISCO), UMI 209, Sorbonne Universit\u00e9 - IRD, Bondy cedex, France",
+            "iGLOBE, UMI CNRS 3157, University of Arizona, Tucson, Arizona, United States of America",
+            "IBENS, UMR 8197 CNRS-ENS Ecole Normale Sup\u00e9rieure, Paris, France"
+        ],
+        "Van-Mai Cao-Lormeau": [
+            "Laboratoire de recherche sur les maladies infectieuses \u00e0 transmission vectorielle, Institut Louis Malard\u00e9, Papeete, Tahiti, French Polynesia"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "Background": "Currently, knowledge does not allow early prediction of which cases of dengue fever (DF) will progress to dengue hemorrhagic fever (DHF), to allow early intervention to prevent progression or to limit severity. The objective of this study is to investigate the hypothesis that some specific comorbidities increase the likelihood of a DF case progressing to DHF.",
+    "Methods": "A concurrent case-control study, conducted during dengue epidemics, from 2009 to 2012. Cases were patients with dengue fever that progressed to DHF, and controls were patients of dengue fever who did not progress to DHF. Logistic regression was used to estimate the association between DHF and comorbidities.",
+    "Results": "There were 490 cases of DHF and 1,316 controls. Among adults, progression to DHF was associated with self-reported hypertension (OR = 1.6; 95% CI 1.1-2.1) and skin allergy (OR = 1.8; 95% CI 1.1-3.2) with DHF after adjusting for ethnicity and socio-economic variables. There was no statistically significant association between any chronic disease and progression to DHF in those younger than 15 years.",
+    "Conclusions": "Physicians attending patients with dengue fever should keep those with hypertension or skin allergies in health units to monitor progression for early intervention. This would reduce mortality by dengue."
+}

@@ -1,0 +1,1 @@
+The authors thank the Erawan HPC Project of the Information Technology Service Center (ITSC), Chiang Mai University, Chiang Mai, Thailand for providing computational resources. In addition, we thank Dr. Chayasith Uttamapinant (VISTEC, Thailand) for providing useful suggestions and reagents, and Dr. Direk Limmathurotsakul (MORU, Thailand) for a helpful discussion.

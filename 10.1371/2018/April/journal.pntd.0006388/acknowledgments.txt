@@ -1,0 +1,1 @@
+The authors thank Rick Tarleton (University of Georgia, US) for the kind gift of pTrex-b-NLS-hSpCas9 and Bruce Branchini (Connecticut College, US) for the PpyRE9h red shifted luciferase gene. FCC would like to acknowledge Professor Glaucius Oliva for his mentorship.

@@ -1,0 +1,104 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011221",
+    "Published": "April 4, 2023",
+    "Subject_Areas": [
+        "Schistosomiasis",
+        "Morbidity",
+        "Serology",
+        "Urine",
+        "Economic analysis",
+        "Schistosoma",
+        "Schistosoma haematobium",
+        "Schistosoma mansoni"
+    ],
+    "Authors": {
+        "S\u00edlvia Roure": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain",
+            "Fight and Infectious Diseases Foundation, Badalona, Spain",
+            "Infectious Diseases Unit, Hospital Universitari Germans Trias i Pujol, Badalona, Spain"
+        ],
+        "Francesc L\u00f3pez": [
+            "Centre de Recerca en Economia de la Salut (CRES), Universitat Pompeu Fabra, Barcelona, Spain",
+            "Grup de Recerca en Innovaci\u00f3, Economia de la Salut i Transformaci\u00f3 Digital (Institut de Recerca Germans Trias i Pujol\u2013IGTP), Badalona, Spain",
+            "Ger\u00e8ncia Territorial Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Irene Oliva": [
+            "Grup de Recerca en Innovaci\u00f3, Economia de la Salut i Transformaci\u00f3 Digital (Institut de Recerca Germans Trias i Pujol\u2013IGTP), Badalona, Spain"
+        ],
+        "Olga P\u00e9rez-Qu\u00edlez": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Oriol March": [
+            "Grup de Recerca en Innovaci\u00f3, Economia de la Salut i Transformaci\u00f3 Digital (Institut de Recerca Germans Trias i Pujol\u2013IGTP), Badalona, Spain"
+        ],
+        "Anna Chamorro": [
+            "Fight and Infectious Diseases Foundation, Badalona, Spain"
+        ],
+        "Elena Abad": [
+            "Fight and Infectious Diseases Foundation, Badalona, Spain"
+        ],
+        "Israel L\u00f3pez Mu\u00f1oz": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Amaia Castillo": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Laura Soldevila": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain",
+            "Infectious Diseases Unit, Hospital Universitari Germans Trias i Pujol, Badalona, Spain"
+        ],
+        "Llu\u00eds Valerio": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Manolo Lozano": [
+            "Neurology Department, Hospital Universitari Germans Trias i Pujol, Badalona, Spain"
+        ],
+        "Helena Masnou": [
+            "Gastroenterology Department, Hospital Universitari Germans Trias i Pujol, Badalona, Spain"
+        ],
+        "Mario Oliveira": [
+            "Urology Department, Hospital Universitari Germans Trias i Pujol, Badalona, Spain"
+        ],
+        "Laura Ca\u00f1as": [
+            "Nephrology Department, Hospital Universitari Germans Trias i Pujol, Badalona, Spain"
+        ],
+        "Mireia Gibrat": [
+            "Primary Health Care Unit Canovelles, North Metropolitan Health Region from Barcelona, Institut Catal\u00e0 de la Salut, Granollers, Spain"
+        ],
+        "Marta Chuecos": [
+            "Primary Health Care Unit Matar\u00f3-3 (Rocafonda-Palau), North Metropolitan Health Region from Barcelona, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Juan Jos\u00e9 Montero": [
+            "Primary Health Care Unit Matar\u00f3-3 (Rocafonda-Palau), North Metropolitan Health Region from Barcelona, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Karen Colmenares": [
+            "Unitat de Suport Assistencial i Avaluaci\u00f3 (USUAiA), Direcci\u00f3 d\u2019Atenci\u00f3 Prim\u00e0ria Metropolitana Nord, Institut Catal\u00e0 de la Salut, Sabadell, Spain"
+        ],
+        "Gemma Falguera": [
+            "North Metropolitan Primary Care Directorate, Instiut Catal\u00e0 de la Salut, Sabadell, Spain"
+        ],
+        "Josep Maria Bonet": [
+            "North Metropolitan Primary Care Directorate, Instiut Catal\u00e0 de la Salut, Sabadell, Spain"
+        ],
+        "Mar Isnard": [
+            "North Metropolitan Primary Care Directorate, Instiut Catal\u00e0 de la Salut, Sabadell, Spain"
+        ],
+        "N\u00faria Prat": [
+            "North Metropolitan Primary Care Directorate, Instiut Catal\u00e0 de la Salut, Sabadell, Spain"
+        ],
+        "Oriol Estrada": [
+            "Grup de Recerca en Innovaci\u00f3, Economia de la Salut i Transformaci\u00f3 Digital (Institut de Recerca Germans Trias i Pujol\u2013IGTP), Badalona, Spain",
+            "Directorate for Innovation and Interdisciplinary Cooperation, North Metropolitan Territorial Health Region, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Bonaventura Clotet": [
+            "Fight and Infectious Diseases Foundation, Badalona, Spain",
+            "IrsiCaixa\u2014Institut de Recerca de La SIDA, Hospital Universitari Germans Trias I Pujol, Badalona, Spain",
+            "Direcci\u00f3 Territorial Malalties Infeccioses, North Metropolitan Territorial Health Region, Institut Catal\u00e0 de la Salut, Badalona, Spain"
+        ],
+        "Xavier Vall\u00e8s": [
+            "International Health Program (PROSICS), Direcci\u00f3 Territorial de Malalties Infeccioses Metropolitana Nord, Institut Catal\u00e0 de la Salut, Badalona, Spain",
+            "Fight and Infectious Diseases Foundation, Badalona, Spain",
+            "Institut de Recerca Germans Trias i Pujol, Badalona, Spain"
+        ]
+    }
+}

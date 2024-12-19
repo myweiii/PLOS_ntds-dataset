@@ -1,0 +1,39 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010110",
+    "Published": "December 30, 2021",
+    "Subject_Areas": [
+        "Single nucleotide polymorphisms",
+        "Heterozygosity",
+        "Genomics",
+        "Homozygosity",
+        "Leishmania",
+        "Chromosome mapping",
+        "Genetics",
+        "Phylogenetics"
+    ],
+    "Authors": {
+        "Hedvig Glans": [
+            "Department of Infectious Diseases, Karolinska University Hospital, Stockholm, Sweden",
+            "Division of Dermatology & Venerology, Dept of Medicine Solna, Karolinska Institutet, Stockholm, Sweden"
+        ],
+        "Maria Lind Karlberg": [
+            "Department of Microbiology, The Public Health Agency of Sweden, Stockholm, Sweden"
+        ],
+        "Reza Advani": [
+            "Department of Microbiology, The Public Health Agency of Sweden, Stockholm, Sweden"
+        ],
+        "Maria Bradley": [
+            "Division of Dermatology & Venerology, Dept of Medicine Solna, Karolinska Institutet, Stockholm, Sweden",
+            "Department of Dermatology and Venerology, Karolinska University Hospital, Stockholm, Sweden"
+        ],
+        "Erik Alm": [
+            "The European Center for Disease Prevention and Control, Stockholm, Sweden"
+        ],
+        "Bj\u00f6rn Andersson": [
+            "Department of Cell & Molecular Biology, Karolinska Institutet, Stockholm, Sweden"
+        ],
+        "Tim Downing": [
+            "School of Biotechnology, Dublin City University, Dublin, Ireland"
+        ]
+    }
+}

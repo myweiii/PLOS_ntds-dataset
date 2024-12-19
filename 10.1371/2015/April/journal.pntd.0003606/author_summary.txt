@@ -1,0 +1,1 @@
+Buruli ulcer is a neglected tropical disease caused by Mycobacterium ulcerans that may result in severe skin ulceration if left untreated. Quantitative PCR (qPCR) is the most sensitive method for diagnosing Buruli ulcer, but is difficult to perform in endemic areas. We overcame these problems by developing an easy-to-use, heat-resistant dry-reagent qPCR device.

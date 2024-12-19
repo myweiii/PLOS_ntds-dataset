@@ -1,0 +1,4 @@
+The authors wish to acknowledge Gayathri Shankar and Anoshiravan Mostaghimi for assistance with data access and Charlson morbidity calculations, and CDC staff for performing PRNT confirmatory testing. Preliminary data was presented, in part, at the 2016 and 2017 ID Week and 2016 International Society for Disease Surveillance Annual Conferences.
+
+Disclaimer
+The findings and conclusions in this report are those of the authors and do not necessarily represent the Department of Veterans Affairs, or the U.S. Government.

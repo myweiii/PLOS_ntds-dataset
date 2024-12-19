@@ -1,0 +1,6 @@
+{
+    "Background": "Effective mass drug administration (MDA) is the cornerstone in the elimination of lymphatic filariasis (LF) and a critical component in combatting all neglected tropical diseases for which preventative chemotherapy is recommended (PC-NTDs). Despite its importance, MDA coverage, however defined, is rarely investigated systematically across time and geography.",
+    "Methodology": "The analysis links epidemiological coverage data from 3,880 LF MDAs with contextual, non-NTD data via location (each MDA was specific to a health district) and time (MDA month, year). Contextual data included rainfall, temperature, violence or social unrest, COVID-19, the 2014 Ebola outbreak, road access/isolation, population density, observance of Ramadan, and the number of previously completed MDAs.",
+    "Principal findings": "We fit a hierarchical linear regression model with coverage as the dependent variable and performed sensitivity analyses to confirm the selection of the explanatory factors.",
+    "Conclusions/Significance": "These generalized and context-focused findings supplement current literature on coverage dynamics and MDA performance. Findings may be used to quantify typically anecdotal considerations in MDA planning. The model and methodology are offered as a tool for further investigation."
+}

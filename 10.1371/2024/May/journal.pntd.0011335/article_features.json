@@ -1,0 +1,147 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011335",
+    "Published": "May 28, 2024",
+    "Subject_Areas": [
+        "Blood",
+        "Toxoplasma",
+        "Toxoplasma gondii",
+        "Virus testing",
+        "Enzyme-linked immunoassays",
+        "Pregnancy",
+        "Clinical laboratories",
+        "Toxoplasmosis"
+    ],
+    "Authors": {
+        "Ying Zhou": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Karen Leahy": [
+            "Department of Obstetrics and Gynecology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Andrew Grose": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America",
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Joseph Lykins": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America",
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Maryam Siddiqui": [
+            "Department of Obstetrics and Gynecology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Nicole Leong": [
+            "Department of Obstetrics and Gynecology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Perpetua Goodall": [
+            "Department of Obstetrics and Gynecology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Shawn Withers": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Kevin Ashi": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America",
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Stephen Schrantz": [
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Chicago Medicine, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Pediatrics, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Medicine, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Vera Tesic": [
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Chicago Medicine, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Pathology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Ana Precy Abeleda": [
+            "Chicago Medicine, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Pathology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Kathleen Beavis": [
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Chicago Medicine, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Pathology, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Fatima Clouser": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Mahmoud Ismail": [
+            "Department of Obstetrics and Gynecology, The University of Chicago, Chicago, Illinois, United States of America",
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Chicago Medicine, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Monica Christmas": [
+            "Department of Obstetrics and Gynecology, The University of Chicago, Chicago, Illinois, United States of America",
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Chicago Medicine, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Raphael Piarroux": [
+            "LDBIO Diagnostics, Lyon, France"
+        ],
+        "Denis Limonne": [
+            "LDBIO Diagnostics, Lyon, France"
+        ],
+        "Emmanuelle Chapey": [
+            "Institut des agents infectieux, H\u00f4pital de la Croix-Rousse, Lyon, France"
+        ],
+        "Sylvie Abraham": [
+            "Laboratory of Parasitologie, Bichat-Claude Bernard H\u00f4pital, Paris, France"
+        ],
+        "Isabelle Baird": [
+            "The College, The University of Chicago, Chicago, Illinois, United States of America",
+            "Global Health Center, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Juliette Thibodeau": [
+            "The College, The University of Chicago, Chicago, Illinois, United States of America",
+            "Global Health Center, The University of Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Kenneth M. Boyer": [
+            "Department of Pediatrics, Division of Infectious Diseases, Rush Presbyterian Hospital and Medical Center, Chicago, Illinois, United States of America"
+        ],
+        "Elizabeth Torres": [
+            "Group of Molecular Parasitology (GEPAMOL), Center of Biomedical Research, Faculty of Health Sciences, University of Quindio, Armenia (Quindio), Colombia"
+        ],
+        "Shannon Conrey": [
+            "University of Cincinnati and Cincinnati Children\u2019s Hospital Medical Center, University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Kanix Wang": [
+            "Carl H. Lindner College of Business, The University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Mary Allen Staat": [
+            "University of Cincinnati and Cincinnati Children\u2019s Hospital Medical Center, University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Nancy Back": [
+            "University of Cincinnati and Cincinnati Children\u2019s Hospital Medical Center, University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Coralie L\u2019Ollivier": [
+            "Centre National de R\u00e9f\u00e9rence Toxoplasmose\u2014P\u00f4le S\u00e9rologie, H\u00f4pitaux Universitaires de Strasbourg, Strasbourg, France",
+            "IHU-M\u00e9diterran\u00e9e Infection, Assistance Publique H\u00f4pitaux de Marseille (AP-HM), Marseille, France; Aix Marseille University, IRD, AP-HM, SSA, VITROME, IHU M\u00e9diterran\u00e9e, Marseille, France"
+        ],
+        "Caroline Mahinc": [
+            "Parasitology and Mycology Laboratory, P\u00f4le de Biologie-Pathologie, University Hospital of Saint Etienne, Saint Etienne, France"
+        ],
+        "Pierre Flori": [
+            "Parasitology and Mycology Laboratory, P\u00f4le de Biologie-Pathologie, University Hospital of Saint Etienne, Saint Etienne, France"
+        ],
+        "Jorge Gomez-Marin": [
+            "Group of Molecular Parasitology (GEPAMOL), Center of Biomedical Research, Faculty of Health Sciences, University of Quindio, Armenia (Quindio), Colombia"
+        ],
+        "Francois Peyron": [
+            "Institut des agents infectieux, H\u00f4pital de la Croix-Rousse, Lyon, France"
+        ],
+        "Sandrine Houz\u00e9": [
+            "Laboratory of Parasitologie, Bichat-Claude Bernard H\u00f4pital, Paris, France"
+        ],
+        "Martine Wallon": [
+            "Institut des agents infectieux, H\u00f4pital de la Croix-Rousse, Lyon, France"
+        ],
+        "Rima McLeod": [
+            "Departments of Ophthalmology and Visual Science, The University of Chicago, Chicago, Illinois, United States of America",
+            "Pritzker School of Medicine, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Pediatrics, Division of Infectious Diseases, The University of Chicago, Chicago, Illinois, United States of America",
+            "Department of Medicine, The University of Chicago, Chicago, Illinois, United States of America",
+            "The College, The University of Chicago, Chicago, Illinois, United States of America",
+            "Global Health Center, The University of Chicago, Chicago, Illinois, United States of America"
+        ]
+    }
+}

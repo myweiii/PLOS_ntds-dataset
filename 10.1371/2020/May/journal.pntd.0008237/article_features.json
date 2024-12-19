@@ -1,0 +1,66 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008237",
+    "Published": "May 26, 2020",
+    "Subject_Areas": [
+        "Necator americanus",
+        "Protein domains",
+        "Genome annotation",
+        "Hookworms",
+        "Proteases",
+        "Helminth infections",
+        "Gene prediction",
+        "Parasitic diseases"
+    ],
+    "Authors": {
+        "Jayden Logan": [
+            "Centre for Molecular Therapeutics, Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia"
+        ],
+        "Mark S. Pearson": [
+            "Centre for Molecular Therapeutics, Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia"
+        ],
+        "Srikanth S. Manda": [
+            "Cancer Data Science Group, ProCan, Children's Medical Research Institute, Faculty of Medicine and Health, University of Sydney, Westmead, NSW, Australia",
+            "LifeBytes India Pvt Ltd, Whitefield, Bangalore, India"
+        ],
+        "Young-Jun Choi": [
+            "McDonnell Genome Institute, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+        ],
+        "Matthew Field": [
+            "Centre for Molecular Therapeutics, Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia"
+        ],
+        "Ramon M. Eichenberger": [
+            "Centre for Molecular Therapeutics, Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia"
+        ],
+        "Jason Mulvenna": [
+            "QIMR-Berghofer Medical Research Institute, Brisbane, QLD, Australia"
+        ],
+        "Shivashankar H. Nagaraj": [
+            "Institute of Health and Biomedical Innovation and Translational Research Institute, Queensland University of Technology, Brisbane, QLD, Australia"
+        ],
+        "Ricardo T. Fujiwara": [
+            "Department of Parasitology, Biological Sciences Institute, Federal University of Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Pedro Gazzinelli-Guimaraes": [
+            "Department of Parasitology, Biological Sciences Institute, Federal University of Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Lilian Bueno": [
+            "Department of Parasitology, Biological Sciences Institute, Federal University of Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Vitor Mati": [
+            "Department of Health Sciences, Universidade Federal de Lavras, Lavras, Brazil"
+        ],
+        "Jeffrey M. Bethony": [
+            "Department of Microbiology, Immunology and Tropical Medicine, George Washington University, Washington DC, United States of America"
+        ],
+        "Makedonka Mitreva": [
+            "McDonnell Genome Institute, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+        ],
+        "Javier Sotillo": [
+            "Centre for Molecular Therapeutics, Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia",
+            "Centro Nacional de Microbiolog\u00eda, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain"
+        ],
+        "Alex Loukas": [
+            "Centre for Molecular Therapeutics, Australian Institute of Tropical Health and Medicine, James Cook University, Cairns, QLD, Australia"
+        ]
+    }
+}

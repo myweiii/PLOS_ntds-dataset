@@ -1,0 +1,1 @@
+Standard dog population estimates used for planning and evaluating dog vaccination campaigns in Guatemala are prone to error due to spatial and ownership heterogeneity among dog populations; advanced population estimation methods should be implemented in areas with persistent endemicity of dog-mediated rabies.

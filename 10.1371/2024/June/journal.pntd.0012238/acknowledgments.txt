@@ -1,0 +1,4 @@
+The authors are immensely grateful to Dr. Penelope Vounatsou (Swiss TPH), the curator of the GNTD dataset for their insightful feedback that helped to significantly improve the paper. GADL and IHA are very grateful also to Mark W Denny and Abby McConnell for their valuable suggestions on the early version of the manuscript. This paper is dedicated to the memory of Andrew Brierley.
+
+Disclaimer/publisher’s note
+The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,61 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0005526",
+    "Published": "April 5, 2017",
+    "Subject_Areas": [
+        "Detoxification",
+        "Insecticides",
+        "Enzyme metabolism",
+        "Invertebrate genomics",
+        "DNA transcription",
+        "Mosquitoes",
+        "RNA sequencing",
+        "Functional genomics"
+    ],
+    "Authors": {
+        "Frederic Faucon": [
+            "Laboratoire d'Ecologie Alpine (LECA), CNRS, UMR 5553, 2233 rue de la piscine Grenoble, France",
+            "Universit\u00e9 Grenoble\u2014Alpes, France",
+            "Environmental and Systems Biology (BEeSy), Universit\u00e9 Grenoble Alpes, Grenoble, France"
+        ],
+        "Thierry Gaude": [
+            "Laboratoire d'Ecologie Alpine (LECA), CNRS, UMR 5553, 2233 rue de la piscine Grenoble, France",
+            "Universit\u00e9 Grenoble\u2014Alpes, France",
+            "Environmental and Systems Biology (BEeSy), Universit\u00e9 Grenoble Alpes, Grenoble, France"
+        ],
+        "Isabelle Dusfour": [
+            "Unit\u00e9 d\u2019Entomologie M\u00e9dicale, Institut Pasteur de la Guyane, 23 avenue Pasteur, Cayenne, France"
+        ],
+        "Vincent Navratil": [
+            "P\u00f4le Rh\u00f4ne Alpes de Bioinformatique, Universit\u00e9 Lyon 1, France"
+        ],
+        "Vincent Corbel": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (IRD 224-CNRS 5290 UM1-UM2), Montpellier, France",
+            "Department of Entomology, Faculty of Agriculture, Kasetsart University, Lat Yao Chatuchak Bangkok, Thailand"
+        ],
+        "Waraporn Juntarajumnong": [
+            "Department of Entomology, Faculty of Agriculture, Kasetsart University, Lat Yao Chatuchak Bangkok, Thailand",
+            "Center for Advanced Studies for Agriculture and Food, Kasetsart University Institute for Advanced Studies, Kasetsart University, Bangkok Thailand (CASAF, NRU-KU, Thailand)"
+        ],
+        "Romain Girod": [
+            "Unit\u00e9 d\u2019Entomologie M\u00e9dicale, Institut Pasteur de la Guyane, 23 avenue Pasteur, Cayenne, France"
+        ],
+        "Rodolphe Poupardin": [
+            "Institut f\u00fcr Populations genetik, Vetmeduni Vienna, Wien, Austria"
+        ],
+        "Frederic Boyer": [
+            "Laboratoire d'Ecologie Alpine (LECA), CNRS, UMR 5553, 2233 rue de la piscine Grenoble, France",
+            "Universit\u00e9 Grenoble\u2014Alpes, France",
+            "Environmental and Systems Biology (BEeSy), Universit\u00e9 Grenoble Alpes, Grenoble, France"
+        ],
+        "Stephane Reynaud": [
+            "Laboratoire d'Ecologie Alpine (LECA), CNRS, UMR 5553, 2233 rue de la piscine Grenoble, France",
+            "Universit\u00e9 Grenoble\u2014Alpes, France",
+            "Environmental and Systems Biology (BEeSy), Universit\u00e9 Grenoble Alpes, Grenoble, France"
+        ],
+        "Jean-Philippe David": [
+            "Laboratoire d'Ecologie Alpine (LECA), CNRS, UMR 5553, 2233 rue de la piscine Grenoble, France",
+            "Universit\u00e9 Grenoble\u2014Alpes, France",
+            "Environmental and Systems Biology (BEeSy), Universit\u00e9 Grenoble Alpes, Grenoble, France"
+        ]
+    }
+}

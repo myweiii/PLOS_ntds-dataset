@@ -1,0 +1,2 @@
+We thank Joseph Kinuthia, Ibrahim Mwangi, and Martin Mutuku for assistance with collection of field samples; Dr. Boris Umylny for comments on the bioinformatics pipeline design; Bethaney Fehrenkamp for qPCR guidance; Dr. Bishoy Hanna for feedback and comments.
+The content for this paper is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. This paper was published with the approval of the Director of KEMRI.

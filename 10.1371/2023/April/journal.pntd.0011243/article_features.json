@@ -1,0 +1,106 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011243",
+    "Published": "April 21, 2023",
+    "Subject_Areas": [
+        "Orienta tsutsugamushi",
+        "Scrub typhus",
+        "Eschar",
+        "Ethnic epidemiology",
+        "Genome-wide association studies",
+        "Fevers",
+        "Polymerase chain reaction",
+        "Bacterial pathogens"
+    ],
+    "Authors": {
+        "Gaoyu Wang": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Ruijia Fu": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China"
+        ],
+        "Liyuan Zhang": [
+            "Department of Infectious Disease, the Second Affiliated Hospital of Hainan Medical University, Haikou, China"
+        ],
+        "Liying Xue": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Abdullah Y. Al-Mahdi": [
+            "Faculty of medicine, Lincoln University College, Petaling Jaya, Malaysia"
+        ],
+        "Xiaofei Xie": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Aiping Qin": [
+            "State Key Laboratory of Infectious Diseases Prevention and Control, National Institute for Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China"
+        ],
+        "Chuanning Tang": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Jiang Du": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Yi Huang": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Yueping Wang": [
+            "Department of Infectious Disease, the First affiliated Hospital of Hainan Medical University, Haikou, China"
+        ],
+        "Jian Su": [
+            "Department of Infectious Disease, the First affiliated Hospital of Hainan Medical University, Haikou, China"
+        ],
+        "Shengkai Huang": [
+            "Department of Infectious Disease, the First affiliated Hospital of Hainan Medical University, Haikou, China"
+        ],
+        "Ruoyan Peng": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ],
+        "Zhe Lu": [
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China"
+        ],
+        "Jing An": [
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China"
+        ],
+        "Changjia Sun": [
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China"
+        ],
+        "Hua Yang": [
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China"
+        ],
+        "Changhua He": [
+            "Hainan Center for Disease Control and Prevention, Haikou, China"
+        ],
+        "Kwok-Yung Yuen": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China",
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong, China"
+        ],
+        "Jasper Fuk-Woo Chan": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China",
+            "State Key Laboratory of Emerging Infectious Diseases, The University of Hong Kong, Pokfulam, Hong Kong, China"
+        ],
+        "Yongguo Du": [
+            "Department of Infectious Disease, the Second Affiliated Hospital of Hainan Medical University, Haikou, China"
+        ],
+        "Meifang Xiao": [
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China",
+            "Faculty of medicine, Lincoln University College, Petaling Jaya, Malaysia"
+        ],
+        "Long Sun": [
+            "Department of Infectious Disease, the First affiliated Hospital of Hainan Medical University, Haikou, China"
+        ],
+        "Feifei Yin": [
+            "Hainan Medical University-The University of Hong Kong Joint Laboratory of Tropical Infectious Diseases, Key Laboratory of Tropical Translational Medicine of Ministry of Education, Hainan Medical University, Haikou, China",
+            "Department of Clinical Laboratory, Center for Laboratory Medicine, Hainan Women and Children\u2019s Medical Center, Haikou, China",
+            "Academician Workstation of Hainan Province, Hainan Medical University; Haikou, China"
+        ]
+    }
+}

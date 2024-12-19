@@ -1,0 +1,44 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0002145",
+    "Published": "April 4, 2013",
+    "Subject_Areas": [
+        "Cholera",
+        "Haiti",
+        "Death rates",
+        "Epidemiology",
+        "Disease dynamics",
+        "Rice",
+        "Hierarchical clustering",
+        "Spatial epidemiology"
+    ],
+    "Authors": {
+        "Jean Gaudart": [
+            "Aix-Marseille Universit\u00e9, UMR 912 SESSTIM (AMU, INSERM, IRD), Marseille, France",
+            "University College London, Department of Statistical Science, WC1E 6BT, London, United Kingdom"
+        ],
+        "Stanislas Rebaudet": [
+            "Aix-Marseille Universit\u00e9, UMD 3, Marseille, France"
+        ],
+        "Robert Barrais": [
+            "Minist\u00e8re de la Sant\u00e9 Publique et de la Population, Port-au-Prince, Haiti"
+        ],
+        "Jacques Boncy": [
+            "Minist\u00e8re de la Sant\u00e9 Publique et de la Population, Port-au-Prince, Haiti"
+        ],
+        "Benoit Faucher": [
+            "Aix-Marseille Universit\u00e9, UMD 3, Marseille, France"
+        ],
+        "Martine Piarroux": [
+            "Aix-Marseille Universit\u00e9, UMR 912 SESSTIM (AMU, INSERM, IRD), Marseille, France"
+        ],
+        "Roc Magloire": [
+            "Minist\u00e8re de la Sant\u00e9 Publique et de la Population, Port-au-Prince, Haiti"
+        ],
+        "Gabriel Thimothe": [
+            "Minist\u00e8re de la Sant\u00e9 Publique et de la Population, Port-au-Prince, Haiti"
+        ],
+        "Renaud Piarroux": [
+            "Aix-Marseille Universit\u00e9, UMD 3, Marseille, France"
+        ]
+    }
+}

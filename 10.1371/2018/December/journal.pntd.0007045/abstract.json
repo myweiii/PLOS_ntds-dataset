@@ -1,0 +1,5 @@
+{
+    "Background": "Myriad infectious and noninfectious causes of encephalomyelitis (EM) have similar clinical manifestations, presenting serious challenges to diagnosis and treatment. Metabolomics of cerebrospinal fluid (CSF) was explored as a method of differentiating among neurological diseases causing EM using a single CSF sample.",
+    "Methodology/Principal findings": "1H NMR metabolomics was applied to CSF samples from 27 patients with a laboratory-confirmed disease, including Lyme disease or West Nile Virus meningoencephalitis, multiple sclerosis, rabies, or Histoplasma meningitis, and 25 controls. Cluster analyses distinguished samples by infection status and moderately by pathogen, with shared and differentiating metabolite patterns observed among diseases. CART analysis predicted infection status with 100% sensitivity and 93% specificity.",
+    "Conclusions/Significance": "These preliminary results suggest the potential utility of CSF metabolomics as a rapid screening test to enhance diagnostic accuracies and improve patient outcomes."
+}

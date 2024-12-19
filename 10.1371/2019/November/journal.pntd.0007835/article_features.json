@@ -1,0 +1,242 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007835",
+    "Published": "November 25, 2019",
+    "Subject_Areas": [
+        "Trachoma",
+        "Public and occupational health",
+        "Data management",
+        "National security",
+        "Surveys",
+        "Global health",
+        "Stratigraphy",
+        "Epidemiology"
+    ],
+    "Authors": {
+        "Rebecca M. Flueckiger": [
+            "Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Paul Courtright": [
+            "Kilimanjaro Centre for Community Ophthalmology, Division of Ophthalmology, University of Cape Town, Cape Town, South Africa"
+        ],
+        "Mariamo Abdala": [
+            "Ministerio da Saude, National Ophthalmology Program, Maputo, Mozambique"
+        ],
+        "Amza Abdou": [
+            "Minist\u00e8re de la Sant\u00e9 et de la population, Niamey, Niger"
+        ],
+        "Zaid Abdulnafea": [
+            "Ministry of Health, Baghdad, Iraq"
+        ],
+        "Tawfik K. Al-Khatib": [
+            "National Eye Health Programme, Ministry of Public Health and Population, Sana\u2019a, Yemen"
+        ],
+        "Khaled Amer": [
+            "Ministry of Health, Cairo, Egypt"
+        ],
+        "Olga Nelson Amiel": [
+            "Ministerio da Saude, Maputo, Mozambique"
+        ],
+        "Sossinou Awoussi": [
+            "Minist\u00e8re de la Sant\u00e9, Lom\u00e9, Togo"
+        ],
+        "Ana Bakhtiari": [
+            "The Task Force for Global Health, Atlanta, GA, USA"
+        ],
+        "Wilfried Batcho": [
+            "Minist\u00e8re de la Sant\u00e9, Cotonou, Benin"
+        ],
+        "Assumpta Lucienne Bella": [
+            "Minist\u00e8re de la Sant\u00e9, Yaound\u00e9, Cameroun"
+        ],
+        "Kamal Hashim Bennawi": [
+            "Prevention of Blindness Program, Khartoum, Sudan"
+        ],
+        "Simon J. Brooker": [
+            "Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, London, United Kingdom",
+            "Global Health, Neglected Tropical Diseases, Bill & Melinda Gates Foundation, Seattle, USA"
+        ],
+        "Brian K. Chu": [
+            "The Task Force for Global Health, Atlanta, GA, USA"
+        ],
+        "Michael Dejene": [
+            "Michael Dejene Public Health Consultancy Services, Addis Ababa, Ethiopia"
+        ],
+        "Djore Dezoumbe": [
+            "Minist\u00e8re de la Sant\u00e9, N'Djamena, Chad"
+        ],
+        "Balgesa Elkheir Elshafie": [
+            "Trachoma Control Program, National Ministry of Health, Khartoum, Sudan"
+        ],
+        "Aba Ange Elvis": [
+            "Programme National de la Sant\u00e9 Oculaire et de la lutte contre l'Onchocercose, Abidjan, C\u00f4te d'Ivoire"
+        ],
+        "Djouma Nembot Fabrice": [
+            "Minist\u00e8re de la Sant\u00e9, Yaound\u00e9, Cameroun"
+        ],
+        "Fatma Juma Omar": [
+            "Ministry of Health, Zanzibar, United Republic of Tanzania"
+        ],
+        "Missamou Fran\u00e7ois": [
+            "Bureau des Maladies Oculaires, Minist\u00e8re de la Sant\u00e9, Kinshasa, Democratic Republic of the Congo"
+        ],
+        "Drabo Fran\u00e7ois": [
+            "Programme national de lutte contre les maladies tropicales n\u00e9glig\u00e9es (PNMTN), Ouagadougou, Burkina Faso"
+        ],
+        "Jambi Garap": [
+            "National Department of Health, Port Moresby, Papua New Guinea"
+        ],
+        "Michael Gichangi": [
+            "Ministry of Health, Nairobi, Kenya"
+        ],
+        "Andr\u00e9 Goepogui": [
+            "Programme National de Lutte Contre l\u2019Onchocercose et la C\u00e9cit\u00e9 et les Maladies Tropicales N\u00e9glig\u00e9es, Conakry, Guinea"
+        ],
+        "Jaouad Hammou": [
+            "Ministry of Health, Rabat, Morocco"
+        ],
+        "Boubacar Kadri": [
+            "Minist\u00e8re de la Sant\u00e9 et de la population, Niamey, Niger"
+        ],
+        "George Kabona": [
+            "Ministry of Health, Dar es Salaam, United Republic of Tanzania"
+        ],
+        "Martin Kabore": [
+            "l'unit\u00e9 d'\u00e9limination du trachome, PNMTN, Ouagadougou, Burkina Faso"
+        ],
+        "Khumbo Kalua": [
+            "Department of Ophthalmology, University of Malawi, College of Medicine, Blantyre, Malawi"
+        ],
+        "Mathias Kamugisha": [
+            "National Institute for Medical Research, Dar es Salaam, United Republic of Tanzania"
+        ],
+        "Biruck Kebede": [
+            "Federal Ministry of Health, Addis Ababa, Ethiopia"
+        ],
+        "Kaba Keita": [
+            "Programme National de Lutte Contre l\u2019Onchocercose et la C\u00e9cit\u00e9 et les Maladies Tropicales N\u00e9glig\u00e9es, Conakry, Guinea"
+        ],
+        "Asad Aslam Khan": [
+            "Ministry of Health, Islamabad, Pakistan"
+        ],
+        "Genet Kiflu": [
+            "Federal Ministry of Health, Addis Ababa, Ethiopia"
+        ],
+        "Makoy Yibi": [
+            "Ministry of Health, South Sudan"
+        ],
+        "Garae Mackline": [
+            "Ministry of Health, Port Vila, Vanuatu"
+        ],
+        "Colin Macleod": [
+            "Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Portia Manangazira": [
+            "Department of Epidemiology and Disease Control, Ministry of Health & Child Welfare, Harare, Zimbabwe"
+        ],
+        "Michael P. Masika": [
+            "Ministry of Health, Lilongwe, Malawi"
+        ],
+        "Marilia Massangaie": [
+            "Ministerio da Saude, Department of Neglected Tropical Diseases, Maputo, Mozambique"
+        ],
+        "Takafira Mduluza": [
+            "Department of Biochemistry, University of Zimbabwe, Harare, Zimbabwe"
+        ],
+        "Nabicassa Meno": [
+            "Minist\u00e8re de la Sant\u00e9, Bissau, Guinea-Bissau"
+        ],
+        "Nicholas Midzi": [
+            "Department of Medical Microbiology, College of Health Sciences, University of Zimbabwe, Harare, Zimbabwe"
+        ],
+        "Abdallahi Ould Minnih": [
+            "Minister de la Sante, Nouakchott, Mauritania"
+        ],
+        "Sailesh Mishra": [
+            "Nepal Netra Jyoti Sangh, Kathmandu, Nepal"
+        ],
+        "Caleb Mpyet": [
+            "Sightsavers Nigeria, Kaduna, Nigeria & Department of Ophthalmology, Jos University, Jos, Nigeria"
+        ],
+        "Nicholas Muraguri": [
+            "Ministry of Health, Nairobi, Kenya"
+        ],
+        "Upendo Mwingira": [
+            "Ministry of Health, Dar es Salaam, United Republic of Tanzania"
+        ],
+        "Beido Nassirou": [
+            "Minist\u00e8re de la Sant\u00e9 et de la population, Niamey, Niger"
+        ],
+        "Jean Ndjemba": [
+            "Bureau des Maladies Oculaires, Minist\u00e8re de la Sant\u00e9, Kinshasa, Democratic Republic of the Congo"
+        ],
+        "Cece Nieba": [
+            "Programme National de Lutte Contre l\u2019Onchocercose et la C\u00e9cit\u00e9 et les Maladies Tropicales N\u00e9glig\u00e9es, Conakry, Guinea"
+        ],
+        "Jeremiah Ngondi": [
+            "RTI International, Dar es Salaam, United Republic of Tanzania"
+        ],
+        "Nicholas Olobio": [
+            "Nigeria Federal Ministry of Health, Abuja, Nigeria"
+        ],
+        "Alex Pavluck": [
+            "RTI International, Washington DC, USA"
+        ],
+        "Isaac Phiri": [
+            "Department of Epidemiology and Disease Control, Ministry of Health & Child Welfare, Harare, Zimbabwe"
+        ],
+        "Rachel Pullan": [
+            "Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Babar Qureshi": [
+            "Christian Blind Mission, Bensheim, Germany"
+        ],
+        "Boubacar Sarr": [
+            "Minist\u00e8re de la sant\u00e9 et de l\u2019Action Sociale, Dakar, Senegal"
+        ],
+        "Do Seiha": [
+            "Prevention of Blindness Programme, Ministry of Health, Phnom Penh, Cambodia"
+        ],
+        "Gloria Marina Serrano Ch\u00e1vez": [
+            "Ministry of Health, Guatemala City, Guatemala"
+        ],
+        "Shekhar Sharma": [
+            "Ministry of Health, Kathmandu, Nepal"
+        ],
+        "Siphetthavong Sisaleumsak": [
+            "National Ophthalmology Centre, Vientiane, Lao People\u2019s Democratic Republic"
+        ],
+        "Khamphoua Southisombath": [
+            "National Program for the Prevention of Blindness, Ministry of Health, Vientiane, Lao People\u2019s Democratic Republic"
+        ],
+        "Gretchen Stevens": [
+            "Department of Information, Evidence and Research, World Health Organization, Geneva, Switzerland"
+        ],
+        "Andeberhan Tesfazion Woldendrias": [
+            "Department of Public Health, Ministry of Health, Asmara, Eritrea"
+        ],
+        "Lamine Traor\u00e9": [
+            "Minist\u00e8re de la Sant\u00e9, Bamako, Mali"
+        ],
+        "Patrick Turyaguma": [
+            "Trachoma Program, Ministry of Health, Kampala, Uganda"
+        ],
+        "Rebecca Willis": [
+            "The Task Force for Global Health, Atlanta, GA, USA"
+        ],
+        "Georges Yaya": [
+            "Minist\u00e8re de la Sant\u00e9 Publique, Bangui, Central African Republic"
+        ],
+        "Souleymane Yeo": [
+            "Programme National de la Sant\u00e9 Oculaire et de la lutte contre l'Onchocercose, Abidjan, C\u00f4te d'Ivoire"
+        ],
+        "Francisco Zambroni": [
+            "Ministry of Health, Guatemala City, Guatemala"
+        ],
+        "Jialiang Zhao": [
+            "Department of Ophthalmology, Peking Union Medical Colllege Hospital, Chinese Academy of Medical Sciences, Beijing, China"
+        ],
+        "Anthony W. Solomon": [
+            "Department of Control of Neglected Tropical Diseases, World Health Organization, Geneva, Switzerland"
+        ]
+    }
+}

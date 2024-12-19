@@ -1,0 +1,32 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0003841",
+    "Published": "July 23, 2015",
+    "Subject_Areas": [
+        "Guide RNA",
+        "cDNA libraries",
+        "Mitochondria",
+        "Kinetoplasts",
+        "RNA sequencing",
+        "Genomics",
+        "Nucleotide mapping",
+        "Sequence alignment"
+    ],
+    "Authors": {
+        "Larry Simpson": [
+            "Department of Microbiology, Immunology and Molecular Genetics, Geffen School of Medicine at UCLA, University of California, Los Angeles, Los Angeles, California, United States of America"
+        ],
+        "Stephen M. Douglass": [
+            "Bioinformatics Interdepartmental Program, University of California, Los Angeles, Los Angeles, California, United States of America",
+            "Department of Molecular, Cellular and Developmental Biology, University of California, Los Angeles, Los Angeles, California, United States of America"
+        ],
+        "James A. Lake": [
+            "Department of Molecular, Cellular and Developmental Biology, University of California, Los Angeles, Los Angeles, California, United States of America"
+        ],
+        "Matteo Pellegrini": [
+            "Department of Molecular, Cellular and Developmental Biology, University of California, Los Angeles, Los Angeles, California, United States of America"
+        ],
+        "Feng Li": [
+            "Dental Research Institute, School of Dentistry, University of California, Los Angeles, Los Angeles, California, United States of America"
+        ]
+    }
+}

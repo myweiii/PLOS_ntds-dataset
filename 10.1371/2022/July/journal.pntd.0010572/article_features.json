@@ -1,0 +1,28 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010572",
+    "Published": "July 11, 2022",
+    "Subject_Areas": [
+        "Swine",
+        "Dogs",
+        "Chickens",
+        "Mosquitoes",
+        "Cattle",
+        "Ducks",
+        "Epidemiology",
+        "Livestock"
+    ],
+    "Authors": {
+        "H\u00e9l\u00e9na Ladreyt": [
+            "International Center of Research in Agriculture for Development (CIRAD), UMR ASTRE, Montpellier, France"
+        ],
+        "V\u00e9ronique Chevalier": [
+            "International Center of Research in Agriculture for Development (CIRAD), UMR ASTRE, Montpellier, France",
+            "CIRAD, UMR ASTRE, Antananarivo, Madagascar",
+            "Epidemiology and Public Health Unit, Institut Pasteur du Cambodge, Phnom Penh, Cambodia",
+            "Epidemiology and Clinical Research Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar"
+        ],
+        "Benoit Durand": [
+            "Epidemiology Unit, Laboratory for Animal Health, French Agency for Food, Environmental and Occupational Health and Safety (ANSES), University Paris-Est, Maisons-Alfort, France"
+        ]
+    }
+}

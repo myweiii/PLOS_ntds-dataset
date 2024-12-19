@@ -1,0 +1,2 @@
+The authors SH, VK, NP, RZ, KM would like to acknowledge the Hahn-Schickard Lab-on-a-Chip Foundry Service for LabDisk production.
+The authors CF and AS would like to thank Prof. Abdoulaye Seck of the Clinical Lab, who kindly provided the Salmonella culture samples; and Dr. Moussa Moise Diagne, Dr. Martin Faye, and M. Idrissa Dieng who participated in the data evaluation.

@@ -1,0 +1,31 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0005368",
+    "Published": "February 3, 2017",
+    "Subject_Areas": [
+        "Protein interaction networks",
+        "Protein interactions",
+        "Genome annotation",
+        "Genomic databases",
+        "Fractionation",
+        "Data visualization",
+        "Trypanosoma brucei gambiense",
+        "Interaction networks"
+    ],
+    "Authors": {
+        "Vahid H. Gazestani": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Chun Wai Yip": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Najmeh Nikpour": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Natasha Berghuis": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Reza Salavati": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ]
+    }
+}

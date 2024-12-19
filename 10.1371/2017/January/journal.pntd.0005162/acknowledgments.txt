@@ -1,0 +1,2 @@
+Input epidemiological data for the study were provided by the WHO in the frame of the Atlas of HAT [1, 32] and acknowledgement extends to the Programme National de Lutte contre la Trypanosomiase Humaine Africaine (PNLTHA) of DRC which provided many of the data in the Atlas which were used in this study and of which CL is the coordinator.
+The authors would like to thank Deirdre Hollingsworth for her helpful comments on this work and for her role leading the NTD Modelling Consortium.

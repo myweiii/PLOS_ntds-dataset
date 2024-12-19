@@ -1,0 +1,57 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0009675",
+    "Published": "August 9, 2021",
+    "Subject_Areas": [
+        "Data management",
+        "Public and occupational health",
+        "Relational databases",
+        "Dogs",
+        "Infectious disease surveillance",
+        "Data visualization",
+        "Database and informatics methods",
+        "Metadata"
+    ],
+    "Authors": {
+        "Saugat Karki": [
+            "Surveillance and Data Management Branch, Division of STD Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Adam Weiss": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America"
+        ],
+        "Jina Dcruz": [
+            "Population Health Workforce Branch, Division of Scientific Education and Professional Development, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Dorothy Hunt": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America"
+        ],
+        "Brandon Haigood": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America"
+        ],
+        "Philip Tchindebet Ouakou": [
+            "Guinea Worm Eradication Program, Ministry of Public Health and National Solidarity, N\u2019Djamena, Chad"
+        ],
+        "Elisabeth Chop": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America"
+        ],
+        "Hubert Zirimwabagabo": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America"
+        ],
+        "Beth L. Rubenstein": [
+            "Epidemic Intelligence Service, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America",
+            "Malaria Branch, Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Sarah Yerian": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America"
+        ],
+        "Sharon L. Roy": [
+            "Parasitic Diseases Branch, Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Mary L. Kamb": [
+            "Parasitic Diseases Branch, Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Sarah Anne J. Guagliardo": [
+            "Guinea Worm Eradication Program, The Carter Center, Atlanta, Georgia, United States of America",
+            "Parasitic Diseases Branch, Division of Parasitic Diseases and Malaria, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ]
+    }
+}

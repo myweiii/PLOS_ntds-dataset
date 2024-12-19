@@ -1,0 +1,1 @@
+We would like to thank Felix Bäuerlein (Georg-August-Universität Göttingen) for his input regarding the persistence length calculations, Igor Iashchishyn (Umeå universitet) for his input on the wormlike chain model, and Eliot Rohr for assistance with one script.

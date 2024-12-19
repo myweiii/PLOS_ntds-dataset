@@ -1,0 +1,5 @@
+{
+    "Background": "Buruli ulcer (BU) is a skin infection caused by Mycobacterium ulcerans. The wounds of most BU patients are colonized with different microorganisms, including Staphylococcus aureus.",
+    "Methodology": "This study investigated possible patient-to-patient transmission events of S. aureus during wound care in a health care center. S. aureus isolates from different BU patients with overlapping visits to the clinic were whole-genome sequenced and analyzed by a gene-by-gene approach using SeqSphere+ software. In addition, sequence data were screened for the presence of genes that conferred antibiotic resistance.",
+    "Principal Findings": "SeqSphere+ analysis of whole-genome sequence data confirmed transmission of methicillin resistant S. aureus (MRSA) and methicillin susceptible S. aureus among patients that took place during wound care. Interestingly, our sequence data show that the investigated MRSA isolates carry a novel allele of the fexB gene conferring chloramphenicol resistance, which had thus far not been observed in S. aureus."
+}

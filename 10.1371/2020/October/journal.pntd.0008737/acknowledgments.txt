@@ -1,0 +1,1 @@
+The authors thank Greg Barton for providing inbred C57BL/6-Slc11a1+/+ mice, Robert Heyderman and the Malawi-Liverpool-Wellcome Trust Clinical Research Centre for providing the S. Typhimurium clinical isolate D23580, Charles Stephensen for advice on establishing the vitamin A-deficient mouse model, and Michael Rogawski for input on enrofloxacin measurements by LC-MS/MS.

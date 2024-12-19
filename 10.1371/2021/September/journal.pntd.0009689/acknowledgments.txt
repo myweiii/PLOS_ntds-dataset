@@ -1,0 +1,4 @@
+We would kindly thank Dr. Kristyn Hoffmann for providing technical assistance with working with the mouse primary cardiac fibroblasts.
+We would like to thank Dr. Alexandre Carisey from the Texas Children’s Hospital William T. Shearer Center for Human Immunobiology for his expert assistance in the confocal microscopy experiments.
+We would kindly thank Dr. Amal El-Mabhouh for providing technical assistance with analyzing the imaging flow cytometry dataset.
+We especially like to mention Kurt Christensen and Karen Moberg for their support in the development of the mAbs.

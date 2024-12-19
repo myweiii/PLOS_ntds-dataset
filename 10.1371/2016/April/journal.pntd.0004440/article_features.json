@@ -1,0 +1,31 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0004440",
+    "Published": "April 13, 2016",
+    "Subject_Areas": [
+        "Mosquitoes",
+        "Mammalian genomics",
+        "Viral genomics",
+        "Dengue virus",
+        "Hamsters",
+        "Sequence alignment",
+        "Bunyaviruses",
+        "RNA viruses"
+    ],
+    "Authors": {
+        "Todd J. Treangen": [
+            "National Biodefense Analysis and Countermeasures Center, Frederick, Maryland, United States of America"
+        ],
+        "George Schoeler": [
+            "Department of Entomology, U. S. Naval Medical Research Unit No. 6, Callao, Peru"
+        ],
+        "Adam M. Phillippy": [
+            "National Biodefense Analysis and Countermeasures Center, Frederick, Maryland, United States of America"
+        ],
+        "Nicholas H. Bergman": [
+            "National Biodefense Analysis and Countermeasures Center, Frederick, Maryland, United States of America"
+        ],
+        "Michael J. Turell": [
+            "Virology Division, United States Army Medical Research Institute of Infectious Diseases, Fort Detrick, Maryland, United States of America"
+        ]
+    }
+}

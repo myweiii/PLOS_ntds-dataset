@@ -1,0 +1,4 @@
+We would like to thank Nathalie Dinguirard and Megan Mezera (Yoshino Lab) for animal care and hemocyte collection, and Chung-Wei Chiang (Jackson Lab) for his advice and helpful insights.
+
+Accession numbers
+Data are available from the NCBI database. The PredBgHVCN1-like accession number is XM_013231505, and the a-tubulin accession number is XP_013094834.1.

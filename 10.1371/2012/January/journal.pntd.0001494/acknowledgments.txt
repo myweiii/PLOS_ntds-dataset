@@ -1,0 +1,1 @@
+We would like to acknowledge Dr. R. Velasco and Dr. Alan Mirsky for their help in the early stages of the study. We also thank M. Ensley, T. McKenzie, and A. Sullivan for their assistance with data abstraction. This study was presented at the 38th Annual Meeting of the International Neuropsychological Society in February 2010, Acapulco, Mexico.

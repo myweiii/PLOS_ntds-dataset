@@ -1,0 +1,4 @@
+The authors would like to acknowledge the Virology and Pathogenesis group, NCPV and the HCM group at PHE for the supply of viral nucleic acid and the PHE-MOHS biobank for the supply and HCM for initial processing of clinical samples. We would also like to acknowledge Dr Patrick Deegan from the Defence Science and Technology Laboratory (DSTL) for his assistance with the Probit analysis.
+
+Additional information
+This work formed part of the EbolaMoDRAD programme, which aimed to “develop and deliver rapid and bedside diagnostic tools.”

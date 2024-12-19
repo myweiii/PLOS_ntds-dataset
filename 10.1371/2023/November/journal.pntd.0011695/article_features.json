@@ -1,0 +1,38 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011695",
+    "Published": "November 13, 2023",
+    "Subject_Areas": [
+        "Near-infrared spectroscopy",
+        "Artificial neural networks",
+        "Trichuriasis",
+        "Eggs",
+        "Soil-transmitted helminthiases",
+        "Trichuris",
+        "Machine learning algorithms",
+        "Mouse models"
+    ],
+    "Authors": {
+        "Tharanga N. Kariyawasam": [
+            "School of the Environment, Faculty of Science, The University of Queensland, Brisbane, Queensland, Australia"
+        ],
+        "Silvia Ciocchetta": [
+            "School of Veterinary Science, Faculty of Science, The University of Queensland, Gatton, Queensland, Australia"
+        ],
+        "Paul Visendi": [
+            "Institute for Molecular Bioscience, The University of Queensland, Brisbane, Queensland, Australia"
+        ],
+        "Ricardo J. Soares Magalh\u00e3es": [
+            "School of Veterinary Science, Faculty of Science, The University of Queensland, Gatton, Queensland, Australia",
+            "Children\u2019s Health and Environment Program, UQ Children\u2019s Health Research Centre, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia"
+        ],
+        "Maxine E. Smith": [
+            "Australian Institute of Tropical Health & Medicine, James Cook University, Cairns, Queensland, Australia"
+        ],
+        "Paul R. Giacomin": [
+            "Australian Institute of Tropical Health & Medicine, James Cook University, Cairns, Queensland, Australia"
+        ],
+        "Maggy T. Sikulu-Lord": [
+            "School of the Environment, Faculty of Science, The University of Queensland, Brisbane, Queensland, Australia"
+        ]
+    }
+}

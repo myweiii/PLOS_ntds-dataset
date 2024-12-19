@@ -1,0 +1,1 @@
+RNA sequencing libraries were built by David Ibberson at the Bioquant facility and sequenced either at that facility or at EMBL, Heidelberg. We thank Claudia Hartmann and Ute Leibfried for technical assistance.

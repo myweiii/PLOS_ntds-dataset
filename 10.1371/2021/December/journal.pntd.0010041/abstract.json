@@ -1,0 +1,5 @@
+{
+    "Background": "Telomeres are indispensable for genome stability maintenance. They are maintained by the telomere-associated protein complex, which include Ku proteins and a telomerase among others. Here, we investigated a role of Ku80 in Leishmania mexicana. Leishmania is a genus of parasitic protists of the family Trypanosomatidae causing a vector-born disease called leishmaniasis.",
+    "Methodology/Principal findings": "We used the previously established CRISPR/Cas9 system to mediate ablation of Ku80- and Ku70-encoding genes in L. mexicana. Complete knock-outs of both genes were confirmed by Southern blotting, whole-genome Illumina sequencing, and RT-qPCR. Resulting telomeric phenotypes were subsequently investigated using Southern blotting detection of terminal restriction fragments. The genome integrity in the Ku80- deficient cells was further investigated by whole-genome sequencing.",
+    "Conclusion/Significance": "Ablation of the Ku proteins in L. mexicana triggers telomere elongation, but does not have an adverse impact on genome integrity."
+}

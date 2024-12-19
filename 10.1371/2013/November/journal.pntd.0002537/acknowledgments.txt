@@ -1,0 +1,2 @@
+We thank all the patients and healthcare workers involved in this study and the staff of the Ministries of Health of Madagascar and Cambodia for their collaboration. We also thank Dr. Montpetit and the sequencing group of the McGill University and Genome Quebec Innovation Center for their help with HiSeq 2000 sequencing.
+Polymorphism and raw sequence data generated for this study are freely accessible through SRA (www.ncbi.nlm.nih.gov/sra/). The DNA sequence of the PvDBP duplication is available through GenBank (#KF159580).

@@ -1,0 +1,1 @@
+We thank Tristan Rouyer for providing an R toolbox (translated from Cazelles' Matlab toolbox) for performing wavelet analysis, Kévin Cazelles, Christophe Menkès and Morgan Mangeas for their help with parts of the analysis, and Yann Quéau for useful comments.

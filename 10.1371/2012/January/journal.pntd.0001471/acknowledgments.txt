@@ -1,0 +1,1 @@
+The authors thank Dr. David Cox for providing the DAL-1, Mexico A, and CDC-2 strains, and Tom Albert (NimbleGen Systems, Inc.) for assistance during the early phases of the project.

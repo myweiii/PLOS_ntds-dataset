@@ -1,0 +1,45 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0003929",
+    "Published": "August 18, 2015",
+    "Subject_Areas": [
+        "Rodents",
+        "Opportunistic pathogens",
+        "Metagenomics",
+        "RNA sequencing",
+        "Zoonoses",
+        "Pathogens",
+        "Bacterial pathogens",
+        "Mammals"
+    ],
+    "Authors": {
+        "Maria Razzauti": [
+            "INRA, UMR CBGP (INRA / IRD / Cirad / Montpellier SupAgro), Montpellier, France"
+        ],
+        "Maxime Galan": [
+            "INRA, UMR CBGP (INRA / IRD / Cirad / Montpellier SupAgro), Montpellier, France"
+        ],
+        "Maria Bernard": [
+            "INRA, GABI, Domaine de Vilvert, Jouy-en-Josas, France"
+        ],
+        "Sarah Maman": [
+            "INRA, Sigenae Group, GenPhySE, INRA Auzeville, Castanet Tolosan, France"
+        ],
+        "Christophe Klopp": [
+            "INRA, Sigenae Group, GenPhySE, INRA Auzeville, Castanet Tolosan, France"
+        ],
+        "Nathalie Charbonnel": [
+            "INRA, UMR CBGP (INRA / IRD / Cirad / Montpellier SupAgro), Montpellier, France"
+        ],
+        "Muriel Vayssier-Taussat": [
+            "INRA, UMR Bipar, ENVA, ANSES, USC INRA, Maisons-Alfort, France"
+        ],
+        "Marc Eloit": [
+            "PathoQuest SAS, Paris, France",
+            "Ecole Nationale V\u00e9t\u00e9rinaire d\u2019Alfort, UMR 1161, Virologie ENVA, ANSES, INRA, Maisons-Alfort, France",
+            "Pasteur Institute, Laboratory of Pathogen Discovery, Biology of Infection Unit, Inserm U1117, Paris, France"
+        ],
+        "Jean-Fran\u00e7ois Cosson": [
+            "INRA, UMR CBGP (INRA / IRD / Cirad / Montpellier SupAgro), Montpellier, France"
+        ]
+    }
+}

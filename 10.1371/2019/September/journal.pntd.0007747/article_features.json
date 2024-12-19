@@ -1,0 +1,62 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007747",
+    "Published": "September 20, 2019",
+    "Subject_Areas": [
+        "Zika virus",
+        "Dengue virus",
+        "Enzyme-linked immunoassays",
+        "Cross reactivity",
+        "Antibodies",
+        "Recombinant proteins",
+        "Arboviruses",
+        "Flaviviruses"
+    ],
+    "Authors": {
+        "Jessica Denis": [
+            "Unit\u00e9 de Bioth\u00e9rapies anti-Infectieuses et Immunit\u00e9, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, 1 place du G\u00e9n\u00e9ral Val\u00e9rie Andr\u00e9 BP73, Br\u00e9tigny-sur-Orge Cedex, France",
+            "Centre National de R\u00e9f\u00e9rence des Arbovirus, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Unit\u00e9 d\u2019Arbovirologie HIA Laveran, Marseille, France"
+        ],
+        "Sarah Attoumani": [
+            "Architecture et Fonction des Macromol\u00e9cules Biologiques, AFMB UMR 7257, Aix Marseille Universit\u00e9/CNRS \u2013 Case 932 163, Avenue de Luminy Marseille, France",
+            "Unit\u00e9 des Virus Emergents (UVE: Aix-Marseille Univ \u2013 IRD 190 \u2013 Inserm 1207 \u2013 IHU M\u00e9diterran\u00e9e Infection), Marseille, France"
+        ],
+        "Patrick Gravier": [
+            "Centre National de R\u00e9f\u00e9rence des Arbovirus, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Unit\u00e9 d\u2019Arbovirologie HIA Laveran, Marseille, France",
+            "Unit\u00e9 des Virus Emergents (UVE: Aix-Marseille Univ \u2013 IRD 190 \u2013 Inserm 1207 \u2013 IHU M\u00e9diterran\u00e9e Infection), Marseille, France"
+        ],
+        "Bernard Tenebray": [
+            "Centre National de R\u00e9f\u00e9rence des Arbovirus, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Unit\u00e9 d\u2019Arbovirologie HIA Laveran, Marseille, France",
+            "Unit\u00e9 des Virus Emergents (UVE: Aix-Marseille Univ \u2013 IRD 190 \u2013 Inserm 1207 \u2013 IHU M\u00e9diterran\u00e9e Infection), Marseille, France"
+        ],
+        "Annabelle Garnier": [
+            "Unit\u00e9 de Bioth\u00e9rapies anti-Infectieuses et Immunit\u00e9, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, 1 place du G\u00e9n\u00e9ral Val\u00e9rie Andr\u00e9 BP73, Br\u00e9tigny-sur-Orge Cedex, France"
+        ],
+        "S\u00e9bastien Briolant": [
+            "Unit\u00e9 de Parasitologie et Entomologie, D\u00e9partement des Maladies Infectieuses, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Marseille, France",
+            "Aix Marseille Universit\u00e9, IRD, AP-HM, SSA, UMR vecteurs \u2013 Infections Tropicales et M\u00e9diterran\u00e9ennes (VITROME), IHU \u2013 M\u00e9diterran\u00e9e Infection, Marseille, France"
+        ],
+        "Franck de Laval": [
+            "Service de Sant\u00e9 des Arm\u00e9es, Centre d\u2019Epid\u00e9miologie et de Sant\u00e9 Public des Arm\u00e9es, Marseille, France",
+            "Aix Marseille Universit\u00e9, INSERM, SESSTIM, Science Economique & Sociales de la Sant\u00e9 & Traitement de l\u2019Information M\u00e9dicale, Marseille, France"
+        ],
+        "V\u00e9ronique Chastres": [
+            "Unit\u00e9 Perception, D\u00e9partement Neuroscience et Sciences Cognitives, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, 1 place du G\u00e9n\u00e9ral Val\u00e9rie Andr\u00e9 BP73, Br\u00e9tigny-sur-Orge, France"
+        ],
+        "Gilda Grard": [
+            "Centre National de R\u00e9f\u00e9rence des Arbovirus, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Unit\u00e9 d\u2019Arbovirologie HIA Laveran, Marseille, France",
+            "Unit\u00e9 des Virus Emergents (UVE: Aix-Marseille Univ \u2013 IRD 190 \u2013 Inserm 1207 \u2013 IHU M\u00e9diterran\u00e9e Infection), Marseille, France"
+        ],
+        "Isabelle Leparc-Goffart": [
+            "Centre National de R\u00e9f\u00e9rence des Arbovirus, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Unit\u00e9 d\u2019Arbovirologie HIA Laveran, Marseille, France",
+            "Unit\u00e9 des Virus Emergents (UVE: Aix-Marseille Univ \u2013 IRD 190 \u2013 Inserm 1207 \u2013 IHU M\u00e9diterran\u00e9e Infection), Marseille, France"
+        ],
+        "Bruno Coutard": [
+            "Architecture et Fonction des Macromol\u00e9cules Biologiques, AFMB UMR 7257, Aix Marseille Universit\u00e9/CNRS \u2013 Case 932 163, Avenue de Luminy Marseille, France",
+            "Unit\u00e9 des Virus Emergents (UVE: Aix-Marseille Univ \u2013 IRD 190 \u2013 Inserm 1207 \u2013 IHU M\u00e9diterran\u00e9e Infection), Marseille, France"
+        ],
+        "Cyril Badaut": [
+            "Unit\u00e9 de Bioth\u00e9rapies anti-Infectieuses et Immunit\u00e9, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, 1 place du G\u00e9n\u00e9ral Val\u00e9rie Andr\u00e9 BP73, Br\u00e9tigny-sur-Orge Cedex, France",
+            "Centre National de R\u00e9f\u00e9rence des Arbovirus, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Unit\u00e9 d\u2019Arbovirologie HIA Laveran, Marseille, France"
+        ]
+    }
+}

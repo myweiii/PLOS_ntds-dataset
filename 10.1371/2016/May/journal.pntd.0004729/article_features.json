@@ -1,0 +1,181 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0004729",
+    "Published": "May 24, 2016",
+    "Subject_Areas": [
+        "Cryptosporidium",
+        "Diarrhea",
+        "Cryptosporidium parvum",
+        "Cardiobacterium hominis",
+        "Public and occupational health",
+        "Medical risk factors",
+        "Children",
+        "Infants"
+    ],
+    "Authors": {
+        "Samba O. Sow": [
+            "Centre pour le D\u00e9veloppement des Vaccins, Bamako, Mali"
+        ],
+        "Khitam Muhsen": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Dilruba Nasrin": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "William C. Blackwelder": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Yukun Wu": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Emergent Biosolutions, Gaithersburg, Maryland, United States of America"
+        ],
+        "Tamer H. Farag": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Sandra Panchalingam": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Dipika Sur": [
+            "National Institute of Cholera and Enteric Diseases, Kolkata, India"
+        ],
+        "Anita K. M. Zaidi": [
+            "Department of Paediatrics and Child Health, the Aga Khan University, Karachi, Pakistan"
+        ],
+        "Abu S. G. Faruque": [
+            "International Centre for Diarrhoeal Disease Research, Mohakhali, Dhaka, Bangladesh"
+        ],
+        "Debasish Saha": [
+            "Medical Research Council (United Kingdom) Unit, Fajara, Gambia",
+            "GSK Vaccines, Wavre, Belgium"
+        ],
+        "Richard Adegbola": [
+            "Medical Research Council (United Kingdom) Unit, Fajara, Gambia",
+            "GSK Vaccines, Wavre, Belgium"
+        ],
+        "Pedro L. Alonso": [
+            "Centro de Investiga\u00e7\u00e3o em Sa\u00fade da Manhi\u00e7a, Maputo, Mozambique",
+            "Instituto Nacional de Sa\u00fade, Minist\u00e9rio de Sa\u00fade, Maputo, Mozambique",
+            "ISGlobal, Barcelona Ctr. Int. Health Res. (CRESIB), Hospital Cl\u00ednic\u2014Universitat de Barcelona, Barcelona, Spain"
+        ],
+        "Robert F. Breiman": [
+            "Global Disease Detection Division, Kenya Office of the US Centers for Disease Control and Prevention, Nairobi, Kenya"
+        ],
+        "Quique Bassat": [
+            "Centro de Investiga\u00e7\u00e3o em Sa\u00fade da Manhi\u00e7a, Maputo, Mozambique",
+            "ISGlobal, Barcelona Ctr. Int. Health Res. (CRESIB), Hospital Cl\u00ednic\u2014Universitat de Barcelona, Barcelona, Spain"
+        ],
+        "Boubou Tamboura": [
+            "Centre pour le D\u00e9veloppement des Vaccins, Bamako, Mali"
+        ],
+        "Doh Sanogo": [
+            "Centre pour le D\u00e9veloppement des Vaccins, Bamako, Mali"
+        ],
+        "Uma Onwuchekwa": [
+            "Centre pour le D\u00e9veloppement des Vaccins, Bamako, Mali"
+        ],
+        "Byomkesh Manna": [
+            "National Institute of Cholera and Enteric Diseases, Kolkata, India"
+        ],
+        "Thandavarayan Ramamurthy": [
+            "National Institute of Cholera and Enteric Diseases, Kolkata, India"
+        ],
+        "Suman Kanungo": [
+            "National Institute of Cholera and Enteric Diseases, Kolkata, India"
+        ],
+        "Shahnawaz Ahmed": [
+            "International Centre for Diarrhoeal Disease Research, Mohakhali, Dhaka, Bangladesh"
+        ],
+        "Shahida Qureshi": [
+            "Department of Paediatrics and Child Health, the Aga Khan University, Karachi, Pakistan"
+        ],
+        "Farheen Quadri": [
+            "Department of Paediatrics and Child Health, the Aga Khan University, Karachi, Pakistan"
+        ],
+        "Anowar Hossain": [
+            "International Centre for Diarrhoeal Disease Research, Mohakhali, Dhaka, Bangladesh"
+        ],
+        "Sumon K. Das": [
+            "International Centre for Diarrhoeal Disease Research, Mohakhali, Dhaka, Bangladesh"
+        ],
+        "Martin Antonio": [
+            "Medical Research Council (United Kingdom) Unit, Fajara, Gambia"
+        ],
+        "M. Jahangir Hossain": [
+            "Medical Research Council (United Kingdom) Unit, Fajara, Gambia"
+        ],
+        "Inacio Mandomando": [
+            "Centro de Investiga\u00e7\u00e3o em Sa\u00fade da Manhi\u00e7a, Maputo, Mozambique",
+            "Instituto Nacional de Sa\u00fade, Minist\u00e9rio de Sa\u00fade, Maputo, Mozambique"
+        ],
+        "Tacilta Nhampossa": [
+            "Centro de Investiga\u00e7\u00e3o em Sa\u00fade da Manhi\u00e7a, Maputo, Mozambique",
+            "Instituto Nacional de Sa\u00fade, Minist\u00e9rio de Sa\u00fade, Maputo, Mozambique"
+        ],
+        "Sozinho Ac\u00e1cio": [
+            "Centro de Investiga\u00e7\u00e3o em Sa\u00fade da Manhi\u00e7a, Maputo, Mozambique",
+            "Instituto Nacional de Sa\u00fade, Minist\u00e9rio de Sa\u00fade, Maputo, Mozambique"
+        ],
+        "Richard Omore": [
+            "Kenya Medical Research Institute/Centers for Disease Control and Prevention, Kisumu, Kenya"
+        ],
+        "Joseph O. Oundo": [
+            "Kenya Medical Research Institute/Centers for Disease Control and Prevention, Kisumu, Kenya"
+        ],
+        "John B. Ochieng": [
+            "Kenya Medical Research Institute/Centers for Disease Control and Prevention, Kisumu, Kenya"
+        ],
+        "Eric D. Mintz": [
+            "Division of Foodborne, Waterborne and Environmental Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Ciara E. O\u2019Reilly": [
+            "Division of Foodborne, Waterborne and Environmental Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America"
+        ],
+        "Lynette Y. Berkeley": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Sofie Livio": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Sharon M. Tennant": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Halvor Sommerfelt": [
+            "Centre of Intervention Science in Maternal and Child Health, Centre for International Health, University of Bergen, Bergen, and Department of International Public Health, Norwegian Institute of Public Health, Oslo, Norway"
+        ],
+        "James P. Nataro": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Tomer Ziv-Baran": [
+            "Department of Epidemiology and Preventive Medicine, School of Public Health, Sackler Faculty of Medicine, Tel Aviv University, Ramat Aviv, Israel"
+        ],
+        "Roy M. Robins-Browne": [
+            "Department of Microbiology and Immunology, The University of Melbourne, Murdoch Children\u2019s Research Institute, Royal Children's Hospital, Parkville, Victoria, Australia"
+        ],
+        "Vladimir Mishcherkin": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Jixian Zhang": [
+            "Division of Infectious Diseases and International Health, Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Jie Liu": [
+            "Division of Infectious Diseases and International Health, Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Eric R. Houpt": [
+            "Division of Infectious Diseases and International Health, Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Karen L. Kotloff": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Pediatrics, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Myron M. Levine": [
+            "Center for Vaccine Development, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ]
+    }
+}

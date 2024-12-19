@@ -1,0 +1,1 @@
+We gratefully acknowledge the work of Steve Williams and his group at Smith College for their work on the design of qPCR pooling techniques that underlies the current work.

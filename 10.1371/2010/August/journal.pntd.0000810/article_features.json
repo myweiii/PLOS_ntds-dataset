@@ -1,0 +1,25 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0000810",
+    "Published": "August 31, 2010",
+    "Subject_Areas": [
+        "Trypanosoma brucei gambiense",
+        "Genetic networks",
+        "Microarrays",
+        "Leishmania infantum",
+        "Gene prediction",
+        "Post-transcriptional gene regulation",
+        "Untranslated regions",
+        "Gene expression"
+    ],
+    "Authors": {
+        "Hamed Shateri Najafabadi": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "McGill Centre for Bioinformatics, McGill University, Montreal, Quebec, Canada"
+        ],
+        "Reza Salavati": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "McGill Centre for Bioinformatics, McGill University, Montreal, Quebec, Canada",
+            "Department of Biochemistry, McGill University, Montreal, Quebec, Canada"
+        ]
+    }
+}

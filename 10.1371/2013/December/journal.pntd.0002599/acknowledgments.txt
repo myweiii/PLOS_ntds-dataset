@@ -1,0 +1,1 @@
+We thank Dr. Robert E.W. Hancock (University of British Columbia) for providing the E. coli S17-1 λ-pir (pUTmini-Tn5-luxCDABE-Tc) as a gift. We also thank Dr. Justin Nodwell (McMaster University) for providing luxCDABE codon-optimized for Streptomyces coelicolor and useful information. We thank Dr. Rokeya Tasneen for technical assistance.

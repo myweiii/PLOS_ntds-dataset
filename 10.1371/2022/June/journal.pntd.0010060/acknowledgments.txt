@@ -1,0 +1,1 @@
+The authors acknowledge Fausto Gonçalves and the Bioinformatics Platform of René Rachou Institute for providing the computational resources to perform the analysis and Dr. Brian Haas from Broad Institute for his kind assistance with the use of Trinity software. LNI and LIT are members of Argentinean Network for the Research in Pesticide Resistance (RAREP).

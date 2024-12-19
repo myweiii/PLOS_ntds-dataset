@@ -1,0 +1,1 @@
+All RNA sequencing was performed at the University of Maryland Institute for Bioscience and Biotechnology Research sequencing core. Additional help on immunoglobulin sequencing software and usage with total RNA-seq data was acquired from Jason Vander Heiden and Ruoyi Jiang (Yale University).

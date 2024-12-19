@@ -1,0 +1,1 @@
+Barry Alto, Krijn Paaijmans, Francis Ezeakacha, and Helene Delatte kindly provided raw data used in the analyses. We gratefully acknowledge the Centers for Disease Control and Prevention Epidemic Predictions Initiative (CDC EPI) for collating and sharing the Zika incidence data on GitHub (https://zenodo.org/record/48946#.Vz-EM2bb8ys).

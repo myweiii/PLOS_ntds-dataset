@@ -1,0 +1,22 @@
+We would like to thank all authors and the administrators of the GISAID database, allowing this genomic epidemiology study to be properly conducted. A full list of acknowledgment is available in S3 Table. A list acknowledging those from different institutions that participated in this study follows below:
+
+Workgroup members
+
+LABIMOL/ENDEMIAS/UFPB
+Álisson Emannuel Franco Alves, Ana Beatriz Rodrigues dos Santos, Brena Ferreira dos Santos, Bruno Henrique Andrade Galvão, Daniela Letícia Torres da Silva, Fabio Marcel da Silva Santos, Fabrine Felipe Hilário, Gabriel Rodrigues Martins de Freitas, Marília Gabriela dos Santos Cavalcanti, Mayara Karla dos Santos Nunes, Moises Dantas Cartaxo de Abreu Pereira, Naiara Naiana Dejani, Sandrelli Meridiana de Fátima Ramos dos Santos Medeiros, Sergio Dias da Costa Junior, Talita Nayara Bezerra Lins, Wallace Felipe Blohem Pessoa
+
+
+LAFEM/UESC
+Mylene de Melo Silva, Renato Fontana, Renata Santiago Alberto Carlos, Galileu Barbosa Costa, Hllytchaikra Ferraz Fehlberg, Amanda Teixeira Sampaio Lopes, Íris Terezinha Santos de Santana, Fabrício Barbosa Ferreira, Luciano Cardoso Santos, Luane Etienne Barreto, Pérola Rodrigues dos Santos, Laíne Lopes Silva de Jesus, Thiago Silva Gonçalves, Gabriela Andrade Coelho Dias
+
+
+POLICLÍNICA PIQUET CARNEIRO/UERJ
+Kennedy Martins Kirk, Claudia Henrique da Costa, Rogerio Rufino, Claudia Henrique da Costa, Renata Salles Miraldi Oliveira, Gabriella da Silva Alves, Allan Motta Leal Pontes, Sandra Pereira C. Vilas Boas, Vania Maria Almeida de Souza, Vinícius Miranda Porto, Jeane de Souza Nogueira.
+
+
+DACT/CCS/CB/IMT/UFRN
+Igor de Farias Domingos, Antonia Cláudia J. Câmara, Ivanise M. Moretti Rebecchi, Ana Cláudia G. Freire, Marcela A. Galvão Ururahy, Vivian N. Silbiger, André D. Luchessi, Antonnyo P. D. Lima, Thiala S. J. da Silva Parente, Carlos R. do Nascimento Brito, Kátia Castanho Scortecci, Susana M. Gomes Moreira, Daniella R. A. Martins Salha, Leonardo C. Ferreira, Waleska R. D. B. de Medeiros, Dayse Santos Arimateia, Arthur R. de Araújo Oliveira, Fernanda M. de Azevedo, João F. Rodrigues Neto, Glória Regina de Gois Monteiro, Paulo Ricardo P. do Nascimento, Ingryd Camara Morais, Francisco Paulo Freire Neto, Eliana L. Tomaz Nascimento, Iara Marques Medeiros, Ana Rafaela de Souza Timóteo.
+
+
+LNCC/MCTI
+Luciane Prioli Ciapina, Rangel Celso Souza, Éllen dos Santos Correa, Guilherme Cordenonsi da Fonseca, Vinícius Prata Klôh, Eduardo Wagner.

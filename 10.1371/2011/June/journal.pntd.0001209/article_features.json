@@ -1,0 +1,28 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0001209",
+    "Published": "June 28, 2011",
+    "Subject_Areas": [
+        "Lectins",
+        "Entamoeba histolytica",
+        "Gene conversion",
+        "Sequence alignment",
+        "Multiple alignment calculation",
+        "Genomics",
+        "Phylogenetic analysis",
+        "Nucleotide sequencing"
+    ],
+    "Authors": {
+        "Gareth D. Weedall": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "James Sherrington": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Steve Paterson": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Neil Hall": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool, United Kingdom"
+        ]
+    }
+}

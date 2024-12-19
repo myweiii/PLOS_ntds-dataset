@@ -1,0 +1,1 @@
+We would like to thank Stephanie Thomas and Nils Tjaden (Dept. Biogeography, University of Bayreuth, Bayreuth, Germany) for introduction to and support in the modelling part. Many thanks also to Mohammad Akhoundi and Jan Votýpka for very helpful discussion concerning the selection of the most relevant bioclimatic variables for modelling.

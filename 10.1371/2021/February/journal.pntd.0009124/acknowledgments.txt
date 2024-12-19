@@ -1,0 +1,1 @@
+We would like to thank Jacob Buete for his contribution to the initial development of the rabies spread model in Python.

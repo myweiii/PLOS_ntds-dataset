@@ -1,0 +1,30 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0002682",
+    "Published": "February 6, 2014",
+    "Subject_Areas": [
+        "Towns",
+        "Plasmodium",
+        "Malaria",
+        "Human mobility",
+        "Mosquitoes",
+        "Machine learning",
+        "Recurrent neural networks",
+        "Roads"
+    ],
+    "Authors": {
+        "Benyun Shi": [
+            "Department of Computer Science, Hong Kong Baptist University, Kowloon Tong, Hong Kong"
+        ],
+        "Jiming Liu": [
+            "Department of Computer Science, Hong Kong Baptist University, Kowloon Tong, Hong Kong"
+        ],
+        "Xiao-Nong Zhou": [
+            "National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention, Shanghai, China",
+            "Key Laboratory of Parasite and Vector Biology, MOH, Shanghai, China",
+            "WHO Collaborating Center for Malaria, Schistosomiasis and Filariasis, Shanghai, China"
+        ],
+        "Guo-Jing Yang": [
+            "Jiangsu Institute of Parasitic Diseases, Wuxi, Jiangsu, China"
+        ]
+    }
+}

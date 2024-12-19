@@ -1,0 +1,1 @@
+We acknowledge Kebba Touray for technical assistance with GIS and Mark Achtman for the use of the Salmonella MLST database [30], which is hosted at the University College Cork and funded by the Science Foundation of Ireland (05/FE1/B882).

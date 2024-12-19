@@ -1,0 +1,67 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008849",
+    "Published": "October 27, 2020",
+    "Subject_Areas": [
+        "Linear discriminant analysis",
+        "Mass spectra",
+        "Ixodes",
+        "Principal component analysis",
+        "Arthropoda",
+        "Ticks",
+        "Libraries",
+        "Machine learning algorithms"
+    ],
+    "Authors": {
+        "Rolando A. Gittens": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama",
+            "Centro de Neurociencias, INDICASAT AIP, Panama, Republic of Panama"
+        ],
+        "Alejandro Almanza": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama"
+        ],
+        "Kelly L. Bennett": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama",
+            "Smithsonian Tropical Research Institute, Panama, Republic of Panama"
+        ],
+        "Luis C. Mej\u00eda": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama",
+            "Smithsonian Tropical Research Institute, Panama, Republic of Panama"
+        ],
+        "Javier E. Sanchez-Galan": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama",
+            "Grupo de Investigaci\u00f3n en Biotecnolog\u00eda, Bioinform\u00e1tica y Biolog\u00eda de Sistemas, Facultad de Ingenier\u00eda de Sistemas Computacionales, Universidad Tecnol\u00f3gica de Panam\u00e1, Panama, Republic of Panama"
+        ],
+        "Fernando Merchan": [
+            "Grupo de Investigaci\u00f3n en Sistemas de Comunicaciones Digitales Avanzados, Facultad de Ingenier\u00eda El\u00e9ctrica, Universidad Tecnol\u00f3gica de Panam\u00e1, Panama, Republic of Panama"
+        ],
+        "Jonathan Kern": [
+            "Grupo de Investigaci\u00f3n en Sistemas de Comunicaciones Digitales Avanzados, Facultad de Ingenier\u00eda El\u00e9ctrica, Universidad Tecnol\u00f3gica de Panam\u00e1, Panama, Republic of Panama",
+            "ENSEIRB-MATMECA\u2013Bordeaux INP, France"
+        ],
+        "Matthew J. Miller": [
+            "Department of Anthropology, Pennsylvania State University, University Park, PA, United States of America",
+            "University of Alaska Museum, University of Alaska Fairbanks, Fairbanks, AK, United States of America"
+        ],
+        "Helen J. Esser": [
+            "Department of Environmental Sciences, Wageningen University, Wageningen, the Netherlands"
+        ],
+        "Robert Hwang": [
+            "Department of Biology, Swarthmore College, Swarthmore, PA, United States of America"
+        ],
+        "May Dong": [
+            "Department of Biology, Swarthmore College, Swarthmore, PA, United States of America"
+        ],
+        "Luis F. De Le\u00f3n": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama",
+            "Department of Biology, University of Massachusetts Boston, Boston, MA, United States of America"
+        ],
+        "Eric \u00c1lvarez": [
+            "Programa Centroamericano de Maestr\u00eda en Entomolog\u00eda, Universidad de Panam\u00e1, Panama, Republic of Panama"
+        ],
+        "Jose R. Loaiza": [
+            "Centro de Biodiversidad y Descubrimiento de Drogas, Instituto de Investigaciones Cient\u00edficas y Servicios de Alta Tecnolog\u00eda (INDICASAT AIP), Panama, Republic of Panama",
+            "Smithsonian Tropical Research Institute, Panama, Republic of Panama",
+            "Programa Centroamericano de Maestr\u00eda en Entomolog\u00eda, Universidad de Panam\u00e1, Panama, Republic of Panama"
+        ]
+    }
+}

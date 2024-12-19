@@ -1,0 +1,1 @@
+The authors would like to thank Vincent Dive (Service d'Ingénierie Moléculaire des Protéines, France) for his kind gift of ACE2 inhibitor 28FII. We also thank Neil D. Rawlings for his help with MEROPS, Mohammed Sajid (Leiden University Medical Center, The Netherlands), John Irwin (UCSF), and Susan Miller (UCSF) for useful discussions.

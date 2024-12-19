@@ -1,0 +1,1 @@
+The authors thank Dr. Olivier Cloarec for providing the MATLAB script for O-PLS-DA and STOCSY analysis and Mr. Kirill Veselkov for giving access to his peak alignment and normalization script in MATLAB.

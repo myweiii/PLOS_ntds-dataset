@@ -1,0 +1,16 @@
+Why was this study done?
+
+Flavivirus infections pose a significant global health burden, underscoring the need for the development of safe and effective vaccination strategies
+Co-administration of different vaccines, including flavivirus vaccines, saves time and visits to health care units and vaccine clinics. It serves to provide protection against multiple pathogens in a shorter time-span; e.g., for individuals travelling to different endemic areas
+Safety and immunogenicity-related responses have not been appropriately evaluated upon co-administration of many vaccines including currently used flavivirus vaccines, such as yellow fever virus (YFV), tick-borne encephalitis virus (TBEV), and Japanese encephalitis virus (JE) virus vaccines
+Because of this, we performed an open label, non-randomized clinical trial studying the safety and immunogenicity following co-administration of YFV vaccine with TBEV and JEV vaccines
+
+
+What did the researchers find?
+
+Adverse events, neutralizing antibodies (nAbs) and other related immunological parameters were not detrimentally affected by concomitant delivery of the vaccines
+Concomitant vaccination in the same versus different upper arms of study participants did not significantly affect safety or immunogenicity outcomes
+
+
+What do these findings mean?
+Co-administration of YFV vaccine and TBEV or JEV vaccines is feasible without increased risk of adverse events or reduced development of nAbs against the respective viruses.

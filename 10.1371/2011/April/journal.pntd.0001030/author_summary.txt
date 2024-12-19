@@ -1,0 +1,18 @@
+The retrovirus, Human T lymphotropic virus type 1 (HTLV-1) infects 10–20
+                    million people worldwide. The majority of infected individuals are asymptomatic;
+                    however, approximately 3% develop the debilitating neurological disease,
+                    HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). There is
+                    also currently no cure, vaccine or effective therapy for HTLV-1 infection. The
+                    precise role of CD8+ killer T cells in the control or contribution of
+                    HTLV-1 disease progression remains unclear. The T-cell immunoglobulin mucin
+                    domain-containing (Tim) proteins are type 1 transmembrane proteins. Three human
+                    Tim proteins (Tim-1, -3, and -4) exist and display markedly diverse expression
+                    patterns and functions. Tim-3 is upregulated on CD8+ T cells
+                    during chronic viral infections leading to a population of poorly functioning T
+                    cells. We investigated the expression of Tim-3 on T cells from patients with
+                    asymptomatic and symptomatic HTLV-1 infection and compared this with HTLV-1
+                    uninfected donors. Patients diagnosed with HAM/TSP down-regulated Tim-3
+                    expression on T cells when compared to asymptomatic patients and uninfected
+                    controls. Our study provides evidence of a novel mechanism for the persistent
+                    inflammation observed in HTLV-1 infected patients with neurological deficits and
+                    significantly advances our understanding of how the Tim-3 pathway functions.

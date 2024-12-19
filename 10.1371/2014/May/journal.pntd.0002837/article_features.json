@@ -1,0 +1,42 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0002837",
+    "Published": "May 1, 2014",
+    "Subject_Areas": [
+        "Schistosoma japonicum",
+        "Protein domains",
+        "Sequence alignment",
+        "Drug interactions",
+        "Point mutation",
+        "Polymerase chain reaction",
+        "Cloning",
+        "Plasmid construction"
+    ],
+    "Authors": {
+        "Pengfei Cai": [
+            "MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, The Peoples Republic of China",
+            "Department of Microbiology and Parasitology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & School of Basic Medicine, Peking Union Medical College, Beijing, The Peoples Republic of China"
+        ],
+        "Yi Mu": [
+            "National Key Laboratory of Medical Molecular Biology, Department of Physiology and Pathophysiology, School of Basic Medicine, Peking Union Medical College, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences, Beijing, The Peoples Republic of China"
+        ],
+        "Xianyu Piao": [
+            "MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, The Peoples Republic of China"
+        ],
+        "Nan Hou": [
+            "MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, The Peoples Republic of China"
+        ],
+        "Shuai Liu": [
+            "MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, The Peoples Republic of China"
+        ],
+        "Youhe Gao": [
+            "National Key Laboratory of Medical Molecular Biology, Department of Physiology and Pathophysiology, School of Basic Medicine, Peking Union Medical College, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences, Beijing, The Peoples Republic of China"
+        ],
+        "Heng Wang": [
+            "Department of Microbiology and Parasitology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & School of Basic Medicine, Peking Union Medical College, Beijing, The Peoples Republic of China"
+        ],
+        "Qijun Chen": [
+            "MOH Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, The Peoples Republic of China",
+            "Key Laboratory of Zoonosis, Ministry of Education, Institute of Zoonosis, Jilin University, Changchun, The Peoples Republic of China"
+        ]
+    }
+}

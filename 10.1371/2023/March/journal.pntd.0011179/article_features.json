@@ -1,0 +1,41 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011179",
+    "Published": "March 13, 2023",
+    "Subject_Areas": [
+        "Diarrhea",
+        "Seasons",
+        "Bacterial pathogens",
+        "Viral pathogens",
+        "Cryptosporidium",
+        "Rotavirus",
+        "Seasonal variations",
+        "Campylobacter"
+    ],
+    "Authors": {
+        "Sointu Mero": [
+            "Human Microbiome Research Program, Faculty of Medicine, University of Helsinki, Helsinki, Finland",
+            "Meilahti Infectious Diseases and Vaccine Research Center, MeiVac, Department of Infectious Diseases, University of Helsinki and Helsinki University Hospital, Helsinki, Finland"
+        ],
+        "Tinja L\u00e4\u00e4veri": [
+            "Meilahti Infectious Diseases and Vaccine Research Center, MeiVac, Department of Infectious Diseases, University of Helsinki and Helsinki University Hospital, Helsinki, Finland",
+            "Department of Computer Science, Aalto University, Espoo, Finland"
+        ],
+        "Johan Ursing": [
+            "Department of Infectious Diseases, Danderyds Hospital, Stockholm, Sweden",
+            "Department of Clinical Science, Karolinska Institutet, Danderyd Hospital, Stockholm, Sweden",
+            "Bandim Health Project, Indepth Network, Bissau, Guinea-Bissau"
+        ],
+        "Lars Rombo": [
+            "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden",
+            "Centre for Clinical Research, S\u00f6rmland County Council, Eskilstuna, Sweden and Uppsala University, Uppsala, Sweden"
+        ],
+        "Poul-Erik Kofoed": [
+            "Bandim Health Project, Indepth Network, Bissau, Guinea-Bissau",
+            "Department of Paediatrics and Adolescent Medicine, Lillebaelt Hospital, University Hospital of Southern Denmark, Kolding, Denmark"
+        ],
+        "Anu Kantele": [
+            "Human Microbiome Research Program, Faculty of Medicine, University of Helsinki, Helsinki, Finland",
+            "Meilahti Infectious Diseases and Vaccine Research Center, MeiVac, Department of Infectious Diseases, University of Helsinki and Helsinki University Hospital, Helsinki, Finland"
+        ]
+    }
+}

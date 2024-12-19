@@ -1,0 +1,25 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0005470",
+    "Published": "March 22, 2017",
+    "Subject_Areas": [
+        "Vaccine development",
+        "Epidemiology",
+        "Cluster trials",
+        "Vaccines",
+        "Disease dynamics",
+        "Ebola hemorrhagic fever",
+        "Infectious disease epidemiology",
+        "Simulation and modeling"
+    ],
+    "Authors": {
+        "Matt David Thomas Hitchings": [
+            "Center for Communicable Disease Dynamics, Harvard T. H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Rebecca Freeman Grais": [
+            "Epicentre, Paris, France"
+        ],
+        "Marc Lipsitch": [
+            "Center for Communicable Disease Dynamics, Harvard T. H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ]
+    }
+}

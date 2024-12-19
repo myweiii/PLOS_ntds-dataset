@@ -1,0 +1,5 @@
+{
+    "Background": "Eumycetoma is a neglected tropical disease most commonly caused by the fungus Madurella mycetomatis. Identification of eumycetoma causative agents can only be reliably performed by molecular identification, most commonly by species-specific PCR. The current M. mycetomatis specific PCR primers were recently discovered to cross-react with Madurella pseudomycetomatis. Here, we used a comparative genome approach to develop a new M. mycetomatis specific PCR for species identification.",
+    "Methodology": "Predicted-protein coding sequences unique to M. mycetomatis were first identified in BLASTCLUST based on E-value, size and presence of orthologues. Primers were then developed for 16 unique sequences and evaluated against 60 M. mycetomatis isolates and other eumycetoma causing agents including the Madurella sibling species. Out of the 16, only one was found to be specific to M. mycetomatis.",
+    "Conclusion": "We have discovered a predicted-protein coding sequence unique to M. mycetomatis and have developed a new species-specific PCR to be used as a novel diagnostic marker for M. mycetomatis."
+}

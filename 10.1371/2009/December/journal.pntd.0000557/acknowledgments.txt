@@ -1,0 +1,1 @@
+We thank Dr. Cybele Gargioni, Instituto Adolfo Lutz, São Paulo, for supplying freshly perfused S. mansoni adult worms and Yuri J. C. B. Moreira for writing dedicated R-scripts and for the installation of PhredPhrap software. Technical assistance from Renato Alvarenga is acknowledged.

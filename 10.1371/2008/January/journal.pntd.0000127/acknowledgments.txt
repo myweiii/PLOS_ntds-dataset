@@ -1,0 +1,1 @@
+We acknowledge S. Michael and C. Klumpp for assistance with the automated screening, Esther Dubrovsky for technical assistance, and Angela N. Kuntz for assistance with enzyme preparation. The quantitative high-throughput screening dataset has been deposited in PubChem under Assay ID 448.

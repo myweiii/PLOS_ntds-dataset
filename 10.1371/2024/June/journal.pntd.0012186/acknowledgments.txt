@@ -1,0 +1,1 @@
+Sandy Lindsay and Allyson Graves from the University of Tennessee, Knoxville were invaluable in negotiating and executing data use agreements. Dr. Jennifer Lord, also from the University of Tennessee, Knoxville, provided valuable assistance with implementing the SAS macro for the negative binomial geographically weighted regression model.

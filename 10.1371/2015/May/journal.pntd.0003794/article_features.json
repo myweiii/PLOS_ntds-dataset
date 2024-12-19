@@ -1,0 +1,60 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0003794",
+    "Published": "May 29, 2015",
+    "Subject_Areas": [
+        "Vaccination and immunization",
+        "Vaccines",
+        "Liberia",
+        "Sierra Leone",
+        "Clustering coefficients",
+        "Epidemiology",
+        "Vaccine development",
+        "Ebola hemorrhagic fever"
+    ],
+    "Authors": {
+        "Chad Wells": [
+            "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ],
+        "Dan Yamin": [
+            "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ],
+        "Martial L. Ndeffo-Mbah": [
+            "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ],
+        "Natasha Wenzel": [
+            "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ],
+        "Stephen G. Gaffney": [
+            "Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ],
+        "Jeffrey P. Townsend": [
+            "Department of Biostatistics, Yale School of Public Health, New Haven, Connecticut, United States of America,",
+            "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut, United States of America,",
+            "Department of Ecology and Evolutionary Biology, Yale University, New Haven, Connecticut, United States of America,"
+        ],
+        "Lauren Ancel Meyers": [
+            "Department of Integrative Biology, University of Texas at Austin, Austin, Texas, United States of America,",
+            "Santa Fe Institute, Santa Fe, New Mexico, United States of America,"
+        ],
+        "Mosoka Fallah": [
+            "Ministry of Health and Social Welfare, Monrovia, Liberia,"
+        ],
+        "Tolbert G. Nyenswah": [
+            "Ministry of Health and Social Welfare, Monrovia, Liberia,"
+        ],
+        "Frederick L. Altice": [
+            "Section of Infectious Diseases, Yale University School of Medicine, New Haven, Connecticut, United States of America,",
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ],
+        "Katherine E. Atkins": [
+            "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, Connecticut, United States of America,",
+            "Centre for Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London, United Kingdom"
+        ],
+        "Alison P. Galvani": [
+            "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, Connecticut, United States of America,",
+            "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut, United States of America,",
+            "Department of Ecology and Evolutionary Biology, Yale University, New Haven, Connecticut, United States of America,",
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America,"
+        ]
+    }
+}

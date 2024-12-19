@@ -1,0 +1,1 @@
+We are grateful to the Onchocerciasis Control Programme, Ministry of Public Health and Hygiene in Côte d’Ivoire for making available survey data used in this work. We thank Jorge Cano and Claudio Fronterrè for writing some of the original code which was adapted for this analysis.

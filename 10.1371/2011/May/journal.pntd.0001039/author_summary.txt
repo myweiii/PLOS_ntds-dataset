@@ -1,0 +1,14 @@
+Strongyloides stercoralis is a soil-transmitted helminth that
+               affects an estimated 30–100 million people worldwide. Chronically infected
+               persons who are exposed to corticosteroids can develop disseminated disease, which
+               carries a high mortality (87–100%) if untreated. Despite this, little is
+               known about the fundamental biology of this parasite, including the features that
+               enable infection. We developed the first DNA microarray for this parasite and used it
+               to compare infective third-stage larvae (L3i) with non-infective first stage larvae
+               (L1). Using this method, we identified 935 differentially expressed genes. Functional
+               characterization of these genes revealed L3i biased expression of heat shock proteins
+               and genes with products that have previously been shown to be immunoreactive in
+               infected humans. Genes putatively involved in transcription were found to have L1
+               biased expression. Potential chemotherapeutic and vaccine targets such as
+                  far-1, ucr 2.1 and hsp-90 were
+               identified for further study.

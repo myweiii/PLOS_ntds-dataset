@@ -1,0 +1,43 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0004533",
+    "Published": "March 18, 2016",
+    "Subject_Areas": [
+        "Protein interaction networks",
+        "Mitochondria",
+        "Fractionation",
+        "Trypanosoma brucei gambiense",
+        "Protein interactions",
+        "Protein complexes",
+        "RNA editing",
+        "Protein extraction"
+    ],
+    "Authors": {
+        "Vahid H. Gazestani": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Najmeh Nikpour": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Vaibhav Mehta": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "Department of Biochemistry, McGill University, Montreal, Quebec, Canada"
+        ],
+        "Hamed S. Najafabadi": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "McGill Centre for Bioinformatics, McGill University, Montreal, Quebec, Canada"
+        ],
+        "Houtan Moshiri": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "Department of Biochemistry, McGill University, Montreal, Quebec, Canada"
+        ],
+        "Armando Jardim": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "Centre for Host-Parasite Interactions, Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada"
+        ],
+        "Reza Salavati": [
+            "Institute of Parasitology, McGill University, Ste. Anne de Bellevue, Quebec, Canada",
+            "Department of Biochemistry, McGill University, Montreal, Quebec, Canada",
+            "McGill Centre for Bioinformatics, McGill University, Montreal, Quebec, Canada"
+        ]
+    }
+}

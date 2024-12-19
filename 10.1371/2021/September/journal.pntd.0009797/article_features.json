@@ -1,0 +1,29 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0009797",
+    "Published": "September 23, 2021",
+    "Subject_Areas": [
+        "Gene expression",
+        "Trypanosoma",
+        "Infectious disease control",
+        "Tsetse fly",
+        "African trypanosomiasis",
+        "Machine learning",
+        "Disease vectors",
+        "Blood"
+    ],
+    "Authors": {
+        "Eric R. Lucas": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Alistair C. Darby": [
+            "Institute of Integrative Biology, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Stephen J. Torr": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Martin J. Donnelly": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom",
+            "Wellcome Sanger Institute, Cambridge, United Kingdom"
+        ]
+    }
+}

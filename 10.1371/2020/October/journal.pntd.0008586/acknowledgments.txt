@@ -1,0 +1,1 @@
+We greatly thank Marta Ponzi for suggestions and support in setting up the methodology and Elisabetta Pizzi for helping with bioinformatics analysis. The EchinoBiobank is a public repository available at the IRNASA-CSIC, Spain.

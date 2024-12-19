@@ -1,0 +1,8 @@
+Several million children are periodically dewormed to prevent the impairments to health and the economy caused by soil-transmitted helminths in endemic communities. It is important that managers of STH control programmes be able to anticipate the impact of the control measures on the prevalence of the diseases for two main purposes:
+
+
+
+to select the most appropriate intervention; and
+to be alerted in case of changes in prevalence that are less favourable than the expected values.
+
+We therefore developed a model that predicts such changes, and also included modifications to enable its use in cases where a limited amount of data is available (SM1 and SM2). We retrospectively tested the performances of the model on 26 control programmes comparing the prevalence predicted by the model with those observed during programme implementation: in 77% of cases the prevalence predicted by the original model was within five percentage points of the observed values (69% in SM1 and 60% in SM2). We consider the performances of these models to be satisfactory. We designed a free online software to facilitate the use of these models by programme managers who may not be confident with modelling procedures.

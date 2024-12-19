@@ -1,0 +1,1 @@
+Thanks to Scott Emrich for assistance in identifying conserved sequences in the A. aegypti and A. gambiae genomes. We thank Jacob Realey, Joe Roethele and Joi Misenti for their technical assistance and the Innovative Vector Control Consortium for useful discussions about this project.

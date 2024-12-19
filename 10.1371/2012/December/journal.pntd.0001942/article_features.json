@@ -1,0 +1,32 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0001942",
+    "Published": "December 6, 2012",
+    "Subject_Areas": [
+        "Proteases",
+        "Crystal structure",
+        "Trypanosoma brucei gambiense",
+        "Sequence alignment",
+        "Protein structure comparison",
+        "Protein structure networks",
+        "Protein structure",
+        "Protein structure databases"
+    ],
+    "Authors": {
+        "Susan T. Mashiyama": [
+            "Department of Bioengineering and Therapeutic Sciences, California Institute for Quantitative Biomedical Research (QB3), University of California San Francisco, San Francisco, California, United States of America",
+            "Center for Discovery and Innovation in Parasitic Diseases, and Department of Pathology, QB3, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Kyriacos Koupparis": [
+            "Center for Discovery and Innovation in Parasitic Diseases, and Department of Pathology, QB3, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Conor R. Caffrey": [
+            "Center for Discovery and Innovation in Parasitic Diseases, and Department of Pathology, QB3, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "James H. McKerrow": [
+            "Center for Discovery and Innovation in Parasitic Diseases, and Department of Pathology, QB3, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Patricia C. Babbitt": [
+            "Department of Bioengineering and Therapeutic Sciences, California Institute for Quantitative Biomedical Research (QB3), University of California San Francisco, San Francisco, California, United States of America"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0006794",
+    "Published": "November 12, 2018",
+    "Subject_Areas": [
+        "Parasitic diseases",
+        "Infectious disease epidemiology",
+        "Schistosomiasis",
+        "Simulation and modeling",
+        "Epidemiology",
+        "Parasitic life cycles",
+        "Parasitism",
+        "Neglected tropical diseases"
+    ],
+    "Authors": {
+        "Arathi Arakala": [
+            "Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia"
+        ],
+        "Christopher M. Hoover": [
+            "Division of Environmental Health Sciences, School of Public Health, University of California, Berkeley, California, United States of America"
+        ],
+        "John M. Marshall": [
+            "Division of Epidemiology and Biostatistics, School of Public Health, University of California, Berkeley, California, United States of America"
+        ],
+        "Susanne H. Sokolow": [
+            "Department of Biology\u2014Hopkins Marine Station, Stanford University, Pacific Grove, California, United States of America"
+        ],
+        "Giulio A. De Leo": [
+            "Department of Biology\u2014Hopkins Marine Station, Stanford University, Pacific Grove, California, United States of America"
+        ],
+        "Jason R. Rohr": [
+            "Department of Integrative Biology, University of Southern Florida, Tampa, Florida, United States of America"
+        ],
+        "Justin V. Remais": [
+            "Division of Environmental Health Sciences, School of Public Health, University of California, Berkeley, California, United States of America"
+        ],
+        "Manoj Gambhir": [
+            "Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia",
+            "Health Modelling and Analytics, IBM Research Australia, Melbourne, Australia"
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+The authors would like to acknowledge the very useful discussions with Simon Spencer and Panayiota Touloupou about linking transmission models to spatial maps of infection prevalence.

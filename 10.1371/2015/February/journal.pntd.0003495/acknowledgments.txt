@@ -1,0 +1,1 @@
+We thank Dr. Eric Beitz, University of Kiel, Germany, for the help with LaTeX macro packages TEXtopo and TEXshade. Compute infrastructure was provided by the Calcul Québec consortium, part of Compute Canada.

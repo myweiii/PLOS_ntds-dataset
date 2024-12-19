@@ -1,0 +1,60 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0006381",
+    "Published": "May 29, 2018",
+    "Subject_Areas": [
+        "Dengue virus",
+        "RNA extraction",
+        "Genomics",
+        "RNA analysis",
+        "Principal component analysis",
+        "Dengue fever",
+        "Flaviviruses",
+        "Sequence alignment"
+    ],
+    "Authors": {
+        "Benjamin Lopez-Jimena": [
+            "Institute of Aquaculture, University of Stirling, Stirling, Scotland, United Kingdom"
+        ],
+        "Micha\u00ebl Bekaert": [
+            "Institute of Aquaculture, University of Stirling, Stirling, Scotland, United Kingdom"
+        ],
+        "Mohammed Bakheit": [
+            "MAST Diagnostica GmbH, Reinfeld, Germany"
+        ],
+        "Sieghard Frischmann": [
+            "MAST Diagnostica GmbH, Reinfeld, Germany"
+        ],
+        "Pranav Patel": [
+            "Robert Koch Institute, Centre for biological security 1 (ZBS1), Berlin, Germany"
+        ],
+        "Etienne Simon-Loriere": [
+            "Functional Genetics of Infectious Diseases Unit, Department of Genomes and Genetics, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Recherche Associ\u00e9e, Paris, France"
+        ],
+        "Louis Lambrechts": [
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Recherche Associ\u00e9e, Paris, France",
+            "Insect-Virus Interactions Group, Department of Genomes and Genetics, Institut Pasteur, Paris, France"
+        ],
+        "Veasna Duong": [
+            "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia"
+        ],
+        "Philippe Dussart": [
+            "Virology Unit, Institut Pasteur du Cambodge, Institut Pasteur International Network, Phnom Penh, Cambodia"
+        ],
+        "Graham Harold": [
+            "Institute of Aquaculture, University of Stirling, Stirling, Scotland, United Kingdom"
+        ],
+        "Cheikh Fall": [
+            "Arbovirus and viral haemorrhagic fever unit, Institut Pasteur de Dakar, Institut Pasteur International Network, Dakar, Senegal"
+        ],
+        "Oumar Faye": [
+            "Arbovirus and viral haemorrhagic fever unit, Institut Pasteur de Dakar, Institut Pasteur International Network, Dakar, Senegal"
+        ],
+        "Amadou Alpha Sall": [
+            "Arbovirus and viral haemorrhagic fever unit, Institut Pasteur de Dakar, Institut Pasteur International Network, Dakar, Senegal"
+        ],
+        "Manfred Weidmann": [
+            "Institute of Aquaculture, University of Stirling, Stirling, Scotland, United Kingdom"
+        ]
+    }
+}

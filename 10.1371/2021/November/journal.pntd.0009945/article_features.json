@@ -1,0 +1,83 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0009945",
+    "Published": "November 12, 2021",
+    "Subject_Areas": [
+        "SARS CoV 2",
+        "COVID 19",
+        "Respiratory infections",
+        "Enzyme-linked immunoassays",
+        "Serology",
+        "Virus testing",
+        "Urban areas",
+        "Medical risk factors"
+    ],
+    "Authors": {
+        "Claude Flamand": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana",
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France"
+        ],
+        "Christelle Alves Sarmento": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "Antoine Enfissi": [
+            "Laboratory of Virology, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "Sarah Bailly": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "Emmanuel Beillard": [
+            "Medical Biology Laboratory, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "M\u00e9lanie Gaillet": [
+            "Health Centers Department, Cayenne Hospital Center, Cayenne, French Guiana"
+        ],
+        "C\u00e9line Michaud": [
+            "Health Centers Department, Cayenne Hospital Center, Cayenne, French Guiana"
+        ],
+        "V\u00e9ronique Servas": [
+            "Health Centers Department, Cayenne Hospital Center, Cayenne, French Guiana"
+        ],
+        "Nathalie Clement": [
+            "Clinical Core of the Center for Translational Sciences, Institut Pasteur, Paris, France"
+        ],
+        "Ana\u00efs Perilhou": [
+            "Clinical Core of the Center for Translational Sciences, Institut Pasteur, Paris, France"
+        ],
+        "Thierry Carage": [
+            "Carage Medical Biology Laboratory, Kourou, French Guiana"
+        ],
+        "Didier Musso": [
+            "Laboratoires Eurofins Labazur Guyane, Remire, French Guiana",
+            "Aix Marseille University, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection, Marseille, France"
+        ],
+        "Jean-fran\u00e7ois Carod": [
+            "Medical Biology laboratory, Centre Hospitalier de l\u2019Ouest Guyanais, Saint-Laurent du Maroni, French Guiana"
+        ],
+        "St\u00e9phanie Eustache": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "C\u00e9line Tourbillon": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "Elodie Boizon": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "Samantha James": [
+            "Epidemiology unit, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ],
+        "F\u00e9lix Djossou": [
+            "Infectious and Tropical Diseases Unit, Cayenne Hospital Center, Cayenne, French Guiana"
+        ],
+        "Henrik Salje": [
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France",
+            "Department of Genetics, University of Cambridge, Cambridge, United Kingdom",
+            "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America"
+        ],
+        "Simon Cauchemez": [
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France"
+        ],
+        "Dominique Rousset": [
+            "Laboratory of Virology, Institut Pasteur in French Guiana, Cayenne, French Guiana"
+        ]
+    }
+}

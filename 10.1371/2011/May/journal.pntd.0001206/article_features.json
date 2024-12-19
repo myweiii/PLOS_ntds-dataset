@@ -1,0 +1,31 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0001206",
+    "Published": "May 31, 2011",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Infectious disease surveillance",
+        "India",
+        "Internet",
+        "Bolivia",
+        "Singapore",
+        "Indonesia",
+        "Influenza"
+    ],
+    "Authors": {
+        "Emily H. Chan": [
+            "Children's Hospital Informatics Program, Harvard-Massachusetts Institute of Technology Division of Health Sciences and Technology, Boston, Massachusetts, United States of America",
+            "Division of Emergency Medicine, Children's Hospital Boston, Boston, Massachusetts, United States of America"
+        ],
+        "Vikram Sahai": [
+            "Google Inc., Mountain View, California, United States of America"
+        ],
+        "Corrie Conrad": [
+            "Google Inc., Mountain View, California, United States of America"
+        ],
+        "John S. Brownstein": [
+            "Children's Hospital Informatics Program, Harvard-Massachusetts Institute of Technology Division of Health Sciences and Technology, Boston, Massachusetts, United States of America",
+            "Division of Emergency Medicine, Children's Hospital Boston, Boston, Massachusetts, United States of America",
+            "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, United States of America"
+        ]
+    }
+}

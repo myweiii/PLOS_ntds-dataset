@@ -1,0 +1,1 @@
+We would like to specially thank to Dr. Laura White for kindly providing R scripts to estimate R0 and to Dr. Michael Robert for his valuable feedback.

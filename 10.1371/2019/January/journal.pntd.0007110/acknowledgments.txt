@@ -1,0 +1,1 @@
+Thanks to Owen Ozier, Harold Alderman, Gunther Fink, Michael Kremer, Ted Miguel, Ricardo Maertens, Rob Marty, David Roodman, Josh Rosenberg, and Jake Marcus for valuable feedback, assistance, and comments on this paper.

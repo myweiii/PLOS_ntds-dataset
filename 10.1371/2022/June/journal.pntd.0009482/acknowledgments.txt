@@ -1,0 +1,1 @@
+The authors would like to thank Valentine Murigneux for the use of, and their assistance in their long-read assembly pipeline MicroPIPE and Dr Brian Forde for their assistance in constructing Fig 1.

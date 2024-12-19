@@ -1,0 +1,1 @@
+We would like to thank Dr Isobel Blake for helpful discussions. We would like to thank Dr Michael T. White for sharing code to calculate the Gelman-Rubin statistic. We would like to thank two anonymous reviewers who provided insightful comments that have helped shape the manuscript.

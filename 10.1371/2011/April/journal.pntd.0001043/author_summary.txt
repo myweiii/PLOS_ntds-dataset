@@ -1,0 +1,15 @@
+There is currently only one drug available for treatment of
+                        schistosomiasis mansoni and no vaccine. The searches for
+                    possible new drug and vaccine candidates remain two major areas of current
+                    research in schistosomiasis. There are considerable amounts of data available on
+                    the genomics, transcriptomics and proteomics of Schistosoma
+                        mansoni from which useful candidates for future drug and vaccine
+                    development can be identified. Arranging these data into a biologically relevant
+                    context through the characterisation of gene expression profiles of the
+                    different tissues of this complex metazoan parasite, is an essential step in
+                    identifying molecules with potential therapeutic value. We have used laser
+                    microdissection microscopy and microarray analysis to show that many
+                    tissue-specific genes are up-regulated in the digestive and reproductive tissues
+                    of S. mansoni. This new knowledge provides an avenue to
+                    investigate the molecular components associated with fundamental aspects of
+                    schistosome biology.

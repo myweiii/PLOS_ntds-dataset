@@ -1,0 +1,1 @@
+We thank Stanley M. Spinola for critical reading of the manuscript and for his valuable comments. We thank Thomas Secrest (Secrest Editing, Ltd.) for his assistance with the English revision of the manuscript. MM thanks Jiří Zuzaňák for his assistance in data analysis using Python pandas and to Prashanth MB for his expert advice on QGIS.

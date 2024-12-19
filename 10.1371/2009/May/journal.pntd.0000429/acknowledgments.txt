@@ -1,0 +1,1 @@
+The OzClim model used in this study has been jointly developed by the International Global Change Institute (IGCI), the University of Waikato and CSIRO Atmospheric Research.

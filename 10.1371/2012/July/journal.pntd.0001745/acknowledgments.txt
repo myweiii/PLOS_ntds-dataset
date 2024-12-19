@@ -1,0 +1,1 @@
+We appreciate very much the bioinformatic support of Dr. Haibo Sun at MininGene Biotechnology and the efforts of technicians at Shenzhen BGI for sample sequencing. We also thank the Schistosoma japonicum Genome Sequencing and Functional Analysis Consortium for making the S. japonicum genome available on the public domain.

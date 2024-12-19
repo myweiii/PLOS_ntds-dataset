@@ -1,0 +1,1 @@
+We would like to thank Hernan Lorenzi of the J. Craig Venter Institute for his valuable help in using the Pathema Database and Lauren A. Lockhart at the University of Virginia for her technical assistance. Pathema-Entamoeba is an NIAID Bioinformatics Resource Center (BRC).

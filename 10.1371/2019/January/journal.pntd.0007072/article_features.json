@@ -1,0 +1,107 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007072",
+    "Published": "January 30, 2019",
+    "Subject_Areas": [
+        "Viral replication",
+        "Viral vaccines",
+        "RNA polymerase",
+        "Mouse models",
+        "Antiviral therapy",
+        "Flow cytometry",
+        "Dengue virus",
+        "Flaviviruses"
+    ],
+    "Authors": {
+        "Caroline S. de Freitas": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Luiza M. Higa": [
+            "Laborat\u00f3rio de Virologia Molecular, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Carolina Q. Sacramento": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Andr\u00e9 C. Ferreira": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Patr\u00edcia A. Reis": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Rodrigo Delvecchio": [
+            "Laborat\u00f3rio de Virologia Molecular, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Fabio L. Monteiro": [
+            "Laborat\u00f3rio de Virologia Molecular, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Giselle Barbosa-Lima": [
+            "Instituto Nacional de Infectologia (INI), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Harrison James Westgarth": [
+            "Laborat\u00f3rio de Virologia Molecular, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Yasmine Rangel Vieira": [
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil",
+            "Instituto Nacional de Infectologia (INI), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Mayara Mattos": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Natasha Rocha": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Lucas Villas B\u00f4as Hoelz": [
+            "Instituto de Tecnologia de F\u00e1rmacos (Farmanguinhos), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Rennan Papaleo Paes Leme": [
+            "Instituto de Tecnologia de F\u00e1rmacos (Farmanguinhos), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "M\u00f4nica M. Bastos": [
+            "Instituto de Tecnologia de F\u00e1rmacos (Farmanguinhos), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Gisele Olinto L. Rodrigues": [
+            "Center for Research and Development of Pharmaceuticals, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil",
+            "Research Group in Arboviral Diseases, Department of Morphology, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil"
+        ],
+        "Carla Elizabeth M. Lopes": [
+            "Center for Research and Development of Pharmaceuticals, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil",
+            "Research Group in Arboviral Diseases, Department of Morphology, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil"
+        ],
+        "Celso Martins Queiroz-Junior": [
+            "Cardiac Lab, Department of Morphology, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil"
+        ],
+        "Cristiano X. Lima": [
+            "Departamento de Cirurgia, Faculdade de Medicina, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Vivian V. Costa": [
+            "Center for Research and Development of Pharmaceuticals, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil",
+            "Research Group in Arboviral Diseases, Department of Morphology, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil"
+        ],
+        "Mauro M. Teixeira": [
+            "Center for Research and Development of Pharmaceuticals, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil",
+            "Immunopharmacology Lab, Department of Biochemistry and Immunology, Institute of Biological Sciences (ICB), Universidade Federal de Minas Gerais (UFMG), Minas Gerais, Brazil"
+        ],
+        "Fernando A. Bozza": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "Instituto Nacional de Infectologia (INI), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Patr\u00edcia T. Bozza": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Nubia Boechat": [
+            "Instituto de Tecnologia de F\u00e1rmacos (Farmanguinhos), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ],
+        "Amilcar Tanuri": [
+            "Laborat\u00f3rio de Virologia Molecular, Instituto de Biologia, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil"
+        ],
+        "Thiago Moreno L. Souza": [
+            "Laborat\u00f3rio de Imunofarmacologia, Instituto Oswaldo Cruz (IOC), Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), Rio de Janeiro, RJ, Brazil",
+            "National Institute for Science and Technology on Innovation on Neglected Diseases (INCT/IDN), Center for Technological Development in Health (CDTS), Fiocruz, Rio de Janeiro, RJ, Brazil",
+            "Instituto Nacional de Infectologia (INI), Fiocruz, Rio de Janeiro, RJ, Brazil"
+        ]
+    }
+}

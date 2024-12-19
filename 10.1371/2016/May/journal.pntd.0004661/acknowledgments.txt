@@ -1,0 +1,2 @@
+We acknowledge the Instituto Nacional de Estadística, Geografía e Informática (INEGI) for supplying the census microdata that we obtained from IPUMS.
+The authors acknowledge University of Florida Research Computing (URL: http://researchcomputing.ufl.edu) for providing computational resources and support that have contributed to the research results reported in this publication.

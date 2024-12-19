@@ -1,0 +1,34 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007923",
+    "Published": "December 5, 2019",
+    "Subject_Areas": [
+        "Entamoeba histolytica",
+        "Genomics",
+        "Mammalian genomics",
+        "Membrane proteins",
+        "Invasive species",
+        "Macaque",
+        "Protein domains",
+        "Signal peptides"
+    ],
+    "Authors": {
+        "Masayuki Tanaka": [
+            "Department of Bioinformatics, Support Center for Medical Research and Education, Tokai University, Isehara, Kanagawa, Japan"
+        ],
+        "Takashi Makiuchi": [
+            "Department of Parasitology, Tokai University School of Medicine, Isehara, Kanagawa, Japan"
+        ],
+        "Tomoyoshi Komiyama": [
+            "Department of Clinical Pharmacology, Tokai University School of Medicine, Isehara, Kanagawa, Japan"
+        ],
+        "Takashi Shiina": [
+            "Department of Molecular Life Science, Tokai University School of Medicine, Isehara, Kanagawa, Japan"
+        ],
+        "Ken Osaki": [
+            "Pacific Biosciences Division, Tomy Digital Biology Co., Ltd, Bunkyo-ku, Tokyo, Japan"
+        ],
+        "Hiroshi Tachibana": [
+            "Department of Parasitology, Tokai University School of Medicine, Isehara, Kanagawa, Japan"
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+We acknowledge the European Synchrotron Radiation Facility (ESRF) for provision of synchrotron radiation facilities at the beamline ID29.
+
+PDB code
+The X-ray structure has been deposited in the protein data bank with the PDB (Protein Data Bank) code 6ER5.

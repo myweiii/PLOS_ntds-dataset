@@ -1,0 +1,80 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0011285",
+    "Published": "June 16, 2023",
+    "Subject_Areas": [
+        "Salmonella typhi",
+        "Rwanda",
+        "Phylogenetic analysis",
+        "Genomics",
+        "Typhoid",
+        "Asia",
+        "Fevers",
+        "Genome sequencing"
+    ],
+    "Authors": {
+        "Jean Pierre Rutanga": [
+            "College of Science and Technology, University of Rwanda, Kigali, Rwanda",
+            "Institute of Tropical Medicine, Antwerp, Belgium",
+            "Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium"
+        ],
+        "Tessa de Block": [
+            "Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Wim L. Cuypers": [
+            "Institute of Tropical Medicine, Antwerp, Belgium",
+            "Department of Computer Science, University of Antwerp, Antwerp, Belgium"
+        ],
+        "Josephine Cafmeyer": [
+            "Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Marjan Peeters": [
+            "Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Esperance Umumararungu": [
+            "Rwanda Biomedical Centre, Kigali, Rwanda"
+        ],
+        "Jean Claude S. Ngabonziza": [
+            "Rwanda Biomedical Centre, Kigali, Rwanda",
+            "Department of Clinical Biology, University of Rwanda, Kigali, Rwanda"
+        ],
+        "Aniceth Rucogoza": [
+            "Rwanda Biomedical Centre, Kigali, Rwanda"
+        ],
+        "Olivier Vandenberg": [
+            "Department of Microbiology, Laboratoire Hospitalier Universitaire de Bruxelles (LHUB-ULB), H\u00f4pital Erasme-Cliniques universitaires de Bruxelles, Universit\u00e9 Libre de Bruxelles, Brussels, Belgium"
+        ],
+        "Delphine Martiny": [
+            "Department of Microbiology, Laboratoire des H\u00f4pitaux Universitaires de Bruxelles \u2013 Universitaire Laboratorium Brussel (LHUB-ULB), Brussels, Belgium",
+            "National Reference Centre for Campylobacter, CHU Saint-Pierre, Brussels, Belgium",
+            "Facult\u00e9 de M\u00e9decine et Pharmacie, Universit\u00e9 de Mons (UMONS), Mons, Belgium"
+        ],
+        "Ang\u00e9lique Dusabe": [
+            "Centre Hospitalier Universtaire de Kigali (CHUK), Kigali, Rwanda"
+        ],
+        "Th\u00e9oneste Nkubana": [
+            "Centre Hospitalier Universtaire de Kigali (CHUK), Kigali, Rwanda"
+        ],
+        "Gordon Dougan": [
+            "Department of Medicine, Jeffrey Cheah Biomedical Centre, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Claude Mambo Muvunyi": [
+            "College of Medicine and Health Sciences, University of Rwanda, Kigali, Rwanda"
+        ],
+        "Ivan Emil Mwikarago": [
+            "Rwanda Biomedical Centre, Kigali, Rwanda"
+        ],
+        "Jan Jacobs": [
+            "Institute of Tropical Medicine, Antwerp, Belgium",
+            "Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium"
+        ],
+        "Stijn Deborggraeve": [
+            "Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Sandra Van Puyvelde": [
+            "Institute of Tropical Medicine, Antwerp, Belgium",
+            "Department of Medicine, Jeffrey Cheah Biomedical Centre, University of Cambridge, Cambridge, United Kingdom",
+            "Wellcome Trust Sanger Institute, Hinxton, United Kingdom",
+            "Laboratory of Medical Microbiology, Vaccine & Infectious Disease Institute, University of Antwerp, Antwerp, Belgium"
+        ]
+    }
+}

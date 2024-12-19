@@ -1,0 +1,74 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0012345",
+    "Published": "August 2, 2024",
+    "Subject_Areas": [
+        "Cytokines",
+        "Cysticercosis",
+        "HIV",
+        "Immune response",
+        "HIV infections",
+        "Computed axial tomography",
+        "Co-infections",
+        "Virus testing"
+    ],
+    "Authors": {
+        "Yakobo Leonard Lema": [
+            "Muhimbili Medical Research Center, National Institute for Medical Research (NIMR), Dar es Salaam, Tanzania"
+        ],
+        "Ulrich Fabien Prodjinotho": [
+            "Institute for Medical Microbiology, Immunology, and Hygiene, Technical University of Munich (TUM), Munich, Germany",
+            "Center for Global Health, Technical University of Munich, Munich, Germany"
+        ],
+        "Charles Makasi": [
+            "Muhimbili Medical Research Center, National Institute for Medical Research (NIMR), Dar es Salaam, Tanzania",
+            "Kilimanjaro Christian Medical University College, Moshi, Tanzania"
+        ],
+        "Mary-Winnie A. Nanyaro": [
+            "Muhimbili Medical Research Center, National Institute for Medical Research (NIMR), Dar es Salaam, Tanzania"
+        ],
+        "Andrew Martin Kilale": [
+            "Muhimbili Medical Research Center, National Institute for Medical Research (NIMR), Dar es Salaam, Tanzania"
+        ],
+        "Sayoki Mfinanga": [
+            "Muhimbili Medical Research Center, National Institute for Medical Research (NIMR), Dar es Salaam, Tanzania",
+            "Kampala International University, Kampala, Tanzania",
+            "School of Public Health, Muhimbili University of Health & Allied Sciences (MUHAS), Dar Es Salaam, Tanzania"
+        ],
+        "Dominik Stelzle": [
+            "Center for Global Health, Technical University of Munich, Munich, Germany",
+            "Department of Neurology, School of Medicine and Health, Technical University Munich (TUM), Munich, Germany"
+        ],
+        "Veronika Schmidt": [
+            "Center for Global Health, Technical University of Munich, Munich, Germany",
+            "Department of Neurology, School of Medicine and Health, Technical University Munich (TUM), Munich, Germany"
+        ],
+        "H\u00e9l\u00e8ne Carabin": [
+            "Faculty of Veterinary Medicine, University of Montreal, Saint-Hyacinthe, Quebec, Canada",
+            "School of Public Health, University of Montreal, Montreal, Quebec, Canada",
+            "Research Group on Epidemiology of Zoonoses and Public Health (GREZOSP), Saint-Hyacinthe, Quebec, Canada",
+            "Public Health Research Center of the University of Montreal and the CIUSSS of Center-Sud-de-l\u2019\u00eele-de-Montr\u00e9al (CReSP), Montreal, Quebec, Canada"
+        ],
+        "Andrea Sylvia Winkler": [
+            "Center for Global Health, Technical University of Munich, Munich, Germany",
+            "Department of Neurology, School of Medicine and Health, Technical University Munich (TUM), Munich, Germany",
+            "Department of Community Medicine and Global Health, Institute of Health and Society, University of Oslo, Oslo, Norway",
+            "Department of Global Health and Social Medicine, Harvard Medical School, Boston, Massachusetts, United States of America"
+        ],
+        "Eligius F. Lyamuya": [
+            "Department of Microbiology & Immunology, Muhimbili University of Health & Allied Sciences (MUHAS), Dar Es Salaam, Tanzania"
+        ],
+        "Bernard J. Ngowi": [
+            "Muhimbili Medical Research Center, National Institute for Medical Research (NIMR), Dar es Salaam, Tanzania",
+            "Mbeya College of Health & Allied Sciences, University of Dar Es Salaam, Mbeya Tanzania"
+        ],
+        "Mkunde Chachage": [
+            "Mbeya College of Health & Allied Sciences, University of Dar Es Salaam, Mbeya Tanzania",
+            "Mbeya Medical Research Center, National Institute for Medical Research (NIMR), Mbeya, Tanzania"
+        ],
+        "Clarissa Prazeres da Costa": [
+            "Institute for Medical Microbiology, Immunology, and Hygiene, Technical University of Munich (TUM), Munich, Germany",
+            "Center for Global Health, Technical University of Munich, Munich, Germany",
+            "German Center for Infection Research (DZIF), partner site Munich, Germany"
+        ]
+    }
+}

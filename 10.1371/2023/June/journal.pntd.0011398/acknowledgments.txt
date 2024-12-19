@@ -1,0 +1,1 @@
+The authors would like to thank the ICIPE’s Animal Health research team as well as the Community Resource Persons (CRPs) for their tireless efforts in setting up traps and collecting tsetse fly data in the Shimba Hills National Reserve. We would also like to thank the JRC-ASAP team and the BOKU team for sharing the pre-processed NDVI dataset for use in this study.

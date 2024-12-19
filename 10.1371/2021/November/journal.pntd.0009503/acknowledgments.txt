@@ -1,0 +1,1 @@
+The authors wish to thank Jacques Trolet for his technical support, Pr. Christoph Grevelding for providing the SmDia-RDB construct and Dr. Christophe ROMIER for providing the pnEA-tH bacterial expression plasmid.

@@ -1,0 +1,1 @@
+We would like to thank Dr. Steven Maere, Ghent University for providing helpful advice on the creation of custom annotation files for use in BiNGO.

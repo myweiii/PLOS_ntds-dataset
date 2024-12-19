@@ -1,0 +1,2 @@
+We thank Steven Sullivan and Jane Carlton for help answering numerous questions concerning the Trichomonas whole genome sequence [8].
+Preliminary results from this work were presented by Jike Cui at the 7th International Annual Student Workshop on Bioinformatics and Systems Biology held in August 2007 at the Human Genome Center, Institute of Medical Science, University of Tokyo.

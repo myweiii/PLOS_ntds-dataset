@@ -1,0 +1,2 @@
+We thank the UTMB sequencing core for assistance with next generation sequencing. We would also like to thank Dr Martin Donnelly at Liverpool School of Tropical Medicine for their comments on an early version of this manuscript which helped us to identify an error in the General Linearized Model that artificially inflated all P values in the differential expression analysis.
+The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR, the Department of Health or Public Health England.

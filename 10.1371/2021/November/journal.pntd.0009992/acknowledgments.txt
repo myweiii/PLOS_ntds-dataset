@@ -1,0 +1,1 @@
+We thank the World Health Organization human African trypanosomiasis (HAT) team for facilitating access to the HAT Atlas data [1, 26] and for helpful discussions and comments on this manuscript, and PNLTHA of DRC for the original data collection. Calculations were performed at the sciCORE (http://scicore.unibas.ch/) scientific computing center at University of Basel.

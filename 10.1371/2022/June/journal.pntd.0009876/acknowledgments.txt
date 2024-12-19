@@ -1,0 +1,1 @@
+We would like to thank Dr. Klaus Reither for his constant support, Dr. Tracy Glass for statistical advice (both Swiss TPH) and Dr. Alba Luz-Luque Lommel for her support in Colombia. We also thank Professor Mark Stevenson (University of Melbourne) for providing the R code for the sample size calculation.

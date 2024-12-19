@@ -1,0 +1,66 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0007969",
+    "Published": "February 14, 2020",
+    "Subject_Areas": [
+        "Machine learning algorithms",
+        "Arboviral infections",
+        "Dengue fever",
+        "Machine learning",
+        "Arboviruses",
+        "Chikungunya infection",
+        "Dengue virus",
+        "Diagnostic medicine"
+    ],
+    "Authors": {
+        "Rachel Sippy": [
+            "Institute for Global Health and Translational Science, SUNY Upstate Medical University, Syracuse, New York, United States of America",
+            "Quantitative Disease Ecology and Conservation Lab, Department of Geography, University of Florida, Gainesville, Florida, United States of America",
+            "Emerging Pathogens Institute, University of Florida, Gainesville, Florida, United States of America"
+        ],
+        "Daniel F. Farrell": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Daniel A. Lichtenstein": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Ryan Nightingale": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Megan A. Harris": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Joseph Toth": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Paris Hantztidiamantis": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Nicholas Usher": [
+            "Office of Undergraduate Biology, Cornell University, Ithaca, New York, United States of America"
+        ],
+        "Cinthya Cueva Aponte": [
+            "Institute for Global Health and Translational Science, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Julio Barzallo Aguilar": [
+            "Te\u00f3filo D\u00e1vila Hospital, Ministry of Health, Machala, El Oro Province, Ecuador"
+        ],
+        "Anthony Puthumana": [
+            "College of Medicine, MD Program, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Christina D. Lupone": [
+            "Institute for Global Health and Translational Science, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Timothy Endy": [
+            "Institute for Global Health and Translational Science, SUNY Upstate Medical University, Syracuse, New York, United States of America",
+            "Department of Medicine, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ],
+        "Sadie J. Ryan": [
+            "Quantitative Disease Ecology and Conservation Lab, Department of Geography, University of Florida, Gainesville, Florida, United States of America",
+            "Emerging Pathogens Institute, University of Florida, Gainesville, Florida, United States of America"
+        ],
+        "Anna M. Stewart Ibarra": [
+            "Institute for Global Health and Translational Science, SUNY Upstate Medical University, Syracuse, New York, United States of America",
+            "Department of Medicine, SUNY Upstate Medical University, Syracuse, New York, United States of America"
+        ]
+    }
+}

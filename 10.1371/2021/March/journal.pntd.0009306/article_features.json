@@ -1,0 +1,54 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0009306",
+    "Published": "March 31, 2021",
+    "Subject_Areas": [
+        "Viral gene expression",
+        "Virus effects on host gene expression",
+        "Small interfering RNA",
+        "RNA viruses",
+        "Viral replication",
+        "Transcriptome analysis",
+        "Dengue virus",
+        "Genomics"
+    ],
+    "Authors": {
+        "Zhiyuan Yao": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America"
+        ],
+        "Fabio Zanini": [
+            "Department of Bioengineering, Stanford University, Stanford, California, United States of America",
+            "Lowy Cancer Research Centre, University of New South Wales, Sydney, Australia"
+        ],
+        "Sathish Kumar": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America"
+        ],
+        "Marwah Karim": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America"
+        ],
+        "Sirle Saul": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America"
+        ],
+        "Nishank Bhalla": [
+            "National Center for Biodefence and Infectious Disease, Biomedical Research Laboratory, School of Systems Biology, George Mason University, Manassas, Virginia, United States of America"
+        ],
+        "Nuttada Panpradist": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America",
+            "Department of Bioengineering, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Avery Muniz": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America"
+        ],
+        "Aarthi Narayanan": [
+            "National Center for Biodefence and Infectious Disease, Biomedical Research Laboratory, School of Systems Biology, George Mason University, Manassas, Virginia, United States of America"
+        ],
+        "Stephen R. Quake": [
+            "Department of Bioengineering, Stanford University, Stanford, California, United States of America",
+            "Chan Zuckerberg Biohub, San Francisco, California, United States of America",
+            "Department of Applied Physics, Stanford University, Stanford, California, United States of America"
+        ],
+        "Shirit Einav": [
+            "Division of Infectious Diseases and Geographic Medicine, Department of Medicine, Stanford University School of Medicine, Stanford, California, United States of America",
+            "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California, United States of America"
+        ]
+    }
+}

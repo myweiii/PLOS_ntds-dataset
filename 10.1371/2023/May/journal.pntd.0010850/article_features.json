@@ -1,0 +1,90 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0010850",
+    "Published": "May 31, 2023",
+    "Subject_Areas": [
+        "Pediatrics",
+        "Body weight",
+        "Infants",
+        "Drug therapy",
+        "Adjustment of dosage at steady state",
+        "Parasitic diseases",
+        "Pediatric infections",
+        "Trypanosoma cruzi"
+    ],
+    "Authors": {
+        "Jaime Altcheh": [
+            "Servicio de Parasitologia y Chagas, Hospital de Ni\u00f1os \u201cDr Ricardo Gutierrez\u201d, Buenos Aires, Argentina",
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Instituto de Investigaciones en Patologias Pediatricas (IMIPP), Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), Buenos Aires, Argentina"
+        ],
+        "Guillermo Moscatelli": [
+            "Servicio de Parasitologia y Chagas, Hospital de Ni\u00f1os \u201cDr Ricardo Gutierrez\u201d, Buenos Aires, Argentina",
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Instituto de Investigaciones en Patologias Pediatricas (IMIPP), Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), Buenos Aires, Argentina"
+        ],
+        "Martin Caruso": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Hospital de Ni\u00f1os Doctor Hector Quintana, Jujuy, Argentina"
+        ],
+        "Samanta Moroni": [
+            "Servicio de Parasitologia y Chagas, Hospital de Ni\u00f1os \u201cDr Ricardo Gutierrez\u201d, Buenos Aires, Argentina",
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Instituto de Investigaciones en Patologias Pediatricas (IMIPP), Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), Buenos Aires, Argentina"
+        ],
+        "Margarita Bisio": [
+            "Servicio de Parasitologia y Chagas, Hospital de Ni\u00f1os \u201cDr Ricardo Gutierrez\u201d, Buenos Aires, Argentina",
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Instituto de Investigaciones en Patologias Pediatricas (IMIPP), Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), Buenos Aires, Argentina"
+        ],
+        "Maria Rosa Miranda": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Hospital de Ni\u00f1os Doctor Hector Quintana, Jujuy, Argentina"
+        ],
+        "Celia Monla": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Hospital P\u00fablico Materno Infantil, Salta, Argentina"
+        ],
+        "Maria Vaina": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Hospital P\u00fablico Materno Infantil, Salta, Argentina"
+        ],
+        "Maria Valdez": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Hospital P\u00fablico Materno Infantil, Salta, Argentina"
+        ],
+        "Lucrecia Moran": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Centro de Chagas y Patolog\u00eda Regional, Santiago del Estero, Argentina"
+        ],
+        "Teresa Ramirez": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina"
+        ],
+        "Oscar Ledesma Pati\u00f1o": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Centro de Chagas y Patolog\u00eda Regional, Santiago del Estero, Argentina"
+        ],
+        "Adelina Riarte": [
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben, Buenos Aires, Argentina"
+        ],
+        "Nicolas Gonzalez": [
+            "Servicio de Parasitologia y Chagas, Hospital de Ni\u00f1os \u201cDr Ricardo Gutierrez\u201d, Buenos Aires, Argentina",
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Instituto de Investigaciones en Patologias Pediatricas (IMIPP), Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), Buenos Aires, Argentina"
+        ],
+        "Jayme Fernandes": [
+            "Drugs for Neglected Diseases initiative, Rio de Janeiro, Brazil"
+        ],
+        "Fabiana Alves": [
+            "Drugs for Neglected Diseases initiative, Geneva, Switzerland"
+        ],
+        "Isabela Ribeiro": [
+            "Drugs for Neglected Diseases initiative, Geneva, Switzerland"
+        ],
+        "Facundo Garcia-Bournissen": [
+            "Servicio de Parasitologia y Chagas, Hospital de Ni\u00f1os \u201cDr Ricardo Gutierrez\u201d, Buenos Aires, Argentina",
+            "PEDCHAGAS Network (Hospital de Ni\u00f1os Ricardo Guti\u00e9rrez, Hospital de Ni\u00f1os Doctor Hector Quintana, Hospital P\u00fablico Materno Infantil, Centro de Chagas y Patolog\u00eda Regional de Santiago del Estero, & Instituto Nacional de Parasitolog\u00eda Dr. Mario Fatala Chaben), Argentina",
+            "Division of Paediatric Clinical Pharmacology, Department of Paediatrics, Schulich School of Medicine & Dentistry, University of Western Ontario, London, Ontario, Canada"
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+The Bioinformatics Core Service of the IBMCP (UPV-CSIC) is acknowledged for its help in bioinformatics analyses.

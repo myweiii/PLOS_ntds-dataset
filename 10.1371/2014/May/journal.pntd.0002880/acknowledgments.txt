@@ -1,0 +1,1 @@
+We thank the villagers of Ulu Kelaka and Dusun Kubur for participating in this study. We thank the NYU Genome Technology Center for assistance with sequencing and also the Knight Laboratory (University of Colorado) and Huttenhower Laboratory (Harvard University) for making QIIME and LEfSe available to the scientific community.

@@ -1,0 +1,1 @@
+We are grateful to CIRDES, Bobo Dioulasso for logistic support, to the field team of Misters Ernest Salou, Wilfrid Yoni, Issiaka Barry and Boureima Sanon for their full commitment, and to Dr. Ljiljana Dolamic, Institute of Computer Science, University of Neuchâtel, for writing scripts in R for statistical analysis and graphical representation of data.

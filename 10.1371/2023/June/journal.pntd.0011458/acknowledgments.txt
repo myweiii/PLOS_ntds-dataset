@@ -1,0 +1,1 @@
+This research was enabled in part by computing infrastructure provided by Calcul Québec (www.calculquebec.ca) and the Digital Research Alliance of Canada (www.alliancecan.ca). Infrastructure and equipment were provided by the Canadian Foundation for Innovation.

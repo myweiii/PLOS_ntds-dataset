@@ -1,0 +1,7 @@
+Madurella mycetomatis is the main cause of mycetoma, a Neglected Tropical Disease characterized by large tumorous swellings. Currently little is known about the role of the pathogen in mycetoma formation. Furthermore, there are only a few drugs which are able to inhibit this fungus. In order to gain insight in the disease mycetoma and identify novel drug targets we need a method to genetically modify M. mycetomatis. Up till now this was not available for M. mycetomatis. In this paper, we developed a method in which we for the first time were able to genetically modify Madurella mycetomatis. We did this by removing the M. mycetomatis cell wall and introduced a plasmid into the fungal cell which made the fungus express GFP. The reported methodology can be adapted to introduce other reporters in M. mycetomatis and will be invaluable to explore the pathogenicity of M. mycetomatis.
+
+Key Points
+
+A genetic transformation method for Madurella mycetomatis has been developed.
+Hygromycin is a suitable selection marker for Madurella mycetomatis.
+GFP can be used as a reporter for Madurella mycetomatis.

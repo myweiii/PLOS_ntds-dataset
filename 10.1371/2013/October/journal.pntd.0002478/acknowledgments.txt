@@ -1,0 +1,13 @@
+We thank the volunteers for their participation in these studies. We are grateful to Dr. M. Maamar, Ms. R. Dridi and Mr. A. Fatnassi from the Centre National de Transfusion Sanguine (Tunisia) for their valuable help collecting the cytapheresis blood samples. We thank Dr. Lambermont (Red Cross, Belgium), for providing the opportunity to use blood samples from healthy donors.
+Sysco Consortium Collaborators
+Slimane Ben Miled1,2, Alia Benkahla1,2, Rym Ben-Othman1,2, Roman Bruno3, Pierre-Andre Cazenave4, Elena Checkmeneva5, Adriani Daskalaki5, Razif Gabdoulline5, Kais Ghedira1,2, Lamia Guzani-Tabbane1,2, Ralf Herwig6, Winston Hide7,8, Oliver Hofmann7,8, Klaus Hornischer5, Ruy Jauregui5, Alexander Kel10, Ilya Kiselev10, Fedor Kolpakov10, Yuriy Kondrakhin10, Elena Kutumova10, Sigrid Land5, Ines Liebich5, Laurent Manchon3, Volker Matys5, Holger Michael5, Florian Noguier3, Fabien Pierrat3, David Piquemal3, Imen Rabhi1,2, Sameh Rabhi1,2, Axel Rasche6, Béatrice Regnault9, Anna Ryabova10, Frank Schacherer5, Ruslan Sharipov10, Philip Stegmaier5, Nicki Tiffin7, Nikita Tolstykh10, Bernadette Trentin3, Tagir Valeev10, Nico Voss5, Christoph Wierling6, Ivan Yevshin10.
+1 Institut Pasteur de Tunis, LR11IPT06, Laboratory of Medical Parasitology, Biotechnologies et Biomolecules, Tunis-Belvédère, 1002, Tunisia.
+2 Université Tunis El Manar, Tunis, 1068, Tunisia.
+3 Skuldtech, 1682, rue de la Valsière - Cap Delta - CS 77394 - 34184 Montpellier Cedex 04 - France.
+4 Laboratoire Jacques-Louis Lions, B.C. 187, Université Pierre et Marie Curie, 4, place Jussieu, 75252, PARIS CEDEX 05 France.
+5 BIOBASE GmbH, Halchtersche Straße 33, D-38304 Wolfenbüttel, Germany.
+6 Max Planck Institute for Molecular Genetics, Ihnestr. 63-73, 14195 Berlin, Germany.
+7 South African National Bioinformatics Institute/MRC Unit for Bioinformatics Capacity Development, University of the Western Cape, Cape Town, South Africa.
+8 Harvard School of Public Health, Department of Biostatistics, 655 Huntington Ave, 02115 Boston, MA, USA.
+9 Genopole. Institut Pasteur de Paris, 28 rue du Dr Roux. 75724 Paris Cedex 15. France.
+10 Institute of Systems Biology, Ltd. Krasina street, 54, office 901, Novosibirsk, Russian Federation.

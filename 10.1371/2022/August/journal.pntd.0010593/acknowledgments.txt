@@ -1,0 +1,4 @@
+We would like to express our big thanks to the authors of the original publications used in this work to have kindly provided the individual participants data. We thank Ms. Anna Schritz from the Competence Center in Methodology and Statistics, Luxembourg Institute of Health, for kindly providing Venn diagrams performed by using the R software.
+
+Disclaimer
+MV is a staff member of Luxembourg Institute of Health. The authors alone are responsible for the views expressed in this publication and it does not necessarily represent the decisions, policy, or views of their organizations.

@@ -1,0 +1,1 @@
+We thank Sebastian Funk (LSHTM) for his advice on the bpmodels package.

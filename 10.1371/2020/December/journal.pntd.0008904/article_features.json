@@ -1,0 +1,35 @@
+{
+    "URL": "https://doi.org/10.1371/journal.pntd.0008904",
+    "Published": "December 17, 2020",
+    "Subject_Areas": [
+        "Anopheles gambiae",
+        "Mosquitoes",
+        "Malaria",
+        "Deep learning",
+        "Machine learning",
+        "Imaging techniques",
+        "Species delimitation",
+        "Vision"
+    ],
+    "Authors": {
+        "Jannelle Couret": [
+            "Department of Biological Sciences, University of Rhode Island, Kingston, Rhode Island, US"
+        ],
+        "Danilo C. Moreira": [
+            "Department of Computer Science and Statistics, University of Rhode Island, Kingston, Rhode Island, US",
+            "Department of Computer Science, Federal University of Campina Grande, Campina Grande, Brazil"
+        ],
+        "Davin Bernier": [
+            "Department of Computer Science and Statistics, University of Rhode Island, Kingston, Rhode Island, US"
+        ],
+        "Aria Mia Loberti": [
+            "Department of Biological Sciences, University of Rhode Island, Kingston, Rhode Island, US"
+        ],
+        "Ellen M. Dotson": [
+            "Centers for Disease Control and Prevention, Center for Global Health, Division of Parasitic Diseases and Malaria, Atlanta, Georgia, US"
+        ],
+        "Marco Alvarez": [
+            "Department of Computer Science and Statistics, University of Rhode Island, Kingston, Rhode Island, US"
+        ]
+    }
+}

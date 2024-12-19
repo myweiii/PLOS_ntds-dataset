@@ -1,0 +1,1 @@
+We would like to thank the University of Notre Dame’s Center for Research Computation for high performance computation support, Vijay Gupta for his advice on the use of spectral density techniques, Sarah Lukens for her help in designing the principal component analysis and Alexandra Jilkine for verification of our initial simulation results of the 4-infection models.
