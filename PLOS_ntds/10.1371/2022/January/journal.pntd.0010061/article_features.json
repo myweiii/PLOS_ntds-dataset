@@ -1,0 +1,40 @@
+{
+    "Title": "Machine learning and deep learning techniques to support clinical diagnosis of arboviral diseases: A systematic review",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010061",
+    "Published": "January 13, 2022",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Decision trees",
+        "Arboviral infections",
+        "Arboviruses",
+        "Machine learning",
+        "Chikungunya infection",
+        "Decision tree learning",
+        "Zika fever"
+    ],
+    "Authors": {
+        "Sebasti\u00e3o Rog\u00e9rio da Silva Neto": [
+            "Universidade de Pernambuco, Recife, Brazil"
+        ],
+        "Thom\u00e1s Tabosa Oliveira": [
+            "Universidade de Pernambuco, Recife, Brazil"
+        ],
+        "Igor Vitor Teixeira": [
+            "Universidade de Pernambuco, Recife, Brazil"
+        ],
+        "Samuel Benjamin Aguiar de Oliveira": [
+            "Universidade do Estado do Amazonas, Manaus, Brazil",
+            "Funda\u00e7\u00e3o de Medicina Tropical Dr. Heitor Vieira Dourado, Manaus, Brazil"
+        ],
+        "Vanderson Souza Sampaio": [
+            "Universidade do Estado do Amazonas, Manaus, Brazil",
+            "Funda\u00e7\u00e3o de Medicina Tropical Dr. Heitor Vieira Dourado, Manaus, Brazil"
+        ],
+        "Theo Lynn": [
+            "Dublin City University, Dublin, Ireland"
+        ],
+        "Patricia Takako Endo": [
+            "Universidade de Pernambuco, Recife, Brazil"
+        ]
+    }
+}

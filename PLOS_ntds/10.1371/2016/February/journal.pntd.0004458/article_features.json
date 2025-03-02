@@ -1,0 +1,125 @@
+{
+    "Title": "Seasonal Dynamics of Phlebotomine Sand Fly Species Proven Vectors of Mediterranean Leishmaniasis Caused by Leishmania infantum",
+    "URL": "https://doi.org/10.1371/journal.pntd.0004458",
+    "Published": "February 22, 2016",
+    "Subject_Areas": [
+        "Sand flies",
+        "Leishmania infantum",
+        "Latitude",
+        "Leishmaniasis",
+        "Seasons",
+        "Portugal",
+        "Phlebotomus",
+        "Turkey (country)"
+    ],
+    "Authors": {
+        "Bulent Alten": [
+            "Department of Biology, Ecology Division, HUESRL-VERG laboratories, Hacettepe University, Ankara, Turkey"
+        ],
+        "Carla Maia": [
+            "Instituto de Higiene e Medicina Tropical, Unidade Parasitologia M\u00e9dica, Universidade Nova de Lisboa, Portugal"
+        ],
+        "Maria Odete Afonso": [
+            "Instituto de Higiene e Medicina Tropical, Unidade Parasitologia M\u00e9dica, Universidade Nova de Lisboa, Portugal"
+        ],
+        "Lenea Campino": [
+            "Instituto de Higiene e Medicina Tropical, Unidade Parasitologia M\u00e9dica, Universidade Nova de Lisboa, Portugal"
+        ],
+        "Maribel Jim\u00e9nez": [
+            "Centro Nacional de Microbiologia, Servicio de Parasitolog\u00eda, Unidad de Entomolog\u00eda M\u00e9dica, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain"
+        ],
+        "Estela Gonz\u00e1lez": [
+            "Centro Nacional de Microbiologia, Servicio de Parasitolog\u00eda, Unidad de Entomolog\u00eda M\u00e9dica, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain"
+        ],
+        "Ricardo Molina": [
+            "Centro Nacional de Microbiologia, Servicio de Parasitolog\u00eda, Unidad de Entomolog\u00eda M\u00e9dica, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain"
+        ],
+        "Anne Laure Ba\u00f1uls": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Jorian Prudhomme": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Baptiste Vergnes": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Celine Toty": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "C\u00e9cile Cassan": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Nil Rahola": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Magali Thierry": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Denis Sereno": [
+            "Institut de Recherche pour le D\u00e9veloppement, MIVEGEC, Montpellier, France"
+        ],
+        "Gioia Bongiorno": [
+            "M.I.P.I. Department, Unit of Vector-borne Diseases and International Health, Istituto Superiore di Sanit\u00e0, Rome, Italy"
+        ],
+        "Riccardo Bianchi": [
+            "M.I.P.I. Department, Unit of Vector-borne Diseases and International Health, Istituto Superiore di Sanit\u00e0, Rome, Italy"
+        ],
+        "Cristina Khoury": [
+            "M.I.P.I. Department, Unit of Vector-borne Diseases and International Health, Istituto Superiore di Sanit\u00e0, Rome, Italy"
+        ],
+        "Nikolaos Tsirigotakis": [
+            "Laboratory of Clinical Bacteriology, Parasitology, Zoonoses and Geographical Medicine, University of Crete, Heraklion, Greece"
+        ],
+        "Emmanouil Dokianakis": [
+            "Laboratory of Clinical Bacteriology, Parasitology, Zoonoses and Geographical Medicine, University of Crete, Heraklion, Greece"
+        ],
+        "Maria Antoniou": [
+            "Laboratory of Clinical Bacteriology, Parasitology, Zoonoses and Geographical Medicine, University of Crete, Heraklion, Greece"
+        ],
+        "Vasiliki Christodoulou": [
+            "Veterinary Services of Cyprus, Nicosia, Cyprus"
+        ],
+        "Apostolos Mazeris": [
+            "Veterinary Services of Cyprus, Nicosia, Cyprus"
+        ],
+        "Mehmet Karakus": [
+            "Department of Parasitology, Ege University, Izmir, Turkey"
+        ],
+        "Yusuf Ozbel": [
+            "Department of Parasitology, Ege University, Izmir, Turkey"
+        ],
+        "Suha K. Arserim": [
+            "Vocational School of Health Sciences, Cela Bayar University, Manisa, Turkey"
+        ],
+        "Ozge Erisoz Kasap": [
+            "Department of Biology, Ecology Division, HUESRL-VERG laboratories, Hacettepe University, Ankara, Turkey"
+        ],
+        "Filiz Gunay": [
+            "Department of Biology, Ecology Division, HUESRL-VERG laboratories, Hacettepe University, Ankara, Turkey"
+        ],
+        "Gizem Oguz": [
+            "Department of Biology, Ecology Division, HUESRL-VERG laboratories, Hacettepe University, Ankara, Turkey"
+        ],
+        "Sinan Kaynas": [
+            "Veterinary Faculty, Mehmet Akif Ersoy University, Burdur, Turkey"
+        ],
+        "Nikoloz Tsertsvadze": [
+            "National Center for Disease Control and Public Health, Tbilisi, Georgia"
+        ],
+        "Lamzira Tskhvaradze": [
+            "National Center for Disease Control and Public Health, Tbilisi, Georgia"
+        ],
+        "Ekaterina Giorgobiani": [
+            "National Center for Disease Control and Public Health, Tbilisi, Georgia"
+        ],
+        "Marina Gramiccia": [
+            "M.I.P.I. Department, Unit of Vector-borne Diseases and International Health, Istituto Superiore di Sanit\u00e0, Rome, Italy"
+        ],
+        "Petr Volf": [
+            "Department of Parasitology, Faculty of Science, Charles University, Prague, Czech Republic"
+        ],
+        "Luigi Gradoni": [
+            "M.I.P.I. Department, Unit of Vector-borne Diseases and International Health, Istituto Superiore di Sanit\u00e0, Rome, Italy"
+        ]
+    }
+}

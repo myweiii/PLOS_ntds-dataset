@@ -1,0 +1,41 @@
+{
+    "Title": "A Deep Sequencing Approach to Comparatively Analyze the Transcriptome of Lifecycle Stages of the Filarial Worm, Brugia malayi",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001409",
+    "Published": "December 13, 2011",
+    "Subject_Areas": [
+        "Transcriptome analysis",
+        "DNA transcription",
+        "Brugia malayi",
+        "Gene expression",
+        "Eggs",
+        "Embryos",
+        "Larvae",
+        "Parasitic life cycles"
+    ],
+    "Authors": {
+        "Young-Jun Choi": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin, United States of America"
+        ],
+        "Elodie Ghedin": [
+            "Department of Computational and Systems Biology, Center for Vaccine Research, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States of America"
+        ],
+        "Matthew Berriman": [
+            "The Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+        ],
+        "Jacqueline McQuillan": [
+            "The Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+        ],
+        "Nancy Holroyd": [
+            "The Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+        ],
+        "George F. Mayhew": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin, United States of America"
+        ],
+        "Bruce M. Christensen": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin, United States of America"
+        ],
+        "Michelle L. Michalski": [
+            "Department of Biology and Microbiology, University of Wisconsin Oshkosh, Oshkosh, Wisconsin, United States of America"
+        ]
+    }
+}

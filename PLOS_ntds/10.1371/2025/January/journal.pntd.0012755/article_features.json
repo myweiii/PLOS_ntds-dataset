@@ -1,0 +1,45 @@
+{
+    "Title": "Spatio-temporal risk prediction of leptospirosis: A machine-learning-based approach",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012755",
+    "Published": "January 16, 2025",
+    "Subject_Areas": [
+        "Leptospirosis",
+        "New Caledonia",
+        "Leptospira",
+        "Medical risk factors",
+        "Rain",
+        "Seasons",
+        "Machine learning",
+        "Epidemiology"
+    ],
+    "Authors": {
+        "Rodrigue Govan": [
+            "Institute of Exact and Applied Sciences, University of New Caledonia, Noum\u00e9a, Province Sud, New Caledonia"
+        ],
+        "Romane Scherrer": [
+            "Institute of Exact and Applied Sciences, University of New Caledonia, Noum\u00e9a, Province Sud, New Caledonia"
+        ],
+        "Baptiste Fougeron": [
+            "Institute of Exact and Applied Sciences, University of New Caledonia, Noum\u00e9a, Province Sud, New Caledonia"
+        ],
+        "Christine Laporte-Magoni": [
+            "Sciences and Technology Department, University of New Caledonia, Noum\u00e9a, Province Sud, New Caledonia"
+        ],
+        "Roman Thibeaux": [
+            "Pasteur Institute of New Caledonia, Noum\u00e9a, New Caledonia"
+        ],
+        "Pierre Genthon": [
+            "HydroSciences Montpellier, University of Montpellier, CNRS, IRD, Noum\u00e9a, New Caledonia"
+        ],
+        "Philippe Fournier-Viger": [
+            "College of Computer Science and Software Engineering, Shenzhen University, Nanshan District, Shenzhen, China"
+        ],
+        "Cyrille Goarant": [
+            "Pasteur Institute of New Caledonia, Noum\u00e9a, New Caledonia",
+            "Public Health Division, The South Pacific Community, Noum\u00e9a, Province Sud, New Caledonia"
+        ],
+        "Nazha Selmaoui-Folcher": [
+            "Institute of Exact and Applied Sciences, University of New Caledonia, Noum\u00e9a, Province Sud, New Caledonia"
+        ]
+    }
+}

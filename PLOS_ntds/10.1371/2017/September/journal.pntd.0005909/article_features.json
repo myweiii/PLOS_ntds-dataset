@@ -1,0 +1,62 @@
+{
+    "Title": "A scoring model for predicting prognosis of patients with severe fever with thrombocytopenia syndrome",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005909",
+    "Published": "September 21, 2017",
+    "Subject_Areas": [
+        "Medical risk factors",
+        "Fevers",
+        "Thrombocytopenia",
+        "Prognosis",
+        "Antiviral therapy",
+        "Death rates",
+        "Aminotransferases",
+        "Creatinine"
+    ],
+    "Authors": {
+        "Bei Jia": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Xiaomin Yan": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Yuxin Chen": [
+            "Department of Laboratory Medicine, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Guiyang Wang": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Yong Liu": [
+            "Department of Laboratory Medicine, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Biyun Xu": [
+            "Department of Experimental Medicine and Medical Statistics, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Peixin Song": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Yang Li": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Yali Xiong": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Weihua Wu": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Yingying Hao": [
+            "Department of Intensive Care Units, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Juan Xia": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Zhaoping Zhang": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Rui Huang": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ],
+        "Chao Wu": [
+            "Department of Infectious Diseases, Nanjing Drum Tower Hospital, Nanjing University Medical School, Nanjing, Jiangsu, China"
+        ]
+    }
+}

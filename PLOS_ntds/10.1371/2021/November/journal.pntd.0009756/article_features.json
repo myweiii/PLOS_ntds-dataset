@@ -1,0 +1,26 @@
+{
+    "Title": "An accurate mathematical model predicting number of dengue cases in tropics",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009756",
+    "Published": "November 8, 2021",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Optimization",
+        "Population density",
+        "Wolves",
+        "Sri Lanka",
+        "Epidemiology",
+        "Machine learning",
+        "Humidity"
+    ],
+    "Authors": {
+        "Chathurangi Edussuriya": [
+            "Department of Computer Engineering, Faculty of Engineering, University of Peradeniya, Sri Lanka"
+        ],
+        "Sampath Deegalla": [
+            "Department of Computer Engineering, Faculty of Engineering, University of Peradeniya, Sri Lanka"
+        ],
+        "Indika Gawarammana": [
+            "Department of Medicine, Faculty of Medicine, University of Peradeniya, Sri Lanka"
+        ]
+    }
+}

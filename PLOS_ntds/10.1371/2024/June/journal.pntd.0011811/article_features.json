@@ -1,0 +1,57 @@
+{
+    "Title": "Automatic mapping of high-risk urban areas for Aedes aegypti infestation based on building facade image analysis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011811",
+    "Published": "June 3, 2024",
+    "Subject_Areas": [
+        "Medical risk factors",
+        "Dengue fever",
+        "Aedes aegypti",
+        "Brazil",
+        "Arboviruses",
+        "Arboviral infections",
+        "Census",
+        "Mosquitoes"
+    ],
+    "Authors": {
+        "Camila Laranjeira": [
+            "Department of Computer Science, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Matheus Pereira": [
+            "Department of Computer Science, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Raul Oliveira": [
+            "Department of Epidemiology, School of Public Health of University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Gerson Barbosa": [
+            "Pasteur Institute, Secretary of Health of the State of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Camila Fernandes": [
+            "Department of Epidemiology, School of Public Health of University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Patricia Bermudi": [
+            "Department of Epidemiology, School of Public Health of University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Ester Resende": [
+            "Department of Computer Science, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Eduardo Fernandes": [
+            "Department of Computer Science, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Keiller Nogueira": [
+            "Computer Science and Mathematics, University of Stirling, Stirling, United Kingdom"
+        ],
+        "Valmir Andrade": [
+            "Epidemiologic Surveillance Center, Secretary of Health of the State of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Jos\u00e9 Alberto Quintanilha": [
+            "Institute of Energy and Environment, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Jefersson A. dos Santos": [
+            "Department of Computer Science, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Department of Computer Science, University of Sheffield, Sheffield, United Kingdom"
+        ],
+        "Francisco Chiaravalloti-Neto": [
+            "Department of Epidemiology, School of Public Health of University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ]
+    }
+}

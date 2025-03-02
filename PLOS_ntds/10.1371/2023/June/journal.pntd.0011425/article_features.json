@@ -1,0 +1,68 @@
+{
+    "Title": "Transmission-blocking activity of antimalarials for Plasmodium vivax malaria in Anopheles darlingi",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011425",
+    "Published": "June 16, 2023",
+    "Subject_Areas": [
+        "Malaria",
+        "Mosquitoes",
+        "Plasmodium",
+        "Gametocytes",
+        "Oocysts",
+        "Antimalarials",
+        "Primaquine",
+        "Parasitic diseases"
+    ],
+    "Authors": {
+        "Alice O. Andrade": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Najara A. C. Santos": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil",
+            "Programa de P\u00f3s-Gradua\u00e7\u00e3o em Biologia Experimental, Funda\u00e7\u00e3o Universidade Federal de Rond\u00f4nia, FIOCRUZ Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Alessandra S. Bastos": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Jos\u00e9 D. C. Pontual": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "J\u00e9ssica E. Ara\u00fajo": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil",
+            "Programa de P\u00f3s-Gradua\u00e7\u00e3o em Biologia Experimental, Funda\u00e7\u00e3o Universidade Federal de Rond\u00f4nia, FIOCRUZ Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Alexia M. V. Silva": [
+            "Ambulat\u00f3rio de Mal\u00e1ria, Centro de Pesquisa em Medicina Tropical, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Leandro N. Martinez": [
+            "Programa de P\u00f3s-Gradua\u00e7\u00e3o em Biologia Experimental, Funda\u00e7\u00e3o Universidade Federal de Rond\u00f4nia, FIOCRUZ Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil",
+            "Plataforma de Bioensaios de Mal\u00e1ria e Leishmaniose da Fiocruz (PBML), Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Alzemar A. Lima": [
+            "Ambulat\u00f3rio de Mal\u00e1ria, Centro de Pesquisa em Medicina Tropical, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Anna Caroline C. Aguiar": [
+            "Universidade Federal de S\u00e3o Paulo, Departamento de Bioci\u00eancia, Santos, S\u00e3o Paulo, Brazil"
+        ],
+        "Carolina B. G. Teles": [
+            "Programa de P\u00f3s-Gradua\u00e7\u00e3o em Biologia Experimental, Funda\u00e7\u00e3o Universidade Federal de Rond\u00f4nia, FIOCRUZ Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil",
+            "Plataforma de Bioensaios de Mal\u00e1ria e Leishmaniose da Fiocruz (PBML), Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Jansen F. Medeiros": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil",
+            "Programa de P\u00f3s-Gradua\u00e7\u00e3o em Biologia Experimental, Funda\u00e7\u00e3o Universidade Federal de Rond\u00f4nia, FIOCRUZ Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Dhelio B. Pereira": [
+            "Ambulat\u00f3rio de Mal\u00e1ria, Centro de Pesquisa em Medicina Tropical, Porto Velho, Rond\u00f4nia, Brazil"
+        ],
+        "Joseph M. Vinetz": [
+            "Section of Infectious Diseases, Department of Internal Medicine, Yale School of Medicine, New Haven, Connecticut, United States of America"
+        ],
+        "Ricardo T. Gazzinelli": [
+            "Laborat\u00f3rio de Imunopatologia, Instituto Ren\u00e9 Rachou, Funda\u00e7\u00e3o Oswaldo Cruz, Belo Horizonte, Minas Gerais, Brazil",
+            "Department of Medicine, University of Massachusetts Medical School, Worcester, Massachusetts, United States of America"
+        ],
+        "Maisa S. Ara\u00fajo": [
+            "Plataforma de Produ\u00e7\u00e3o e Infec\u00e7\u00e3o de Vetores da Mal\u00e1ria (PIVEM), Laborat\u00f3rio de Entomologia, Fiocruz Rond\u00f4nia, Porto Velho, Rond\u00f4nia, Brazil"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Title": "Predicting Ebola Severity: A Clinical Prioritization Score for Ebola Virus Disease",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005265",
+    "Published": "February 2, 2017",
+    "Subject_Areas": [
+        "Death rates",
+        "Medical risk factors",
+        "Malaria",
+        "Viral load",
+        "Triage",
+        "Ebola virus",
+        "Co-infections",
+        "Malarial parasites"
+    ],
+    "Authors": {
+        "Mary-Anne Hartley": [
+            "GOAL Global, Dublin, Ireland",
+            "University of Lausanne, Lausanne, Switzerland"
+        ],
+        "Alyssa Young": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Anh-Minh Tran": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Harry Henry Okoni-Williams": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Mohamed Suma": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Brooke Mancuso": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Ahmed Al-Dikhari": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Mohamed Faouzi": [
+            "Institute of Social and Preventive Medicine, Lausanne, Switzerland"
+        ]
+    }
+}

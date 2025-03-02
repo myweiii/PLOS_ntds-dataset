@@ -1,0 +1,38 @@
+{
+    "Title": "Transcriptomic modulation in response to an intoxication with deltamethrin in a population of Triatoma infestans with low resistance to pyrethroids",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010060",
+    "Published": "June 29, 2022",
+    "Subject_Areas": [
+        "Triatoma",
+        "Insecticides",
+        "Transcriptome analysis",
+        "Phylogenetic analysis",
+        "Insects",
+        "Database searching",
+        "Gene expression",
+        "Detoxification"
+    ],
+    "Authors": {
+        "Lucila Traverso": [
+            "Laboratorio de Neurobiolog\u00eda de Insectos (LNI), Centro Regional de Estudios Gen\u00f3micos, Facultad de Ciencias Exactas, Universidad Nacional de La Plata, CENEXA, CONICET, La Plata, Buenos Aires, Argentina"
+        ],
+        "Jose Manuel Latorre Estivalis": [
+            "Laboratorio de Insectos Sociales, Instituto de Fisiolog\u00eda, Biolog\u00eda Molecular y Neurociencias, Universidad de Buenos Aires\u2014CONICET, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        ],
+        "Gabriel da Rocha Fernandes": [
+            "Plataforma de Bioinform\u00e1tica, Instituto Ren\u00e9 Rachou\u2014FIOCRUZ, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Georgina Fronza": [
+            "Laboratorio de Ecolog\u00eda de Enfermedades Transmitidas por Vectores, Instituto de Investigaci\u00f3n e Ingenier\u00eda Ambiental, Universidad Nacional de San Mart\u00edn\u2014CONICET, San Mart\u00edn, Buenos Aires, Argentina"
+        ],
+        "Patricia Lobbia": [
+            "Laboratorio de Investigaci\u00f3n en Triatominos (LIT), Centro de Referencia de Vectores (CeReVe), Ministerio de Salud de la Naci\u00f3n, CONICET, Santa Mar\u00eda de Punilla, C\u00f3rdoba, Argentina"
+        ],
+        "Gast\u00f3n Mougabure Cueto": [
+            "Laboratorio de Investigaci\u00f3n en Triatominos (LIT), Centro de Referencia de Vectores (CeReVe), Ministerio de Salud de la Naci\u00f3n, CONICET, Santa Mar\u00eda de Punilla, C\u00f3rdoba, Argentina"
+        ],
+        "Sheila Ons": [
+            "Laboratorio de Neurobiolog\u00eda de Insectos (LNI), Centro Regional de Estudios Gen\u00f3micos, Facultad de Ciencias Exactas, Universidad Nacional de La Plata, CENEXA, CONICET, La Plata, Buenos Aires, Argentina"
+        ]
+    }
+}

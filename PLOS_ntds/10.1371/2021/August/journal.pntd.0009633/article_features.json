@@ -1,0 +1,58 @@
+{
+    "Title": "Identification of potential biomarkers in dengue via integrated bioinformatic analysis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009633",
+    "Published": "August 4, 2021",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Dengue virus",
+        "Gene ontologies",
+        "MicroRNAs",
+        "Protein interaction networks",
+        "Gene expression",
+        "DNA replication",
+        "Biomarkers"
+    ],
+    "Authors": {
+        "Li-Min Xie": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Xin Yin": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Pediatrics, The pediatrics school of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Jie Bi": [
+            "School of Food Science and Engineering, Wuhan Polytechnic University, Wuhan, China"
+        ],
+        "Huan-Min Luo": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Xun-Jie Cao": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Yu-Wen Ma": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Ye-Ling Liu": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Jian-Wen Su": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Geng-Ling Lin": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China"
+        ],
+        "Xu-Guang Guo": [
+            "Department of Clinical Laboratory Medicine, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Department of Clinical Medicine, The Third Clinical School of Guangzhou Medical University, Guangzhou, China",
+            "Key Laboratory for Major Obstetric Diseases of Guangdong Province, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+            "Key Laboratory of Reproduction and Genetics of Guangdong Higher Education Institutes, The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China"
+        ]
+    }
+}

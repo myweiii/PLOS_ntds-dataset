@@ -1,0 +1,52 @@
+{
+    "Title": "Bayesian estimation of Lassa virus epidemiological parameters: Implications for spillover prevention using wildlife vaccination",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007920",
+    "Published": "September 21, 2020",
+    "Subject_Areas": [
+        "Viral vaccines",
+        "Lassa virus",
+        "Rodents",
+        "Birth rates",
+        "Simulation and modeling",
+        "Vaccination and immunization",
+        "Probability distribution",
+        "Guinea"
+    ],
+    "Authors": {
+        "Scott L. Nuismer": [
+            "Department of Biological Sciences. University of Idaho. Moscow, Idaho, United States of America",
+            "Program in Bioinformatics and Computational Biology. University of Idaho. Moscow"
+        ],
+        "Christopher H. Remien": [
+            "Program in Bioinformatics and Computational Biology. University of Idaho. Moscow",
+            "Department of Mathematics. University of Idaho. Moscow, Idaho, United States of America"
+        ],
+        "Andrew J. Basinski": [
+            "Department of Mathematics. University of Idaho. Moscow, Idaho, United States of America"
+        ],
+        "Tanner Varrelman": [
+            "Program in Bioinformatics and Computational Biology. University of Idaho. Moscow"
+        ],
+        "Nathan Layman": [
+            "Department of Biological Sciences. University of Idaho. Moscow, Idaho, United States of America"
+        ],
+        "Kyle Rosenke": [
+            "Laboratory of Virology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories, Hamilton, Montana, United States of America"
+        ],
+        "Brian Bird": [
+            "One Health Institute, University of California, Davis, School of Veterinary Medicine. Davis, California, United States of America"
+        ],
+        "Michael Jarvis": [
+            "The Vaccine Group, Ltd. Plymouth; and the School of Biomedical Sciences, University of Plymouth, Devon, United Kingdom"
+        ],
+        "Peter Barry": [
+            "Department of Pathology and Laboratory Medicine, Center for Comparative Medicine, University of California, Davis. Davis, California, United States of America"
+        ],
+        "Patrick W. Hanley": [
+            "Rocky Mountain Veterinary Branch, Division of Intramural Research, National Institutes of Allergy and Infectious Diseases, National Institutes of Health, Hamilton, Montana, United States of America"
+        ],
+        "Elisabeth Fichet-Calvet": [
+            "Bernhard-Nocht Institute of Tropical Medicine, Hamburg, Germany"
+        ]
+    }
+}

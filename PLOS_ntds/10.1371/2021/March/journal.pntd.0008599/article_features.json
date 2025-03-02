@@ -1,0 +1,33 @@
+{
+    "Title": "Optimising passive surveillance of a neglected tropical disease in the era of elimination: A modelling study",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008599",
+    "Published": "March 2, 2021",
+    "Subject_Areas": [
+        "Infectious disease surveillance",
+        "Uganda",
+        "Disease surveillance",
+        "Neglected tropical diseases",
+        "Medical risk factors",
+        "Health care facilities",
+        "Open source software",
+        "Trypanosomiasis"
+    ],
+    "Authors": {
+        "Joshua Longbottom": [
+            "Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, United Kingdom",
+            "Centre for Health Informatics, Computing and Statistics, Lancaster Medical School, Lancaster University, Lancaster, United Kingdom"
+        ],
+        "Charles Wamboga": [
+            "Ministry of Health, Kampala, Uganda"
+        ],
+        "Paul R. Bessell": [
+            "Epi Interventions, Edinburgh, United Kingdom"
+        ],
+        "Steve J. Torr": [
+            "Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Michelle C. Stanton": [
+            "Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ]
+    }
+}

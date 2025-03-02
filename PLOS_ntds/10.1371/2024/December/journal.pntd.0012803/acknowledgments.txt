@@ -1,0 +1,1 @@
+Brugia malayi adult worms were obtained through the NIAID/NIH Filarial Research Reagent Resource Center (FR3). This work utilized the computational resources of the NIH High Performance Computing (HPC) Biowulf cluster (http://hpc.nih.gov).

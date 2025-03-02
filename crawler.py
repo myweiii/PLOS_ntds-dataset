@@ -87,6 +87,8 @@ for article_url in tqdm(article_urls):
         
         article_features = {}
         pubdate = soup.find("li", {"id": "artPubDate"}).get_text()
+        title = soup.find("meta", {"name": "citation_title"}).get("content")
+        article_features["Title"] = title
         article_features["URL"] = article_url
         article_features["Published"] = pubdate.split(":")[1].strip()
         

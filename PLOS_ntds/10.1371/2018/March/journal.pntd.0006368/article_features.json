@@ -1,0 +1,44 @@
+{
+    "Title": "Discovery of genomic intervals that underlie nematode responses to benzimidazoles",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006368",
+    "Published": "March 30, 2018",
+    "Subject_Areas": [
+        "Quantitative trait loci",
+        "Benzimidazoles",
+        "Caenorhabditis elegans",
+        "Linkage mapping",
+        "Phenotypes",
+        "Veterinary parasitology",
+        "Drug discovery",
+        "Genetic loci"
+    ],
+    "Authors": {
+        "Mostafa Zamanian": [
+            "Department of Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin, United States of America"
+        ],
+        "Daniel E. Cook": [
+            "Department of Molecular Biosciences, Northwestern University, Evanston, Illinois, United States of America",
+            "Interdisciplinary Biological Science Program, Northwestern University, Evanston, Illinois, United States of America"
+        ],
+        "Stefan Zdraljevic": [
+            "Department of Molecular Biosciences, Northwestern University, Evanston, Illinois, United States of America",
+            "Interdisciplinary Biological Science Program, Northwestern University, Evanston, Illinois, United States of America"
+        ],
+        "Shannon C. Brady": [
+            "Department of Molecular Biosciences, Northwestern University, Evanston, Illinois, United States of America",
+            "Interdisciplinary Biological Science Program, Northwestern University, Evanston, Illinois, United States of America"
+        ],
+        "Daehan Lee": [
+            "Department of Molecular Biosciences, Northwestern University, Evanston, Illinois, United States of America",
+            "Institute of Molecular Biology and Genetics, Department of Biological Sciences, Seoul National University, Seoul, Korea"
+        ],
+        "Junho Lee": [
+            "Institute of Molecular Biology and Genetics, Department of Biological Sciences, Seoul National University, Seoul, Korea"
+        ],
+        "Erik C. Andersen": [
+            "Department of Molecular Biosciences, Northwestern University, Evanston, Illinois, United States of America",
+            "Robert H. Lurie Comprehensive Cancer Center, Northwestern University, Chicago, Illinois, United States of America",
+            "Northwestern Institute on Complex Systems, Northwestern University, Evanston, Illinois, United States of America"
+        ]
+    }
+}

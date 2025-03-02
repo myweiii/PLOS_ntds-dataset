@@ -1,0 +1,41 @@
+{
+    "Title": "De novo assembled mitogenome analysis of Trichuris trichiura from Korean individuals using nanopore-based long-read sequencing technology",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011586",
+    "Published": "August 28, 2023",
+    "Subject_Areas": [
+        "Phylogenetic analysis",
+        "Genomics",
+        "Trichuris",
+        "Mitochondria",
+        "Nucleotide sequencing",
+        "Trichuriasis",
+        "Baboons",
+        "Genome sequencing"
+    ],
+    "Authors": {
+        "James Owen Delaluna": [
+            "Department of Tropical Medicine and Parasitology and Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Heekyoung Kang": [
+            "Department of Tropical Medicine and Parasitology and Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Yuan Yi Chang": [
+            "Department of Tropical Medicine and Parasitology and Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "MinJi Kim": [
+            "Department of Tropical Medicine and Parasitology and Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Min-Ho Choi": [
+            "Department of Tropical Medicine and Parasitology and Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Jun Kim": [
+            "Department of Convergent Bioscience and Informatics, College of Bioscience and Biotechnology, Chungnam National University, Daejeon, Republic of Korea"
+        ],
+        "Hyun Beom Song": [
+            "Department of Tropical Medicine and Parasitology and Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, Republic of Korea"
+        ]
+    }
+}

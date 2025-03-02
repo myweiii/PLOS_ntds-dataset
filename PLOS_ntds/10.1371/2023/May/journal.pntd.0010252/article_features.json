@@ -1,0 +1,43 @@
+{
+    "Title": "Understanding West Nile virus transmission: Mathematical modelling to quantify the most critical parameters to predict infection dynamics",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010252",
+    "Published": "May 1, 2023",
+    "Subject_Areas": [
+        "Birds",
+        "West Nile virus",
+        "Mosquitoes",
+        "Epidemiology",
+        "Vector-borne diseases",
+        "Infectious disease epidemiology",
+        "Disease dynamics",
+        "Simulation and modeling"
+    ],
+    "Authors": {
+        "Elisa Fesce": [
+            "Department of Veterinary Medicine and Animal Science (DiVAS), Wildlife Health management & One Health Lab, Universit\u00e0 degli Studi di Milano, Lodi (LO), Italy"
+        ],
+        "Giovanni Marini": [
+            "Research and Innovation Centre, Fondazione Edmund Mach, San Michele all\u2019Adige, Trento (TN), Italy"
+        ],
+        "Roberto Ros\u00e0": [
+            "Research and Innovation Centre, Fondazione Edmund Mach, San Michele all\u2019Adige, Trento (TN), Italy",
+            "Center Agriculture Food Environment, University of Trento, San Michele all\u2019Adige, Trento (TN), Italy"
+        ],
+        "Davide Lelli": [
+            "Istituto Zooprofilattico Sperimentale della Lombardia e dell\u2019Emilia Romagna \u201cBruno Ubertini\u201d (IZSLER), Brescia (BS), Italy"
+        ],
+        "Monica Pierangela Cerioli": [
+            "Istituto Zooprofilattico Sperimentale della Lombardia e dell\u2019Emilia Romagna \u201cBruno Ubertini\u201d (IZSLER), Brescia (BS), Italy"
+        ],
+        "Mario Chiari": [
+            "Regional Veterinary Authority of Lombardy, Direzione Generale Welfare, Milano (MI), Italy"
+        ],
+        "Marco Farioli": [
+            "Regional Veterinary Authority of Lombardy, Direzione Generale Welfare, Milano (MI), Italy"
+        ],
+        "Nicola Ferrari": [
+            "Department of Veterinary Medicine and Animal Science (DiVAS), Wildlife Health management & One Health Lab, Universit\u00e0 degli Studi di Milano, Lodi (LO), Italy",
+            "Centro di Ricerca Coordinata Epidemiologia e Sorveglianza Molecolare delle Infezioni, Universit\u00e0 degli Studi di Milano, Milano (MI), Italy"
+        ]
+    }
+}

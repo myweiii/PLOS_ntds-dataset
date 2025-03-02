@@ -1,0 +1,52 @@
+{
+    "Title": "Developing a Time Series Predictive Model for Dengue in Zhongshan, China Based on Weather and Guangzhou Dengue Surveillance Data",
+    "URL": "https://doi.org/10.1371/journal.pntd.0004473",
+    "Published": "February 19, 2016",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Humidity",
+        "Cities",
+        "Forecasting",
+        "China",
+        "Mosquitoes",
+        "Rain",
+        "Epidemiology"
+    ],
+    "Authors": {
+        "Yingtao Zhang": [
+            "Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China"
+        ],
+        "Tao Wang": [
+            "Zhongshan Center for Disease Control and Prevention, Zhongshan, Guangdong Province, P. R. China",
+            "Zhongshan Institute of School of Public Health, Sun Yat-sen University, Zhongshan, Guangdong Province, P. R. China"
+        ],
+        "Kangkang Liu": [
+            "Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China"
+        ],
+        "Yao Xia": [
+            "Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China"
+        ],
+        "Yi Lu": [
+            "Department of Environmental Health, School of Public Health, University at Albany, State University of New York, Albany, New York, United States of America"
+        ],
+        "Qinlong Jing": [
+            "Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China",
+            "Guangzhou Center for Disease Control and Prevention, Guangzhou, Guangdong Province, P. R. China"
+        ],
+        "Zhicong Yang": [
+            "Guangzhou Center for Disease Control and Prevention, Guangzhou, Guangdong Province, P. R. China"
+        ],
+        "Wenbiao Hu": [
+            "School of Public Health and Social Work, Queensland University of Technology, Brisbane, Australia",
+            "Institute of Health and Biomedical Innovation, Queensland University of Technology, Brisbane, Australia"
+        ],
+        "Jiahai Lu": [
+            "Department of Medical Statistics and Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China",
+            "Zhongshan Institute of School of Public Health, Sun Yat-sen University, Zhongshan, Guangdong Province, P. R. China",
+            "Key Laboratory for Tropical Diseases Control of Ministry of Education, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China",
+            "One Health Center of Excellence for Research and Training, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China",
+            "Institute of Emergency Technology for Serious Infectious Diseases Control and Prevention, Guangdong Provincial Department of Science and Technology; Emergency Management Office, the People\u2019s Government of Guangdong Province, Guangzhou, P. R. China",
+            "Center of Inspection and Quarantine, School of Public Health, Sun Yat-sen University, Guangzhou, Guangdong Province, P. R. China"
+        ]
+    }
+}

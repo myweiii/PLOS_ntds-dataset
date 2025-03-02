@@ -1,0 +1,34 @@
+{
+    "Title": "Spatio-temporal dynamics of dengue in Brazil: Seasonal travelling waves and determinants of regional synchrony",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007012",
+    "Published": "April 22, 2019",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Brazil",
+        "Human mobility",
+        "Seasons",
+        "Traveling waves",
+        "Spatial epidemiology",
+        "Case series",
+        "Arboviruses"
+    ],
+    "Authors": {
+        "Mikhail Churakov": [
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France"
+        ],
+        "Christian J. Villabona-Arenas": [
+            "UMI233 TransVIHMI, Institut de Recherche pour le D\u00e9veloppement (IRD), Universit\u00e9 de Montpellier, Montpellier, France"
+        ],
+        "Moritz U. G. Kraemer": [
+            "Department of Pediatrics, Harvard Medical School, Boston, MA, United States of America",
+            "Computational Epidemiology Lab, Boston Children's Hospital, Boston, MA, United States of America",
+            "Department of Zoology, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Henrik Salje": [
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France"
+        ],
+        "Simon Cauchemez": [
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France"
+        ]
+    }
+}

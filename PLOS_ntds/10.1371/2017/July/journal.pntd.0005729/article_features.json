@@ -1,0 +1,39 @@
+{
+    "Title": "Dengue prediction by the web: Tweets are a useful tool for estimating and forecasting Dengue at country and city level",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005729",
+    "Published": "July 18, 2017",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Twitter",
+        "Epidemiology",
+        "Online encyclopedias",
+        "Brazil",
+        "Forecasting",
+        "Infectious disease surveillance",
+        "Internet"
+    ],
+    "Authors": {
+        "Cecilia de Almeida Marques-Toledo": [
+            "Departamento de Bioquimica e Imunologia do Instituto de Ciencias Biologicas, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil",
+            "Consultoria Tecnica, Ecovec LTDA, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Carolin Marlen Degener": [
+            "Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Livia Vinhal": [
+            "Secretaria de Vigilancia em Saude, Ministerio da Saude, Brasilia, Brazil"
+        ],
+        "Giovanini Coelho": [
+            "Secretaria de Vigilancia em Saude, Ministerio da Saude, Brasilia, Brazil"
+        ],
+        "Wagner Meira": [
+            "Departamento de Ciencia da Computacao do Instituto de Ciencias Exatas, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Claudia Torres Code\u00e7o": [
+            "Programa de Computacao Cientifica, Fundacao Oswaldo Cruz, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Mauro Martins Teixeira": [
+            "Departamento de Bioquimica e Imunologia do Instituto de Ciencias Biologicas, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ]
+    }
+}

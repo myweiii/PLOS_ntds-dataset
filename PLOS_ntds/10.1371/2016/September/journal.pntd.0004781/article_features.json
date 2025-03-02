@@ -1,0 +1,129 @@
+{
+    "Title": "Molecular Surveillance Identifies Multiple Transmissions of Typhoid in West Africa",
+    "URL": "https://doi.org/10.1371/journal.pntd.0004781",
+    "Published": "September 22, 2016",
+    "Subject_Areas": [
+        "Salmonella typhi",
+        "Nigeria",
+        "Typhoid",
+        "Antimicrobial resistance",
+        "Global health",
+        "Medicine and health sciences",
+        "United Kingdom",
+        "Africa"
+    ],
+    "Authors": {
+        "International Typhoid Consortium": [],
+        "Vanessa K. Wong": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom",
+            "Addenbrooke\u2019s Hospital, Cambridge University Hospitals National Health Service Foundation Trust, Cambridge, United Kingdom"
+        ],
+        "Kathryn E. Holt": [
+            "Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, Victoria, Australia",
+            "Centre for Systems Genomics, University of Melbourne, Parkville, Victoria, Australia"
+        ],
+        "Chinyere Okoro": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom",
+            "Addenbrooke\u2019s Hospital, Cambridge University Hospitals National Health Service Foundation Trust, Cambridge, United Kingdom"
+        ],
+        "Stephen Baker": [
+            "The Hospital for Tropical Diseases, Wellcome Trust Major Overseas Programme, Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam",
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, Oxford University, Oxford, United Kingdom",
+            "Department of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, United Kingdom"
+        ],
+        "Derek J. Pickard": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom"
+        ],
+        "Florian Marks": [
+            "International Vaccine Institute, Department of Epidemiology, Kwanak, Seoul, Republic of Korea"
+        ],
+        "Andrew J. Page": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom"
+        ],
+        "Grace Olanipekun": [
+            "International Foundation Against Infectious Diseases in Nigeria, Abuja, Nigeria"
+        ],
+        "Huda Munir": [
+            "Department of Medical Microbiology, Aminu Kano Teaching Hospital, Kano, Nigeria"
+        ],
+        "Roxanne Alter": [
+            "Department of Pathology and Microbiology, University of Nebraska Medical Center, Omaha, Nebraska, United States of America"
+        ],
+        "Paul D. Fey": [
+            "Department of Pathology and Microbiology, University of Nebraska Medical Center, Omaha, Nebraska, United States of America"
+        ],
+        "Nicholas A. Feasey": [
+            "Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, United Kingdom"
+        ],
+        "Francois-Xavier Weill": [
+            "Institut Pasteur, Unit\u00e9 des Bact\u00e9ries Pathog\u00e8nes Ent\u00e9riques, Paris, France"
+        ],
+        "Simon Le Hello": [
+            "Institut Pasteur, Unit\u00e9 des Bact\u00e9ries Pathog\u00e8nes Ent\u00e9riques, Paris, France"
+        ],
+        "Peter J. Hart": [
+            "Institute of Biomedical Research, School of Immunity and Infection, College of Medicine and Dental Sciences, University of Birmingham, Birmingham, United Kingdom",
+            "St George\u2019s University of London, London, United Kingdom"
+        ],
+        "Samuel Kariuki": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom",
+            "Kenya Medical Research Institute (KEMRI), Nairobi, Kenya"
+        ],
+        "Robert F. Breiman": [
+            "Kenya Medical Research Institute (KEMRI), Nairobi, Kenya",
+            "Centers for Disease Control and Prevention, Atlanta, Georgia, United States of America",
+            "Emory Global Health Institute, Atlanta, Georgia, United States of America"
+        ],
+        "Melita A. Gordon": [
+            "Institute of Infection and Global Health, University of Liverpool, United Kingdom",
+            "Malawi-Liverpool-Wellcome-Trust Clinical Research Programme, College of Medicine, University of Malawi, Chichiri, Blantyre, Malawi"
+        ],
+        "Robert S. Heyderman": [
+            "Malawi-Liverpool-Wellcome-Trust Clinical Research Programme, College of Medicine, University of Malawi, Chichiri, Blantyre, Malawi",
+            "Division of Infection and Immunity, University College London, London, United Kingdom"
+        ],
+        "Jan Jacobs": [
+            "Department of Clinical Sciences, Institute of Tropical Medicine, Antwerp, Belgium",
+            "KU Leuven, University of Leuven, Department of Microbiology and Immunology, Belgium"
+        ],
+        "Octavie Lunguya": [
+            "National Institute for Biomedical Research, Kinshasa, Democratic Republic of the Congo",
+            "University Hospital of Kinshasa, Kinshasa, Democratic Republic of the Congo"
+        ],
+        "Chisomo Msefula": [
+            "Division of Infection and Immunity, University College London, London, United Kingdom",
+            "Microbiology Department, College of Medicine, University of Malawi, Malawi"
+        ],
+        "Calman A. MacLennan": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom",
+            "Institute of Biomedical Research, School of Immunity and Infection, College of Medicine and Dental Sciences, University of Birmingham, Birmingham, United Kingdom",
+            "The Jenner Institute, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Karen H. Keddy": [
+            "Centre for Enteric Diseases, National Institute for Communicable Diseases, Division in the National Health Laboratory Service and Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa"
+        ],
+        "Anthony M. Smith": [
+            "Centre for Enteric Diseases, National Institute for Communicable Diseases, Division in the National Health Laboratory Service and Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa"
+        ],
+        "Robert S. Onsare": [
+            "Kenya Medical Research Institute (KEMRI), Nairobi, Kenya"
+        ],
+        "Elizabeth De Pinna": [
+            "Salmonella Reference Service, Public Health England, Colindale, London, United Kingdom"
+        ],
+        "Satheesh Nair": [
+            "Salmonella Reference Service, Public Health England, Colindale, London, United Kingdom"
+        ],
+        "Ben Amos": [
+            "St Augustine\u2019s Hospital, Muheza, Tanzania"
+        ],
+        "Gordon Dougan": [
+            "The Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom"
+        ],
+        "Stephen Obaro": [
+            "Division of Pediatric Infectious Diseases, University of Nebraska Medical Center, Omaha, Nebraska, United States of America",
+            "University of Abuja Teaching Hospital, Gwagwalada, Nigeria",
+            "Bingham University, Karu, Nassarawa State, Nigeria"
+        ]
+    }
+}

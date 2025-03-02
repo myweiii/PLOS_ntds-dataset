@@ -1,0 +1,41 @@
+{
+    "Title": "Comparing sources of mobility for modelling the epidemic spread of Zika virus in Colombia",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010565",
+    "Published": "July 20, 2022",
+    "Subject_Areas": [
+        "Zika virus",
+        "Human mobility",
+        "Census",
+        "Colombia",
+        "Network analysis",
+        "Epidemiology",
+        "Infectious disease modeling",
+        "Mosquitoes"
+    ],
+    "Authors": {
+        "Daniela Perrotta": [
+            "Laboratory of Digital and Computational Demography, Max Planck Institute for Demographic Research, Rostock, Germany"
+        ],
+        "Enrique Frias-Martinez": [
+            "Universidad Camilo Jose Cela, CAILab, Madrid, Spain"
+        ],
+        "Ana Pastore y Piontti": [
+            "Laboratory for the Modeling of Biological and Socio-technical Systems, Northeastern University, Boston, Massachusetts, United States of America"
+        ],
+        "Qian Zhang": [
+            "Laboratory for the Modeling of Biological and Socio-technical Systems, Northeastern University, Boston, Massachusetts, United States of America"
+        ],
+        "Miguel Luengo-Oroz": [
+            "United Nations Global Pulse, New York, State of New York, United States of America"
+        ],
+        "Daniela Paolotti": [
+            "ISI Foundation, Turin, Italy"
+        ],
+        "Michele Tizzoni": [
+            "ISI Foundation, Turin, Italy"
+        ],
+        "Alessandro Vespignani": [
+            "Laboratory for the Modeling of Biological and Socio-technical Systems, Northeastern University, Boston, Massachusetts, United States of America"
+        ]
+    }
+}

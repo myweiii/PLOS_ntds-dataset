@@ -1,0 +1,39 @@
+{
+    "Title": "Defining Brugia malayi and Wolbachia symbiosis by stage-specific dual RNA-seq",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005357",
+    "Published": "March 30, 2017",
+    "Subject_Areas": [
+        "Wolbachia",
+        "Brugia malayi",
+        "Gene expression",
+        "Heme",
+        "Nematode infections",
+        "Biosynthesis",
+        "Parasitic life cycles",
+        "Riboflavin"
+    ],
+    "Authors": {
+        "Alexandra Grote": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York, United States of America"
+        ],
+        "Denis Voronin": [
+            "Molecular Parasitology, New York Blood Center, New York, New York, United States of America"
+        ],
+        "Tao Ding": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York, United States of America"
+        ],
+        "Alan Twaddle": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York, United States of America"
+        ],
+        "Thomas R. Unnasch": [
+            "Department of Global Health, University of South Florida, Tampa, Florida, United States of America"
+        ],
+        "Sara Lustigman": [
+            "Molecular Parasitology, New York Blood Center, New York, New York, United States of America"
+        ],
+        "Elodie Ghedin": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York, United States of America",
+            "College of Global Public Health, New York University, New York, New York, United States of America"
+        ]
+    }
+}

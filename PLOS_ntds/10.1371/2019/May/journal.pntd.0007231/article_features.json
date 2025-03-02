@@ -1,0 +1,91 @@
+{
+    "Title": "A computational method for the identification of Dengue, Zika and Chikungunya virus species and genotypes",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007231",
+    "Published": "May 8, 2019",
+    "Subject_Areas": [
+        "Dengue virus",
+        "Chikungunya virus",
+        "Phylogenetic analysis",
+        "Genomics",
+        "Phylogenetics",
+        "Zika virus",
+        "Sequence alignment",
+        "BLAST algorithm"
+    ],
+    "Authors": {
+        "Vagner Fonseca": [
+            "Laborat\u00f3rio de Flaviv\u00edrus, IOC, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil",
+            "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), College of Health Sciences, University of KwaZuluNatal, Durban, South Africa",
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Pieter J. K. Libin": [
+            "Artificial Intelligence Lab, Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium",
+            "KU Leuven\u2014University of Leuven, Department of Microbiology and Immunology, Rega Institute for Medical Research, Clinical and Epidemiological Virology, Leuven, Belgium"
+        ],
+        "Kristof Theys": [
+            "KU Leuven\u2014University of Leuven, Department of Microbiology and Immunology, Rega Institute for Medical Research, Clinical and Epidemiological Virology, Leuven, Belgium"
+        ],
+        "Nuno R. Faria": [
+            "Department of Zoology, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Marcio R. T. Nunes": [
+            "Evandro Chagas Institute, Ministry of Health, Ananindeua, Brazil"
+        ],
+        "Maria I. Restovic": [
+            "Laborat\u00f3rio de Patologia Experimental, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "Murilo Freire": [
+            "Laborat\u00f3rio de Patologia Experimental, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "Marta Giovanetti": [
+            "Laborat\u00f3rio de Flaviv\u00edrus, IOC, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Lize Cuypers": [
+            "KU Leuven\u2014University of Leuven, Department of Microbiology and Immunology, Rega Institute for Medical Research, Clinical and Epidemiological Virology, Leuven, Belgium"
+        ],
+        "Ann Now\u00e9": [
+            "Artificial Intelligence Lab, Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium"
+        ],
+        "Ana Abecasis": [
+            "Center for Global Health and Tropical Medicine, Unidade de Microbiologia, Instituto de Higiene e Medicina Tropical, Universidade Nova de Lisboa, Lisbon, Portugal"
+        ],
+        "Koen Deforche": [
+            "EMWEB (private company), Herent, Belgium"
+        ],
+        "Gilberto A. Santiago": [
+            "Division of Vector-Borne Diseases, Centers for Disease Control and Prevention, San Juan, Puerto Rico, United states of America"
+        ],
+        "Isadora C. de Siqueira": [
+            "Laborat\u00f3rio de Patologia Experimental, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "Emmanuel J. San": [
+            "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), College of Health Sciences, University of KwaZuluNatal, Durban, South Africa"
+        ],
+        "Kaliane C. B. Machado": [
+            "Laborat\u00f3rio de Patologia Experimental, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "Vasco Azevedo": [
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Ana Maria Bispo-de Filippis": [
+            "Laborat\u00f3rio de Flaviv\u00edrus, IOC, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Rivaldo Ven\u00e2ncio da Cunha": [
+            "Coordena\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade e Laborat\u00f3rios de Refer\u00eancias, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Oliver G. Pybus": [
+            "Department of Zoology, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Anne-Mieke Vandamme": [
+            "KU Leuven\u2014University of Leuven, Department of Microbiology and Immunology, Rega Institute for Medical Research, Clinical and Epidemiological Virology, Leuven, Belgium",
+            "Center for Global Health and Tropical Medicine, Unidade de Microbiologia, Instituto de Higiene e Medicina Tropical, Universidade Nova de Lisboa, Lisbon, Portugal"
+        ],
+        "Luiz C. J. Alcantara": [
+            "Laborat\u00f3rio de Flaviv\u00edrus, IOC, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Gen\u00e9tica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil"
+        ],
+        "Tulio de Oliveira": [
+            "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), College of Health Sciences, University of KwaZuluNatal, Durban, South Africa"
+        ]
+    }
+}

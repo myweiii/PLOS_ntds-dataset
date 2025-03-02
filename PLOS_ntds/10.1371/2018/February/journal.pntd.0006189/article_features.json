@@ -1,0 +1,36 @@
+{
+    "Title": "Detection of Bartonella spp. in fleas by MALDI-TOF MS",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006189",
+    "Published": "February 16, 2018",
+    "Subject_Areas": [
+        "Fleas",
+        "Bartonella",
+        "Matrix-assisted laser desorption ionization time-of-flight mass spectrometry",
+        "Blood",
+        "Arthropoda",
+        "Computer software",
+        "Infectious disease control",
+        "Pathogens"
+    ],
+    "Authors": {
+        "Basma El Hamzaoui": [
+            "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection. 19\u201321 Boulevard Jean Moulin, Marseille, France"
+        ],
+        "Maureen Laroche": [
+            "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection. 19\u201321 Boulevard Jean Moulin, Marseille, France"
+        ],
+        "Lionel Almeras": [
+            "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection. 19\u201321 Boulevard Jean Moulin, Marseille, France",
+            "Unit\u00e9 de Parasitologie et entomologie, D\u00e9partement des maladies infectieuses, Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, IHU M\u00e9diterran\u00e9e Infection, Marseille, France"
+        ],
+        "Jean-Michel B\u00e9renger": [
+            "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection. 19\u201321 Boulevard Jean Moulin, Marseille, France"
+        ],
+        "Didier Raoult": [
+            "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection. 19\u201321 Boulevard Jean Moulin, Marseille, France"
+        ],
+        "Philippe Parola": [
+            "Aix Marseille Univ, IRD, AP-HM, SSA, VITROME, IHU-M\u00e9diterran\u00e9e Infection. 19\u201321 Boulevard Jean Moulin, Marseille, France"
+        ]
+    }
+}

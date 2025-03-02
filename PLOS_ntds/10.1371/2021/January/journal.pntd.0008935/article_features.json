@@ -1,0 +1,42 @@
+{
+    "Title": "Dual RNAseq analyses at soma and germline levels reveal evolutionary innovations in the elephantiasis-agent Brugia malayi, and adaptation of its Wolbachia endosymbionts",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008935",
+    "Published": "January 6, 2021",
+    "Subject_Areas": [
+        "Gene expression",
+        "Wolbachia",
+        "Ovaries",
+        "Transcriptome analysis",
+        "Invertebrate genomics",
+        "Brugia malayi",
+        "DNA-binding proteins",
+        "Parasite evolution"
+    ],
+    "Authors": {
+        "Germain Chevignon": [
+            "CRBM, University of Montpellier, CNRS, Montpellier, France",
+            "Laboratoire de G\u00e9n\u00e9tique et Pathologie des Mollusques Marins, Ifremer, La Tremblade, France"
+        ],
+        "Vincent Foray": [
+            "CRBM, University of Montpellier, CNRS, Montpellier, France",
+            "Institut de Recherche sur la Biologie de l\u2019Insecte, UMR 7261, CNRS, Universit\u00e9 de Tours, Tours, France"
+        ],
+        "Mercedes Maria P\u00e9rez-Jim\u00e9nez": [
+            "CRBM, University of Montpellier, CNRS, Montpellier, France",
+            "Centro Andaluz de Biolog\u00eda del Desarrollo (CABD)\u2013Universidad Pablo de Olavide (UPO), Departamento de Biolog\u00eda Molecular e Ingenier\u00eda Bioqu\u00edmica, UPO/CSIC/JA, Sevilla, Spain"
+        ],
+        "Silvia Libro": [
+            "Division of Protein Expression & Modification, New England Biolabs, Ipswich, Massachusetts, United States of America"
+        ],
+        "Matthew Chung": [
+            "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Jeremy M. Foster": [
+            "Division of Protein Expression & Modification, New England Biolabs, Ipswich, Massachusetts, United States of America"
+        ],
+        "Fr\u00e9d\u00e9ric Landmann": [
+            "CRBM, University of Montpellier, CNRS, Montpellier, France"
+        ]
+    }
+}

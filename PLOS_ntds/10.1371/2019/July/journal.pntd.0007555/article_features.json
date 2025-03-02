@@ -1,0 +1,60 @@
+{
+    "Title": "Large scale detailed mapping of dengue vector breeding sites using street view images",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007555",
+    "Published": "July 29, 2019",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Larvae",
+        "Aedes aegypti",
+        "Population density",
+        "Thailand",
+        "Visual object recognition",
+        "Imaging techniques",
+        "Medical risk factors"
+    ],
+    "Authors": {
+        "Peter Haddawy": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand",
+            "Bremen Spatial Cognition Center, University of Bremen, Bremen, Germany"
+        ],
+        "Poom Wettayakorn": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Boonpakorn Nonthaleerak": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Myat Su Yin": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Anuwat Wiratsudakul": [
+            "Faculty of Veterinary Science, Mahidol University, Salaya, Thailand"
+        ],
+        "Johannes Sch\u00f6ning": [
+            "University of Bremen, Bremen, Germany"
+        ],
+        "Yongjua Laosiritaworn": [
+            "Ministry of Public Health, Bangkok, Thailand"
+        ],
+        "Klestia Balla": [
+            "Computer Science Department, School of Science and Technology, University of Camerino, Camerino, Italy"
+        ],
+        "Sirinut Euaungkanakul": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Papichaya Quengdaeng": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Kittipop Choknitipakin": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Siripong Traivijitkhun": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Benyarut Erawan": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ],
+        "Thansuda Kraisang": [
+            "Faculty of ICT, Mahidol University, Salaya, Thailand"
+        ]
+    }
+}

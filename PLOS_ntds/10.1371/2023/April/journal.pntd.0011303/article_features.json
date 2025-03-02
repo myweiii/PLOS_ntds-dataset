@@ -1,0 +1,35 @@
+{
+    "Title": "Crystal structure of dihydrofolate reductase from the filarial nematode W. bancrofti in complex with NADPH and folate",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011303",
+    "Published": "April 27, 2023",
+    "Subject_Areas": [
+        "Crystal structure",
+        "Biochemical simulations",
+        "Drug interactions",
+        "Methotrexate",
+        "Hydrogen bonding",
+        "Molecular dynamics",
+        "Molecular docking",
+        "Pyrimethamine"
+    ],
+    "Authors": {
+        "Keith Lange": [
+            "Department of Chemistry and Biochemistry, Montclair State University, Montclair, New Jersey, United States of America"
+        ],
+        "Kathleen M. Frey": [
+            "School of Pharmacy and Health Sciences, Fairleigh Dickinson University, Florham Park, New Jersey, United States of America"
+        ],
+        "Tyler Eck": [
+            "Department of Chemistry and Biochemistry, Montclair State University, Montclair, New Jersey, United States of America"
+        ],
+        "Cheryl A. Janson": [
+            "Department of Chemistry and Biochemistry, Montclair State University, Montclair, New Jersey, United States of America"
+        ],
+        "Ueli Gubler": [
+            "Department of Chemistry and Biochemistry, Montclair State University, Montclair, New Jersey, United States of America"
+        ],
+        "Nina M. Goodey": [
+            "Department of Chemistry and Biochemistry, Montclair State University, Montclair, New Jersey, United States of America"
+        ]
+    }
+}

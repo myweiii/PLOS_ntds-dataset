@@ -1,0 +1,96 @@
+{
+    "Title": "Polyphenol-Rich Diets Exacerbate AMPK-Mediated Autophagy, Decreasing Proliferation of Mosquito Midgut Microbiota, and Extending Vector Lifespan",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005034",
+    "Published": "October 12, 2016",
+    "Subject_Areas": [
+        "Mosquitoes",
+        "Gut bacteria",
+        "Diet",
+        "Autophagic cell death",
+        "Fluorescence imaging",
+        "Bacteria",
+        "Insects",
+        "Ethanol"
+    ],
+    "Authors": {
+        "Rodrigo Dutra Nunes": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Guilherme Ventura-Martins": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "D\u00e9bora Monteiro Moretti": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Priscilla Medeiros-Castro": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Carlucio Rocha-Santos": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Carlos Renato de Oliveira Daumas-Filho": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Paula Rego Barros Bittencourt-Cunha": [
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Bioqu\u00edmica de Lip\u00eddios e Lipoprote\u00ednas, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Karina Martins-Cardoso": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Cec\u00edlia Oliveira Cudischevitch": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Rubem Figueiredo Sadok Menna-Barreto": [
+            "Laborat\u00f3rio de Biologia Celular, Instituto Oswaldo Cruz, Funda\u00e7\u00e3o Oswaldo Cruz, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Jos\u00e9 Henrique Maia Oliveira": [
+            "Laborat\u00f3rio de Bioqu\u00edmica de Artr\u00f3podes Hemat\u00f3fagos, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Desiely Silva Gusm\u00e3o": [
+            "Laborat\u00f3rio de Biologia, Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia Fluminense, Campos dos Goytacazes, Rio de Janeiro, Brazil"
+        ],
+        "Francisco Jos\u00e9 Alves Lemos": [
+            "Laborat\u00f3rio de Biotecnologia, Universidade Estadual do Norte Fluminense, Campos dos Goytacazes, Rio de Janeiro, Brazil"
+        ],
+        "Daniela Sales Alviano": [
+            "Instituto de Microbiologia Prof. Paulo de G\u00f3es, Universidade Federal do Rio de Janeiro, Pr\u00e9dio do CCS, Bloco I, Rio de JaneiroRio de Janeiro, Brazil"
+        ],
+        "Pedro Lagerblad Oliveira": [
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Bioqu\u00edmica de Artr\u00f3podes Hemat\u00f3fagos, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Carl Lowenberger": [
+            "Department of Biological Sciences, Simon Fraser University, Burnaby, British Columbia, Canada"
+        ],
+        "David Majerowicz": [
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil",
+            "Departamento de Biotecnologia Farmac\u00eautica, Faculdade de Farm\u00e1cia, Universidade Federal do Rio de Janeiro, Ilha do Fund\u00e3o, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Ricardo Melo Oliveira": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil"
+        ],
+        "Rafael Dias Mesquita": [
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Bioinform\u00e1tica, Departamento de Bioqu\u00edmica, Instituto de Qu\u00edmica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Georgia Correa Atella": [
+            "Instituto Nacional de Ci\u00eancia e Tecnologia em Entomologia Molecular, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Bioqu\u00edmica de Lip\u00eddios e Lipoprote\u00ednas, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "M\u00e1rio Alberto Cardoso Silva-Neto": [
+            "Laborat\u00f3rio de Sinaliza\u00e7\u00e3o Celular, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Bioqu\u00edmica de Lip\u00eddios e Lipoprote\u00ednas, Programa de Biologia Molecular e Biotecnologia, Instituto de Bioqu\u00edmica M\u00e9dica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brazil"
+        ]
+    }
+}

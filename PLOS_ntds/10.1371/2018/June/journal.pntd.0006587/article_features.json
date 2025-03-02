@@ -1,0 +1,45 @@
+{
+    "Title": "Mapping dengue risk in Singapore using Random Forest",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006587",
+    "Published": "June 18, 2018",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Medical risk factors",
+        "Singapore",
+        "Aedes aegypti",
+        "Infectious disease control",
+        "Geographic information systems",
+        "Machine learning",
+        "Public and occupational health"
+    ],
+    "Authors": {
+        "Janet Ong": [
+            "Environmental Health Institute, National Environment Agency, Singapore"
+        ],
+        "Xu Liu": [
+            "Environmental Health Institute, National Environment Agency, Singapore"
+        ],
+        "Jayanthi Rajarethinam": [
+            "Environmental Health Institute, National Environment Agency, Singapore"
+        ],
+        "Suet Yheng Kok": [
+            "Environmental Health Institute, National Environment Agency, Singapore"
+        ],
+        "Shaohong Liang": [
+            "Environmental Health Institute, National Environment Agency, Singapore"
+        ],
+        "Choon Siang Tang": [
+            "Environmental Public Health Operations, National Environment Agency, Singapore"
+        ],
+        "Alex R. Cook": [
+            "Saw Swee Hock School of Public Health, National University of Singapore and National University Health System, Singapore"
+        ],
+        "Lee Ching Ng": [
+            "Environmental Health Institute, National Environment Agency, Singapore",
+            "School of Biological Sciences, Nanyang Technological University, Singapore"
+        ],
+        "Grace Yap": [
+            "Environmental Health Institute, National Environment Agency, Singapore"
+        ]
+    }
+}

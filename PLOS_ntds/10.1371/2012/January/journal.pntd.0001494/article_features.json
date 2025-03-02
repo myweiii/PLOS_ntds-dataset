@@ -1,0 +1,36 @@
+{
+    "Title": "WormAssay: A Novel Computer Application for Whole-Plate Motion-based Screening of Macroscopic Parasites",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001494",
+    "Published": "January 31, 2012",
+    "Subject_Areas": [
+        "Computer software",
+        "Cameras",
+        "Parasitic diseases",
+        "Brugia malayi",
+        "Video recording",
+        "Algorithms",
+        "Lymphatic filariasis",
+        "Nematode infections"
+    ],
+    "Authors": {
+        "Chris Marcellino": [
+            "Sandler Center for Drug Discovery, University of California San Francisco, San Francisco, California, United States of America",
+            "Case Western Reserve University School of Medicine, Cleveland, Ohio, United States of America"
+        ],
+        "Jiri Gut": [
+            "Sandler Center for Drug Discovery, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "K. C. Lim": [
+            "Sandler Center for Drug Discovery, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Rahul Singh": [
+            "Department of Computer Science, San Francisco State University, San Francisco, California, United States of America"
+        ],
+        "James McKerrow": [
+            "Sandler Center for Drug Discovery, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Judy Sakanari": [
+            "Sandler Center for Drug Discovery, University of California San Francisco, San Francisco, California, United States of America"
+        ]
+    }
+}

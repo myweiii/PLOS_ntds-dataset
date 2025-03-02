@@ -1,0 +1,765 @@
+{
+    "Title": "Predicting the environmental suitability for onchocerciasis in Africa as an aid to elimination planning",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008824",
+    "Published": "July 28, 2021",
+    "Subject_Areas": [
+        "Onchocerciasis",
+        "Morbidity",
+        "Africa",
+        "Data visualization",
+        "Skin diseases",
+        "Decision trees",
+        "Drug administration",
+        "Surveys"
+    ],
+    "Authors": {
+        "Elizabeth A. Cromwell": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America",
+            "Department of Health Metrics Sciences, School of Medicine, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Joshua C. P. Osborne": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Thomas R. Unnasch": [
+            "GlobalHealth Infectious Disease, University of South Florida, Tampa, Florida, United States of America"
+        ],
+        "Maria-Gloria Bas\u00e1\u00f1ez": [
+            "London Centre for Neglected Tropical Disease Research (LCNTDR), Imperial College London, London, United Kingdom",
+            "MRC Centre for Global Infectious Disease Analysis (MRC-GIDA), Imperial College London, London, United Kingdom"
+        ],
+        "Katherine M. Gass": [
+            "Neglected Tropical Diseases Support Center, Task Force for Global Health, Decatur, Georgia, United States of America"
+        ],
+        "Kira A. Barbre": [
+            "Neglected Tropical Diseases Support Center, Task Force for Global Health, Decatur, Georgia, United States of America"
+        ],
+        "Elex Hill": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Kimberly B. Johnson": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Katie M. Donkers": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Shreya Shirude": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Chris A. Schmidt": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Victor Adekanmbi": [
+            "Population Health Sciences, King\u2019s College London, London, England"
+        ],
+        "Olatunji O. Adetokunboh": [
+            "Centre of Excellence for Epidemiological Modelling and Analysis, Stellenbosch University, Stellenbosch, South Africa",
+            "Department of Global Health, Stellenbosch University, Cape Town, South Africa"
+        ],
+        "Mohsen Afarideh": [
+            "Department of Dermatology, Mayo Clinic, Rochester, Minnesota, United States of America",
+            "Endocrinology and Metabolism Research Center, Tehran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Ehsan Ahmadpour": [
+            "Infectious and Tropical Diseases Research Center, Tabriz University of Medical Sciences, Tabriz, Iran"
+        ],
+        "Muktar Beshir Ahmed": [
+            "Department of Epidemiology, Jimma University, Jimma, Ethiopia",
+            "Australian Center for Precision Health, University of South Australia, Adelaide, South Australia, Australia"
+        ],
+        "Temesgen Yihunie Akalu": [
+            "Department of Epidemiology and Biostatistics, University of Gondar, Gondar, Ethiopia"
+        ],
+        "Ziyad Al-Aly": [
+            "John T. Milliken Department of Internal Medicine, Washington University in St. Louis, St. Louis, Montana, United States of America",
+            "Clinical Epidemiology Center, Department of Veterans Affairs, St Louis, Montana, United States of America"
+        ],
+        "Fahad Mashhour Alanezi": [
+            "Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia"
+        ],
+        "Turki M. Alanzi": [
+            "Health Information Management and Technology Department, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia"
+        ],
+        "Vahid Alipour": [
+            "Health Management and Economics Research Center, Iran University of Medical Sciences, Tehran, Iran",
+            "Health Economics Department, Iran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Catalina Liliana Andrei": [
+            "Cardiology Department, Carol Davila University of Medicine and Pharmacy, Bucharest, Romania"
+        ],
+        "Fereshteh Ansari": [
+            "Research Center for Evidence Based Medicine, Tabriz University of Medical Sciences, Tabriz, Iran",
+            "Razi Vaccine and Serum Research Institute, Agricultural Research, Education, and Extension Organization (AREEO), Tehran, Iran"
+        ],
+        "Mustafa Geleto Ansha": [
+            "Department of Public Health, Debre Berhan University, Debre Berhan, Ethiopia"
+        ],
+        "Davood Anvari": [
+            "Department of Parasitology, Mazandaran University of Medical Sciences, Sari, Iran",
+            "Department of Parasitology, Iranshahr University of Medical Sciences, Iranshahr, Iran"
+        ],
+        "Seth Christopher Yaw Appiah": [
+            "Department of Sociology and Social Work, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana",
+            "Center for International Health, Ludwig Maximilians University, Munich, Germany"
+        ],
+        "Jalal Arabloo": [
+            "Health Management and Economics Research Center, Iran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Benjamin F. Arnold": [
+            "Department of Ophthalmology, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Marcel Ausloos": [
+            "School of Business, University of Leicester, Leicester, United Kingdom",
+            "Department of Statistics and Econometrics, Bucharest University of Economic Studies, Bucharest, Romania"
+        ],
+        "Martin Amogre Ayanore": [
+            "Department of Health Policy Planning and Management, University of Health and Allied Sciences, Ho, Ghana"
+        ],
+        "Atif Amin Baig": [
+            "Unit of Biochemistry, Sultan Zainal Abidin University (Universiti Sultan Zainal Abidin), Kuala Terengganu, Malaysia"
+        ],
+        "Maciej Banach": [
+            "Department of Hypertension, Medical University of Lodz, Lodz, Poland",
+            "Polish Mothers\u2019 Memorial Hospital Research Institute, Lodz, Poland"
+        ],
+        "Aleksandra Barac": [
+            "Clinic for Infectious and Tropical Diseases, Clinical Center of Serbia, Belgrade, Serbia",
+            "Faculty of Medicine, University of Belgrade, Belgrade, Serbia"
+        ],
+        "Till Winfried B\u00e4rnighausen": [
+            "Heidelberg Institute of Global Health (HIGH), Heidelberg University, Heidelberg, Germany",
+            "T.H. Chan School of Public Health, Harvard University, Boston, Massachusetts, United States of America"
+        ],
+        "Mohsen Bayati": [
+            "Health Human Resources Research Center, Shiraz University of Medical Sciences, Shiraz, Iran"
+        ],
+        "Krittika Bhattacharyya": [
+            "Department of Statistical and Computational Genomics, National Institute of Biomedical Genomics, Kalyani, India",
+            "Department of Statistics, University of Calcutta, Kolkata, India"
+        ],
+        "Zulfiqar A. Bhutta": [
+            "Centre for Global Child Health, University of Toronto, Toronto, Ontario, Canada",
+            "Centre of Excellence in Women & Child Health, Aga Khan University, Karachi, Pakistan"
+        ],
+        "Sadia Bibi": [
+            "Institute of Soil and Environmental Sciences, University of Agriculture\u2014Faisalabad, Faisalabad, Pakistan"
+        ],
+        "Ali Bijani": [
+            "Social Determinants of Health Research Center, Babol University of Medical Sciences, Babol, Iran"
+        ],
+        "Somayeh Bohlouli": [
+            "Department of Veterinary Medicine, Islamic Azad University, Kermanshah, Iran"
+        ],
+        "Mahdi Bohluli": [
+            "Department of Computer Science and Information Technology, Institute for Advanced Studies in Basic Sciences, Zanjan, Iran",
+            "Department of Research and Innovation, Petanux Research GmBH, Bonn, Germany"
+        ],
+        "Oliver J. Brady": [
+            "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Nicola Luigi Bragazzi": [
+            "University of Genoa, Genoa, Italy"
+        ],
+        "Zahid A. Butt": [
+            "School of Public Health and Health Systems, University of Waterloo, Waterloo, Ontario, Canada",
+            "Al Shifa School of Public Health, Al Shifa Trust Eye Hospital, Rawalpindi, Pakistan"
+        ],
+        "Felix Carvalho": [
+            "Research Unit on Applied Molecular Biosciences (UCIBIO), University of Porto, Porto, Portugal"
+        ],
+        "Souranshu Chatterjee": [
+            "Department of Microbiology & Infection Control, Medanta Medicity, Gurugram, India"
+        ],
+        "Vijay Kumar Chattu": [
+            "Department of Medicine, University of Toronto, Toronto, Ontario, Canada"
+        ],
+        "Soosanna Kumary Chattu": [
+            "Department of Public Health, Texila American University, Georgetown, Guyana"
+        ],
+        "Natalie Maria Cormier": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Saad M. A. Dahlawi": [
+            "Environmental Health Department, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia"
+        ],
+        "Giovanni Damiani": [
+            "Clinical Dermatology, IRCCS Istituto Ortopedico Galeazzi, University of Milan, Milan, Italy",
+            "Department of Dermatology, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ],
+        "Farah Daoud": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Aso Mohammad Darwesh": [
+            "Department of Information Technology, University of Human Development, Sulaymaniyah, Iraq"
+        ],
+        "Ahmad Daryani": [
+            "Toxoplasmosis Research Center, Mazandaran University of Medical Sciences, Sari, Iran"
+        ],
+        "Kebede Deribe": [
+            "Wellcome Trust Brighton and Sussex Centre for Global Health Research, Brighton and Sussex Medical School, Brighton, United Kingdom",
+            "School of Public Health, Addis Ababa University, Addis Ababa, Ethiopia"
+        ],
+        "Samath Dhamminda Dharmaratne": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America",
+            "Department of Health Metrics Sciences, School of Medicine, University of Washington, Seattle, Washington, United States of America",
+            "Department of Community Medicine, University of Peradeniya, Peradeniya, Sri Lanka"
+        ],
+        "Daniel Diaz": [
+            "Center of Complexity Sciences, National Autonomous University of Mexico, Mexico City, Mexico",
+            "Faculty of Veterinary Medicine and Zootechnics, Autonomous University of Sinaloa, Culiac\u00e1n Rosales, Mexico"
+        ],
+        "Hoa Thi Do": [
+            "Institute of Health Economics and Technology, Hanoi, Vietnam"
+        ],
+        "Maysaa El Sayed Zaki": [
+            "Reference Laboratory of Egyptian Universities Hospitals, Ministry of Higher Education and Research, Cairo, Egypt"
+        ],
+        "Maha El Tantawi": [
+            "Pediatric Dentistry and Dental Public Health Department, Alexandria University, Alexandria, Egypt"
+        ],
+        "Demelash Abewa Elemineh": [
+            "Department of Statistics, Debre Markos University, Debre Markos, Ethiopia"
+        ],
+        "Anwar Faraj": [
+            "Department of Political Science, University of Human Development, Sulaimaniyah, Iraq"
+        ],
+        "Majid Fasihi Harandi": [
+            "Department of Medical Parasitology, Kerman University of Medical Sciences, Kerman, Iran"
+        ],
+        "Yousef Fatahi": [
+            "Nanotechnology Research Center, Tehran University of Medical Sciences, Tehran, Iran",
+            "Department of Pharmaceutical Nanotechnology, Tehran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Valery L. Feigin": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America",
+            "National Institute for Stroke and Applied Neurosciences, Auckland University of Technology, Auckland, New Zealand",
+            "Research Center of Neurology, Moscow, Russia"
+        ],
+        "Eduarda Fernandes": [
+            "Associated Laboratory for Green Chemistry (LAQV), University of Porto, Porto, Portugal"
+        ],
+        "Nataliya A. Foigt": [
+            "Institute of Gerontology, National Academy of Medical Sciences of Ukraine, Kyiv, Ukraine"
+        ],
+        "Masoud Foroutan": [
+            "Department of Medical Parasitology, Abadan Faculty of Medical Sciences, Abadan, Iran"
+        ],
+        "Richard Charles Franklin": [
+            "School of Public Health, Medical, and Veterinary Sciences, James Cook University, Douglas, Queensland, Australia"
+        ],
+        "Mohammed Ibrahim Mohialdeen Gubari": [
+            "Department of Family and Community Medicine, University Of Sulaimani, Sulaimani, Iraq"
+        ],
+        "Davide Guido": [
+            "Neurology, Public Health and Disability Unit, Carlo Besta Neurological Institute IRCCS (Fondazione IRCCS Istituto Neurologico Carlo Besta), Milan, Italy"
+        ],
+        "Yuming Guo": [
+            "Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, Australia",
+            "Department of Epidemiology, Binzhou Medical University, Yantai City, China"
+        ],
+        "Arvin Haj-Mirzaian": [
+            "Department of Pharmacology, Tehran University of Medical Sciences, Tehran, Iran",
+            "Obesity Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
+        ],
+        "Kanaan Hamagharib Abdullah": [
+            "College of Law and Political Science, University of Human Development, Sulaimaniyah, Iraq"
+        ],
+        "Samer Hamidi": [
+            "School of Health and Environmental Studies, Hamdan Bin Mohammed Smart University, Dubai, United Arab Emirates"
+        ],
+        "Claudiu Herteliu": [
+            "Department of Statistics and Econometrics, Bucharest University of Economic Studies, Bucharest, Romania",
+            "School of Business, London South Bank University, London, United Kingdom"
+        ],
+        "Hagos Degefa de Hidru": [
+            "Department of Public Health, Adigrat University, Adigrat, Ethiopia"
+        ],
+        "Tarig B. Higazi": [
+            "Department of Biological Sciences, Ohio University, Zanesville, Ontario, United States of America"
+        ],
+        "Naznin Hossain": [
+            "Department of Pharmacology, Bangladesh Industrial Gases Limited, Tangail, Bangladesh"
+        ],
+        "Mehdi Hosseinzadeh": [
+            "Institute of Research and Development, Duy Tan University, Da Nang, Vietnam",
+            "Department of Computer Science, University of Human Development, Sulaymaniyah, Iraq"
+        ],
+        "Mowafa Househ": [
+            "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+        ],
+        "Olayinka Stephen Ilesanmi": [
+            "Department of Community Medicine, University of Ibadan, Ibadan, Nigeria",
+            "Department of Community Medicine, University College Hospital, Ibadan, Ibadan, Nigeria"
+        ],
+        "Milena D. Ilic": [
+            "Department of Epidemiology, University of Kragujevac, Kragujevac, Serbia"
+        ],
+        "Irena M. Ilic": [
+            "Faculty of Medicine, University of Belgrade, Belgrade, Serbia"
+        ],
+        "Usman Iqbal": [
+            "College of Public Health, Taipei Medical University, Taipei, Taiwan"
+        ],
+        "Seyed Sina Naghibi Irvani": [
+            "Research Institute for Endocrine Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Ira"
+        ],
+        "Ravi Prakash Jha": [
+            "Department of Community Medicine, Dr. Baba Saheb Ambedkar Medical College & Hospital, Delhi, India",
+            "Department of Community Medicine, Banaras Hindu University, Varanasi, India"
+        ],
+        "Farahnaz Joukar": [
+            "Gastrointestinal and Liver Diseases Research Center, Guilan University of Medical Sciences, Rasht, Iran",
+            "Caspian Digestive Disease Research Center, Guilan University of Medical Sciences, Rasht, Iran"
+        ],
+        "Jacek Jerzy Jozwiak": [
+            "Department of Family Medicine and Public Health, University of Opole, Opole, Poland"
+        ],
+        "Zubair Kabir": [
+            "School of Public Health, University College Cork, Cork, Ireland"
+        ],
+        "Leila R. Kalankesh": [
+            "School of Management and Medical Informatics, Tabriz University of Medical Sciences, Tabriz, Iran"
+        ],
+        "Rohollah Kalhor": [
+            "Institute for Prevention of Non-communicable Diseases, Qazvin University of Medical Sciences, Qazvin, Iran",
+            "Health Services Management Department, Qazvin University of Medical Sciences, Qazvin, Iran"
+        ],
+        "Behzad Karami Matin": [
+            "Research Center for Environmental Determinants of Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Salah Eddin Karimi": [
+            "Social Determinants of Health Research Center, Tabriz University of Medical Sciences, Tabriz, Iran"
+        ],
+        "Amir Kasaeian": [
+            "Pars Advanced and Minimally Invasive Medical Manners Research Center, Iran University of Medical Sciences, Tehran, Iran",
+            "Hematology, Oncology and Stem Cell Transplantation Research Center, Tehran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Taras Kavetskyy": [
+            "Department of Applied Physics, The John Paul II Catholic University of Lublin, Lublin Voivodeship, Poland",
+            "Department of Biology & Chemistry, Drohobych Ivan Franko State Pedagogical University, Drohobych, Ukraine"
+        ],
+        "Gbenga A. Kayode": [
+            "International Research Center of Excellence, Institute of Human Virology Nigeria, Abuja, Nigeria",
+            "Julius Centre for Health Sciences and Primary Care, Utrecht University, Utrecht, Netherlands"
+        ],
+        "Ali Kazemi Karyani": [
+            "Research Center for Environmental Determinants of Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Abraham Getachew Kelbore": [
+            "Department of Dermatology, Wolaita Sodo University, Wolaita Sodo, Ethiopia"
+        ],
+        "Maryam Keramati": [
+            "Mashhad University of Medical Sciences, Mashhad, Iran"
+        ],
+        "Rovshan Khalilov": [
+            "Department of Biophysics and Molecular Biology, Baku State University, Baku, Azerbaijan",
+            "Institute of Radiation Problems, Azerbaijan National Academy of Sciences, Baku, Azerbaijan"
+        ],
+        "Ejaz Ahmad Khan": [
+            "Department of Epidemiology and Biostatistics, Health Services Academy, Islamabad, Pakistan"
+        ],
+        "Md Nuruzzaman Nuruzzaman Khan": [
+            "Department of Population Sciences, Jatiya Kabi Kazi Nazrul Islam University, Mymensingh, Bangladesh",
+            "Faculty of Health and Medicine, University of Newcastle, Newcastle, New South Wales, Australia"
+        ],
+        "Khaled Khatab": [
+            "Faculty of Health and Wellbeing, Sheffield Hallam University, Sheffield, United Kingdom",
+            "College of Arts and Sciences, Ohio University, Zanesville, Ohio, United States of America"
+        ],
+        "Mona M. Khater": [
+            "Department of Medical Parasitology, Cairo University, Cairo, Egypt"
+        ],
+        "Neda Kianipour": [
+            "Department of Public Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Kelemu Tilahun Kibret": [
+            "Wollega University, Nekemte, Ethiopia"
+        ],
+        "Yun Jin Kim": [
+            "School of Traditional Chinese Medicine, Xiamen University Malaysia, Sepang, Malaysia"
+        ],
+        "Soewarta Kosen": [
+            "Independent Consultant, Jakarta, Indonesia"
+        ],
+        "Kris J. Krohn": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Dian Kusuma": [
+            "Imperial College Business School, Imperial College London, London, United Kingdom",
+            "Faculty of Public Health, University of Indonesia, Depok, Indonesia"
+        ],
+        "Carlo La Vecchia": [
+            "Department of Clinical Sciences and Community Health, University of Milan, Milan, Italy"
+        ],
+        "Van Charles Lansingh": [
+            "Medical Director, HelpMeSee, New York, New York, United States of America",
+            "General Director, Mexican Institute of Ophthalmology, Queretaro, Mexico"
+        ],
+        "Paul H. Lee": [
+            "School of Nursing, Hong Kong Polytechnic University, Hong Kong, China"
+        ],
+        "Kate E. LeGrand": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Shanshan Li": [
+            "School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia"
+        ],
+        "Joshua Longbottom": [
+            "Department of Vector Biology, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Hassan Magdy Abd El Razek": [
+            "Radiology Department, Egypt Ministry of Health and Population, Mansoura, Egypt"
+        ],
+        "Muhammed Magdy Abd El Razek": [
+            "Ophthalmology Department, Ministry of Health & Population, Aswan, Egypt"
+        ],
+        "Afshin Maleki": [
+            "Environmental Health, Tehran University of Medical Sciences, Tehran, Iran",
+            "Environmental Health Research Center, Kurdistan University of Medical Sciences, Sanandaj, Iran"
+        ],
+        "Abdullah A. Mamun": [
+            "Institute for Social Science Research, The University of Queensland, Indooroopilly, Queensland, Australia"
+        ],
+        "Ali Manafi": [
+            "Plastic Surgery Department, Iran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Navid Manafi": [
+            "School of Medicine, Iran University of Medical Sciences, Tehran, Iran",
+            "School of Medicine, University of Manitoba, Winnipeg, Manitoba, Canada"
+        ],
+        "Mohammad Ali Mansournia": [
+            "Department of Epidemiology and Biostatistics, Tehran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Francisco Rogerl\u00e2ndio Martins-Melo": [
+            "Campus Caucaia, Federal Institute of Education, Science and Technology of Cear\u00e1, Caucaia, Brazil"
+        ],
+        "Mohsen Mazidi": [
+            "Department of Twin Research and Genetic Epidemiology, King\u2019s College London, London, United Kingdom"
+        ],
+        "Colm McAlinden": [
+            "Department of Ophthalmology, Singleton Hospital, Swansea, United Kingdom"
+        ],
+        "Birhanu Geta Meharie": [
+            "Department of Pharmacy, Wollo University, Dessie, Ethiopia"
+        ],
+        "Walter Mendoza": [
+            "Peru Country Office, United Nations Population Fund (UNFPA), Lima, Peru"
+        ],
+        "Endalkachew Worku Mengesha": [
+            "Department of Reproductive Health and Population Studies, Bahir Dar University, Bahir Dar, Ethiopia"
+        ],
+        "Desalegn Tadese Mengistu": [
+            "School of Medicine, Mekelle University, Mekelle, Ethiopia"
+        ],
+        "Seid Tiku Mereta": [
+            "Department of Environmental Health Sciences and Technology, Jimma University, Jimma, Ethiopia"
+        ],
+        "Tomislav Mestrovic": [
+            "Clinical Microbiology and Parasitology Unit, Dr. Zora Profozic Polyclinic, Zagreb, Croatia",
+            "University Centre Varazdin, University North, Varazdin, Croatia"
+        ],
+        "Ted R. Miller": [
+            "Pacific Institute for Research & Evaluation, Calverton, Maryland, United States of America",
+            "School of Public Health, Curtin University, Perth, Australia"
+        ],
+        "Mohammad Miri": [
+            "Department of Environmental Health, Sabzevar University of Medical Sciences, Sabzevar, Iran",
+            "Non-communicable Diseases Research Center, Sabzevar University of Medical Sciences, Sabzevar, Iran"
+        ],
+        "Masoud Moghadaszadeh": [
+            "Biotechnology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran",
+            "Molecular Medicine Research Center, Tabriz University of Medical Sciences, Tabriz, Iran"
+        ],
+        "Abdollah Mohammadian-Hafshejani": [
+            "Department of Epidemiology and Biostatistics, Shahrekord University of Medical Sciences, Shahrekord, Iran"
+        ],
+        "Reza Mohammadpourhodki": [
+            "Kashmar Center of Higher Health Education, Mashhad University of Medical Sciences, Mashhad, Iran"
+        ],
+        "Shafiu Mohammed": [
+            "Heidelberg Institute of Global Health (HIGH), Heidelberg University, Heidelberg, Germany",
+            "Health Systems and Policy Research Unit, Ahmadu Bello University, Zaria, Nigeria"
+        ],
+        "Salahuddin Mohammed": [
+            "Department of Biomolecular Sciences, University of Mississippi, Oxford, Mississippi, United States of America",
+            "Department of Pharmacy, Mizan-Tepi University, Mizan, Ethiopia"
+        ],
+        "Masoud Moradi": [
+            "Research Center for Environmental Determinants of Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Rahmatollah Moradzadeh": [
+            "Department of Epidemiology, Arak University of Medical Sciences, Arak, Iran"
+        ],
+        "Paula Moraga": [
+            "Computer, Electrical, and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia"
+        ],
+        "Jonathan F. Mosser": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Mehdi Naderi": [
+            "Clinical Research Development Center, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Ahamarshan Jayaraman Nagarajan": [
+            "Research and Analytics Department, Initiative for Financing Health and Human Development, Chennai, India",
+            "Department of Research and Analytics, Bioinsilico Technologies, Chennai, India"
+        ],
+        "Gurudatta Naik": [
+            "Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, Alabama, United States of America"
+        ],
+        "Ionut Negoi": [
+            "Department of General Surgery, Carol Davila University of Medicine and Pharmacy, Bucharest, Romania",
+            "Department of General Surgery, Emergency Hospital of Bucharest, Bucharest, Romania"
+        ],
+        "Cuong Tat Nguyen": [
+            "Institute for Global Health Innovations, Duy Tan University, Hanoi, Vietnam"
+        ],
+        "Huong Lan Thi Nguyen": [
+            "Institute for Global Health Innovations, Duy Tan University, Hanoi, Vietnam"
+        ],
+        "Trang Huyen Nguyen": [
+            "Center of Excellence in Behavioral Medicine, Nguyen Tat Thanh University, Ho Chi Minh City, Vietnam"
+        ],
+        "Rajan Nikbakhsh": [
+            "Obesity Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
+        ],
+        "Bogdan Oancea": [
+            "Administrative and Economic Sciences Department, University of Bucharest, Bucharest, Romania"
+        ],
+        "Tinuke O. Olagunju": [
+            "Department of Pathology and Molecular Medicine, McMaster University, Hamilton, Ontario, Canada"
+        ],
+        "Andrew T. Olagunju": [
+            "Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada",
+            "Department of Psychiatry, University of Lagos, Lagos, Nigeria"
+        ],
+        "Ahmed Omar Bali": [
+            "Diplomacy and Public Relations Department, University of Human Development, Sulaimaniyah, Iraq"
+        ],
+        "Obinna E. Onwujekwe": [
+            "Department of Pharmacology and Therapeutics, University of Nigeria Nsukka, Enugu, Nigeria"
+        ],
+        "Adrian Pana": [
+            "Department of Statistics and Econometrics, Bucharest University of Economic Studies, Bucharest, Romania",
+            "Department of Health Metrics, Center for Health Outcomes & Evaluation, Bucharest, Romania"
+        ],
+        "Hadi Pourjafar": [
+            "Department of Nutrition and Food Sciences, Maragheh University of Medical Sciences, Maragheh, Iran",
+            "Dietary Supplements and Probiotic Research Center, Alborz University of Medical Sciences, Karaj, Iran"
+        ],
+        "Fakher Rahim": [
+            "Thalassemia and Hemoglobinopathy Research Center, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran",
+            "Metabolomics and Genomics Research Center, Tehran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Mohammad Hifz Ur Rahman": [
+            "Department of Community Medicine, Maharishi Markandeshwar Medical College & Hospital, Solan, India"
+        ],
+        "Priya Rathi": [
+            "Kasturba Medical College, Mangalore, Manipal Academy of Higher Education, Manipal, India"
+        ],
+        "Salman Rawaf": [
+            "Department of Primary Care and Public Health, Imperial College London, London, United Kingdom",
+            "Academic Public Health England, Public Health England, London, United Kingdom"
+        ],
+        "David Laith Rawaf": [
+            "WHO Collaborating Centre for Public Health Education and Training, Imperial College London, London, United Kingdom",
+            "University College London Hospitals, London, United Kingdom"
+        ],
+        "Reza Rawassizadeh": [
+            "Department of Computer Science, Boston University, Boston, Massachusetts, United States of America"
+        ],
+        "Serge Resnikoff": [
+            "School of Optometry and Vision Science, University of New South Wales, Sydney, New South Wales, Australia",
+            "Brien Holden Vision Institute, Sydney, Australia"
+        ],
+        "Melese Abate Reta": [
+            "Department of Medical Laboratory Science, Woldia University, Woldia, Ethiopia",
+            "Department of Medical Microbiology, University of Pretoria, Pretoria, South Africa"
+        ],
+        "Aziz Rezapour": [
+            "Health Management and Economics Research Center, Iran University of Medical Sciences, Tehran, Iran"
+        ],
+        "Enrico Rubagotti": [
+            "Center for Research in Congenital Anomalies and Rare Diseases, ICESI University (Centro de Investigaciones en Anomal\u00edas Cong\u00e9nitas y Enfermedades Raras, Universidad Icesi), Cali, Colombia"
+        ],
+        "Salvatore Rubino": [
+            "Department of Biomedical Sciences, University of Sassari, Sassari, Italy"
+        ],
+        "Ehsan Sadeghi": [
+            "Research Center for Environmental Determinants of Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Abedin Saghafipour": [
+            "Public Health, Ministry of Health and Medical Education, Qom, Iran",
+            "Qom University of Medical Sciences, Qom, Iran"
+        ],
+        "S. Mohammad Sajadi": [
+            "Department of Phytochemistry, Soran University, Soran, Iraq",
+            "Department of Nutrition, Cihan University, Erbil, Iraq"
+        ],
+        "Abdallah M. Samy": [
+            "Department of Entomology, Ain Shams University, Cairo, Egypt"
+        ],
+        "Rodrigo Sarmiento-Su\u00e1rez": [
+            "Department of Health and Society, Faculty of Medicine, University of Applied and Environmental Sciences, Bogota, Colombia",
+            "National School of Public Health, Carlos III Health Institute, Madrid, Spain"
+        ],
+        "Monika Sawhney": [
+            "Department of Public Health Sciences, University of North Carolina at Charlotte, Charlotte, North Carolina, United States of America"
+        ],
+        "Megan F. Schipp": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Amira A. Shaheen": [
+            "Public Health Division, An-Najah National University, Nablus, Palestine"
+        ],
+        "Masood Ali Shaikh": [
+            "Independent Consultant, Karachi, Pakistan"
+        ],
+        "Morteza Shamsizadeh": [
+            "Faculty of Caring Science, Work Life, and Social Welfare, Faculty of Caring Science, Work Life and Social Welfare, University of Bor\u00e5s, Bor\u00e5s, Sweden, Bor\u00e5s, Sweden"
+        ],
+        "Kiomars Sharafi": [
+            "Research Center for Environmental Determinants of Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Aziz Sheikh": [
+            "Centre for Medical Informatics, University of Edinburgh, Edinburgh, United Kingdom",
+            "Division of General Internal Medicine, Harvard University, Boston, Massachusetts, United States of America"
+        ],
+        "B. Suresh Kumar Shetty": [
+            "Department of Forensic Medicine and Toxicology, Manipal Academy of Higher Education, Mangalore, India"
+        ],
+        "Jae Il Shin": [
+            "College of Medicine, Yonsei University, Seoul, South Korea"
+        ],
+        "K. M. Shivakumar": [
+            "Public Health Dentistry Department, Krishna Institute of Medical Sciences Deemed to be University, Karad, India"
+        ],
+        "Biagio Simonetti": [
+            "Department of Law, Economics, Management and Quantitative Methods, University of Sannio, Benevento, Italy",
+            "WSB University in Gda\u0144sk, Gdansk, Poland"
+        ],
+        "Jasvinder A. Singh": [
+            "School of Medicine, University of Alabama at Birmingham, Birmingham, Alabama, United States of America",
+            "Medicine Service, US Department of Veterans Affairs (VA), Birmingham, Alabama, United States of America"
+        ],
+        "Eirini Skiadaresi": [
+            "Department of Ophthalmology, Hywel Dda University Health Board, Llanelli, United Kingdom"
+        ],
+        "Amin Soheili": [
+            "Nursing Care Research Center, Semnan University of Medical Sciences, Semnan, Iran"
+        ],
+        "Shahin Soltani": [
+            "Research Center for Environmental Determinants of Health, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Emma Elizabeth Spurlock": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Mu\u2019awiyyah Babale Sufiyan": [
+            "Department of Community Medicine, Ahmadu Bello University, Zaria, Nigeria"
+        ],
+        "Takahiro Tabuchi": [
+            "Cancer Control Center, Osaka International Cancer Institute, Osaka, Japan"
+        ],
+        "Leili Tapak": [
+            "Department of Biostatistics, Hamadan University of Medical Sciences, Hamadan, Iran",
+            "Non-communicable Diseases Research Center, Hamadan University of Medical Sciences, Hamadan, Iran"
+        ],
+        "Robert L. Thompson": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "Alan J. Thomson": [
+            "Department of Global Health Research, Adaptive Knowledge Management, Victoria, British Columbia, Canada"
+        ],
+        "Eugenio Traini": [
+            "Institute for Risk Assessment Sciences (IRAS), Utrecht University, Utrecht, Netherlands"
+        ],
+        "Bach Xuan Tran": [
+            "Department of Health Economics, Hanoi Medical University, Hanoi, Vietnam"
+        ],
+        "Irfan Ullah": [
+            "Department of Allied Health Sciences, Iqra National University, Peshawar, Pakistan"
+        ],
+        "Saif Ullah": [
+            "Institute of Soil and Environmental Sciences, University of Agriculture\u2014Faisalabad, Faisalabad, Pakistan"
+        ],
+        "Chigozie Jesse Uneke": [
+            "Department of Medical Microbiology/Parasitology, Ebonyi State University, Abakaliki, Nigeria"
+        ],
+        "Bhaskaran Unnikrishnan": [
+            "Kasturba Medical College, Manipal Academy of Higher Education, Mangalore, India"
+        ],
+        "Olalekan A. Uthman": [
+            "Division of Health Sciences, University of Warwick, Coventry, United Kingdom"
+        ],
+        "Natalie V. S. Vinkeles Melchers": [
+            "Control of Infectious Diseases, Erasmus University Medical Center, Rotterdam, Netherlands"
+        ],
+        "Francesco S. Violante": [
+            "Department of Medical and Surgical Sciences, University of Bologna, Bologna, Italy",
+            "Occupational Health Unit, Sant\u2019Orsola Malpighi Hospital, Bologna, Italy"
+        ],
+        "Haileab Fekadu Wolde": [
+            "Department of Epidemiology and Biostatistics, University of Gondar, Gondar, Ethiopia"
+        ],
+        "Tewodros Eshete Wonde": [
+            "Department of Public Health, Debre Markos University, Debre Markos, Ethiopia"
+        ],
+        "Tomohide Yamada": [
+            "Department of Diabetes and Metabolic Diseases, University of Tokyo, Tokyo, Japan"
+        ],
+        "Sanni Yaya": [
+            "School of International Development and Global Studies, University of Ottawa, Ottawa, Ontario, Canada",
+            "The George Institute for Global Health, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Vahid Yazdi-Feyzabadi": [
+            "Health Services Management Research Center, Kerman University of Medical Sciences, Kerman, Iran",
+            "Department of Health Management, Policy, and Economics, Kerman University of Medical Sciences, Kerman, Iran"
+        ],
+        "Paul Yip": [
+            "Centre for Suicide Research and Prevention, University of Hong Kong, Hong Kong, China",
+            "Department of Social Work and Social Administration, University of Hong Kong, Hong Kong, China"
+        ],
+        "Naohiro Yonemoto": [
+            "Department of Neuropsychopharmacology, National Center of Neurology and Psychiatry, Kodaira, Japan",
+            "Department of Public Health, Juntendo University, Tokyo, Japan"
+        ],
+        "Hebat-Allah Salah A. Yousof": [
+            "Department of Medical Parasitology, Cairo University, Cairo, Egypt"
+        ],
+        "Chuanhua Yu": [
+            "Department of Epidemiology and Biostatistics, Wuhan University, Wuhan, China"
+        ],
+        "Yong Yu": [
+            "School of Public Health and Management, Hubei University of Medicine, Shiyan, China"
+        ],
+        "Hasan Yusefzadeh": [
+            "Department of Health care Management and Economics, Urmia University of Medical Science, Urmia, Iran"
+        ],
+        "Leila Zaki": [
+            "Department of Parasitology and Entomology, Tarbiat Modares University, Tehran, Iran"
+        ],
+        "Sojib Bin Zaman": [
+            "The School of Clinical Sciences at Monash Health, Monash University, Melbourne, Victoria, Australia",
+            "Maternal and Child Health Division, International Centre for Diarrhoeal Disease Research, Bangladesh, Dhaka, Bangladesh"
+        ],
+        "Maryam Zamanian": [
+            "Department of Epidemiology, Arak University of Medical Sciences, Arak, Iran"
+        ],
+        "Zhi-Jiang Zhang": [
+            "School of Medicine, Wuhan University, Wuhan, China"
+        ],
+        "Yunquan Zhang": [
+            "School of Public Health, Wuhan University of Science and Technology, Wuhan, China",
+            "Hubei Province Key Laboratory of Occupational Hazard Identification and Control, Wuhan University of Science and Technology, Wuhan, China"
+        ],
+        "Arash Ziapour": [
+            "Department of Health Education and Health Promotion, Kermanshah University of Medical Sciences, Kermanshah, Iran"
+        ],
+        "Simon I. Hay": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America",
+            "Department of Health Metrics Sciences, School of Medicine, University of Washington, Seattle, Washington, United States of America"
+        ],
+        "David M. Pigott": [
+            "Institute for Health Metrics and Evaluation, University of Washington, Seattle, Washington, United States of America",
+            "Department of Health Metrics Sciences, School of Medicine, University of Washington, Seattle, Washington, United States of America"
+        ]
+    }
+}

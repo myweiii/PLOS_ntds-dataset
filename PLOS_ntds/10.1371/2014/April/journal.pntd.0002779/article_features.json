@@ -1,0 +1,37 @@
+{
+    "Title": "Modeling to Predict Cases of Hantavirus Pulmonary Syndrome in Chile",
+    "URL": "https://doi.org/10.1371/journal.pntd.0002779",
+    "Published": "April 24, 2014",
+    "Subject_Areas": [
+        "Hantavirus pulmonary syndrome",
+        "Rodents",
+        "Chile (country)",
+        "Hantavirus",
+        "Epidemiology",
+        "Forecasting",
+        "Seasons",
+        "Meteorology"
+    ],
+    "Authors": {
+        "Elaine O. Nsoesie": [
+            "Children's Hospital Informatics Program, Boston Children's Hospital, Boston, Massachusetts, United States of America",
+            "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, United States of America",
+            "Network Dynamics and Simulation Science Laboratory, Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, Virginia, United States of America"
+        ],
+        "Sumiko R. Mekaru": [
+            "Children's Hospital Informatics Program, Boston Children's Hospital, Boston, Massachusetts, United States of America"
+        ],
+        "Naren Ramakrishnan": [
+            "Department of Computer Science, Virginia Tech, Blacksburg, Virginia, United States of America"
+        ],
+        "Madhav V. Marathe": [
+            "Network Dynamics and Simulation Science Laboratory, Virginia Bioinformatics Institute, Virginia Tech, Blacksburg, Virginia, United States of America",
+            "Department of Computer Science, Virginia Tech, Blacksburg, Virginia, United States of America"
+        ],
+        "John S. Brownstein": [
+            "Children's Hospital Informatics Program, Boston Children's Hospital, Boston, Massachusetts, United States of America",
+            "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, United States of America",
+            "Department of Epidemiology, Biostatistics and Occupational Health, McGill University, Montreal, Canada"
+        ]
+    }
+}

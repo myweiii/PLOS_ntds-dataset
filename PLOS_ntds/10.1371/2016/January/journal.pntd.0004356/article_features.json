@@ -1,0 +1,60 @@
+{
+    "Title": "Structure-Bioactivity Relationship for Benzimidazole Thiophene Inhibitors of Polo-Like Kinase 1 (PLK1), a Potential Drug Target in Schistosoma mansoni",
+    "URL": "https://doi.org/10.1371/journal.pntd.0004356",
+    "Published": "January 11, 2016",
+    "Subject_Areas": [
+        "Benzimidazoles",
+        "Schistosoma mansoni",
+        "RNA interference",
+        "Schistosoma",
+        "Drug therapy",
+        "Cancer treatment",
+        "Principal component analysis",
+        "Drug research and development"
+    ],
+    "Authors": {
+        "Thavy Long": [
+            "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Francisco, San Francisco, California, United States of America",
+            "Department of Pathology, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "R. Jeffrey Neitz": [
+            "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Francisco, San Francisco, California, United States of America",
+            "Small Molecule Discovery Center, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States of America",
+            "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Rachel Beasley": [
+            "Department of Computer Science, San Francisco State University, San Francisco, California, United States of America"
+        ],
+        "Chakrapani Kalyanaraman": [
+            "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Brian M. Suzuki": [
+            "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Francisco, San Francisco, California, United States of America",
+            "Department of Pathology, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Matthew P. Jacobson": [
+            "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Colette Dissous": [
+            "Center of Infection and Immunity of Lille, Universit\u00e9 Lille Nord de France, Inserm U1019, CNRS-UMR 8204, Institut Pasteur de Lille, Lille, France"
+        ],
+        "James H. McKerrow": [
+            "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Francisco, San Francisco, California, United States of America",
+            "Department of Pathology, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "David H. Drewry": [
+            "Department of Chemical Biology, GlaxoSmithKline, Research Triangle Park, North Carolina, United States of America"
+        ],
+        "William J. Zuercher": [
+            "Department of Chemical Biology, GlaxoSmithKline, Research Triangle Park, North Carolina, United States of America"
+        ],
+        "Rahul Singh": [
+            "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Francisco, San Francisco, California, United States of America",
+            "Department of Computer Science, San Francisco State University, San Francisco, California, United States of America"
+        ],
+        "Conor R. Caffrey": [
+            "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Francisco, San Francisco, California, United States of America",
+            "Department of Pathology, University of California, San Francisco, San Francisco, California, United States of America"
+        ]
+    }
+}

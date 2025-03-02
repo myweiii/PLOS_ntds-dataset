@@ -1,0 +1,38 @@
+{
+    "Title": "Using a Bayesian spatiotemporal model to identify the influencing factors and high-risk areas of hand, foot and mouth disease (HFMD) in Shenzhen",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008085",
+    "Published": "March 20, 2020",
+    "Subject_Areas": [
+        "Hand, foot and mouth disease",
+        "Medical risk factors",
+        "Epidemiology",
+        "Air pollution",
+        "Population density",
+        "Ozone",
+        "Computer software",
+        "Infectious diseases"
+    ],
+    "Authors": {
+        "Xiaoyi He": [
+            "Shantou University Medical College, Shantou, China"
+        ],
+        "Shengjie Dong": [
+            "Orthopedic Department, Yantaishan Hospital, Yantai, Shandong, China"
+        ],
+        "Liping Li": [
+            "Shantou University Medical College, Shantou, China"
+        ],
+        "Xiaojian Liu": [
+            "Shenzhen Center for Disease Control and Prevention, Shenzhen, China"
+        ],
+        "Yongsheng Wu": [
+            "Shenzhen Center for Disease Control and Prevention, Shenzhen, China"
+        ],
+        "Zhen Zhang": [
+            "Shenzhen Center for Disease Control and Prevention, Shenzhen, China"
+        ],
+        "Shujiang Mei": [
+            "Shenzhen Center for Disease Control and Prevention, Shenzhen, China"
+        ]
+    }
+}

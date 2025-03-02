@@ -1,0 +1,76 @@
+{
+    "Title": "Large Scale Immune Profiling of Infected Humans and Goats Reveals Differential Recognition of Brucella melitensis Antigens",
+    "URL": "https://doi.org/10.1371/journal.pntd.0000673",
+    "Published": "May 4, 2010",
+    "Subject_Areas": [
+        "Brucellosis",
+        "Antigens",
+        "Brucella",
+        "Microarrays",
+        "Goats",
+        "Immune response",
+        "Immune system proteins",
+        "Serum proteins"
+    ],
+    "Authors": {
+        "Li Liang": [
+            "Division of Infectious Diseases, Department of Medicine, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Diana Leng": [
+            "Alexander von Humboldt Institute of Tropical Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru"
+        ],
+        "Chad Burk": [
+            "Division of Infectious Diseases, Department of Medicine, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Rie Nakajima-Sasaki": [
+            "Division of Infectious Diseases, Department of Medicine, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Matthew A. Kayala": [
+            "Department of Computer Science, University of California Irvine, Irvine, California, United States of America",
+            "Institute for Genomics and Bioinformatics, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Vidya L. Atluri": [
+            "Department of Medical Microbiology and Immunology, University of California Davis, Davis, California, United States of America"
+        ],
+        "Jozelyn Pablo": [
+            "Division of Infectious Diseases, Department of Medicine, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Berkay Unal": [
+            "Division of Infectious Diseases, Department of Medicine, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Thomas A. Ficht": [
+            "Department of Veterinary Pathobiology, Texas A&M University and Texas Agricultural Experiment Station, College Station, Texas, United States of America"
+        ],
+        "Eduardo Gotuzzo": [
+            "Alexander von Humboldt Institute of Tropical Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru"
+        ],
+        "Mayuko Saito": [
+            "Asociacion Benefica PRISMA, Lima, Peru"
+        ],
+        "W. John W. Morrow": [
+            "Antigen Discovery, Inc., Irvine, California, United States of America"
+        ],
+        "Xiaowu Liang": [
+            "Antigen Discovery, Inc., Irvine, California, United States of America"
+        ],
+        "Pierre Baldi": [
+            "Department of Computer Science, University of California Irvine, Irvine, California, United States of America",
+            "Institute for Genomics and Bioinformatics, University of California Irvine, Irvine, California, United States of America",
+            "Department of Biological Chemistry, University of California Irvine, Irvine, California, United States of America"
+        ],
+        "Robert H. Gilman": [
+            "Department of International Health, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland, United States of America"
+        ],
+        "Joseph M. Vinetz": [
+            "Division of Infectious Diseases, University of California San Diego School of Medicine, La Jolla, California, United States of America"
+        ],
+        "Ren\u00e9e M. Tsolis": [
+            "Department of Medical Microbiology and Immunology, University of California Davis, Davis, California, United States of America"
+        ],
+        "Philip L. Felgner": [
+            "Division of Infectious Diseases, Department of Medicine, University of California Irvine, Irvine, California, United States of America",
+            "Institute for Genomics and Bioinformatics, University of California Irvine, Irvine, California, United States of America",
+            "Antigen Discovery, Inc., Irvine, California, United States of America"
+        ]
+    }
+}

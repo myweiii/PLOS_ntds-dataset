@@ -1,0 +1,42 @@
+{
+    "Title": "Predicting Ebola infection: A malaria-sensitive triage score for Ebola virus disease",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005356",
+    "Published": "February 23, 2017",
+    "Subject_Areas": [
+        "Triage",
+        "Malaria",
+        "Medical risk factors",
+        "Diagnostic medicine",
+        "Ebola hemorrhagic fever",
+        "Diarrhea",
+        "Hemorrhage",
+        "Myalgia"
+    ],
+    "Authors": {
+        "Mary-Anne Hartley": [
+            "GOAL Global, Dublin, Ireland",
+            "Faculty of Biology and Medicine, University of Lausanne, Lausanne, Switzerland"
+        ],
+        "Alyssa Young": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Anh-Minh Tran": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Harry Henry Okoni-Williams": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Mohamed Suma": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Brooke Mancuso": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Ahmed Al-Dikhari": [
+            "GOAL Global, Dublin, Ireland"
+        ],
+        "Mohamed Faouzi": [
+            "Centre for Clinical Epidemiology, Institute of Social and Preventive Medicine, Lausanne, Switzerland"
+        ]
+    }
+}

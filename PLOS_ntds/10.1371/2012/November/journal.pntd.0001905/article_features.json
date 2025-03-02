@@ -1,0 +1,77 @@
+{
+    "Title": "First Attempt To Validate Human IgG Antibody Response to Nterm-34kDa Salivary Peptide as Biomarker for Evaluating Exposure to Aedes aegypti Bites",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001905",
+    "Published": "November 15, 2012",
+    "Subject_Areas": [
+        "Aedes aegypti",
+        "Biomarkers",
+        "Mosquitoes",
+        "Saliva",
+        "Immune response",
+        "Evolutionary immunology",
+        "Arboviruses",
+        "Arthropoda"
+    ],
+    "Authors": {
+        "Emmanuel Elanga Ndille": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Souleymane Doucoure": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), MIVEGEC Unit, Montpellier, France"
+        ],
+        "Georgia Damien": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Fran\u00e7ois Mouchet": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), MIVEGEC Unit, Montpellier, France"
+        ],
+        "Papa Makhtar Drame": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), MIVEGEC Unit, Montpellier, France"
+        ],
+        "Sylvie Cornelie": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Herbert Noukpo": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Sandra Yamadjako": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Armel Djenontin": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Nicolas Moiroux": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), MIVEGEC Unit, Montpellier, France"
+        ],
+        "Dorothee Misse": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), MIVEGEC Unit, Montpellier, France"
+        ],
+        "Martin Akogbeto": [
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Vincent Corbel": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Marie-Claire Henry": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ],
+        "Fabrice Chandre": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), MIVEGEC Unit, Montpellier, France"
+        ],
+        "Thierry Baldet": [
+            "Centre de Coop\u00e9ration Internationale en Recherche Agronomique pour le D\u00e9veloppement (CIRAD), CMAEE Unit, Montpellier, France"
+        ],
+        "Franck Remoue": [
+            "Institut de Recherche pour le D\u00e9veloppement (IRD), Maladies Infectieuses et Vecteurs, Ecologie, G\u00e9n\u00e9tique, Evolution et Contr\u00f4le (MIVEGEC), UMR IRD 224 - CNRS 5290 \u2013 Universities of Montpellier 1 and 2, Cotonou, Republic of B\u00e9nin",
+            "Centre de Recherches Entomologiques de Cotonou (CREC), Minist\u00e8re de la Sant\u00e9 Publique, Cotonou, Republic of B\u00e9nin"
+        ]
+    }
+}

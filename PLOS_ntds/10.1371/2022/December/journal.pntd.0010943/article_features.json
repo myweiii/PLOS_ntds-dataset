@@ -1,0 +1,30 @@
+{
+    "Title": "Detection of trachoma using machine learning approaches",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010943",
+    "Published": "December 7, 2022",
+    "Subject_Areas": [
+        "Imaging techniques",
+        "Trachoma",
+        "Artificial intelligence",
+        "Artificial neural networks",
+        "Eyelids",
+        "Epidemiology",
+        "Neural networks",
+        "Public and occupational health"
+    ],
+    "Authors": {
+        "Damien Socia": [
+            "Division of Surgical Research, Department of Surgery, Larner College of Medicine, University of Vermont, Burlington, Vermont, United States of America"
+        ],
+        "Christopher J. Brady": [
+            "Division of Surgical Research, Department of Surgery, Larner College of Medicine, University of Vermont, Burlington, Vermont, United States of America",
+            "Division of Ophthalmology, Department of Surgery, Larner College of Medicine, University of Vermont, Burlington, Vermont, United States of America"
+        ],
+        "Sheila K. West": [
+            "Dana Center for Preventive Ophthalmology, Wilmer Eye Institute, Baltimore, Maryland, United States of America"
+        ],
+        "R. Chase Cockrell": [
+            "Division of Surgical Research, Department of Surgery, Larner College of Medicine, University of Vermont, Burlington, Vermont, United States of America"
+        ]
+    }
+}

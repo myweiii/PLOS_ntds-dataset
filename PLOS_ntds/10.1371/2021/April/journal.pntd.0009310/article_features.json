@@ -1,0 +1,68 @@
+{
+    "Title": "Estimating true prevalence of Schistosoma mansoni from population summary measures based on the Kato-Katz diagnostic technique",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009310",
+    "Published": "April 5, 2021",
+    "Subject_Areas": [
+        "Arithmetic",
+        "Eggs",
+        "Schistosoma mansoni",
+        "Simulation and modeling",
+        "Statistical models",
+        "Uganda",
+        "Normal distribution",
+        "Schistosomiasis"
+    ],
+    "Authors": {
+        "Oliver B\u00e4renbold": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland"
+        ],
+        "Amadou Garba": [
+            "Department of Control of Neglected Tropical Diseases, World Health Organization, Geneva, Switzerland"
+        ],
+        "Daniel G. Colley": [
+            "Schistosomiasis Consortium for Operational Research and Evaluation (SCORE), Center for Tropical and Emerging Global Diseases, University of Georgia, Athens, Georgia, United States of America",
+            "Department of Microbiology, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Fiona M. Fleming": [
+            "Schistosomiasis Control Initiative, Imperial College, London, United Kingdom"
+        ],
+        "Rufin K. Assar\u00e9": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland",
+            "Centre Suisse de Recherches Scientifiques en C\u00f4te d\u2019Ivoire, Abidjan, C\u00f4te d\u2019Ivoire",
+            "Unit\u00e9 de Formation et de Recherche Biosciences, Universit\u00e9 F\u00e9lix Houphou\u00ebt-Boigny, Abidjan, C\u00f4te d\u2019Ivoire"
+        ],
+        "Edridah M. Tukahebwa": [
+            "Vector Control Division, Ministry of Health, Kampala, Uganda"
+        ],
+        "Biruck Kebede": [
+            "Ministry of Health, Addis Ababa, Ethiopia"
+        ],
+        "Jean T. Coulibaly": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland",
+            "Centre Suisse de Recherches Scientifiques en C\u00f4te d\u2019Ivoire, Abidjan, C\u00f4te d\u2019Ivoire",
+            "Unit\u00e9 de Formation et de Recherche Biosciences, Universit\u00e9 F\u00e9lix Houphou\u00ebt-Boigny, Abidjan, C\u00f4te d\u2019Ivoire"
+        ],
+        "Eli\u00e9zer K. N\u2019Goran": [
+            "Centre Suisse de Recherches Scientifiques en C\u00f4te d\u2019Ivoire, Abidjan, C\u00f4te d\u2019Ivoire",
+            "Unit\u00e9 de Formation et de Recherche Biosciences, Universit\u00e9 F\u00e9lix Houphou\u00ebt-Boigny, Abidjan, C\u00f4te d\u2019Ivoire"
+        ],
+        "Louis-Albert Tchuem Tchuent\u00e9": [
+            "Laboratory of Parasitology and Ecology, University of Yaound\u00e9 I, Yaound\u00e9, Cameroon",
+            "Centre for Schistosomiasis and Parasitology, Yaound\u00e9, Cameroon"
+        ],
+        "Pauline Mwinzi": [
+            "Centre for Global Health Research, Kenya Medical Research Institute, Nairobi, Kenya"
+        ],
+        "J\u00fcrg Utzinger": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland"
+        ],
+        "Penelope Vounatsou": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland",
+            "University of Basel, Basel, Switzerland"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Title": "A MALDI-TOF MS database with broad genus coverage for species-level identification of Brucella",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006874",
+    "Published": "October 18, 2018",
+    "Subject_Areas": [
+        "Brucella",
+        "Blood",
+        "Multiple sclerosis",
+        "Matrix-assisted laser desorption ionization time-of-flight mass spectrometry",
+        "Sheep",
+        "Brucellosis",
+        "Matrix-assisted laser desorption ionization mass spectrometry",
+        "Dolphins"
+    ],
+    "Authors": {
+        "Jennifer Mesureur": [
+            "VBMI, Inserm, Universit\u00e9 de Montpellier, Nimes, France",
+            "Centre National de R\u00e9f\u00e9rence des Brucella, CHU Caremeau, Nimes, France"
+        ],
+        "Sandrine Arend": [
+            "bioM\u00e9rieux France, La Balme-les-Grottes, France"
+        ],
+        "B\u00e9atrice Celli\u00e8re": [
+            "bioM\u00e9rieux France, La Balme-les-Grottes, France"
+        ],
+        "Priscillia Courault": [
+            "bioM\u00e9rieux France, La Balme-les-Grottes, France"
+        ],
+        "Pierre-Jean Cotte-Pattat": [
+            "bioM\u00e9rieux France, La Balme-les-Grottes, France"
+        ],
+        "Heather Totty": [
+            "bioM\u00e9rieux Inc, Durham, North Carolina, United States of America"
+        ],
+        "Parampal Deol": [
+            "bioM\u00e9rieux Inc, Durham, North Carolina, United States of America"
+        ],
+        "Virginie Mick": [
+            "Anses/Paris-Est University, EU/OIE/FAO & National Reference Laboratory for Brucellosis, Animal Health Laboratory, Maisons-Alfort, France"
+        ],
+        "Victoria Girard": [
+            "bioM\u00e9rieux France, La Balme-les-Grottes, France"
+        ],
+        "Joanne Touchberry": [
+            "North Carolina State Laboratory of Public Health, Raleigh, North Carolina, United States of America"
+        ],
+        "Vanessa Burrowes": [
+            "North Carolina State Laboratory of Public Health, Raleigh, North Carolina, United States of America"
+        ],
+        "Jean-Philippe Lavigne": [
+            "VBMI, Inserm, Universit\u00e9 de Montpellier, Nimes, France",
+            "Centre National de R\u00e9f\u00e9rence des Brucella, CHU Caremeau, Nimes, France",
+            "Service de Microbiologie, CHU Caremeau, Nimes, France"
+        ],
+        "David O\u2019Callaghan": [
+            "VBMI, Inserm, Universit\u00e9 de Montpellier, Nimes, France",
+            "Centre National de R\u00e9f\u00e9rence des Brucella, CHU Caremeau, Nimes, France"
+        ],
+        "Val\u00e9rie Monnin": [
+            "bioM\u00e9rieux France, La Balme-les-Grottes, France"
+        ],
+        "Anne Keriel": [
+            "VBMI, Inserm, Universit\u00e9 de Montpellier, Nimes, France",
+            "Centre National de R\u00e9f\u00e9rence des Brucella, CHU Caremeau, Nimes, France"
+        ]
+    }
+}

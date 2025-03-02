@@ -1,0 +1,29 @@
+{
+    "Title": "Comparative accuracy of typhoid diagnostic tools: A Bayesian latent-class network analysis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007303",
+    "Published": "May 8, 2019",
+    "Subject_Areas": [
+        "Enzyme-linked immunoassays",
+        "Typhoid",
+        "Metaanalysis",
+        "Blood",
+        "Bone marrow",
+        "Fevers",
+        "Network analysis",
+        "Pediatrics"
+    ],
+    "Authors": {
+        "Paul Arora": [
+            "Dalla Lana School of Public Health, Division of Epidemiology, University of Toronto, Ontario, Canada"
+        ],
+        "Kristian Thorlund": [
+            "Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Ontario, Canada"
+        ],
+        "Darren R. Brenner": [
+            "Departments of Oncology and Community Health Sciences, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada"
+        ],
+        "Jason R. Andrews": [
+            "Division of Infectious Diseases and Geographic Medicine, Stanford University, Stanford, California, United States of America"
+        ]
+    }
+}

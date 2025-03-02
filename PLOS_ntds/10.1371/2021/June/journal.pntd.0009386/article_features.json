@@ -1,0 +1,164 @@
+{
+    "Title": "A facility and community-based assessment of scabies in rural Malawi",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009386",
+    "Published": "June 1, 2021",
+    "Subject_Areas": [
+        "Scabies",
+        "Malawi",
+        "Dermatology",
+        "Skin diseases",
+        "Schools",
+        "Africa",
+        "Public and occupational health",
+        "Health care facilities"
+    ],
+    "Authors": {
+        "Cristina Galv\u00e1n-Casas": [
+            "Faculty of Medicine and Health Sciences, Universitat de Barcelona, Barcelona, Spain",
+            "Department of Dermatology, Hospital Universitario de Mostoles, University Rey Juan Carlos, Madrid, Spain",
+            "DerMalawi Project, Nkhotakota, Malawi"
+        ],
+        "Oriol Mitj\u00e1": [
+            "Fight AIDS and Infectious Diseases Foundation, Badalona, Spain",
+            "Hospital Universitari Germans Trias i Pujol, Badalona, Spain",
+            "Lihir Medical Centre-International SOS, Londolovit, Lihir Island, Papua New Guinea"
+        ],
+        "Sara Esteban": [
+            "Department of Dermatology, Hospital Universitario de Cruces, Bilbao, Spain"
+        ],
+        "Jacob Kafulafula": [
+            "Nkhotakota District Hospital, Nkhotakota, Malawi"
+        ],
+        "Texon Phiri": [
+            "Alinafe Health Center, Njewa, Malawi"
+        ],
+        "\u00cd\u00f1igo Navarro-Fern\u00e1ndez": [
+            "Department of Dermatology, Hospital Universitario de Cabue\u00f1es, Gij\u00f3n, Spain"
+        ],
+        "Concepci\u00f3n Rom\u00e1n-Curto": [
+            "Department of Dermatology, Complejo Asistencial Universitario de Salamanca, Salamanca, Spain"
+        ],
+        "Hassani Mtenje": [
+            "Alinafe Health Center, Njewa, Malawi"
+        ],
+        "Gerald Thauzeni": [
+            "Mwansambo Health Center, Mwansambo, Malawi"
+        ],
+        "Elizabeth Harawa": [
+            "Kapiri Health Center, Kapiri, Malawi"
+        ],
+        "Stephano Kaluzi": [
+            "Benga Health Center Benga, Malawi"
+        ],
+        "Mphatso Diere": [
+            "Thavite Health Center, Thavite, Malawi"
+        ],
+        "Mary Mkandawire": [
+            "Alinafe Health Center, Njewa, Malawi"
+        ],
+        "Shaibu Malizani": [
+            "Alinafe Health Center, Njewa, Malawi"
+        ],
+        "Alex Chifundo": [
+            "Alinafe Health Center, Njewa, Malawi"
+        ],
+        "Marta Utrera-Busquets": [
+            "Department of Dermatology, Hospital General La Mancha Centro, Ciudad Real, Spain"
+        ],
+        "M\u00f3nica Roncero-Riesco": [
+            "Department of Dermatology, Complejo Asistencial Universitario de Salamanca, Salamanca, Spain"
+        ],
+        "Sara L\u00f3pez Mart\u00edn-Prieto": [
+            "Consulta privada, Seville, Spain"
+        ],
+        "Iosune Vilanova-Urd\u00e1niz": [
+            "Department of Dermatology, Hospital General Universitario de Elche, Alicante, Spain"
+        ],
+        "Gisela H. Petiti": [
+            "Department of Dermatology, Hospital M\u00f2isses Broggi, Barcelona, Spain"
+        ],
+        "Mar\u00eda Victoria de G\u00e1lvez Aranda": [
+            "Faculty of Medicine, Universidad de M\u00e1laga, M\u00e1laga, Spain"
+        ],
+        "Nuria No P\u00e9rez": [
+            "Department of Dermatology, Complejo Hospitalario Universitario de Vigo, Vigo, Spain"
+        ],
+        "Mar\u00eda Rueda G\u00f3mez-Calcerrada": [
+            "Department of Dermatology, Hospital Viamed Virgen de la Paloma, Madrid, Spain"
+        ],
+        "Pilar Iranzo": [
+            "Department of Dermatology, Hospital Cl\u00ednic, Barcelona, Spain"
+        ],
+        "Pilar Escalonilla Garc\u00eda-Patos": [
+            "Department of Dermatology, Complejo Asistencial de \u00c1vila, \u00c1vila, Spain"
+        ],
+        "Magdalena de Troya-Mart\u00edn": [
+            "Department of Dermatology, Hospital Costa del Sol, Marbella, Spain"
+        ],
+        "Javier Romero Gomez": [
+            "Department of Dermatology, Hospital Quironsalud, M\u00e1laga, Spain"
+        ],
+        "Esther Carde\u00f1oso-Alvarez": [
+            "Department of Dermatology, Complejo Asistencial Universitario de Salamanca, Salamanca, Spain"
+        ],
+        "Sofia Lucas Truyols": [
+            "Department of Dermatology, Consorci Hospital General Universitari, Val\u00e8ncia, Spain"
+        ],
+        "Libe Aspe Unanue": [
+            "Department of Dermatology, Hospital Universitario Araba, Vitoria-Gasteiz, Spain"
+        ],
+        "Cristina Bajo del Pozo": [
+            "Department of Dermatology, Complejo Hospitalario de Palencia, Palencia, Spain"
+        ],
+        "Alicia Comuni\u00f3n Artieda": [
+            "Department of Dermatology, Centro de Diagn\u00f3stico M\u00e9dico, Ayuntamiento de Madrid, Madrid, Spain"
+        ],
+        "Maria Isabel Mart\u00ednez Gonz\u00e1lez": [
+            "Department of Dermatology, Hospital Universitario Araba, Vitoria-Gasteiz, Spain"
+        ],
+        "Omar F. L\u00f3pez-L\u00f3pez": [
+            "Consulta privada, A Coru\u00f1a, Spain"
+        ],
+        "Esther Moreno-Artero": [
+            "Department of Dermatology, Cl\u00ednica Universidad de Navarra, Madrid, Spain"
+        ],
+        "Xavier Cubir\u00f3": [
+            "Department of Dermatology, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain"
+        ],
+        "Iago Meil\u00e1n-S\u00e1nchez": [
+            "Department of Dermatology, Complexo Hospitalario Universitario A Coru\u00f1a, A Coru\u00f1a, Spain"
+        ],
+        "Alejandra Tom\u00e1s-Vel\u00e1zquez": [
+            "Department of Dermatology, Cl\u00ednica Universidad de Navarra, Pamplona, Spain"
+        ],
+        "Cristina L\u00f3pez-S\u00e1nchez": [
+            "Department of Dermatology, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain"
+        ],
+        "Eva M. S\u00e1nchez-Mart\u00ednez": [
+            "Department of Dermatology, Hospital Universitario Doctor Peset, Valencia, Spain"
+        ],
+        "Harrison A. Edwards": [
+            "Department of Dermatology, Princess Alexandra Hospital, Brisbane, Australia",
+            "School of Public Health, University of Queensland, Brisbane, Australia",
+            "Dermatology Research Centre, University of Queensland, Diamantina Institute, Brisbane, Australia"
+        ],
+        "Maria Herrera Morueco": [
+            "Department of Internal Medicine, Hospital Universitario Infanta Leonor, Madrid, Spain"
+        ],
+        "Julia Zehe Rubiera": [
+            "Hospital Plat, Barcelona, Spain"
+        ],
+        "Laura Salguero Caldera": [
+            "Hospital Universitario Germans Trias y Pujol, Barcelona, Spain"
+        ],
+        "Urbano Blanes-Moreno": [
+            "Francisco de Vitoria University, Madrid, Spain"
+        ],
+        "Maria Uribarren-Movilla": [
+            "Alcal\u00e1 University, Madrid, Spain"
+        ],
+        "Michael Marks": [
+            "Clinical Research Department, Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ]
+    }
+}

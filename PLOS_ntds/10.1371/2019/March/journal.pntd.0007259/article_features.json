@@ -1,0 +1,46 @@
+{
+    "Title": "A protocol to count Cryptosporidium oocysts by flow cytometry without antibody staining",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007259",
+    "Published": "March 20, 2019",
+    "Subject_Areas": [
+        "Oocysts",
+        "Cryptosporidium parvum",
+        "Flow cytometry",
+        "Gastrointestinal tract",
+        "Parasitic diseases",
+        "Parasitic intestinal diseases",
+        "Mouse models",
+        "Staining"
+    ],
+    "Authors": {
+        "Karine Sonzogni-Desautels": [
+            "National Reference Centre for Parasitology, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Program in Infectious Diseases and Immunity in Global Health, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Institute of Parasitology, McGill University, Ste Anne de Bellevue, QC, Canada"
+        ],
+        "Thomas Z. Di Lenardo": [
+            "Program in Infectious Diseases and Immunity in Global Health, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Department of Medicine, Division of Experimental Medicine, McGill University, Montreal, QC, Canada"
+        ],
+        "Axel E. Renteria": [
+            "National Reference Centre for Parasitology, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Program in Infectious Diseases and Immunity in Global Health, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Department of Medicine, Division of Experimental Medicine, McGill University, Montreal, QC, Canada"
+        ],
+        "Marc-Andr\u00e9 Gascon": [
+            "National Reference Centre for Parasitology, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Program in Infectious Diseases and Immunity in Global Health, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Institute of Parasitology, McGill University, Ste Anne de Bellevue, QC, Canada"
+        ],
+        "Timothy G. Geary": [
+            "Institute of Parasitology, McGill University, Ste Anne de Bellevue, QC, Canada"
+        ],
+        "Momar Ndao": [
+            "National Reference Centre for Parasitology, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Program in Infectious Diseases and Immunity in Global Health, Research Institute of the McGill University Health Centre, Montreal, QC, Canada",
+            "Institute of Parasitology, McGill University, Ste Anne de Bellevue, QC, Canada",
+            "Department of Medicine, Division of Experimental Medicine, McGill University, Montreal, QC, Canada",
+            "Department of Medicine, Division of Infectious Diseases, McGill University, Montreal, QC, Canada"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Title": "Machine learning for predicting Chagas disease infection in rural areas of Brazil",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012026",
+    "Published": "April 16, 2024",
+    "Subject_Areas": [
+        "Machine learning algorithms",
+        "Chagas disease",
+        "Serology",
+        "Machine learning",
+        "Medical risk factors",
+        "Infectious disease control",
+        "Parasitic diseases",
+        "Serodiagnosis"
+    ],
+    "Authors": {
+        "Fabio De Rose Ghilardi": [
+            "Faculdade de Medicina da Universidade de S\u00e3o Paulo\u2013FMUSP, S\u00e3o Paulo, Brazil"
+        ],
+        "Gabriel Silva": [
+            "Faculdade de Sa\u00fade P\u00fablica da Universidade de S\u00e3o Paulo\u2013FSP USP, S\u00e3o Paulo, Brazil"
+        ],
+        "Thallyta Maria Vieira": [
+            "Universidade Estadual de Montes Claros\u2013Unimontes, Montes Claros, Minas Gerais, Brazil"
+        ],
+        "Ariela Mota": [
+            "Universidade Estadual de Montes Claros\u2013Unimontes, Montes Claros, Minas Gerais, Brazil"
+        ],
+        "Ana Luiza Bierrenbach": [
+            "Faculdade de Medicina da Universidade de S\u00e3o Paulo\u2013FMUSP, S\u00e3o Paulo, Brazil"
+        ],
+        "Renata Fiuza Damasceno": [
+            "Universidade Estadual de Montes Claros\u2013Unimontes, Montes Claros, Minas Gerais, Brazil"
+        ],
+        "Lea Campos de Oliveira": [
+            "Instituto de Medicina Tropical da Faculdade de Medicina da USP\u2013IMT USP, S\u00e3o Paulo, Brazil"
+        ],
+        "Alexandre Dias Porto Chiavegatto Filho": [
+            "Faculdade de Sa\u00fade P\u00fablica da Universidade de S\u00e3o Paulo\u2013FSP USP, S\u00e3o Paulo, Brazil"
+        ],
+        "Ester Sabino": [
+            "Faculdade de Medicina da Universidade de S\u00e3o Paulo\u2013FMUSP, S\u00e3o Paulo, Brazil",
+            "Instituto de Medicina Tropical da Faculdade de Medicina da USP\u2013IMT USP, S\u00e3o Paulo, Brazil"
+        ]
+    }
+}

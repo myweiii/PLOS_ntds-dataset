@@ -1,0 +1,84 @@
+{
+    "Title": "Whole-genome sequencing and genetic diversity of severe fever with thrombocytopenia syndrome virus using multiplex PCR-based nanopore sequencing, Republic of Korea",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010763",
+    "Published": "September 12, 2022",
+    "Subject_Areas": [
+        "Phylogeography",
+        "Genomics",
+        "Fevers",
+        "Thrombocytopenia",
+        "Next-generation sequencing",
+        "Polymerase chain reaction",
+        "Viral genomics",
+        "Ticks"
+    ],
+    "Authors": {
+        "Jingyeong Lee": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Kyungmin Park": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "BK21 Graduate Program, Department of Biomedical Sciences, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Jongwoo Kim": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "BK21 Graduate Program, Department of Biomedical Sciences, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Seung-Ho Lee": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Geum-Young Lee": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Seungchan Cho": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Heung-Chul Kim": [
+            "Force Health Protection and Preventive Medicine, Medical Department Activity-Korea/65th Medical Brigade, Unit 15281, United States of America"
+        ],
+        "Terry A. Klein": [
+            "Force Health Protection and Preventive Medicine, Medical Department Activity-Korea/65th Medical Brigade, Unit 15281, United States of America"
+        ],
+        "Jeong-Ah Kim": [
+            "Division of Emerging Infectious Diseases, Bureau of Infectious Diseases Diagnosis Control, Korea Disease Control and Prevention Agency, Cheongju, Republic of Korea"
+        ],
+        "Jeewan Choi": [
+            "Republic of Korea Armed Forces Medical Command, Seongnam, Republic of Korea"
+        ],
+        "Juwan Park": [
+            "The Fifth Preventive Medicine Unit of Republic of Korea Army, Pocheon, Republic of Korea"
+        ],
+        "Dong-Hyun Song": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Se Hun Gu": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Hyeongseok Yun": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Jung-Eun Kim": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Daesang Lee": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Gyeung Haeng Hur": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Seong Tae Jeong": [
+            "Chem-Bio Technology Center, Agency for Defense Development, Yuseong, Daejeon, Republic of Korea"
+        ],
+        "Il-Ung Hwang": [
+            "Department of Orthopaedic Surgery, Sheikh Khalifa Specialty Hospital, Seoul National University Hospital, Seoul, Republic of Korea"
+        ],
+        "Won-Keun Kim": [
+            "Department of Microbiology, College of Medicine, Hallym University, Chuncheon, Republic of Korea",
+            "Institute of Medical Research, College of Medicine, Hallym University, Chuncheon, Republic of Korea"
+        ],
+        "Jin-Won Song": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "BK21 Graduate Program, Department of Biomedical Sciences, Korea University College of Medicine, Seoul, Republic of Korea"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Title": "Two-stage lot quality assurance sampling framework for monitoring and evaluation of neglected tropical diseases, allowing for imperfect diagnostics and spatial heterogeneity",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010353",
+    "Published": "April 8, 2022",
+    "Subject_Areas": [
+        "Decision making",
+        "Monte Carlo method",
+        "Soil-transmitted helminthiases",
+        "Neglected tropical diseases",
+        "Medical risk factors",
+        "Diagnostic medicine",
+        "Graphs",
+        "Eggs"
+    ],
+    "Authors": {
+        "Adama Kazienga": [
+            "Department of Translational Physiology, Infectiology and Public Health, Ghent University, Merelbeke, Belgium"
+        ],
+        "Luc E. Coffeng": [
+            "Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+        ],
+        "Sake J. de Vlas": [
+            "Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+        ],
+        "Bruno Levecke": [
+            "Department of Translational Physiology, Infectiology and Public Health, Ghent University, Merelbeke, Belgium"
+        ]
+    }
+}

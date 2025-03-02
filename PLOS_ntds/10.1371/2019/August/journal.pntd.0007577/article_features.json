@@ -1,0 +1,59 @@
+{
+    "Title": "Kankanet: An artificial neural network-based object detection smartphone application and mobile microscope as a point-of-care diagnostic aid for soil-transmitted helminthiases",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007577",
+    "Published": "August 5, 2019",
+    "Subject_Areas": [
+        "Ascaris lumbricoides",
+        "Hookworms",
+        "Cell phones",
+        "Eggs",
+        "Drug administration",
+        "Soil-transmitted helminthiases",
+        "Artificial neural networks",
+        "Bird eggs"
+    ],
+    "Authors": {
+        "Ariel Yang": [
+            "School of Medicine, Stony Brook University, Stony Brook, New York, United States of America",
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America"
+        ],
+        "Nahid Bakhtari": [
+            "School of Medicine, Stony Brook University, Stony Brook, New York, United States of America",
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America"
+        ],
+        "Liana Langdon-Embry": [
+            "School of Medicine, Stony Brook University, Stony Brook, New York, United States of America",
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America"
+        ],
+        "Emile Redwood": [
+            "School of Medicine, Stony Brook University, Stony Brook, New York, United States of America",
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America"
+        ],
+        "Simon Grandjean Lapierre": [
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America",
+            "Immunopathology axis, Centre de Recherche du Centre Hospitalier de l'Universit\u00e9 de Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada",
+            "Mycobacteria Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar"
+        ],
+        "Patricia Rakotomanga": [
+            "Helminthiasis Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar"
+        ],
+        "Armand Rafalimanantsoa": [
+            "Helminthiasis Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar"
+        ],
+        "Juan De Dios Santos": [
+            "Department of Information Technology, Uppsala University, Uppsala, Sweden"
+        ],
+        "In\u00e8s Vigan-Womas": [
+            "Immunology of Infectious Diseases Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar"
+        ],
+        "Astrid M. Knoblauch": [
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America",
+            "Mycobacteria Unit, Institut Pasteur de Madagascar, Antananarivo, Madagascar",
+            "Department of Epidemiology and Public Health, Swiss Tropical and Public Health Institute, Basel, Switzerland"
+        ],
+        "Luis A. Marcos": [
+            "Global Health Institute, Stony Brook University, Stony Brook, New York, United States of America",
+            "Department of Medicine, Stony Brook University, New York, United States of America"
+        ]
+    }
+}

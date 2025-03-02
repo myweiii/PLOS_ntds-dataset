@@ -1,0 +1,40 @@
+{
+    "Title": "Virus Identification in Unknown Tropical Febrile Illness Cases Using Deep Sequencing",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001485",
+    "Published": "February 7, 2012",
+    "Subject_Areas": [
+        "Dengue virus",
+        "Anelloviruses",
+        "Viral pathogens",
+        "Sequence alignment",
+        "Microarrays",
+        "Genomics",
+        "Dengue fever",
+        "Metagenomics"
+    ],
+    "Authors": {
+        "Nathan L. Yozwiak": [
+            "Division of Infectious Diseases and Vaccinology, School of Public Health, University of California, Berkeley, California, United States of America"
+        ],
+        "Peter Skewes-Cox": [
+            "Biological and Medical Informatics Program, University of California San Francisco, San Francisco, California, United States of America",
+            "Howard Hughes Medical Institute, University of California San Francisco, San Francisco, California, United States of America",
+            "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Mark D. Stenglein": [
+            "Howard Hughes Medical Institute, University of California San Francisco, San Francisco, California, United States of America",
+            "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Angel Balmaseda": [
+            "Departamento de Virolog\u00eda, Centro Nacional de Diagn\u00f3stico y Referencia, Ministerio de Salud, Managua, Nicaragua"
+        ],
+        "Eva Harris": [
+            "Division of Infectious Diseases and Vaccinology, School of Public Health, University of California, Berkeley, California, United States of America"
+        ],
+        "Joseph L. DeRisi": [
+            "Howard Hughes Medical Institute, University of California San Francisco, San Francisco, California, United States of America",
+            "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, California, United States of America",
+            "Department of Medicine, University of California San Francisco, San Francisco, California, United States of America"
+        ]
+    }
+}

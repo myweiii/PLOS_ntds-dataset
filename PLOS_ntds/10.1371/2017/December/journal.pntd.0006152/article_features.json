@@ -1,0 +1,55 @@
+{
+    "Title": "Individual co-variation between viral RNA load and gene expression reveals novel host factors during early dengue virus infection of the Aedes aegypti midgut",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006152",
+    "Published": "December 19, 2017",
+    "Subject_Areas": [
+        "Dengue virus",
+        "Mosquitoes",
+        "Transcriptome analysis",
+        "Gene expression",
+        "Virus effects on host gene expression",
+        "Blood",
+        "Aedes aegypti",
+        "RNA sequencing"
+    ],
+    "Authors": {
+        "Vincent Raquin": [
+            "Insect-Virus Interactions Group, Department of Genomes and Genetics, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Recherche Associ\u00e9e 3012, Paris, France"
+        ],
+        "Sarah H\u00e9l\u00e8ne Merkling": [
+            "Insect-Virus Interactions Group, Department of Genomes and Genetics, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Recherche Associ\u00e9e 3012, Paris, France"
+        ],
+        "Val\u00e9rie Gausson": [
+            "Viruses and RNA Interference Unit, Department of Virology, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 Mixte de Recherche 3569, Paris, France"
+        ],
+        "Isabelle Moltini-Conclois": [
+            "Insect-Virus Interactions Group, Department of Genomes and Genetics, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Recherche Associ\u00e9e 3012, Paris, France"
+        ],
+        "Lionel Frangeul": [
+            "Viruses and RNA Interference Unit, Department of Virology, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 Mixte de Recherche 3569, Paris, France"
+        ],
+        "Hugo Varet": [
+            "Plate-forme Transcriptome & Epigenome, Biomics, Centre d\u2019Innovation et Recherche Technologique (Citech), Institut Pasteur, Paris, France",
+            "Hub Bioinformatique & Biostatistique, Centre de Bioinformatique, Biostatistique et Biologie Int\u00e9grative (C3BI), Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Services et de Recherches 3756, Institut Pasteur, Paris, France"
+        ],
+        "Marie-Agn\u00e8s Dillies": [
+            "Plate-forme Transcriptome & Epigenome, Biomics, Centre d\u2019Innovation et Recherche Technologique (Citech), Institut Pasteur, Paris, France",
+            "Hub Bioinformatique & Biostatistique, Centre de Bioinformatique, Biostatistique et Biologie Int\u00e9grative (C3BI), Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Services et de Recherches 3756, Institut Pasteur, Paris, France"
+        ],
+        "Maria-Carla Saleh": [
+            "Viruses and RNA Interference Unit, Department of Virology, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 Mixte de Recherche 3569, Paris, France"
+        ],
+        "Louis Lambrechts": [
+            "Insect-Virus Interactions Group, Department of Genomes and Genetics, Institut Pasteur, Paris, France",
+            "Centre National de la Recherche Scientifique, Unit\u00e9 de Recherche Associ\u00e9e 3012, Paris, France"
+        ]
+    }
+}

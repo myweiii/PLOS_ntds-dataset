@@ -1,0 +1,65 @@
+{
+    "Title": "Metagenomic next generation sequencing of plasma RNA for diagnosis of unexplained, acute febrile illness in Uganda",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012451",
+    "Published": "September 19, 2024",
+    "Subject_Areas": [
+        "Fevers",
+        "Diagnostic medicine",
+        "Metagenomics",
+        "Bacterial pathogens",
+        "Blood plasma",
+        "RNA sequencing",
+        "Abdominal pain",
+        "Next-generation sequencing"
+    ],
+    "Authors": {
+        "Abraham J. Kandathil": [
+            "Division of Infectious Diseases, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Paul W. Blair": [
+            "Division of Infectious Diseases, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America",
+            "Department of Pathology, Uniformed Services University, Bethesda, Maryland, United States of America"
+        ],
+        "Jennifer Lu": [
+            "Center for Computational Biology, Johns Hopkins University, Baltimore, Maryland, United States of America",
+            "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, Maryland, United States of America",
+            "Department of Pathology, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Raghavendran Anantharam": [
+            "Division of Infectious Diseases, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Kenneth Kobba": [
+            "Infectious Diseases Institute, Makerere University, Kampala, Uganda"
+        ],
+        "Matthew L. Robinson": [
+            "Division of Infectious Diseases, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Sultanah Alharthi": [
+            "Department of Pathology, Uniformed Services University, Bethesda, Maryland, United States of America"
+        ],
+        "Edgar C. Ndawula": [
+            "Infectious Diseases Institute, Makerere University, Kampala, Uganda"
+        ],
+        "J. Stephen Dumler": [
+            "Department of Pathology, Uniformed Services University, Bethesda, Maryland, United States of America",
+            "Department of Pathology, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Francis Kakooza": [
+            "Infectious Diseases Institute, Makerere University, Kampala, Uganda"
+        ],
+        "Mohammed Lamorde": [
+            "Infectious Diseases Institute, Makerere University, Kampala, Uganda"
+        ],
+        "David L. Thomas": [
+            "Division of Infectious Diseases, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ],
+        "Steven L. Salzberg": [
+            "Center for Computational Biology, Johns Hopkins University, Baltimore, Maryland, United States of America",
+            "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, Maryland, United States of America",
+            "Departments of Computer Science and Biostatistics, Johns Hopkins University, Baltimore, Maryland, United States of America"
+        ],
+        "Yukari C. Manabe": [
+            "Division of Infectious Diseases, Johns Hopkins School of Medicine, Baltimore, Maryland, United States of America"
+        ]
+    }
+}

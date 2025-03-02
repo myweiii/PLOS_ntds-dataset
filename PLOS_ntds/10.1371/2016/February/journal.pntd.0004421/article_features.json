@@ -1,0 +1,40 @@
+{
+    "Title": "Genome-Wide Comparative Analysis of Chemosensory Gene Families in Five Tsetse Fly Species",
+    "URL": "https://doi.org/10.1371/journal.pntd.0004421",
+    "Published": "February 17, 2016",
+    "Subject_Areas": [
+        "Glossina",
+        "Drosophila melanogaster",
+        "Odorant binding proteins",
+        "Animal phylogenetics",
+        "Sequence alignment",
+        "Tsetse fly",
+        "Musca domestica",
+        "Trypanosoma"
+    ],
+    "Authors": {
+        "Rosaline Macharia": [
+            "Molecular Biology and Bioinformatics Unit, International Centre of Insect Physiology and Ecology, Nairobi, Kenya",
+            "South African National Bioinformatics Institute, University of the Western Cape, Cape Town, South Africa"
+        ],
+        "Paul Mireji": [
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Heath, New Haven, Connecticut, United States of America",
+            "Biotechnology Research Institute, Kenya Agricultural and Livestock Research Organization, Kikuyu, Kenya"
+        ],
+        "Edwin Murungi": [
+            "Department of Biochemistry and Molecular Biology, Egerton University, Njoro, Kenya"
+        ],
+        "Grace Murilla": [
+            "Biotechnology Research Institute, Kenya Agricultural and Livestock Research Organization, Kikuyu, Kenya"
+        ],
+        "Alan Christoffels": [
+            "South African National Bioinformatics Institute, University of the Western Cape, Cape Town, South Africa"
+        ],
+        "Serap Aksoy": [
+            "Department of Epidemiology of Microbial Diseases, Yale School of Public Heath, New Haven, Connecticut, United States of America"
+        ],
+        "Daniel Masiga": [
+            "Molecular Biology and Bioinformatics Unit, International Centre of Insect Physiology and Ecology, Nairobi, Kenya"
+        ]
+    }
+}

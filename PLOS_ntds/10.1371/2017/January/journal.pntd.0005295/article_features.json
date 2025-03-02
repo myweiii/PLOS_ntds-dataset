@@ -1,0 +1,37 @@
+{
+    "Title": "Forecasting Zika Incidence in the 2016 Latin America Outbreak Combining Traditional Disease Surveillance with Search, Social Media, and News Report Data",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005295",
+    "Published": "January 13, 2017",
+    "Subject_Areas": [
+        "Twitter",
+        "Zika fever",
+        "Zika virus",
+        "Epidemiology",
+        "Colombia",
+        "Social media",
+        "Infectious disease surveillance",
+        "Venezuela"
+    ],
+    "Authors": {
+        "Sarah F. McGough": [
+            "Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America",
+            "Computational Health Informatics Program, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Computational Epidemiology Group, Division of Emergency Medicine, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America"
+        ],
+        "John S. Brownstein": [
+            "Computational Health Informatics Program, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Computational Epidemiology Group, Division of Emergency Medicine, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, United States of America"
+        ],
+        "Jared B. Hawkins": [
+            "Computational Health Informatics Program, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Computational Epidemiology Group, Division of Emergency Medicine, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, United States of America"
+        ],
+        "Mauricio Santillana": [
+            "Computational Health Informatics Program, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Computational Epidemiology Group, Division of Emergency Medicine, Boston Children\u2019s Hospital, Boston, Massachusetts, United States of America",
+            "Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, United States of America"
+        ]
+    }
+}

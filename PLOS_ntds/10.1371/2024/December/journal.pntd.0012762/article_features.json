@@ -1,0 +1,53 @@
+{
+    "Title": "A High Resolution Melting Analysis (HRM) PCR assay for the detection and identification of Old World Leishmania species",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012762",
+    "Published": "December 23, 2024",
+    "Subject_Areas": [
+        "Polymerase chain reaction",
+        "Leishmania",
+        "Leishmania infantum",
+        "Melting",
+        "Computer software",
+        "Restriction fragment length polymorphism analysis",
+        "Leishmania donovani",
+        "Sequence alignment"
+    ],
+    "Authors": {
+        "Yusr Saadi-Ben Aoun": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia",
+            "Clinical Investigation Center, Institut Pasteur de Tunis, Tunis, Tunisia",
+            "Institut National des Sciences Appliqu\u00e9es et de Technologie, Universit\u00e9 de Carthage, Tunis, Tunisia"
+        ],
+        "Hejer Souguir": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia"
+        ],
+        "Hamed Chouaieb": [
+            "Parasitology Department, Faculty of Medicine, Farhat Hached University Hospital, Universit\u00e9 de Sousse, Sousse, Tunisia"
+        ],
+        "Mongia Kraiem": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia"
+        ],
+        "Insaf Bel Hadj Ali": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia",
+            "Clinical Investigation Center, Institut Pasteur de Tunis, Tunis, Tunisia"
+        ],
+        "Ahmed S. Chakroun": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia"
+        ],
+        "Florian Noguier": [
+            "Acobiom, Montpellier, France"
+        ],
+        "Akila Fathallah-Mili": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia",
+            "Clinical Investigation Center, Institut Pasteur de Tunis, Tunis, Tunisia",
+            "Parasitology Department, Faculty of Medicine, Farhat Hached University Hospital, Universit\u00e9 de Sousse, Sousse, Tunisia"
+        ],
+        "David Piquemal": [
+            "Acobiom, Montpellier, France"
+        ],
+        "Ikram Guizani": [
+            "Laboratory of Molecular Epidemiology and Experimental Pathology, Institut Pasteur de Tunis, Universit\u00e9 de Tunis El Manar, Tunis, Tunisia",
+            "Clinical Investigation Center, Institut Pasteur de Tunis, Tunis, Tunisia"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "Title": "Machine Learning Models and Pathway Genome Data Base for Trypanosoma cruzi Drug Discovery",
+    "URL": "https://doi.org/10.1371/journal.pntd.0003878",
+    "Published": "June 26, 2015",
+    "Subject_Areas": [
+        "Trypanosoma cruzi",
+        "Chagas disease",
+        "Drug screening",
+        "Mouse models",
+        "Parasitic diseases",
+        "Metabolic pathways",
+        "Library screening",
+        "High throughput screening"
+    ],
+    "Authors": {
+        "Sean Ekins": [
+            "Collaborative Drug Discovery, Burlingame, California, United States of America",
+            "Collaborations in Chemistry, Fuquay-Varina, North Carolina, United States of America"
+        ],
+        "Jair Lage de Siqueira-Neto": [
+            "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, San Diego, California, United States of America"
+        ],
+        "Laura-Isobel McCall": [
+            "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, San Diego, California, United States of America"
+        ],
+        "Malabika Sarker": [
+            "SRI International, Menlo Park, California, United States of America"
+        ],
+        "Maneesh Yadav": [
+            "SRI International, Menlo Park, California, United States of America"
+        ],
+        "Elizabeth L. Ponder": [
+            "Chemistry, Engineering & Medicine for Human Health (ChEM-H), Stanford, California, United States of America"
+        ],
+        "E. Adam Kallel": [
+            "Collaborative Drug Discovery, Burlingame, California, United States of America"
+        ],
+        "Danielle Kellar": [
+            "Department of Pathology, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Steven Chen": [
+            "Small Molecule Discovery Center and Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Michelle Arkin": [
+            "Small Molecule Discovery Center and Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, California, United States of America"
+        ],
+        "Barry A. Bunin": [
+            "Collaborative Drug Discovery, Burlingame, California, United States of America"
+        ],
+        "James H. McKerrow": [
+            "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, San Diego, California, United States of America"
+        ],
+        "Carolyn Talcott": [
+            "SRI International, Menlo Park, California, United States of America"
+        ]
+    }
+}

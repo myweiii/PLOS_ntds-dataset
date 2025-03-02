@@ -1,0 +1,42 @@
+{
+    "Title": "Combining natural language processing and metabarcoding to reveal pathogen-environment associations",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008755",
+    "Published": "April 7, 2021",
+    "Subject_Areas": [
+        "Semantics",
+        "Decision trees",
+        "Machine learning",
+        "Ecological niches",
+        "Natural language processing",
+        "Metadata",
+        "Probability distribution",
+        "Pathogens"
+    ],
+    "Authors": {
+        "David C. Molik": [
+            "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana, United States of America",
+            "Navari Center for Digital Scholarship, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "DeAndre Tomlinson": [
+            "Science-Computing Program, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Shane Davitt": [
+            "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Eric L. Morgan": [
+            "Navari Center for Digital Scholarship, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Matthew Sisk": [
+            "Navari Center for Digital Scholarship, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Benjamin Roche": [
+            "Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America"
+        ],
+        "Natalie Meyers": [
+            "Navari Center for Digital Scholarship, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Michael E. Pfrender": [
+            "Department of Biological Sciences, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+Why was this study done?
+
+WHO has targeted lymphatic filariasis (LF) for global elimination as a public health problem using mass drug administration (MDA) as the primary intervention strategy.
+The WHO recently modified recommendations for MDA for LF with a combination of three co-administered drugs: ivermectin, diethylcarbamazine, and albendazole. This study examined the impact of one round of MDA on LF infection parameters in Papua New Guinea that had not previously received MDA for LF and examined new methodologies for monitoring and surveillance.
+
+
+What did the researcher do and find?
+
+Before MDA, we randomly sampled sentinel villages using population proportional sampling of equal numbers of children 6–9 years and older children and adults using well-established LF infection parameters. Post-MDA, we selected sentinel villages using a geostatistical modeling design and focused on sampling adults.
+Population-proportional sampling estimated the overall LF mean prevalence. However, it led to the inappropriate conclusion that LF might be less important because PPS missed villages with high LF prevalence in less densely populated rural areas. Sampling children 6–9 years of age was inefficient because of low infection rates in this age group. One round of MDA with high coverage effectively reduced microfilaremia prevalence to very low levels in most sampled villages, but CFA prevalence decreased less dramatically.
+
+
+What do these findings mean?
+
+Geostatistical modeling and sampling adults for microfilaria are preferred methods for monitoring the impact of MDA with IDA in areas heterogeneous for LF rather than PPS. Sampling children to monitor LF elimination may not be a reliable indicator for stopping MDA, because CFA declines slowly after IDA, and children have low LF infection prevalence.
+Results from this study suggest that one round of high-coverage MDA may be sufficient to eliminate LF in areas with low baseline prevalence. Additional rounds of MDA can then be targeted to high-risk LF locations selected by geostatistical modeling, thus reducing program costs. The accuracy of geostatistical modeling in identifying LF-infected villages improves with high-quality baseline surveillance. This approach may be especially useful in areas like Papua New Guinea, where MDA is logistically challenging and costly.

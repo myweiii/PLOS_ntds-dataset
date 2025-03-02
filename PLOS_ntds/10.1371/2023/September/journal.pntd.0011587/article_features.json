@@ -1,0 +1,44 @@
+{
+    "Title": "Evaluation of models for multi-step forecasting of hand, foot and mouth disease using multi-input multi-output: A case study of Chengdu, China",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011587",
+    "Published": "September 8, 2023",
+    "Subject_Areas": [
+        "Hand, foot and mouth disease",
+        "Forecasting",
+        "Air pollution",
+        "Public and occupational health",
+        "China",
+        "Autocorrelation",
+        "Humidity",
+        "Infectious diseases"
+    ],
+    "Authors": {
+        "Xiaoran Geng": [
+            "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China"
+        ],
+        "Yue Ma": [
+            "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China"
+        ],
+        "Wennian Cai": [
+            "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China"
+        ],
+        "Yuanyi Zha": [
+            "Kunming Medical University, Kunming, China"
+        ],
+        "Tao Zhang": [
+            "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China"
+        ],
+        "Huadong Zhang": [
+            "Chongqing Center for Disease Control and Prevention, Chongqing, China"
+        ],
+        "Changhong Yang": [
+            "Sichuan Center for Disease Control and Prevention, Chengdu, China"
+        ],
+        "Fei Yin": [
+            "West China School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China"
+        ],
+        "Tiejun Shui": [
+            "Yunnan Center for Disease Control and Prevention, Kunming, China"
+        ]
+    }
+}

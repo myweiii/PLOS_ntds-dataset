@@ -1,0 +1,62 @@
+{
+    "Title": "Deep resequencing identifies candidate functional genes in leprosy GWAS loci",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010029",
+    "Published": "December 8, 2021",
+    "Subject_Areas": [
+        "Leprosy",
+        "Genome-wide association studies",
+        "Genetic loci",
+        "Amino acid analysis",
+        "Protein domains",
+        "Pathogenesis",
+        "Linkage disequilibrium",
+        "Mutation databases"
+    ],
+    "Authors": {
+        "Vinicius M. Fava": [
+            "Program in Infectious Diseases and Immunity in Global Health, The Research Institute of the McGill University Health Centre, Montreal, Canada",
+            "McGill International TB Centre, Montreal, Canada"
+        ],
+        "Monica Dallmann-Sauer": [
+            "Program in Infectious Diseases and Immunity in Global Health, The Research Institute of the McGill University Health Centre, Montreal, Canada",
+            "McGill International TB Centre, Montreal, Canada",
+            "Department of Human Genetics, Faculty of Medicine and Health Sciences, McGill University, Montreal, Canada"
+        ],
+        "Marianna Orlova": [
+            "Program in Infectious Diseases and Immunity in Global Health, The Research Institute of the McGill University Health Centre, Montreal, Canada",
+            "McGill International TB Centre, Montreal, Canada",
+            "Department of Medicine, Faculty of Medicine and Health Sciences, McGill University, Montreal, Canada"
+        ],
+        "Wilian Correa-Macedo": [
+            "Program in Infectious Diseases and Immunity in Global Health, The Research Institute of the McGill University Health Centre, Montreal, Canada",
+            "McGill International TB Centre, Montreal, Canada",
+            "Department of Biochemistry, Faculty of Medicine and Health Sciences, McGill University, Montreal, Canada"
+        ],
+        "Nguyen Van Thuc": [
+            "Hospital for Dermato-Venerology, Ho Chi Minh City, Vietnam"
+        ],
+        "Vu Hong Thai": [
+            "Hospital for Dermato-Venerology, Ho Chi Minh City, Vietnam"
+        ],
+        "Alexandre Alca\u00efs": [
+            "Laboratory of Human Genetics of Infectious Diseases, Necker Branch, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale 1163, Paris, France",
+            "Imagine Institute, Paris Descartes-Sorbonne Paris Cit\u00e9 University, Paris, France"
+        ],
+        "Laurent Abel": [
+            "Laboratory of Human Genetics of Infectious Diseases, Necker Branch, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale 1163, Paris, France",
+            "Imagine Institute, Paris Descartes-Sorbonne Paris Cit\u00e9 University, Paris, France",
+            "St. Giles Laboratory of Human Genetics of Infectious Diseases, Rockefeller Branch, Rockefeller University, New York, United States of America"
+        ],
+        "Aur\u00e9lie Cobat": [
+            "Laboratory of Human Genetics of Infectious Diseases, Necker Branch, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale 1163, Paris, France",
+            "Imagine Institute, Paris Descartes-Sorbonne Paris Cit\u00e9 University, Paris, France"
+        ],
+        "Erwin Schurr": [
+            "Program in Infectious Diseases and Immunity in Global Health, The Research Institute of the McGill University Health Centre, Montreal, Canada",
+            "McGill International TB Centre, Montreal, Canada",
+            "Department of Human Genetics, Faculty of Medicine and Health Sciences, McGill University, Montreal, Canada",
+            "Department of Medicine, Faculty of Medicine and Health Sciences, McGill University, Montreal, Canada",
+            "Department of Biochemistry, Faculty of Medicine and Health Sciences, McGill University, Montreal, Canada"
+        ]
+    }
+}

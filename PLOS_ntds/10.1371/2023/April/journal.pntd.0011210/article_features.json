@@ -1,0 +1,49 @@
+{
+    "Title": "Antigen discovery by bioinformatics analysis and peptide microarray for the diagnosis of cystic echinococcosis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011210",
+    "Published": "April 12, 2023",
+    "Subject_Areas": [
+        "Echinococcosis",
+        "Microarrays",
+        "Computer software",
+        "Antigens",
+        "Diagnostic medicine",
+        "Parasitic diseases",
+        "Immune system proteins",
+        "Bioinformatics"
+    ],
+    "Authors": {
+        "Gherard Batisti Biffignandi": [
+            "Department of Clinical-Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Pavia, Italy",
+            "Department of Biology and Biotechnology \u201cL.Spallanzani\u201d, University of Pavia, Pavia, Italy"
+        ],
+        "Ambra Vola": [
+            "Microbiology and Virology Unit, Diagnostic Medicine Department, IRCCS San Matteo Hospital Foundation, Pavia, Italy"
+        ],
+        "Davide Sassera": [
+            "Department of Biology and Biotechnology \u201cL.Spallanzani\u201d, University of Pavia, Pavia, Italy"
+        ],
+        "Saeid Najafi-Fard": [
+            "Translational Research Unit, National Institute for Infectious Diseases (INMI) \u201cLazzaro Spallanzani\u201d-IRCCS, Rome, Italy"
+        ],
+        "Maria Angeles Gomez Morales": [
+            "Foodborne and Neglected Parasitoses Unit, Department of Infectious Diseases, Istituto Superiore di Sanit\u00e0, Rome, Italy"
+        ],
+        "Enrico Brunetti": [
+            "Department of Clinical-Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Pavia, Italy",
+            "Microbiology and Virology Unit, Diagnostic Medicine Department, IRCCS San Matteo Hospital Foundation, Pavia, Italy"
+        ],
+        "Antonella Teggi": [
+            "Department of Infectious and Tropical Diseases, Sant\u2019Andrea Hospital University of Rome "
+        ],
+        "Delia Goletti": [
+            "Translational Research Unit, National Institute for Infectious Diseases (INMI) \u201cLazzaro Spallanzani\u201d-IRCCS, Rome, Italy"
+        ],
+        "Linda Petrone": [
+            "Translational Research Unit, National Institute for Infectious Diseases (INMI) \u201cLazzaro Spallanzani\u201d-IRCCS, Rome, Italy"
+        ],
+        "Francesca Tamarozzi": [
+            "Department of Infectious-Tropical Diseases and Microbiology, IRCCS Sacro Cuore Don Calabria Hospital, Negrar di Valpolicella, Verona, Italy"
+        ]
+    }
+}

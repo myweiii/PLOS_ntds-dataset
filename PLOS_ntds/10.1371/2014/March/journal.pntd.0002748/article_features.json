@@ -1,0 +1,184 @@
+{
+    "Title": "Lassa Fever in Post-Conflict Sierra Leone",
+    "URL": "https://doi.org/10.1371/journal.pntd.0002748",
+    "Published": "March 20, 2014",
+    "Subject_Areas": [
+        "Lassa fever",
+        "Sierra Leone",
+        "Age distribution",
+        "Enzyme-linked immunoassays",
+        "Pregnancy",
+        "Immunoassays",
+        "Antibodies",
+        "Antigen-presenting cells"
+    ],
+    "Authors": {
+        "Jeffrey G. Shaffer": [
+            "Department of Biostatistics and Bioinformatics, Tulane School of Public Health and Tropical Medicine, New Orleans, Louisiana, United States of America"
+        ],
+        "Donald S. Grant": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "John S. Schieffelin": [
+            "Sections of Infectious Disease, Departments of Pediatrics and Internal Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Matt L. Boisen": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America",
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "Augustine Goba": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Jessica N. Hartnett": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Danielle C. Levy": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Rachael E. Yenni": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Lina M. Moses": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America",
+            "Department of Tropical Medicine, Tulane School of Public Health and Tropical Medicine, New Orleans, Louisiana, United States of America"
+        ],
+        "Mohammed Fullah": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Mambo Momoh": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Mbalu Fonnie": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Richard Fonnie": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Lansana Kanneh": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Veronica J. Koroma": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Kandeh Kargbo": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Darin Ottomassathien": [
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "Ivana J. Muncy": [
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "Abigail B. Jones": [
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "Megan M. Illick": [
+            "Biofactura Inc., Rockville, Maryland, United States of America"
+        ],
+        "Peter C. Kulakosky": [
+            "Autoimmune Technologies, LLC, New Orleans, Louisiana, United States of America"
+        ],
+        "Allyson M. Haislip": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Christopher M. Bishop": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Deborah H. Elliot": [
+            "Sections of Infectious Disease, Departments of Pediatrics and Internal Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Bethany L. Brown": [
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "Hu Zhu": [
+            "Vybion Inc., Ithaca, New York, United States of America"
+        ],
+        "Kathryn M. Hastie": [
+            "Department of Immunology and Microbial Science, The Scripps Research Institute, La Jolla, California, United States of America"
+        ],
+        "Kristian G. Andersen": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Stephen K. Gire": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Shervin Tabrizi": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Ridhi Tariyal": [
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Mathew Stremlau": [
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America"
+        ],
+        "Alex Matschiner": [
+            "Biofactura Inc., Rockville, Maryland, United States of America"
+        ],
+        "Darryl B. Sampey": [
+            "Biofactura Inc., Rockville, Maryland, United States of America"
+        ],
+        "Jennifer S. Spence": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Robert W. Cross": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America",
+            "Department of Microbiology and Immunology, University of Texas Medical Branch at Galveston, Galveston, Texas, United States of America"
+        ],
+        "Joan B. Geisbert": [
+            "Department of Microbiology and Immunology, University of Texas Medical Branch at Galveston, Galveston, Texas, United States of America"
+        ],
+        "Onikepe A. Folarin": [
+            "Department of Biological Sciences, College of Natural Sciences, Redeemers University, Redemption City, Ogun State, Nigeria"
+        ],
+        "Christian T. Happi": [
+            "Department of Biological Sciences, College of Natural Sciences, Redeemers University, Redemption City, Ogun State, Nigeria"
+        ],
+        "Kelly R. Pitts": [
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "F. Jon Geske": [
+            "Corgenix, Inc., Broomfield, Colorado, United States of America"
+        ],
+        "Thomas W. Geisbert": [
+            "Department of Microbiology and Immunology, University of Texas Medical Branch at Galveston, Galveston, Texas, United States of America"
+        ],
+        "Erica Ollmann Saphire": [
+            "Vybion Inc., Ithaca, New York, United States of America",
+            "The Skaggs Institute for Chemical Biology, The Scripps Research Institute, La Jolla, California, United States of America"
+        ],
+        "James E. Robinson": [
+            "Sections of Infectious Disease, Departments of Pediatrics and Internal Medicine, School of Medicine, Tulane University, New Orleans, Louisiana, United States of America"
+        ],
+        "Russell B. Wilson": [
+            "Autoimmune Technologies, LLC, New Orleans, Louisiana, United States of America"
+        ],
+        "Pardis C. Sabeti": [
+            "Department of Immunology and Microbial Science, The Scripps Research Institute, La Jolla, California, United States of America",
+            "FAS Center for Systems Biology, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+            "Department of Immunology and Infectious Disease, Harvard School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Lee A. Henderson": [
+            "Autoimmune Technologies, LLC, New Orleans, Louisiana, United States of America"
+        ],
+        "S. Humarr Khan": [
+            "Lassa Fever Program, Kenema Government Hospital, Kenema, Sierra Leone"
+        ],
+        "Daniel G. Bausch": [
+            "Department of Tropical Medicine, Tulane School of Public Health and Tropical Medicine, New Orleans, Louisiana, United States of America"
+        ],
+        "Luis M. Branco": [
+            "Autoimmune Technologies, LLC, New Orleans, Louisiana, United States of America",
+            "Zalgen Labs, LLC, Germantown, Maryland, United States of America"
+        ],
+        "Robert F. Garry": [
+            "Department of Microbiology and Immunology, Tulane University, New Orleans, Louisiana, United States of America",
+            "Broad Institute, Cambridge, Massachusetts, United States of America",
+            "Zalgen Labs, LLC, Germantown, Maryland, United States of America"
+        ],
+        "the Viral Hemorrhagic Fever Consortium": []
+    }
+}

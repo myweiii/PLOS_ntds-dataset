@@ -1,0 +1,40 @@
+{
+    "Title": "The Baikal subtype of tick-borne encephalitis virus is evident of recombination between Siberian and Far-Eastern subtypes",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011141",
+    "Published": "March 27, 2023",
+    "Subject_Areas": [
+        "Sequence alignment",
+        "Phylogenetics",
+        "Phylogenetic analysis",
+        "Genomics",
+        "Multiple alignment calculation",
+        "Animal phylogenetics",
+        "DNA recombination",
+        "Tick-borne encephalitis virus"
+    ],
+    "Authors": {
+        "Grigorii A. Sukhorukov": [
+            "Center of Life Sciences, Skolkovo Institute of Science and Technology, Skolkovo, Russia"
+        ],
+        "Alexey I. Paramonov": [
+            "Laboratory of molecular Epidemiology and genetic diagnosis, Scientific Centre for Family Health and Human Reproduction Problems, Irkutsk, Russia"
+        ],
+        "Oksana V. Lisak": [
+            "Laboratory of molecular Epidemiology and genetic diagnosis, Scientific Centre for Family Health and Human Reproduction Problems, Irkutsk, Russia"
+        ],
+        "Irina V. Kozlova": [
+            "Laboratory of molecular Epidemiology and genetic diagnosis, Scientific Centre for Family Health and Human Reproduction Problems, Irkutsk, Russia"
+        ],
+        "Georgii A. Bazykin": [
+            "Center of Life Sciences, Skolkovo Institute of Science and Technology, Skolkovo, Russia",
+            "Laboratory of Molecular Evolution, Kharkevich Institute for Information Transmission Problems of the RAS, Moscow, Russia"
+        ],
+        "Alexey D. Neverov": [
+            "HSE University, Moscow, Russia",
+            "Department of Molecular Diagnostics, Central Research Institute for Epidemiology, Moscow, Russia"
+        ],
+        "Lyudmila S. Karan": [
+            "Department of Molecular Diagnostics, Central Research Institute for Epidemiology, Moscow, Russia"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "Title": "A supervised machine learning statistical design of experiment approach to modeling the barriers to effective snakebite treatment in Ghana",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012736",
+    "Published": "December 13, 2024",
+    "Subject_Areas": [
+        "Snakebite",
+        "Experimental design",
+        "Statistical data",
+        "Ghana",
+        "Machine learning algorithms",
+        "Medical personnel",
+        "Procurement",
+        "Remote areas"
+    ],
+    "Authors": {
+        "Eric Nyarko": [
+            "Department of Statistics and Actuarial Science, College of Basic and Applied Sciences, University of Ghana, Legon, Accra, Ghana"
+        ],
+        "Edmund Fosu Agyemang": [
+            "Department of Statistics and Actuarial Science, College of Basic and Applied Sciences, University of Ghana, Legon, Accra, Ghana",
+            "School of Mathematical and Statistical Science, College of Sciences, University of Texas Rio Grande Valley, Edinburg, Texas, United States of America"
+        ],
+        "Ebenezer Kwesi Ameho": [
+            "Department of Statistics and Actuarial Science, College of Basic and Applied Sciences, University of Ghana, Legon, Accra, Ghana"
+        ],
+        "Louis Agyekum": [
+            "Department of Statistics and Actuarial Science, College of Basic and Applied Sciences, University of Ghana, Legon, Accra, Ghana"
+        ],
+        "Jos\u00e9 Mar\u00eda Guti\u00e9rrez": [
+            "Instituto Clodomiro Picado, Facultad de Microbiolog\u00eda, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ],
+        "Eduardo Alberto Fernandez": [
+            "Department of Health Sciences, Brock University, St Catharines, Ontario, Canada"
+        ]
+    }
+}

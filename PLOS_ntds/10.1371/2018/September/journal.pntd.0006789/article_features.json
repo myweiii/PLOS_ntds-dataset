@@ -1,0 +1,134 @@
+{
+    "Title": "Prediction of leprosy in the Chinese population based on a weighted genetic risk score",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006789",
+    "Published": "September 19, 2018",
+    "Subject_Areas": [
+        "Leprosy",
+        "Medical risk factors",
+        "Forecasting",
+        "Genetics",
+        "Genetics of disease",
+        "Cancer risk factors",
+        "Genome-wide association studies",
+        "Social discrimination"
+    ],
+    "Authors": {
+        "Na Wang": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Zhenzhen Wang": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Chuan Wang": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Xi'an Fu": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Gongqi Yu": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Zhenhua Yue": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Tingting Liu": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Huimin Zhang": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Lulu Li": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Mingfei Chen": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Honglei Wang": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Guiye Niu": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Dan Liu": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Mingkai Zhang": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Yuanyuan Xu": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Yan Zhang": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Jinghui Li": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Zhen Li": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Jiabao You": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Tongsheng Chu": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Furong Li": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Dianchang Liu": [
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Hong Liu": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ],
+        "Furen Zhang": [
+            "Shandong Provincial Hospital for Skin Diseases, Shandong University, Jinan, Shandong, China",
+            "Shandong Provincial Institute of Dermatology and Venereology, Shandong Academy of Medical Sciences, Jinan, Shandong, China",
+            "Shandong Provincial Key Lab for Dermatovenereology, Jinan, Shandong, China",
+            "Shandong Provincial Medical Center for Dermatovenereology, Jinan, Shandong, China"
+        ]
+    }
+}

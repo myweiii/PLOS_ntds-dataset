@@ -1,0 +1,54 @@
+{
+    "Title": "High-throughput genotyping of a full voltage-gated sodium channel gene via genomic DNA using target capture sequencing and analytical pipeline MoNaS to discover novel insecticide resistance mutations",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007818",
+    "Published": "November 18, 2019",
+    "Subject_Areas": [
+        "Genomics",
+        "Invertebrate genomics",
+        "Genome annotation",
+        "Insecticides",
+        "Nucleotides",
+        "Mosquitoes",
+        "Nucleotide sequencing",
+        "Substitution mutation"
+    ],
+    "Authors": {
+        "Kentaro Itokawa": [
+            "Pathogen Genomics Center, National Institute of Infectious Diseases, Tokyo, Japan",
+            "Department of Medical Entomology, National Institute of Infectious Diseases, Tokyo, Japan",
+            "Antimicrobial Resistance Research Center, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Tsuyoshi Sekizuka": [
+            "Pathogen Genomics Center, National Institute of Infectious Diseases, Tokyo, Japan",
+            "Antimicrobial Resistance Research Center, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Yoshihide Maekawa": [
+            "Department of Medical Entomology, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Koji Yatsu": [
+            "Pathogen Genomics Center, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Osamu Komagata": [
+            "Department of Medical Entomology, National Institute of Infectious Diseases, Tokyo, Japan",
+            "Antimicrobial Resistance Research Center, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Masaaki Sugiura": [
+            "Global Research and Development Department, Fumakilla Limited, Hiroshima, Japan"
+        ],
+        "Tomonori Sasaki": [
+            "Research and Development Department, Fumakilla Limited, Hiroshima, Japan"
+        ],
+        "Takashi Tomita": [
+            "Department of Medical Entomology, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Makoto Kuroda": [
+            "Pathogen Genomics Center, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Kyoko Sawabe": [
+            "Department of Medical Entomology, National Institute of Infectious Diseases, Tokyo, Japan"
+        ],
+        "Shinji Kasai": [
+            "Department of Medical Entomology, National Institute of Infectious Diseases, Tokyo, Japan"
+        ]
+    }
+}

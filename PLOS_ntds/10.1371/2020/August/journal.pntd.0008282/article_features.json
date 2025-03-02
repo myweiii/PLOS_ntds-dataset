@@ -1,0 +1,80 @@
+{
+    "Title": "Differentiation-dependent susceptibility of human muscle cells to Zika virus infection",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008282",
+    "Published": "August 20, 2020",
+    "Subject_Areas": [
+        "Myoblasts",
+        "Apoptosis",
+        "Zika virus",
+        "Respiratory infections",
+        "Chikungunya infection",
+        "Muscle cells",
+        "Arboviral infections",
+        "Muscle differentiation"
+    ],
+    "Authors": {
+        "Vincent Legros": [
+            "Unit\u00e9 Epid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes, D\u00e9partement de virologie, Institut Pasteur, Paris, France",
+            "Universit\u00e9 de Paris, Paris, France",
+            "UMR CNRS 3569, Paris, France"
+        ],
+        "Patricia Jeannin": [
+            "Unit\u00e9 Epid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes, D\u00e9partement de virologie, Institut Pasteur, Paris, France",
+            "Universit\u00e9 de Paris, Paris, France",
+            "UMR CNRS 3569, Paris, France"
+        ],
+        "Julien Burlaud-Gaillard": [
+            "INSERM U1259 & Plate Forme IBiSA de Microscopie Electronique, Universit\u00e9 Fran\u00e7ois Rabelais and CHRU, Tours, France"
+        ],
+        "Thibault Chaze": [
+            "Proteomics Platform, Mass Spectrometry for Biology Unit, USR 2000 IP CNRS, Institut Pasteur, Paris, France"
+        ],
+        "Quentin Giai Gianetto": [
+            "Proteomics Platform, Mass Spectrometry for Biology Unit, USR 2000 IP CNRS, Institut Pasteur, Paris, France",
+            "Bioinformatics and Biostatistics Hub, C3BI, USR 3756 IP CNRS, Institut Pasteur, Paris, France"
+        ],
+        "Gillian Butler-Browne": [
+            "Sorbonne Universit\u00e9, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale, Association Institut de Myologie, Centre de Recherche en Myologie, UMRS974, Paris, France"
+        ],
+        "Vincent Mouly": [
+            "Sorbonne Universit\u00e9, Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale, Association Institut de Myologie, Centre de Recherche en Myologie, UMRS974, Paris, France"
+        ],
+        "Jim Zoladek": [
+            "Unit\u00e9 Epid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes, D\u00e9partement de virologie, Institut Pasteur, Paris, France",
+            "Universit\u00e9 de Paris, Paris, France",
+            "UMR CNRS 3569, Paris, France"
+        ],
+        "Philippe V. Afonso": [
+            "Unit\u00e9 Epid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes, D\u00e9partement de virologie, Institut Pasteur, Paris, France",
+            "Universit\u00e9 de Paris, Paris, France",
+            "UMR CNRS 3569, Paris, France"
+        ],
+        "Mariela-Natacha Gonz\u00e0lez": [
+            "Laboratory on Thymus Research, Oswaldo Cruz Institute, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil",
+            "Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM), Rio de Janeiro, Brazil"
+        ],
+        "Mariette Matondo": [
+            "Proteomics Platform, Mass Spectrometry for Biology Unit, USR 2000 IP CNRS, Institut Pasteur, Paris, France"
+        ],
+        "Ingo Riederer": [
+            "Laboratory on Thymus Research, Oswaldo Cruz Institute, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil",
+            "Brazilian National Institute of Science and Technology on Neuroimmunomodulation (INCT-NIM), Rio de Janeiro, Brazil"
+        ],
+        "Philippe Roingeard": [
+            "INSERM U1259 & Plate Forme IBiSA de Microscopie Electronique, Universit\u00e9 Fran\u00e7ois Rabelais and CHRU, Tours, France"
+        ],
+        "Antoine Gessain": [
+            "Unit\u00e9 Epid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes, D\u00e9partement de virologie, Institut Pasteur, Paris, France",
+            "Universit\u00e9 de Paris, Paris, France",
+            "UMR CNRS 3569, Paris, France"
+        ],
+        "Val\u00e9rie Choumet": [
+            "Unit\u00e9 Environnement et Risques Infectieux, D\u00e9partement de sant\u00e9 globale, Institut Pasteur, Paris, France"
+        ],
+        "Pierre-Emmanuel Ceccaldi": [
+            "Unit\u00e9 Epid\u00e9miologie et Physiopathologie des Virus Oncog\u00e8nes, D\u00e9partement de virologie, Institut Pasteur, Paris, France",
+            "Universit\u00e9 de Paris, Paris, France",
+            "UMR CNRS 3569, Paris, France"
+        ]
+    }
+}

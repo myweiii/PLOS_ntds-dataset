@@ -1,0 +1,43 @@
+{
+    "Title": "Specific Nucleic AcId Ligation for the detection of Schistosomes: SNAILS",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010632",
+    "Published": "July 26, 2022",
+    "Subject_Areas": [
+        "Schistosoma mansoni",
+        "Schistosoma haematobium",
+        "Schistosoma",
+        "Polymerase chain reaction",
+        "Schistosoma japonicum",
+        "Biosensors",
+        "Schistosomiasis",
+        "DNA annealing"
+    ],
+    "Authors": {
+        "Alexander James Webb": [
+            "Section of Structural and Synthetic biology, Department of Infectious Disease, Imperial College London, London, United Kingdom"
+        ],
+        "Fiona Allan": [
+            "Department of Life Sciences, Natural History Museum, London, United Kingdom"
+        ],
+        "Richard J. R. Kelwick": [
+            "Section of Structural and Synthetic biology, Department of Infectious Disease, Imperial College London, London, United Kingdom"
+        ],
+        "Feleke Zewge Beshah": [
+            "College of Natural and Computational Sciences, Addis Ababa University, Arat Kilo, Addis Ababa, Ethiopia"
+        ],
+        "Safari Methusela Kinung\u2019hi": [
+            "National Institute of Medical Research (NIMR), Mwanza Center, Mwanza, Tanzania"
+        ],
+        "Michael R. Templeton": [
+            "Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom"
+        ],
+        "Aidan Mark Emery": [
+            "Department of Life Sciences, Natural History Museum, London, United Kingdom"
+        ],
+        "Paul S. Freemont": [
+            "Section of Structural and Synthetic biology, Department of Infectious Disease, Imperial College London, London, United Kingdom",
+            "The London Biofoundry, Imperial College Translation and Innovation Hub, White City Campus, London, United Kingdom",
+            "UK Dementia Research Institute Care Research and Technology Centre, Imperial College London, Hammersmith Campus, London, United Kingdom"
+        ]
+    }
+}

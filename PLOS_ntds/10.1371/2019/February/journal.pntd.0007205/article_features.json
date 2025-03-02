@@ -1,0 +1,47 @@
+{
+    "Title": "A simple score to predict severe leptospirosis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007205",
+    "Published": "February 13, 2019",
+    "Subject_Areas": [
+        "Leptospirosis",
+        "Hypotension",
+        "Hemorrhage",
+        "Medical risk factors",
+        "Australia",
+        "Creatinine",
+        "Blood pressure",
+        "Clinical laboratories"
+    ],
+    "Authors": {
+        "Simon Smith": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia",
+            "James Cook University, Cairns Campus, Cairns, Queensland, Australia"
+        ],
+        "Brendan J. Kennedy": [
+            "Infectious Diseases Service, Royal Adelaide Hospital, Adelaide, South Australia, Australia",
+            "Communicable Disease Control Branch, Adelaide, South Australia, Australia"
+        ],
+        "Alexis Dermedgoglou": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia"
+        ],
+        "Suzanne S. Poulgrain": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia"
+        ],
+        "Matthew P. Paavola": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia"
+        ],
+        "Tarryn L. Minto": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia"
+        ],
+        "Michael Luc": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia"
+        ],
+        "Yu-Hsuan Liu": [
+            "Department of Intensive Care, Cairns Hospital, Cairns, Queensland, Australia"
+        ],
+        "Josh Hanson": [
+            "Department of Medicine, Cairns Hospital, Cairns, Queensland, Australia",
+            "The Kirby Institute, University of New South Wales, Sydney, Australia"
+        ]
+    }
+}

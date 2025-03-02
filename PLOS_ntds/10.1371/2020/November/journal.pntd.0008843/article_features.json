@@ -1,0 +1,64 @@
+{
+    "Title": "Comparing machine learning with case-control models to identify confirmed dengue cases",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008843",
+    "Published": "November 10, 2020",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Forecasting",
+        "Machine learning algorithms",
+        "Dengue virus",
+        "Machine learning",
+        "Chronic kidney disease",
+        "Diabetes mellitus",
+        "Blood counts"
+    ],
+    "Authors": {
+        "Tzong-Shiann Ho": [
+            "Department of Pediatrics, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China",
+            "Center of Infectious Disease and Signaling Research, National Cheng Kung University, Tainan, Taiwan, Republic of China"
+        ],
+        "Ting-Chia Weng": [
+            "Department of Occupational and Environmental Medicine, National Cheng Kung University Hospital, Tainan, Taiwan, Republic of China",
+            "Department of Family Medicine, National Cheng Kung University Hospital, Tainan, Taiwan, Republic of China"
+        ],
+        "Jung-Der Wang": [
+            "Department of Occupational and Environmental Medicine, National Cheng Kung University Hospital, Tainan, Taiwan, Republic of China",
+            "Department of Internal Medicine, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China",
+            "Department of Public Heath, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China"
+        ],
+        "Hsieh-Cheng Han": [
+            "Research Center for Applied Sciences, Academia Sinica, Taipei, Taiwan, Republic of China"
+        ],
+        "Hao-Chien Cheng": [
+            "Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering & Computer Science, National Taiwan University, Taipei, Taiwan, Republic of China"
+        ],
+        "Chun-Chieh Yang": [
+            "Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering & Computer Science, National Taiwan University, Taipei, Taiwan, Republic of China"
+        ],
+        "Chih-Hen Yu": [
+            "Department of Internal Medicine, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China"
+        ],
+        "Yen-Jung Liu": [
+            "Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering & Computer Science, National Taiwan University, Taipei, Taiwan, Republic of China"
+        ],
+        "Chien Hsiang Hu": [
+            "Department of Medical Informatics, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China"
+        ],
+        "Chun-Yu Huang": [
+            "Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering & Computer Science, National Taiwan University, Taipei, Taiwan, Republic of China"
+        ],
+        "Ming-Hong Chen": [
+            "Department of Medical Informatics, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China"
+        ],
+        "Chwan-Chuen King": [
+            "Institute of Epidemiology and Preventive Medicine, College of Public Health, National Taiwan University, Taipei, Taiwan, Republic of China"
+        ],
+        "Yen-Jen Oyang": [
+            "Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering & Computer Science, National Taiwan University, Taipei, Taiwan, Republic of China"
+        ],
+        "Ching-Chuan Liu": [
+            "Department of Pediatrics, National Cheng Kung University Hospital, College of Medicine, National Cheng Kung University, Tainan, Taiwan, Republic of China",
+            "Center of Infectious Disease and Signaling Research, National Cheng Kung University, Tainan, Taiwan, Republic of China"
+        ]
+    }
+}

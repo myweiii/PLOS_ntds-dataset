@@ -1,0 +1,1 @@
+We thank the Medicines for Malaria Venture for the gift of a Pathogen Box, and Hanna Alalam for the yeast strain HA_SC_1352control. The Swedish national infrastructure for computing (SNIC) is gratefully acknowledged for allocation of computing time on the cluster Vera at C3SE and Tetralith at NSC.

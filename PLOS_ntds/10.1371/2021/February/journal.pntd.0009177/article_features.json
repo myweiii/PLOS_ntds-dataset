@@ -1,0 +1,72 @@
+{
+    "Title": "Fully automated point-of-care differential diagnosis of acute febrile illness",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009177",
+    "Published": "February 25, 2021",
+    "Subject_Areas": [
+        "Chikungunya virus",
+        "Malaria",
+        "Plasmodium",
+        "Salmonella typhi",
+        "Bacterial pathogens",
+        "Fevers",
+        "Blood",
+        "Chikungunya infection"
+    ],
+    "Authors": {
+        "Sebastian Hin": [
+            "Laboratory for MEMS Applications, IMTEK \u2013 Department of Microsystems Engineering, University of Freiburg, Freiburg, Germany"
+        ],
+        "Benjamin Lopez-Jimena": [
+            "Institute of Aquaculture, University of Stirling, Scotland, United Kingdom",
+            "Mast Group Ltd, Mast House, Bootle, Liverpool, United Kingdom"
+        ],
+        "Mohammed Bakheit": [
+            "Mast Diagnostica GmbH, Reinfeld, Germany"
+        ],
+        "Vanessa Klein": [
+            "Laboratory for MEMS Applications, IMTEK \u2013 Department of Microsystems Engineering, University of Freiburg, Freiburg, Germany"
+        ],
+        "Seamus Stack": [
+            "Mast Group Ltd, Mast House, Bootle, Liverpool, United Kingdom"
+        ],
+        "Cheikh Fall": [
+            "Arbovirus and viral haemorrhagic fever unit, Institut Pasteur de Dakar, Dakar, Senegal"
+        ],
+        "Amadou Sall": [
+            "Arbovirus and viral haemorrhagic fever unit, Institut Pasteur de Dakar, Dakar, Senegal"
+        ],
+        "Khalid Enan": [
+            "Department of Virology, Central Laboratory-The Ministry of Higher Education and Scientific Research, Khartoum, Sudan"
+        ],
+        "Mohamed Mustafa": [
+            "Department of Virology, Central Laboratory-The Ministry of Higher Education and Scientific Research, Khartoum, Sudan"
+        ],
+        "Liz Gillies": [
+            "Mast Group Ltd, Mast House, Bootle, Liverpool, United Kingdom"
+        ],
+        "Viorel Rusu": [
+            "MagnaMedics Diagnostics BV, Geleen, The Netherlands"
+        ],
+        "Sven Goethel": [
+            "MagnaMedics Diagnostics BV, Geleen, The Netherlands"
+        ],
+        "Nils Paust": [
+            "Laboratory for MEMS Applications, IMTEK \u2013 Department of Microsystems Engineering, University of Freiburg, Freiburg, Germany",
+            "Hahn-Schickard, Freiburg, Germany"
+        ],
+        "Roland Zengerle": [
+            "Laboratory for MEMS Applications, IMTEK \u2013 Department of Microsystems Engineering, University of Freiburg, Freiburg, Germany",
+            "Hahn-Schickard, Freiburg, Germany"
+        ],
+        "Sieghard Frischmann": [
+            "Mast Diagnostica GmbH, Reinfeld, Germany"
+        ],
+        "Manfred Weidmann": [
+            "Institute of Aquaculture, University of Stirling, Scotland, United Kingdom"
+        ],
+        "Konstantinos Mitsakakis": [
+            "Laboratory for MEMS Applications, IMTEK \u2013 Department of Microsystems Engineering, University of Freiburg, Freiburg, Germany",
+            "Hahn-Schickard, Freiburg, Germany"
+        ]
+    }
+}

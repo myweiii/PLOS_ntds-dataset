@@ -1,0 +1,45 @@
+{
+    "Title": "A Semantic Problem Solving Environment for Integrative Parasite Research: Identification of Intervention Targets for Trypanosoma cruzi",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001458",
+    "Published": "January 17, 2012",
+    "Subject_Areas": [
+        "Ontologies",
+        "Trypanosoma cruzi",
+        "Parasitic life cycles",
+        "Microarrays",
+        "Gene knockout",
+        "Metabolic pathways",
+        "Biologists",
+        "Database searching"
+    ],
+    "Authors": {
+        "Priti P. Parikh": [
+            "The Kno.e.sis Center, Department of Computer Science and Engineering, Wright State University, Dayton, Ohio, United States of America"
+        ],
+        "Todd A. Minning": [
+            "Center for Tropical and Emerging Global Diseases, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Vinh Nguyen": [
+            "The Kno.e.sis Center, Department of Computer Science and Engineering, Wright State University, Dayton, Ohio, United States of America"
+        ],
+        "Sarasi Lalithsena": [
+            "The Kno.e.sis Center, Department of Computer Science and Engineering, Wright State University, Dayton, Ohio, United States of America"
+        ],
+        "Amir H. Asiaee": [
+            "THINC Lab, Department of Computer Science, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Satya S. Sahoo": [
+            "The Kno.e.sis Center, Department of Computer Science and Engineering, Wright State University, Dayton, Ohio, United States of America",
+            "Division of Medical Informatics, School of Medicine, Case Western Reserve University, Cleveland, Ohio, United States of America"
+        ],
+        "Prashant Doshi": [
+            "THINC Lab, Department of Computer Science, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Rick Tarleton": [
+            "Center for Tropical and Emerging Global Diseases, University of Georgia, Athens, Georgia, United States of America"
+        ],
+        "Amit P. Sheth": [
+            "The Kno.e.sis Center, Department of Computer Science and Engineering, Wright State University, Dayton, Ohio, United States of America"
+        ]
+    }
+}

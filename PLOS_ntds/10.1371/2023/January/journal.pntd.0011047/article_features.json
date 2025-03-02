@@ -1,0 +1,39 @@
+{
+    "Title": "Assessing dengue fever risk in Costa Rica by using climate variables and machine learning techniques",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011047",
+    "Published": "January 13, 2023",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Medical risk factors",
+        "Costa Rica",
+        "Epidemiology",
+        "Forecasting",
+        "Public and occupational health",
+        "El Ni\u00f1o-Southern Oscillation",
+        "Vector-borne diseases"
+    ],
+    "Authors": {
+        "Luis A. Barboza": [
+            "Centro de Investigaci\u00f3n en Matem\u00e1tica Pura y Aplicada - Escuela de Matem\u00e1tica, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ],
+        "Shu-Wei Chou-Chen": [
+            "Centro de Investigaci\u00f3n en Matem\u00e1tica Pura y Aplicada - Escuela de Estad\u00edstica, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ],
+        "Paola V\u00e1squez": [
+            "Centro de Investigaci\u00f3n en Matem\u00e1tica Pura y Aplicada, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ],
+        "Yury E. Garc\u00eda": [
+            "Centro de Investigaci\u00f3n en Matem\u00e1tica Pura y Aplicada, Universidad de Costa Rica, San Jos\u00e9, Costa Rica",
+            "Department of Public Health Sciences, University of California Davis, California, United States of America"
+        ],
+        "Juan G. Calvo": [
+            "Centro de Investigaci\u00f3n en Matem\u00e1tica Pura y Aplicada - Escuela de Matem\u00e1tica, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ],
+        "Hugo G. Hidalgo": [
+            "Centro de Investigaciones Geof\u00edsicas and Escuela de F\u00edsica, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ],
+        "Fabio Sanchez": [
+            "Centro de Investigaci\u00f3n en Matem\u00e1tica Pura y Aplicada - Escuela de Matem\u00e1tica, Universidad de Costa Rica, San Jos\u00e9, Costa Rica"
+        ]
+    }
+}

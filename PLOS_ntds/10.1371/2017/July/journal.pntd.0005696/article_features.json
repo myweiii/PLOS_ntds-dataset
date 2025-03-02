@@ -1,0 +1,26 @@
+{
+    "Title": "Bayesian dynamic modeling of time series of dengue disease case counts",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005696",
+    "Published": "July 3, 2017",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Humidity",
+        "Solar radiation",
+        "Rain",
+        "Alpha radiation",
+        "Random walk",
+        "Colombia",
+        "Atmospheric dynamics"
+    ],
+    "Authors": {
+        "Daniel Adyro Mart\u00ednez-Bello": [
+            "Departament d\u2019Estad\u00edstica i Investigaci\u00f3 Operativa, Facultat de Matem\u00e0tiques, Universitat de Val\u00e8ncia, Val\u00e8ncia, Spain"
+        ],
+        "Antonio L\u00f3pez-Qu\u00edlez": [
+            "Departament d\u2019Estad\u00edstica i Investigaci\u00f3 Operativa, Facultat de Matem\u00e0tiques, Universitat de Val\u00e8ncia, Val\u00e8ncia, Spain"
+        ],
+        "Alexander Torres-Prieto": [
+            "Secretar\u00eda de Salud del Departamento de Santander, Bucaramanga, Colombia"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Title": "Identification of French Guiana sand flies using MALDI-TOF mass spectrometry with a new mass spectra library",
+    "URL": "https://doi.org/10.1371/journal.pntd.0007031",
+    "Published": "February 1, 2019",
+    "Subject_Areas": [
+        "Sand flies",
+        "Matrix-assisted laser desorption ionization time-of-flight mass spectrometry",
+        "Mass spectra",
+        "Forests",
+        "Leishmania",
+        "Leishmaniasis",
+        "Taxonomy",
+        "Cryptic speciation"
+    ],
+    "Authors": {
+        "Agathe Chavy": [
+            "Laboratoire des Interactions Virus-H\u00f4tes, Institut Pasteur de la Guyane, Cayenne, French Guiana",
+            "Laboratoire des Ecosyst\u00e8mes Amazoniens et Pathologie Tropicale, Medicine Department, Universit\u00e9 de Guyane, Cayenne, French Guiana"
+        ],
+        "C\u00e9cile Nabet": [
+            "Sorbonne Universit\u00e9, INSERM, Institut Pierre-Louis d\u2019Epid\u00e9miologie et de Sant\u00e9 Publique, AP-HP, Groupe Hospitalier Piti\u00e9-Salp\u00eatri\u00e8re, Service de Parasitologie-Mycologie, Paris, France"
+        ],
+        "Anne C\u00e9cile Normand": [
+            "Sorbonne Universit\u00e9, INSERM, Institut Pierre-Louis d\u2019Epid\u00e9miologie et de Sant\u00e9 Publique, AP-HP, Groupe Hospitalier Piti\u00e9-Salp\u00eatri\u00e8re, Service de Parasitologie-Mycologie, Paris, France"
+        ],
+        "Arthur Kocher": [
+            "CNRS, Universit\u00e9 Toulouse III Paul Sabatier, ENFA, UMR5174 EDB (Laboratoire Evolution et Diversit\u00e9 Biologique), Toulouse, France"
+        ],
+        "Marine Ginouves": [
+            "Laboratoire des Ecosyst\u00e8mes Amazoniens et Pathologie Tropicale, Medicine Department, Universit\u00e9 de Guyane, Cayenne, French Guiana"
+        ],
+        "Ghislaine Pr\u00e9vot": [
+            "Laboratoire des Ecosyst\u00e8mes Amazoniens et Pathologie Tropicale, Medicine Department, Universit\u00e9 de Guyane, Cayenne, French Guiana"
+        ],
+        "Thiago Vasconcelos dos Santos": [
+            "Parasitology Unit, Instituto Evandro Chagas (Secretaria de Vigil\u00e2ncia em Sa\u00fade, Minist\u00e9rio da Sa\u00fade), Ananindeua, Brazil"
+        ],
+        "Magalie Demar": [
+            "Laboratoire Associ\u00e9 du CNR Leishmaniose, Laboratoire Hospitalo-Universitaire de Parasitologie-Mycologie, Centre Hospitalier Andr\u00e9e Rosemon, Cayenne, French Guiana"
+        ],
+        "Renaud Piarroux": [
+            "Sorbonne Universit\u00e9, INSERM, Institut Pierre-Louis d\u2019Epid\u00e9miologie et de Sant\u00e9 Publique, AP-HP, Groupe Hospitalier Piti\u00e9-Salp\u00eatri\u00e8re, Service de Parasitologie-Mycologie, Paris, France"
+        ],
+        "Beno\u00eet de Thoisy": [
+            "Laboratoire des Interactions Virus-H\u00f4tes, Institut Pasteur de la Guyane, Cayenne, French Guiana"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Title": "Impact of the COVID-19 pandemic on dengue in Brazil: Interrupted time series analysis of changes in surveillance and transmission",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012726",
+    "Published": "December 26, 2024",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Pandemics",
+        "Brazil",
+        "COVID 19",
+        "Epidemiology",
+        "Human mobility",
+        "Machine learning",
+        "Trees"
+    ],
+    "Authors": {
+        "Kirstin Oliveira Roster": [
+            "Institute of Mathematics and Computer Science, University of S\u00e3o Paulo, S\u00e3o Carlos, SP, Brazil"
+        ],
+        "Tiago Martinelli": [
+            "Institute of Mathematics and Computer Science, University of S\u00e3o Paulo, S\u00e3o Carlos, SP, Brazil"
+        ],
+        "Colm Connaughton": [
+            "Mathematics Institute, University of Warwick, Coventry, United Kingdom",
+            "London Mathematical Laboratory, London, United Kingdom"
+        ],
+        "Mauricio Santillana": [
+            "Machine Intelligence Group for the Betterment of Health and the Environment, Network Science Institute, Northeastern University, Boston, Massachusetts, United States of America",
+            "Center for Communicable Disease Dynamics, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Francisco A. Rodrigues": [
+            "Institute of Mathematics and Computer Science, University of S\u00e3o Paulo, S\u00e3o Carlos, SP, Brazil"
+        ]
+    }
+}

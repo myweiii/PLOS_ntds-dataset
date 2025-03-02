@@ -1,0 +1,59 @@
+{
+    "Title": "Targets of the Entamoeba histolytica Transcription Factor URE3-BP",
+    "URL": "https://doi.org/10.1371/journal.pntd.0000282",
+    "Published": "August 27, 2008",
+    "Subject_Areas": [
+        "Entamoeba histolytica",
+        "Sequence motif analysis",
+        "Membrane proteins",
+        "Electrophoretic mobility shift assay",
+        "Trophozoites",
+        "Oligonucleotides",
+        "Amoebas",
+        "Gene regulation"
+    ],
+    "Authors": {
+        "Carol A. Gilchrist": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Duza J. Baba": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Yan Zhang": [
+            "Virginia Bioinformatics Institute, Blacksburg, Virginia, United States of America"
+        ],
+        "Oswald Crasta": [
+            "Virginia Bioinformatics Institute, Blacksburg, Virginia, United States of America"
+        ],
+        "Clive Evans": [
+            "Virginia Bioinformatics Institute, Blacksburg, Virginia, United States of America"
+        ],
+        "Elisabet Caler": [
+            "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+        ],
+        "Bruno W. S. Sobral": [
+            "Virginia Bioinformatics Institute, Blacksburg, Virginia, United States of America"
+        ],
+        "Christina B. Bousquet": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Megan Leo": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Ameilia Hochreiter": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Sarah K. Connell": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "Barbara J. Mann": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America",
+            "Department of Microbiology, University of Virginia, Charlottesville, Virginia, United States of America"
+        ],
+        "William A. Petri Jr": [
+            "Department of Medicine, University of Virginia, Charlottesville, Virginia, United States of America",
+            "Department of Microbiology, University of Virginia, Charlottesville, Virginia, United States of America",
+            "Department of Pathology, University of Virginia, Charlottesville, Virginia, United States of America"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Title": "Describing the Breakbone Fever: IDODEN, an Ontology for Dengue Fever",
+    "URL": "https://doi.org/10.1371/journal.pntd.0003479",
+    "Published": "February 3, 2015",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Ontologies",
+        "Dengue virus",
+        "Vaccine development",
+        "Aedes aegypti",
+        "Disease vectors",
+        "Viral vaccines",
+        "Database searching"
+    ],
+    "Authors": {
+        "Elvira Mitraka": [
+            "Institute of Molecular Biology and Biotechnology, FORTH, Heraklion, Greece",
+            "Department of Biology, University of Crete, Heraklion, Greece"
+        ],
+        "Pantelis Topalis": [
+            "Institute of Molecular Biology and Biotechnology, FORTH, Heraklion, Greece"
+        ],
+        "Vicky Dritsou": [
+            "Centre of Functional Genomics, University of Perugia, Perugia, Italy"
+        ],
+        "Emmanuel Dialynas": [
+            "Institute of Molecular Biology and Biotechnology, FORTH, Heraklion, Greece"
+        ],
+        "Christos Louis": [
+            "Institute of Molecular Biology and Biotechnology, FORTH, Heraklion, Greece",
+            "Department of Biology, University of Crete, Heraklion, Greece",
+            "Centre of Functional Genomics, University of Perugia, Perugia, Italy"
+        ]
+    }
+}

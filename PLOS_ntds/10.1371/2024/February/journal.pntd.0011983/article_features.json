@@ -1,0 +1,35 @@
+{
+    "Title": "A haplotype-like, chromosome-level assembled and annotated genome of Biomphalaria glabrata, an important intermediate host of schistosomiasis and the best studied model of schistosomiasis vector snails",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011983",
+    "Published": "February 29, 2024",
+    "Subject_Areas": [
+        "Invertebrate genomics",
+        "Snails",
+        "Toll-like receptors",
+        "Genomics",
+        "Human genomics",
+        "Phylogenetic analysis",
+        "Protein domains",
+        "Schistosomiasis"
+    ],
+    "Authors": {
+        "Daibin Zhong": [
+            "Program in Public Health, College of Health Sciences, University of California, Irvine, California, United States of America"
+        ],
+        "Lijing Bu": [
+            "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, New Mexico, United States of America"
+        ],
+        "Mohamed R. Habib": [
+            "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, New Mexico, United States of America"
+        ],
+        "Lijun Lu": [
+            "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, New Mexico, United States of America"
+        ],
+        "Guiyun Yan": [
+            "Program in Public Health, College of Health Sciences, University of California, Irvine, California, United States of America"
+        ],
+        "Si-Ming Zhang": [
+            "Center for Evolutionary and Theoretical Immunology, Department of Biology, University of New Mexico, Albuquerque, New Mexico, United States of America"
+        ]
+    }
+}

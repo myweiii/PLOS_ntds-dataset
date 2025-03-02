@@ -1,0 +1,275 @@
+{
+    "Title": "Genomic analysis of two phlebotomine sand fly vectors of Leishmania from the New and Old World",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010862",
+    "Published": "April 12, 2023",
+    "Subject_Areas": [
+        "Sand flies",
+        "Invertebrate genomics",
+        "Phylogenetic analysis",
+        "Genomics",
+        "Genome annotation",
+        "Leishmania",
+        "Mosquitoes",
+        "Drosophila melanogaster"
+    ],
+    "Authors": {
+        "Fr\u00e9d\u00e9ric Labb\u00e9": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Maha Abdeladhim": [
+            "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America"
+        ],
+        "Jenica Abrudan": [
+            "Genomic Sciences & Precision Medicine Center (GSPMC), Medical College of Wisconsin, Milwaukee, Wisconsin, United States of America"
+        ],
+        "Alejandra Saori Araki": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Ricardo N. Araujo": [
+            "Laborat\u00f3rio de Fisiologia de Insetos Hemat\u00f3fagos, Universidade Federal de Minas Gerais, Instituto de Ciencias Biol\u00f3gicas, Departamento de Parasitologia, Pampulha, Belo Horizonte, Brazil"
+        ],
+        "Peter Arensburger": [
+            "Department of Biological Sciences, California State Polytechnic University, Pomona, California, United States of America"
+        ],
+        "Joshua B. Benoit": [
+            "Department of Biological Sciences, University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Reginaldo Pecanha Brazil": [
+            "Laborat\u00f3rio de Doen\u00e7as Parasit\u00e1rias, Instituto Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Rafaela V. Bruno": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Gustavo Bueno da Silva Rivas": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil",
+            "Department of Biology and Center for Biological Clocks Research, Texas A&M University, College Station, Texas, United States of America"
+        ],
+        "Vinicius Carvalho de Abreu": [
+            "Department of Biochemistry and Immunology, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Jason Charamis": [
+            "Department of Biology, University of Crete, Voutes University Campus, Heraklion, Greece",
+            "Molecular Entomology Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas (FORTH), Heraklion, Greece"
+        ],
+        "Iliano V. Coutinho-Abreu": [
+            "Division of Biological Sciences, Section of Cell and Developmental Biology, University of California, San Diego, California, United States of America"
+        ],
+        "Samara G. da Costa-Latg\u00e9": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Alistair Darby": [
+            "Institute of Integrative Biology, The University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Viv M. Dillon": [
+            "Institute of Integrative Biology, The University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Scott J. Emrich": [
+            "Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville, Tennessee, United States of America"
+        ],
+        "Daniela Fernandez-Medina": [
+            "School of Applied Mathematics, Getulio Vargas Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Nelder Figueiredo Gontijo": [
+            "Laborat\u00f3rio de Fisiologia de Insetos Hemat\u00f3fagos, Universidade Federal de Minas Gerais, Instituto de Ciencias Biol\u00f3gicas, Departamento de Parasitologia, Pampulha, Belo Horizonte, Brazil"
+        ],
+        "Catherine M. Flanley": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Derek Gatherer": [
+            "Division of Biomedical & Life Sciences, Faculty of Health & Medicine, Lancaster University, Lancaster, United Kingdom"
+        ],
+        "Fernando A. Genta": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Sandra Gesing": [
+            "Discovery Partners Institute, University of Illinois Chicago, Chicago, Illinois, United States of America"
+        ],
+        "Gloria I. Giraldo-Calder\u00f3n": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America",
+            "Dept. Ciencias Biol\u00f3gicas & Dept. Ciencias B\u00e1sicas M\u00e9dicas, Universidad Icesi, Cali, Colombia"
+        ],
+        "Bruno Gomes": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Eric Roberto Guimaraes Rocha Aguiar": [
+            "Department of Biochemistry and Immunology, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "James G. C. Hamilton": [
+            "Division of Biomedical & Life Sciences, Faculty of Health & Medicine, Lancaster University, Lancaster, United Kingdom"
+        ],
+        "Omar Hamarsheh": [
+            "Department of Life Sciences, Faculty of Science and Technology, Al-Quds University, Jerusalem, Palestine"
+        ],
+        "Mallory Hawksworth": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Jacob M. Hendershot": [
+            "Department of Biological Sciences, University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Paul V. Hickner": [
+            "USDA-ARS Knipling-Bushland U.S. Livestock Insects Research Laboratory and Veterinary Pest Genomics Center, Kerrville, Texas, United States of America"
+        ],
+        "Jean-Luc Imler": [
+            "CNRS-UPR9022 Institut de Biologie Mol\u00e9culaire et Cellulaire and Facult\u00e9 des Sciences de la Vie-Universit\u00e9 de Strasbourg, Strasbourg, France"
+        ],
+        "Panagiotis Ioannidis": [
+            "Molecular Entomology Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas (FORTH), Heraklion, Greece"
+        ],
+        "Emily C. Jennings": [
+            "Department of Biological Sciences, University of Cincinnati, Cincinnati, Ohio, United States of America"
+        ],
+        "Shaden Kamhawi": [
+            "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America"
+        ],
+        "Charikleia Karageorgiou": [
+            "Molecular Entomology Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas (FORTH), Heraklion, Greece",
+            "Genomics Group \u2013 Bioinformatics and Evolutionary Biology Lab, Department of Genetics and Microbiology, Autonomous University of Barcelona, Barcelona, Spain"
+        ],
+        "Ryan C. Kennedy": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Andreas Krueger": [
+            "Medical Entomology Branch, Dept. Microbiology, Bundeswehr Hospital, Hamburg, Germany",
+            "Medical Zoology Branch, Dept. Microbiology, Central Bundeswehr Hospital, Koblenz, Germany"
+        ],
+        "Jos\u00e9 M. Latorre-Estivalis": [
+            "Laboratorio de Insectos Sociales, Instituto de Fisiolog\u00eda, Biolog\u00eda Molecular y Neurociencias, Universidad de Buenos Aires - CONICET, Buenos Aires, Argentina"
+        ],
+        "Petros Ligoxygakis": [
+            "Laboratory of Cell Biology, Development and Genetics, Department of Biochemistry, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Antonio Carlos A. Meireles-Filho": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Patrick Minx": [
+            "Donald Danforth Plant Science Center, Olivette, Missouri, United States of America"
+        ],
+        "Jose Carlos Miranda": [
+            "Laborat\u00f3rio de Imunoparasitologia, CPqGM, Funda\u00e7\u00e3o Oswaldo Cruz, Bahia, Brazil"
+        ],
+        "Michael J. Montague": [
+            "Department of Neuroscience, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America"
+        ],
+        "Ronald J. Nowling": [
+            "Department of Electrical Engineering and Computer Science, Milwaukee School of Engineering, Milwaukee, Wisconsin, United States of America"
+        ],
+        "Fabiano Oliveira": [
+            "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America"
+        ],
+        "Jo\u00e3o Ortig\u00e3o-Farias": [
+            "Instituto Oswaldo Cruz \u2013 Fiocruz, Rio de Janeiro, Brazil"
+        ],
+        "Marcio G. Pavan": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil",
+            "Laborat\u00f3rio de Transmissores de Hematozo\u00e1rios, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Marcos Horacio Pereira": [
+            "Laborat\u00f3rio de Fisiologia de Insetos Hemat\u00f3fagos, Universidade Federal de Minas Gerais, Instituto de Ciencias Biol\u00f3gicas, Departamento de Parasitologia, Pampulha, Belo Horizonte, Brazil"
+        ],
+        "Andre Nobrega Pitaluga": [
+            "Laborat\u00f3rio de Biologia Molecular de Parasitas e Vetores, Instituto Oswaldo Cruz/FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Roenick Proveti Olmo": [
+            "Department of Biochemistry and Immunology, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Marcelo Ramalho-Ortigao": [
+            "F. Edward Hebert School of Medicine, Department of Preventive Medicine and Biostatistics, Uniformed Services University of the Health Sciences (USUHS), Bethesda, Maryland, United States of America"
+        ],
+        "Jos\u00e9 M. C. Ribeiro": [
+            "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America"
+        ],
+        "Andrew J. Rosendale": [
+            "Department of Biology and Center for Biological Clocks Research, Texas A&M University, College Station, Texas, United States of America"
+        ],
+        "Mauricio R. V. Sant\u2019Anna": [
+            "Laborat\u00f3rio de Fisiologia de Insetos Hemat\u00f3fagos, Universidade Federal de Minas Gerais, Instituto de Ciencias Biol\u00f3gicas, Departamento de Parasitologia, Pampulha, Belo Horizonte, Brazil"
+        ],
+        "Steven E. Scherer": [
+            "Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas, United States of America"
+        ],
+        "N\u00e1gila F. C. Secundino": [
+            "Laboratory of Medical Entomology, Ren\u00e9 Rachou Institute-FIOCRUZ, Belo Horizonte, Brazil"
+        ],
+        "Douglas A. Shoue": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Caroline da Silva Moraes": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Jo\u00e3o Silveira Moledo Gesto": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Nataly Araujo Souza": [
+            "Laboratory Interdisciplinar em Vigilancia Entomologia em Diptera e Hemiptera, Fiocruz, Rio de Janeiro, Brazil"
+        ],
+        "Zainulabueddin Syed": [
+            "Department of Entomology, University of Kentucky, Lexington, Kentucky, United States of America"
+        ],
+        "Samuel Tadros": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Rayane Teles-de-Freitas": [
+            "Laborat\u00f3rio de Bioqu\u00edmica e Fisiologia de Insetos, IOC, FIOCRUZ, Rio de Janeiro, Brazil"
+        ],
+        "Erich L. Telleria": [
+            "Department of Electrical Engineering and Computer Science, Milwaukee School of Engineering, Milwaukee, Wisconsin, United States of America",
+            "Department of Parasitology, Faculty of Science, Charles University, Prague, Czech Republic"
+        ],
+        "Chad Tomlinson": [
+            "McDonnell Genome Institute, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+        ],
+        "Yara M. Traub-Csek\u00f6": [
+            "Instituto Oswaldo Cruz \u2013 Fiocruz, Rio de Janeiro, Brazil"
+        ],
+        "Jo\u00e3o Trindade Marques": [
+            "Department of Biology and Center for Biological Clocks Research, Texas A&M University, College Station, Texas, United States of America"
+        ],
+        "Zhijian Tu": [
+            "Fralin Life Science Institute and Department of Biochemistry, Virginia Tech, Blacksburg, Virginia, United States of America"
+        ],
+        "Maria F. Unger": [
+            "Department of Chemical and Biomolecular Engineering, University of Notre Dame, Notre Dame, Indiana, United States of America"
+        ],
+        "Jesus Valenzuela": [
+            "Vector Molecular Biology Section, Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rockville, Maryland, United States of America"
+        ],
+        "Fl\u00e1via V. Ferreira": [
+            "Department of Microbiology, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Karla P. V. de Oliveira": [
+            "Department of Biochemistry and Immunology, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Felipe M. Vigoder": [
+            "Universidade Federal do Rio de Janeiro, Instituto de Biologia. Rio de Janeiro, Brazil"
+        ],
+        "John Vontas": [
+            "Molecular Entomology Lab, Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology Hellas (FORTH), Heraklion, Greece",
+            "Pesticide Science Lab, Department of Crop Science, Agricultural University of Athens, Athens Greece"
+        ],
+        "Lihui Wang": [
+            "Donald Danforth Plant Science Center, Olivette, Missouri, United States of America"
+        ],
+        "Gareth D. Weedall": [
+            "Vector Biology Department, Liverpool School of Tropical Medicine (LSTM), Liverpool, United Kingdom",
+            "School of Biological and Environmental Sciences, Liverpool John Moores University, Liverpool, United Kingdom"
+        ],
+        "Elyes Zhioua": [
+            "Vector Ecology Unit, Institut Pasteur de Tunis, Tunis, Tunisia"
+        ],
+        "Stephen Richards": [
+            "Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas, United States of America"
+        ],
+        "Wesley C. Warren": [
+            "Department of Animal Sciences, Department of Surgery, Institute for Data Science and Informatics, University of Missouri, Columbia, Missouri, United States of America"
+        ],
+        "Robert M. Waterhouse": [
+            "Department of Ecology & Evolution and Swiss Institute of Bioinformatics, University of Lausanne, Lausanne, Switzerland"
+        ],
+        "Rod J. Dillon": [
+            "Division of Biomedical & Life Sciences, Faculty of Health & Medicine, Lancaster University, Lancaster, United Kingdom"
+        ],
+        "Mary Ann McDowell": [
+            "Eck Institute for Global Health, Department of Biological Sciences, University of Notre dame, Notre Dame, Indiana, United States of America"
+        ]
+    }
+}

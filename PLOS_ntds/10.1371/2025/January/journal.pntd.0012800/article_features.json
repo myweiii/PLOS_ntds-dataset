@@ -1,0 +1,23 @@
+{
+    "Title": "Machine learning and spatio-temporal analysis of meteorological factors on waterborne diseases in Bangladesh",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012800",
+    "Published": "January 16, 2025",
+    "Subject_Areas": [
+        "Bangladesh",
+        "Epidemiology",
+        "Cholera",
+        "Machine learning",
+        "Amebiasis",
+        "Hepatitis A",
+        "Humidity",
+        "Typhoid"
+    ],
+    "Authors": {
+        "Arman Hossain Chowdhury": [
+            "Department of Statistics, Begum Rokeya University, Rangpur, Bangladesh"
+        ],
+        "Md. Siddikur Rahman": [
+            "Department of Statistics, Begum Rokeya University, Rangpur, Bangladesh"
+        ]
+    }
+}

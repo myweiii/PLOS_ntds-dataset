@@ -1,0 +1,38 @@
+{
+    "Title": "Modeling the efficacy of CRISPR gene drive for snail immunity on schistosomiasis control",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010894",
+    "Published": "October 31, 2022",
+    "Subject_Areas": [
+        "Immunity",
+        "Genetic epidemiology",
+        "Evolutionary genetics",
+        "Parasitic diseases",
+        "Schistosomiasis",
+        "Snails",
+        "Evolutionary immunology",
+        "Infectious disease immunology"
+    ],
+    "Authors": {
+        "Richard E. Grewelle": [
+            "Department of Biology, Stanford University, Stanford, California, United States of America",
+            "Hopkins Marine Station, Stanford University, Pacific Grove, California, United States of America"
+        ],
+        "Javier Perez-Saez": [
+            "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America"
+        ],
+        "Josh Tycko": [
+            "Department of Genetics, Stanford University, Stanford, California, United States of America"
+        ],
+        "Erica K. O. Namigai": [
+            "Department of Zoology, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Chloe G. Rickards": [
+            "Department of Biology, University of California Santa Cruz, Santa Cruz, California, United States of America"
+        ],
+        "Giulio A. De Leo": [
+            "Department of Biology, Stanford University, Stanford, California, United States of America",
+            "Hopkins Marine Station, Stanford University, Pacific Grove, California, United States of America",
+            "Woods Institute for the Environment, Stanford University, Stanford, California, United States of America"
+        ]
+    }
+}

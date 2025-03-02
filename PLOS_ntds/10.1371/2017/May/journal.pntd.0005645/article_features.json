@@ -1,0 +1,188 @@
+{
+    "Title": "Different features of V\u03b42 T and NK cells in fatal and non-fatal human Ebola infections",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005645",
+    "Published": "May 30, 2017",
+    "Subject_Areas": [
+        "NK cells",
+        "Ebola virus",
+        "T cells",
+        "Ebola hemorrhagic fever",
+        "Cloning",
+        "Immune response",
+        "Immune cells",
+        "Viral load"
+    ],
+    "Authors": {
+        "Eleonora Cimini": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Domenico Viola": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Mar Cabeza-Cabrerizo": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany"
+        ],
+        "Antonella Romanelli": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Nicola Tumino": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Alessandra Sacchi": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Veronica Bordoni": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Rita Casetti": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Federica Turchi": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Federico Martini": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Joseph A. Bore": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany"
+        ],
+        "Fara Raymond Koundouno": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany"
+        ],
+        "Sophie Duraffour": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany"
+        ],
+        "Janine Michel": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Robert Koch Institute, Berlin, Germany"
+        ],
+        "Tobias Holm": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany"
+        ],
+        "Elsa Gayle Zekeng": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Institute of Infection and Global Health, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Lauren Cowley": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "National Infection Service, Public Health England, Porton Down and Colindale, United Kingdom"
+        ],
+        "Isabel Garcia Dorival": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Institute of Infection and Global Health, University of Liverpool, Liverpool, United Kingdom"
+        ],
+        "Juliane Doerrbecker": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "Centre for Experimental and Clinical Infection Research (TWINCORE), Institute for Experimental Virology, Hannover, Germany"
+        ],
+        "Nicole Hetzelt": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Robert Koch Institute, Berlin, Germany"
+        ],
+        "Jonathan H. J. Baum": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany"
+        ],
+        "Jasmine Portmann": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Federal Office for Civil Protection, Spiez Laboratory, Switzerland"
+        ],
+        "Roman W\u00f6lfel": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Bundeswehr Institute of Microbiology, Munich, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany"
+        ],
+        "Martin Gabriel": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany"
+        ],
+        "Osvaldo Miranda": [
+            "Hospital Militar Central Dr. Carlos J. Finlay, Havana, Cuba"
+        ],
+        "Graciliano D\u00edaz": [
+            "Hospital Militar Central Dr. Carlos J. Finlay, Havana, Cuba"
+        ],
+        "Jos\u00e9 E. D\u00edaz": [
+            "Hospital Militar Central Dr. Carlos J. Finlay, Havana, Cuba"
+        ],
+        "Yoel A. Fleites": [
+            "Hospital Militar Central Dr. Carlos J. Finlay, Havana, Cuba"
+        ],
+        "Carlos A. Pi\u00f1eiro": [
+            "Hospital Militar Central Dr. Carlos J. Finlay, Havana, Cuba"
+        ],
+        "Carlos M. Castro": [
+            "Hospital Militar Central Dr. Carlos J. Finlay, Havana, Cuba"
+        ],
+        "Lamine Koivogui": [
+            "Institut National de Sant\u00e9 Publique, Conakry, Guinea"
+        ],
+        "N\u2019Faly Magassouba": [
+            "Laboratoire des Fi\u00e8vres H\u00e9morragiques en Guin\u00e9e, Universit\u00e9 Gamal Abdel Nasser de Conakry, Conakry, Guinea"
+        ],
+        "Boubacar Diallo": [
+            "World Health Organization, Geneva, Switzerland. (Boubacar is separate: World Health Organization, Conakry, Guinea)"
+        ],
+        "Paula Ruibal": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany",
+            "Heinrich Pette Institute, Leibniz Institute for Experimental Virology, Hamburg, Germany"
+        ],
+        "Lisa Oestereich": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany"
+        ],
+        "David M. Wozniak": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany"
+        ],
+        "Anja L\u00fcdtke": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany",
+            "Heinrich Pette Institute, Leibniz Institute for Experimental Virology, Hamburg, Germany"
+        ],
+        "Beate Becker-Ziaja": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany"
+        ],
+        "Maria R. Capobianchi": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Giuseppe Ippolito": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ],
+        "Miles W. Carroll": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "National Infection Service, Public Health England, Porton Down and Colindale, United Kingdom",
+            "University of Southampton, South General Hospital, Southampton, United Kingdom"
+        ],
+        "Stephan G\u00fcnther": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany"
+        ],
+        "Antonino Di Caro": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy",
+            "European Mobile Laboratory Consortium, Hamburg, Germany"
+        ],
+        "C\u00e9sar Mu\u00f1oz-Fontela": [
+            "European Mobile Laboratory Consortium, Hamburg, Germany",
+            "Department of Virology, Bernhard Nocht Institute for Tropical Medicine, World Health Organization Collaborating Center for Arbovirus and Hemorrhagic Fever Reference and Research, Hamburg, Germany",
+            "German Center for Infection Research (DZIF), Partner Sites Hamburg, Munich, Germany",
+            "Heinrich Pette Institute, Leibniz Institute for Experimental Virology, Hamburg, Germany"
+        ],
+        "Chiara Agrati": [
+            "Department of Epidemiology and Pre-clinical research, National Institute for Infectious Diseases \u201cLazzaro Spallanzani\u201d, Rome, Italy"
+        ]
+    }
+}

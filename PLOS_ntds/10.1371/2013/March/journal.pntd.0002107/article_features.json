@@ -1,0 +1,39 @@
+{
+    "Title": "Host Cell Transcriptome Profile during Wild-Type and Attenuated Dengue Virus Infection",
+    "URL": "https://doi.org/10.1371/journal.pntd.0002107",
+    "Published": "March 14, 2013",
+    "Subject_Areas": [
+        "Dengue virus",
+        "Virus effects on host gene expression",
+        "RNA sequencing",
+        "Alternative splicing",
+        "Transcriptome analysis",
+        "Host-pathogen interactions",
+        "Microarrays",
+        "RNA interference"
+    ],
+    "Authors": {
+        "October M. Sessions": [
+            "Program in Emerging Infectious Disease, Duke-NUS Graduate Medical School, Singapore"
+        ],
+        "Ying Tan": [
+            "Program in Emerging Infectious Disease, Duke-NUS Graduate Medical School, Singapore"
+        ],
+        "Kenneth C. Goh": [
+            "Program in Emerging Infectious Disease, Duke-NUS Graduate Medical School, Singapore"
+        ],
+        "Yujing Liu": [
+            "Centre for Computational Biology, Duke-NUS Graduate Medical School, Singapore",
+            "Computational Systems Biology, Singapore-MIT Alliance, National University of Singapore, Singapore"
+        ],
+        "Patrick Tan": [
+            "Program in Cancer and Stem Cell Biology, Duke-NUS Graduate Medical School, Singapore"
+        ],
+        "Steve Rozen": [
+            "Centre for Computational Biology, Duke-NUS Graduate Medical School, Singapore"
+        ],
+        "Eng Eong Ooi": [
+            "Program in Emerging Infectious Disease, Duke-NUS Graduate Medical School, Singapore"
+        ]
+    }
+}

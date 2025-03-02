@@ -1,0 +1,53 @@
+{
+    "Title": "Rapid Molecular Assays for the Detection of Yellow Fever Virus in Low-Resource Settings",
+    "URL": "https://doi.org/10.1371/journal.pntd.0002730",
+    "Published": "March 6, 2014",
+    "Subject_Areas": [
+        "Recombinase polymerase amplification",
+        "Reverse transcriptase-polymerase chain reaction",
+        "RNA extraction",
+        "Microfluidics",
+        "Signal amplification",
+        "Genomics",
+        "Polymerase chain reaction",
+        "Viral vaccines"
+    ],
+    "Authors": {
+        "Camille Escadafal": [
+            "Centre for Biological Threats and Special Pathogens 1, Robert Koch Institute, Berlin, Germany"
+        ],
+        "Oumar Faye": [
+            "Department of Arboviruses, Institute Pasteur of Dakar, Dakar, Senegal"
+        ],
+        "Amadou Alpha Sall": [
+            "Department of Arboviruses, Institute Pasteur of Dakar, Dakar, Senegal"
+        ],
+        "Ousmane Faye": [
+            "Department of Arboviruses, Institute Pasteur of Dakar, Dakar, Senegal"
+        ],
+        "Manfred Weidmann": [
+            "Department of Virology, University Medical Centre, G\u00f6ttingen, Germany",
+            "Institute of Aquaculture, University of Stirling, Stirling, United Kingdom"
+        ],
+        "Oliver Strohmeier": [
+            "Laboratory for MEMS Applications, Department of Microsystems Engineering \u2013 IMTEK, University of Freiburg, Freiburg, Germany",
+            "HSG-IMIT \u2013 Institut f\u00fcr Mikro- und Informationstechnik, Freiburg, Germany"
+        ],
+        "Felix von Stetten": [
+            "Laboratory for MEMS Applications, Department of Microsystems Engineering \u2013 IMTEK, University of Freiburg, Freiburg, Germany",
+            "HSG-IMIT \u2013 Institut f\u00fcr Mikro- und Informationstechnik, Freiburg, Germany"
+        ],
+        "Josef Drexler": [
+            "QIAGEN Lake Constance GmbH, Stockach, Germany"
+        ],
+        "Michael Eberhard": [
+            "QIAGEN Lake Constance GmbH, Stockach, Germany"
+        ],
+        "Matthias Niedrig": [
+            "Centre for Biological Threats and Special Pathogens 1, Robert Koch Institute, Berlin, Germany"
+        ],
+        "Pranav Patel": [
+            "Centre for Biological Threats and Special Pathogens 1, Robert Koch Institute, Berlin, Germany"
+        ]
+    }
+}

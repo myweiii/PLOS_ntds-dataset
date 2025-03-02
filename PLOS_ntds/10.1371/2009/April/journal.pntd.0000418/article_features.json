@@ -1,0 +1,51 @@
+{
+    "Title": "A Kernel for Open Source Drug Discovery in Tropical Diseases",
+    "URL": "https://doi.org/10.1371/journal.pntd.0000418",
+    "Published": "April 21, 2009",
+    "Subject_Areas": [
+        "Protein structure comparison",
+        "Protein structure prediction",
+        "Structural genomics",
+        "Protein structure",
+        "Open source drug discovery",
+        "Mycobacterium leprae",
+        "Computational pipelines",
+        "Drug discovery"
+    ],
+    "Authors": {
+        "Leticia Ort\u00ed": [
+            "Structural Genomics Unit, Bioinformatics and Genomics Department, Centro de Investigaci\u00f3n Pr\u00edncipe Felipe, Valencia, Spain",
+            "Structural Biology Laboratory, Medicinal Chemistry Department, Centro de Investigaci\u00f3n Pr\u00edncipe Felipe, Valencia, Spain"
+        ],
+        "Rodrigo J. Carbajo": [
+            "Structural Biology Laboratory, Medicinal Chemistry Department, Centro de Investigaci\u00f3n Pr\u00edncipe Felipe, Valencia, Spain"
+        ],
+        "Ursula Pieper": [
+            "Department of Bioengineering and Therapeutic Sciences, Department of Pharmaceutical Chemistry, and California Institute for Quantitative Biosciences, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Narayanan Eswar": [
+            "Department of Bioengineering and Therapeutic Sciences, Department of Pharmaceutical Chemistry, and California Institute for Quantitative Biosciences, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Stephen M. Maurer": [
+            "Gould School of Law, University of Southern California, Los Angeles, California, United States of America"
+        ],
+        "Arti K. Rai": [
+            "School of Law, Duke University, Durham, North Carolina, United States of America"
+        ],
+        "Ginger Taylor": [
+            "The Synaptic Leap, San Ramon, California, United States of America"
+        ],
+        "Matthew H. Todd": [
+            "School of Chemistry, University of Sydney, Sydney, New South Wales, Australia"
+        ],
+        "Antonio Pineda-Lucena": [
+            "Structural Biology Laboratory, Medicinal Chemistry Department, Centro de Investigaci\u00f3n Pr\u00edncipe Felipe, Valencia, Spain"
+        ],
+        "Andrej Sali": [
+            "Department of Bioengineering and Therapeutic Sciences, Department of Pharmaceutical Chemistry, and California Institute for Quantitative Biosciences, University of California San Francisco, San Francisco, California, United States of America"
+        ],
+        "Marc A. Marti-Renom": [
+            "Structural Genomics Unit, Bioinformatics and Genomics Department, Centro de Investigaci\u00f3n Pr\u00edncipe Felipe, Valencia, Spain"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Title": "Machine-learning model led design to experimentally test species thermal limits: The case of kissing bugs (Triatominae)",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008822",
+    "Published": "March 8, 2021",
+    "Subject_Areas": [
+        "Tempering",
+        "Machine learning",
+        "Experimental design",
+        "Insects",
+        "Heat treatment",
+        "Triatoma",
+        "Disease vectors",
+        "Nymphs"
+    ],
+    "Authors": {
+        "Jorge E. Rabinovich": [
+            "Centro de Estudios Parasitol\u00f3gicos y de Vectores (CEPAVE CONICET-CCT La Plata, UNLP), National University of La Plata, La Plata, Argentina"
+        ],
+        "Agust\u00edn Alvarez Costa": [
+            "Laboratorio de Ecofisiolog\u00eda de Insectos, Departamento de Biodiversidad y Biolog\u00eda Experimental, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina",
+            "Instituto de Biodiversidad y Biolog\u00eda Experimental y Aplicada (IBBEA), CONICET\u2013Universidad de Buenos Aires, Buenos Aires, Argentina"
+        ],
+        "Ignacio J. Mu\u00f1oz": [
+            "Laboratorio de Ecofisiolog\u00eda de Insectos, Departamento de Biodiversidad y Biolog\u00eda Experimental, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina",
+            "Instituto de Biodiversidad y Biolog\u00eda Experimental y Aplicada (IBBEA), CONICET\u2013Universidad de Buenos Aires, Buenos Aires, Argentina"
+        ],
+        "Pablo E. Schilman": [
+            "Laboratorio de Ecofisiolog\u00eda de Insectos, Departamento de Biodiversidad y Biolog\u00eda Experimental, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina",
+            "Instituto de Biodiversidad y Biolog\u00eda Experimental y Aplicada (IBBEA), CONICET\u2013Universidad de Buenos Aires, Buenos Aires, Argentina"
+        ],
+        "Nicholas M. Fountain-Jones": [
+            "School of Natural Sciences, University of Tasmania, Hobart, Australia"
+        ]
+    }
+}

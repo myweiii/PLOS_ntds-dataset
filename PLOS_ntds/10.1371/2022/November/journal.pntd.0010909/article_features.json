@@ -1,0 +1,35 @@
+{
+    "Title": "Structure-based virtual screening and molecular dynamics of potential inhibitors targeting sodium-bile acid co-transporter of carcinogenic liver fluke Clonorchis sinensis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010909",
+    "Published": "November 9, 2022",
+    "Subject_Areas": [
+        "Bile",
+        "Hydrogen bonding",
+        "Clonorchis sinensis",
+        "Drug interactions",
+        "Toxicity",
+        "Free energy",
+        "Biochemical simulations",
+        "Protein structure databases"
+    ],
+    "Authors": {
+        "Won Gi Yoo": [
+            "Department of Basic Science, Chung-Ang University College of Medicine, Seoul, Republic of Korea",
+            "Department of Parasitology and Tropical Medicine, and Institute of Health Sciences, Gyeongsang National University College of Medicine, Jinju, Republic of Korea",
+            "Department of Convergence Medical Science, Gyeongsang National University, Jinju, Republic of Korea"
+        ],
+        "Fuhong Dai": [
+            "Department of Parasitology, School of Biology and Basic Medical Sciences, Suzhou Medical College of Soochow University, Suzhou, Jiangsu, PR China"
+        ],
+        "Jhang Ho Pak": [
+            "Department of Convergence Medicine, University of Ulsan College of Medicine and Asan Institute for Life Sciences, Asan Medical Center, Seoul, Republic of Korea"
+        ],
+        "Sung-Jong Hong": [
+            "Department of Basic Science, Chung-Ang University College of Medicine, Seoul, Republic of Korea",
+            "Convergence Research Center for Insect Vectors, Incheon National University, Incheon, Republic of Korea"
+        ],
+        "Jin-Ho Song": [
+            "Department of Pharmacology, Chung-Ang University College of Medicine, Seoul, Republic of Korea"
+        ]
+    }
+}

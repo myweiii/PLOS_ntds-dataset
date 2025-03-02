@@ -1,0 +1,43 @@
+{
+    "Title": "Linear and Machine Learning modelling for spatiotemporal disease predictions: Force-of-Infection of Chagas disease",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010594",
+    "Published": "July 19, 2022",
+    "Subject_Areas": [
+        "Machine learning",
+        "Chagas disease",
+        "Trees",
+        "Infectious disease epidemiology",
+        "Forecasting",
+        "Colombia",
+        "Serology",
+        "Infectious diseases"
+    ],
+    "Authors": {
+        "Julia Ledien": [
+            "School of Life Sciences, University of Sussex, Falmer, Brighton, United Kingdom"
+        ],
+        "Zulma M. Cucunub\u00e1": [
+            "London Centre for Neglected Tropical Disease Research & MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, United Kingdom",
+            "Departamento de Epidemiolog\u00eda Cl\u00ednica y Bioestad\u00edstica, Facultad de Medicina, Universidad Pontificia Javeriana, Bogot\u00e1, Colombia"
+        ],
+        "Gabriel Parra-Henao": [
+            "Centro de Investigaci\u00f3n en Salud para el Tr\u00f3pico, Universidad Cooperativa de Colombia, Santa Marta, Colombia",
+            "National Institute of Health, Bogot\u00e1, Colombia"
+        ],
+        "Eliana Rodr\u00edguez-Mongu\u00ed": [
+            "Independent consultant to the Neglected, Tropical and Vector Borne Diseases Program, Pan American Health Organization (PAHO), Bogota, Colombia"
+        ],
+        "Andrew P. Dobson": [
+            "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, New Jersey, United States of America"
+        ],
+        "Susana B. Adamo": [
+            "Center for International Earth Science Information Network (CIESIN), Columbia Climate School, Columbia University, New York, New York, United States of America"
+        ],
+        "Mar\u00eda-Gloria Bas\u00e1\u00f1ez": [
+            "London Centre for Neglected Tropical Disease Research & MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, United Kingdom"
+        ],
+        "Pierre Nouvellet": [
+            "School of Life Sciences, University of Sussex, Falmer, Brighton, United Kingdom"
+        ]
+    }
+}

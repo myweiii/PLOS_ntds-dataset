@@ -1,0 +1,119 @@
+{
+    "Title": "Exploring water, sanitation, and hygiene coverage targets for reaching and sustaining trachoma elimination: G-computation analysis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0011103",
+    "Published": "February 13, 2023",
+    "Subject_Areas": [
+        "Trachoma",
+        "Surveys",
+        "Hygiene",
+        "Sanitation",
+        "Defecation",
+        "Inflammation",
+        "Face",
+        "Statistical models"
+    ],
+    "Authors": {
+        "Kristin M. Sullivan": [
+            "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America"
+        ],
+        "Emma M. Harding-Esch": [
+            "Clinical Research Department, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Alexander P. Keil": [
+            "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America"
+        ],
+        "Matthew C. Freeman": [
+            "Gangarosa Department of Environmental Health, Emory University, Atlanta, Georgia, United States of America"
+        ],
+        "Wilfrid E. Batcho": [
+            "Programme National De Lutte Contre Les Maladies Transmissibles, Minist\u00e8re De La Sant\u00e9, Cotonou, Benin"
+        ],
+        "Amadou A. Bio Issifou": [
+            "D\u00e9partement D\u2019ophthalmologie, Universit\u00e9 De Parakou, Parakou, Borgou, Benin"
+        ],
+        "Victor Bucumi": [
+            "D\u00e9partement En Charge des Maladies Tropicales, N\u00e9glig\u00e9es Minist\u00e8re De La Sant\u00e9 Publique Et De La Lutte Contre Le Sida, Bujumbura, Burundi"
+        ],
+        "Assumpta L. Bella": [
+            "Programme National De Lutte Contre La C\u00e9cit\u00e9, Minist\u00e8re De La Sant\u00e9 Publique, Yaounde, Cameroon"
+        ],
+        "Emilienne Epee": [
+            "Department Of Ophthalmology, University of Yaound\u00e9 1 Yaounde Centre, Yaound\u00e9, Cameroun"
+        ],
+        "Segni Bobo Barkesa": [
+            "Neglected Tropical Disease Prevention and Control Program, Federal Ministry of Health, Addis Ababa, Ethiopia"
+        ],
+        "Fikre Seife Gebretsadik": [
+            "Neglected Tropical Disease Prevention and Control Program, Federal Ministry of Health, Addis Ababa, Ethiopia"
+        ],
+        "Salimato Sanha": [
+            "Programa Nacional De Sa\u00fade De Vis\u00e3o, Minsap, Bissau, Guinea-Bissau"
+        ],
+        "Khumbo M. Kalua": [
+            "Blantyre Institute for Community Outreach, Blantyre, Malawi"
+        ],
+        "Michael P. Masika": [
+            "Department of Clinical Services, Ministry of Health, Lilongwe, Malawi"
+        ],
+        "Abdallahi O. Minnih": [
+            "D\u00e9partement Des Maladies Transmissibles, Minist\u00e8re De La Sant\u00e9 Nouakchott, Nouakchott, Mauritania"
+        ],
+        "Mariamo Abdala": [
+            "Direc\u00e7\u00e3o Nacional De Sa\u00fade P\u00fablica Ministerio Da Saude, Maputo, Mozambique"
+        ],
+        "Mar\u00edlia E. Massangaie": [
+            "Direc\u00e7\u00e3o Nacional De Sa\u00fade P\u00fablica Ministerio Da Saude, Maputo, Mozambique"
+        ],
+        "Abdou Amza": [
+            "Programme National De Sant\u00e9 Oculaire Minist\u00e8re De La Sant\u00e9 Publique, Niamey, Niger"
+        ],
+        "Boubacar Kadri": [
+            "Programme National De Sant\u00e9 Oculaire Minist\u00e8re De La Sant\u00e9 Publique, Niamey, Niger"
+        ],
+        "Beido Nassirou": [
+            "Programme National De Sant\u00e9 Oculaire Minist\u00e8re De La Sant\u00e9 Publique, Niamey, Niger"
+        ],
+        "Caleb D. Mpyet": [
+            "Department of Ophthalmology, University of Jos, Jos, Plateau, Nigeria"
+        ],
+        "Nicholas Olobio": [
+            "Neglected Tropical Diseases Division, Department of Public Health, Federal Ministry of Health, Abuja, Nigeria"
+        ],
+        "Mouctar D. Badiane": [
+            "Programme National de Promotion de La Sant\u00e9 Oculaire, Minist\u00e8re de la Sant\u00e9 et de L\u2019Action sociale, Dakar, Senegal"
+        ],
+        "Balgesa E. Elshafie": [
+            "National Program for Prevention of Blindness, Federal Ministry of Health, Khartoum, Sudan"
+        ],
+        "Gilbert Baayenda": [
+            "National Disease Control, Ministry of Health, Kampala, Uganda"
+        ],
+        "George E. Kabona": [
+            "Neglected Tropical Disease Control Program, Ministry of Health, Dodoma, United Republic of Tanzania"
+        ],
+        "Oscar Kaitaba": [
+            "Neglected Tropical Disease Control Program, Ministry of Health, Dodoma, United Republic of Tanzania"
+        ],
+        "Alistidia Simon": [
+            "Neglected Tropical Disease Control Program, Ministry of Health, Dodoma, United Republic of Tanzania"
+        ],
+        "Tawfik Q. Al-Khateeb": [
+            "Department Of Ophthalmology, Sana\u2019a University, Sana\u2019a, Yemen"
+        ],
+        "Consity Mwale": [
+            "Provincial Health Office, Ministry of Health, Lusaka, Zambia"
+        ],
+        "Ana Bakhtiari": [
+            "International Trachoma Initiative, Task Force for Global Health, Decatur, Georgia, United States of America"
+        ],
+        "Daniel Westreich": [
+            "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America"
+        ],
+        "Anthony W. Solomon": [
+            "Department of Control of Neglected Tropical Diseases, World Health Organization, Geneva, Switzerland"
+        ],
+        "Emily W. Gower": [
+            "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America"
+        ]
+    }
+}

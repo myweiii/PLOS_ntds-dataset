@@ -1,0 +1,36 @@
+{
+    "Title": "Retrospective analysis and time series forecasting with automated machine learning of ascariasis, enterobiasis and cystic echinococcosis in Romania",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009831",
+    "Published": "November 1, 2021",
+    "Subject_Areas": [
+        "Ascariasis",
+        "Enterobiasis",
+        "Romania",
+        "Epidemiology",
+        "Echinococcosis",
+        "Parasitic diseases",
+        "Neglected tropical diseases",
+        "Cystic echinococcosis"
+    ],
+    "Authors": {
+        "Johannes Benecke": [
+            "Department of Dermatology, Venereology and Allergology, University Medical Center and Medical Faculty Mannheim, University of Heidelberg, and Center of Excellence in Dermatology, Mannheim, Germany"
+        ],
+        "Cornelius Benecke": [
+            "Barcelona Institute for Global Health, University of Barcelona, Barcelona, Spain"
+        ],
+        "Marius Ciutan": [
+            "National School of Public Health Management and Professional Development, Bucharest, Romania"
+        ],
+        "Mihnea Dosius": [
+            "National School of Public Health Management and Professional Development, Bucharest, Romania"
+        ],
+        "Cristian Vladescu": [
+            "National School of Public Health Management and Professional Development, Bucharest, Romania",
+            "University Titu Maiorescu, Faculty of Medicine, Bucharest, Romania"
+        ],
+        "Victor Olsavszky": [
+            "Department of Dermatology, Venereology and Allergology, University Medical Center and Medical Faculty Mannheim, University of Heidelberg, and Center of Excellence in Dermatology, Mannheim, Germany"
+        ]
+    }
+}

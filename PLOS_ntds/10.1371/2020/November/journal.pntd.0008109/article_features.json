@@ -1,0 +1,52 @@
+{
+    "Title": "A Bayesian phase 2 model based adaptive design to optimise antivenom dosing: Application to a dose-finding trial for a novel Russell\u2019s viper antivenom in Myanmar",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008109",
+    "Published": "November 16, 2020",
+    "Subject_Areas": [
+        "Toxicity",
+        "Simulation and modeling",
+        "Snakebite",
+        "Dose prediction methods",
+        "Venoms",
+        "Vipers",
+        "Myanmar",
+        "Phase II clinical investigation"
+    ],
+    "Authors": {
+        "James A. Watson": [
+            "Mahidol-Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand",
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Thomas Lamb": [
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom",
+            "Myanmar-Oxford Clinical Research Unit, Yangon, Myanmar"
+        ],
+        "Jane Holmes": [
+            "Centre for Statistics in Medicine, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "David A. Warrell": [
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom"
+        ],
+        "Khin Thida Thwin": [
+            "University of Medicine 1, Yangon, Myanmar"
+        ],
+        "Zaw Lynn Aung": [
+            "University of Medicine 1, Yangon, Myanmar"
+        ],
+        "Min Zaw Oo": [
+            "University of Medicine 2, Yangon, Myanmar"
+        ],
+        "Myat Thet Nwe": [
+            "Myanmar-Oxford Clinical Research Unit, Yangon, Myanmar"
+        ],
+        "Frank Smithuis": [
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom",
+            "Myanmar-Oxford Clinical Research Unit, Yangon, Myanmar"
+        ],
+        "Elizabeth A. Ashley": [
+            "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom",
+            "Myanmar-Oxford Clinical Research Unit, Yangon, Myanmar",
+            "Lao-Oxford-Mahosot Hospital Wellcome Trust Research Unit, Vientiane, Laos"
+        ]
+    }
+}

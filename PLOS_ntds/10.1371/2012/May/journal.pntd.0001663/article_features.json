@@ -1,0 +1,91 @@
+{
+    "Title": "A Model of DENV-3 Infection That Recapitulates Severe Disease and Highlights the Importance of IFN-\u03b3 in Host Resistance to Infection",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001663",
+    "Published": "May 29, 2012",
+    "Subject_Areas": [
+        "Mouse models",
+        "Blood",
+        "Dengue virus",
+        "Spleen",
+        "Dengue fever",
+        "Animal models of infection",
+        "Cloning",
+        "Viral load"
+    ],
+    "Authors": {
+        "Vivian V. Costa": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Caio T. Fagundes": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Deborah F. Valad\u00e3o": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Daniel Cisalpino": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Ana Carolina F. Dias": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "K\u00e1tia D. Silveira": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Lucas M. Kangussu": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Laborat\u00f3rio de Farmacologia Cardiovascular, Departamento de Fisiologia e Farmacologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Thiago V. \u00c1vila": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Maria Rosa Q. Bonfim": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Daniela Bonaventura": [
+            "Laborat\u00f3rio de Farmacologia Cardiovascular, Departamento de Fisiologia e Farmacologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Tarc\u00edlia A. Silva": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Departamento de Patologia Oral, Faculdade de Odontologia, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Lirl\u00e2ndia P. Sousa": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Departamento de An\u00e1lises Cl\u00ednicas e Toxicol\u00f3gicas, Faculdade de Farm\u00e1cia Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Milene A. Rachid": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Departamento de Patologia Geral, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Leda Q. Vieira": [
+            "Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Gustavo B. Menezes": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Departamento de Morfologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Ana Maria de Paula": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Departamento de F\u00edsica \u2013 Instituto de Ci\u00eancias Exatas (ICEx), Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Alena Atrasheuskaya": [
+            "Laboratory of Immunology Safety, State Research Center of Virology and Biotechnology \u201cVector\u201d, Koltsovo, Russian Federation"
+        ],
+        "George Ignatyev": [
+            "State Institute of Standardizing and Control by Name of Tarasevich, Moscow, Russian Federation"
+        ],
+        "Mauro M. Teixeira": [
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Danielle G. Souza": [
+            "Laborat\u00f3rio de Intera\u00e7\u00e3o Microrganismo-Hospedeiro, Departamento de Microbiologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+            "Imunofarmacologia, Departamento de Bioqu\u00edmica e Imunologia, Instituto de Ci\u00eancias Biol\u00f3gicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ]
+    }
+}

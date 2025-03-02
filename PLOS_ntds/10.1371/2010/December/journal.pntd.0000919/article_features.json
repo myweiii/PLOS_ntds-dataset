@@ -1,0 +1,34 @@
+{
+    "Title": "Analyses of an Expressed Sequence Tag Library from Taenia solium, Cysticerca",
+    "URL": "https://doi.org/10.1371/journal.pntd.0000919",
+    "Published": "December 21, 2010",
+    "Subject_Areas": [
+        "cDNA libraries",
+        "Signal peptides",
+        "Gene expression",
+        "Gene ontologies",
+        "Drug discovery",
+        "BLAST algorithm",
+        "Swine",
+        "Taxonomy"
+    ],
+    "Authors": {
+        "Jonas Lundstr\u00f6m": [
+            "Parasitology, Mycology and Water/Environment, Swedish Institute for Infectious Disease Control, Solna, Sweden"
+        ],
+        "Fernando Salazar-Anton": [
+            "Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm, Sweden",
+            "Department of Microbiology and Parasitology, Faculty of Medical Sciences, National Autonomous University of Nicaragua, Leon, Nicaragua"
+        ],
+        "Ellen Sherwood": [
+            "Center for Genomics and Bioinformatics, Karolinska Institutet, Stockholm, Sweden"
+        ],
+        "Bj\u00f6rn Andersson": [
+            "Center for Genomics and Bioinformatics, Karolinska Institutet, Stockholm, Sweden"
+        ],
+        "Johan Lindh": [
+            "Parasitology, Mycology and Water/Environment, Swedish Institute for Infectious Disease Control, Solna, Sweden",
+            "Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm, Sweden"
+        ]
+    }
+}

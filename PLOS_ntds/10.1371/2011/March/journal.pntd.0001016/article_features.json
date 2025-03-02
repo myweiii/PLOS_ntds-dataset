@@ -1,0 +1,35 @@
+{
+    "Title": "Multi-Disease Data Management System Platform for Vector-Borne Diseases",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001016",
+    "Published": "March 29, 2011",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Malaria",
+        "Computer software",
+        "Trees",
+        "Anopheles gambiae",
+        "Data management",
+        "Geographic information systems",
+        "Infectious disease control"
+    ],
+    "Authors": {
+        "Lars Eisen": [
+            "Colorado State University, Fort Collins, Colorado, United States of America"
+        ],
+        "Marlize Coleman": [
+            "Colorado State University, Fort Collins, Colorado, United States of America"
+        ],
+        "Saul Lozano-Fuentes": [
+            "Colorado State University, Fort Collins, Colorado, United States of America"
+        ],
+        "Nathan McEachen": [
+            "TerraFrame, Westminster, Colorado, United States of America"
+        ],
+        "Miguel Orlans": [
+            "Innovative Vector Control Consortium, Liverpool, United Kingdom"
+        ],
+        "Michael Coleman": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ]
+    }
+}

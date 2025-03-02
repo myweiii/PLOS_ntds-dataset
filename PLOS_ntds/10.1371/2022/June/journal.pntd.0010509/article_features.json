@@ -1,0 +1,74 @@
+{
+    "Title": "Deep learning models for forecasting dengue fever based on climate data in Vietnam",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010509",
+    "Published": "June 13, 2022",
+    "Subject_Areas": [
+        "Forecasting",
+        "Epidemiology",
+        "Vietnam",
+        "Deep learning",
+        "Rain",
+        "Climate change",
+        "Humidity",
+        "Weather"
+    ],
+    "Authors": {
+        "Van-Hau Nguyen": [
+            "Hungyen University of Technology and Education, Hungyen, Vietnam"
+        ],
+        "Tran Thi Tuyet-Hanh": [
+            "Hanoi University of Public Health, Hanoi, Vietnam"
+        ],
+        "James Mulhall": [
+            "Queen\u2019s University Belfast, Belfast, United Kingdom"
+        ],
+        "Hoang Van Minh": [
+            "Hanoi University of Public Health, Hanoi, Vietnam"
+        ],
+        "Trung Q. Duong": [
+            "Queen\u2019s University Belfast, Belfast, United Kingdom"
+        ],
+        "Nguyen Van Chien": [
+            "Hanoi University of Science and Technology, Hanoi, Vietnam"
+        ],
+        "Nguyen Thi Trang Nhung": [
+            "Hanoi University of Public Health, Hanoi, Vietnam"
+        ],
+        "Vu Hoang Lan": [
+            "Hanoi University of Public Health, Hanoi, Vietnam"
+        ],
+        "Hoang Ba Minh": [
+            "Bac Ha International University, Hanoi, Vietnam"
+        ],
+        "Do Cuong": [
+            "University of Connecticut, Storrs, Connecticut, United States of America"
+        ],
+        "Nguyen Ngoc Bich": [
+            "Hanoi University of Public Health, Hanoi, Vietnam"
+        ],
+        "Nguyen Huu Quyen": [
+            "Vietnam Institute of Meteorology, Hydrology and Climate Change, Hanoi, Vietnam"
+        ],
+        "Tran Nu Quy Linh": [
+            "Griffith University, Brisbane, Queensland, Australia"
+        ],
+        "Nguyen Thi Tho": [
+            "National Institute of Hygiene and Epidemiology, Hanoi, Vietnam"
+        ],
+        "Ngu Duy Nghia": [
+            "National Institute of Hygiene and Epidemiology, Hanoi, Vietnam"
+        ],
+        "Le Van Quoc Anh": [
+            "Ho Chi Minh City University of Transportation, Ho Chi Minh, Vietnam"
+        ],
+        "Diep T. M. Phan": [
+            "University of Science, Ho Chi Minh, Vietnam"
+        ],
+        "Nguyen Quoc Viet Hung": [
+            "Griffith University, Brisbane, Queensland, Australia"
+        ],
+        "Mai Thai Son": [
+            "Queen\u2019s University Belfast, Belfast, United Kingdom"
+        ]
+    }
+}

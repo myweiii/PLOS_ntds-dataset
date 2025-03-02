@@ -1,0 +1,59 @@
+{
+    "Title": "Estimating underreporting of leprosy in Brazil using a Bayesian approach",
+    "URL": "https://doi.org/10.1371/journal.pntd.0009700",
+    "Published": "August 25, 2021",
+    "Subject_Areas": [
+        "Leprosy",
+        "Brazil",
+        "Disabilities",
+        "Epidemiology",
+        "Computer software",
+        "Socioeconomic aspects of health",
+        "Urban areas",
+        "Spatial analysis"
+    ],
+    "Authors": {
+        "Guilherme L. de Oliveira": [
+            "Departament of Computing, Federal Center of Technological Education of Minas Gerais, Belo Horizonte, Brazil"
+        ],
+        "Juliane F. Oliveira": [
+            "Center of Data and Knowledge Integration for Health, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "J\u00falia M. Pescarini": [
+            "Center of Data and Knowledge Integration for Health, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil",
+            "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Roberto F. S. Andrade": [
+            "Center of Data and Knowledge Integration for Health, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil",
+            "Institute of Physics, Federal University of Bahia, Salvador, Brazil"
+        ],
+        "Joilda S. Nery": [
+            "Institute of Collective Health, Federal University of Bahia, Salvador, Brazil"
+        ],
+        "Maria Y. Ichihara": [
+            "Center of Data and Knowledge Integration for Health, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil"
+        ],
+        "Liam Smeeth": [
+            "Department of Non-communicable Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, United Kingdom",
+            "Health Data Research (HDR), London, United Kingdom"
+        ],
+        "Elizabeth B. Brickley": [
+            "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Maur\u00edcio L. Barreto": [
+            "Center of Data and Knowledge Integration for Health, Instituto Gon\u00e7alo Moniz, Funda\u00e7\u00e3o Oswaldo Cruz, Salvador, Brazil",
+            "Institute of Collective Health, Federal University of Bahia, Salvador, Brazil"
+        ],
+        "Gerson O. Penna": [
+            "Tropical Medicine Centre, University of Bras\u00edlia, Bras\u00edlia, Brazil",
+            "Fiocruz School of Government, Bras\u00edlia, Brazil"
+        ],
+        "Maria L. F. Penna": [
+            "Epidemiology and Biostatistics Department, Federal University Fluminense, Rio de Janeiro, Brazil"
+        ],
+        "Mauro N. Sanchez": [
+            "Tropical Medicine Centre, University of Bras\u00edlia, Bras\u00edlia, Brazil",
+            "Public Health Department, Federal University of Bras\u00edlia, Bras\u00edlia, Brazil"
+        ]
+    }
+}

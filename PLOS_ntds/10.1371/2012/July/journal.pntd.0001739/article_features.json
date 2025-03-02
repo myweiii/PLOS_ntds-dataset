@@ -1,0 +1,37 @@
+{
+    "Title": "Detection of Antibiotic Resistance in Leprosy Using GenoType LepraeDR, a Novel Ready-To-Use Molecular Test",
+    "URL": "https://doi.org/10.1371/journal.pntd.0001739",
+    "Published": "July 31, 2012",
+    "Subject_Areas": [
+        "Mycobacterium leprae",
+        "Leprosy",
+        "Antibiotic resistance",
+        "Mutation",
+        "Mutation detection",
+        "Polymerase chain reaction",
+        "Mutant strains",
+        "Biopsy"
+    ],
+    "Authors": {
+        "Emmanuelle Cambau": [
+            "Universit\u00e9 Paris Diderot, EA3964, Paris, France",
+            "Centre National de R\u00e9f\u00e9rence des Mycobact\u00e9ries et de la R\u00e9sistance des Mycobact\u00e9ries aux Antituberculeux, Paris, France",
+            "AP-HP, groupe Hospitalier Saint Louis-Lariboisi\u00e8re, Bact\u00e9riologie, France"
+        ],
+        "Aur\u00e9lie Chauffour-Nevejans": [
+            "Centre National de R\u00e9f\u00e9rence des Mycobact\u00e9ries et de la R\u00e9sistance des Mycobact\u00e9ries aux Antituberculeux, Paris, France",
+            "Universit\u00e9 Pierre et Marie Curie-Paris6, EA1541, ER5, Paris, France"
+        ],
+        "Liana Tejmar-Kolar": [
+            "HAIN Lifescience, Nehren, Germany"
+        ],
+        "Masanori Matsuoka": [
+            "Leprosy Research Center, National Institute of Infectious Diseases, Higashimurayama-shi, Tokyo, Japan"
+        ],
+        "Vincent Jarlier": [
+            "Centre National de R\u00e9f\u00e9rence des Mycobact\u00e9ries et de la R\u00e9sistance des Mycobact\u00e9ries aux Antituberculeux, Paris, France",
+            "Universit\u00e9 Pierre et Marie Curie-Paris6, EA1541, ER5, Paris, France",
+            "AP-HP, Groupe Hospitalier Piti\u00e9-Salp\u00eatri\u00e8re, Bact\u00e9riologie-Hygi\u00e8ne, Paris, France"
+        ]
+    }
+}

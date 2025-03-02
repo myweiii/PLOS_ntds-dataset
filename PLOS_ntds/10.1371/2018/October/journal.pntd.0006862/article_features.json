@@ -1,0 +1,61 @@
+{
+    "Title": "Viridot: An automated virus plaque (immunofocus) counter for the measurement of serological neutralizing responses with application to dengue virus",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006862",
+    "Published": "October 24, 2018",
+    "Subject_Areas": [
+        "Analysts",
+        "Antibodies",
+        "Dengue virus",
+        "Computer software",
+        "Cameras",
+        "Enzyme-linked immunoassays",
+        "Immune serum",
+        "Imaging techniques"
+    ],
+    "Authors": {
+        "Leah C. Katzelnick": [
+            "Department of Biology, University of Florida, Gainesville, FL, United States",
+            "Division of Infectious Diseases and Vaccinology, School of Public Health, University of California, Berkeley, Berkeley, CA, United States"
+        ],
+        "Ana Coello Escoto": [
+            "Department of Biology, University of Florida, Gainesville, FL, United States"
+        ],
+        "Benjamin D. McElvany": [
+            "Department of Medicine-Infectious Disease, Vaccine Testing Center, University of Vermont Larner College of Medicine, Burlington, VT, United States"
+        ],
+        "Christian Ch\u00e1vez": [
+            "Department of Biology, University of Florida, Gainesville, FL, United States"
+        ],
+        "Henrik Salje": [
+            "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, Paris, France",
+            "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States"
+        ],
+        "Wensheng Luo": [
+            "Center for Immunization Research, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States"
+        ],
+        "Isabel Rodriguez-Barraquer": [
+            "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States",
+            "School of Medicine, University of California, San Francisco, San Francisco, CA, United States"
+        ],
+        "Richard Jarman": [
+            "Viral Diseases Branch, Walter Reed Army Institute of Research, Silver Spring, MD, United States"
+        ],
+        "Anna P. Durbin": [
+            "Center for Immunization Research, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States"
+        ],
+        "Sean A. Diehl": [
+            "Department of Medicine-Infectious Disease, Vaccine Testing Center, University of Vermont Larner College of Medicine, Burlington, VT, United States"
+        ],
+        "Derek J. Smith": [
+            "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+        ],
+        "Stephen S. Whitehead": [
+            "National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, United States"
+        ],
+        "Derek A. T. Cummings": [
+            "Department of Biology, University of Florida, Gainesville, FL, United States",
+            "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United States",
+            "Emerging Pathogens Institute, University of Florida, Gainesville, FL, United States"
+        ]
+    }
+}

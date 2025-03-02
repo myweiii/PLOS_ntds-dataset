@@ -1,0 +1,42 @@
+{
+    "Title": "The impact of COVID-19 mobility restrictions on dengue transmission in urban areas",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012644",
+    "Published": "November 25, 2024",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Neighborhoods",
+        "Neural networks",
+        "Human mobility",
+        "COVID 19",
+        "Forecasting",
+        "Pandemics",
+        "Infectious disease control"
+    ],
+    "Authors": {
+        "Jorge L. B. Ara\u00fajo": [
+            "Laborat\u00f3rio de Ci\u00eancia de Dados e Intelig\u00eancia Artificial, Universidade de Fortaleza, Fortaleza, Cear\u00e1, Brazil"
+        ],
+        "Rafael Bomfim": [
+            "Laborat\u00f3rio de Ci\u00eancia de Dados e Intelig\u00eancia Artificial, Universidade de Fortaleza, Fortaleza, Cear\u00e1, Brazil"
+        ],
+        "Cesar I. N. Sampaio Filho": [
+            "Departamento de F\u00edsica, Universidade Federal do Cear\u00e1, Fortaleza, Cear\u00e1, Brazil"
+        ],
+        "Luciano P. G. Cavalcanti": [
+            "Programa de P\u00f3s-Gradua\u00e7\u00e3o em Sa\u00fade Coletiva, Universidade Federal do Cear\u00e1, Cear\u00e1, Brazil",
+            "Escola de Sa\u00fade P\u00fablica do Cear\u00e1, Fortaleza, Cear\u00e1, Brazil"
+        ],
+        "Antonio S. Lima Neto": [
+            "Laborat\u00f3rio de Ci\u00eancia de Dados e Intelig\u00eancia Artificial, Universidade de Fortaleza, Fortaleza, Cear\u00e1, Brazil",
+            "Secretaria Executiva de Vigil\u00e2ncia em Sa\u00fade, Secretaria da Sa\u00fade do Cear\u00e1, Fortaleza, Cear\u00e1, Brazil"
+        ],
+        "Jos\u00e9 S. Andrade Jr.": [
+            "Departamento de F\u00edsica, Universidade Federal do Cear\u00e1, Fortaleza, Cear\u00e1, Brazil",
+            "Escola de Sa\u00fade P\u00fablica do Cear\u00e1, Fortaleza, Cear\u00e1, Brazil"
+        ],
+        "Vasco Furtado": [
+            "Laborat\u00f3rio de Ci\u00eancia de Dados e Intelig\u00eancia Artificial, Universidade de Fortaleza, Fortaleza, Cear\u00e1, Brazil",
+            "Empresa de Tecnologia da Informa\u00e7\u00e3o do Cear\u00e1, Governo do Estado do Cear\u00e1, Fortaleza, Cear\u00e1, Brazil"
+        ]
+    }
+}

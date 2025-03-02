@@ -1,0 +1,42 @@
+{
+    "Title": "Plasmodium vivax transcriptional profiling of low input cryopreserved isolates through the intraerythrocytic development cycle",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008104",
+    "Published": "March 2, 2020",
+    "Subject_Areas": [
+        "Plasmodium",
+        "Transcriptome analysis",
+        "Gametocytes",
+        "Culture media",
+        "Gene expression",
+        "Parasitic diseases",
+        "cDNA libraries",
+        "RNA sequencing"
+    ],
+    "Authors": {
+        "Gabriel W. Rangel": [
+            "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Martha A. Clark": [
+            "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Usheer Kanjee": [
+            "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Jonathan M. Goldberg": [
+            "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+        ],
+        "Bronwyn MacInnis": [
+            "Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+        ],
+        "Maria Jos\u00e9 Menezes": [
+            "Department of Parasitology, Institute of Biomedical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Marcelo U. Ferreira": [
+            "Department of Parasitology, Institute of Biomedical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        ],
+        "Manoj T. Duraisingh": [
+            "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America",
+            "Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+        ]
+    }
+}

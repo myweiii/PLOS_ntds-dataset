@@ -1,0 +1,45 @@
+{
+    "Title": "On-Chip Imaging of Schistosoma haematobium Eggs in Urine for Diagnosis by Computer Vision",
+    "URL": "https://doi.org/10.1371/journal.pntd.0002547",
+    "Published": "December 5, 2013",
+    "Subject_Areas": [
+        "Eggs",
+        "Algorithms",
+        "Computer imaging",
+        "Imaging techniques",
+        "Schistosoma haematobium",
+        "Computer vision",
+        "Helminths",
+        "Urine"
+    ],
+    "Authors": {
+        "Ewert Linder": [
+            "Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska Institutet, Stockholm, Sweden"
+        ],
+        "Anne Grote": [
+            "Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki, Finland"
+        ],
+        "Sami Varjo": [
+            "Center for Machine Vision Research, University of Oulu, Oulu, Finland"
+        ],
+        "Nina Linder": [
+            "Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki, Finland"
+        ],
+        "Marianne Lebbad": [
+            "Swedish Institute for Communicable Disease Control (SMI), Solna, Sweden"
+        ],
+        "Mikael Lundin": [
+            "Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki, Finland"
+        ],
+        "Vinod Diwan": [
+            "Global Health/IHCAR, Department of Public Health Sciences, Karolinska Institutet, Stockholm, Sweden"
+        ],
+        "Jari Hannuksela": [
+            "Center for Machine Vision Research, University of Oulu, Oulu, Finland"
+        ],
+        "Johan Lundin": [
+            "Institute for Molecular Medicine Finland (FIMM), University of Helsinki, Helsinki, Finland",
+            "Global Health/IHCAR, Department of Public Health Sciences, Karolinska Institutet, Stockholm, Sweden"
+        ]
+    }
+}

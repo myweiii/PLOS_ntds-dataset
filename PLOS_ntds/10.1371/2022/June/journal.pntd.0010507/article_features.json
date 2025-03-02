@@ -1,0 +1,42 @@
+{
+    "Title": "Transcriptomic and small RNA response to Mayaro virus infection in Anopheles stephensi mosquitoes",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010507",
+    "Published": "June 28, 2022",
+    "Subject_Areas": [
+        "MicroRNAs",
+        "Small interfering RNA",
+        "Mosquitoes",
+        "RNA sequencing",
+        "Arboviral infections",
+        "cDNA libraries",
+        "Genomics",
+        "Transcriptome analysis"
+    ],
+    "Authors": {
+        "Cory Henderson": [
+            "Department of Entomology, The Pennsylvania State University, University Park, Pennsylvania, United States of America",
+            "Department of Genetics, Rutgers University, New Brunswick, New Jersey, United States of America"
+        ],
+        "Marco Brustolin": [
+            "Unit of Entomology, Department of Biomedical Sciences, Institute of Tropical Medicine, Antwerp, Belgium"
+        ],
+        "Shivanand Hegde": [
+            "Departments of Vector Biology and Tropical Disease Biology, Centre for Neglected Tropical Disease, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Gargi Dayama": [
+            "School of Medicine, Boston University, Boston, Massachusetts, United States of America"
+        ],
+        "Nelson Lau": [
+            "School of Medicine, Boston University, Boston, Massachusetts, United States of America"
+        ],
+        "Grant L. Hughes": [
+            "Departments of Vector Biology and Tropical Disease Biology, Centre for Neglected Tropical Disease, Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+        ],
+        "Christina Bergey": [
+            "Department of Genetics, Rutgers University, New Brunswick, New Jersey, United States of America"
+        ],
+        "Jason L. Rasgon": [
+            "Department of Entomology, The Pennsylvania State University, University Park, Pennsylvania, United States of America"
+        ]
+    }
+}

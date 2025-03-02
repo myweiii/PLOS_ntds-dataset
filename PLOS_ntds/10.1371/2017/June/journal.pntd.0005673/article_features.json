@@ -1,0 +1,35 @@
+{
+    "Title": "Flavivirus and Filovirus EvoPrinters: New alignment tools for the comparative analysis of viral evolution",
+    "URL": "https://doi.org/10.1371/journal.pntd.0005673",
+    "Published": "June 16, 2017",
+    "Subject_Areas": [
+        "Sequence alignment",
+        "Single nucleotide polymorphisms",
+        "Genomics",
+        "Genomic databases",
+        "Viral genomics",
+        "Ebola virus",
+        "Sequence databases",
+        "Recombinant proteins"
+    ],
+    "Authors": {
+        "Thomas Brody": [
+            "Neural Cell-Fate Determinants Section, NINDS, NIH, Bethesda, Maryland, United States of America"
+        ],
+        "Amarendra S. Yavatkar": [
+            "Division of Intramural Research Information Technology Program, NINDS, NIH, Bethesda, Maryland, United States of America"
+        ],
+        "Dong Sun Park": [
+            "Division of Intramural Research Information Technology Program, NINDS, NIH, Bethesda, Maryland, United States of America"
+        ],
+        "Alexander Kuzin": [
+            "Neural Cell-Fate Determinants Section, NINDS, NIH, Bethesda, Maryland, United States of America"
+        ],
+        "Jermaine Ross": [
+            "Neural Cell-Fate Determinants Section, NINDS, NIH, Bethesda, Maryland, United States of America"
+        ],
+        "Ward F. Odenwald": [
+            "Neural Cell-Fate Determinants Section, NINDS, NIH, Bethesda, Maryland, United States of America"
+        ]
+    }
+}

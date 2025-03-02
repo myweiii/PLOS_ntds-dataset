@@ -1,0 +1,32 @@
+{
+    "Title": "A simple mortality risk prediction score for viper envenoming in India (VENOMS): A model development and validation study",
+    "URL": "https://doi.org/10.1371/journal.pntd.0010183",
+    "Published": "February 22, 2022",
+    "Subject_Areas": [
+        "Vipers",
+        "Snakebite",
+        "India",
+        "Hemorrhage",
+        "Venoms",
+        "Medical risk factors",
+        "Urine",
+        "Primary care"
+    ],
+    "Authors": {
+        "Maya Gopalakrishnan": [
+            "Department of Internal Medicine, All India Institute of Medical Sciences Jodhpur, Rajasthan, India"
+        ],
+        "Suman Saurabh": [
+            "Department of Community Medicine and Family Medicine, All India Institute of Medical Sciences, Jodhpur, Rajasthan, India"
+        ],
+        "Pramod Sagar": [
+            "Department of Cardiology, Madras Medical Mission, Chennai, Tamil Nadu, India"
+        ],
+        "Chanaveerappa Bammigatti": [
+            "Department of Medicine, Jawaharlal Institute of Medical Education and Research, Puducherry, India"
+        ],
+        "Tarun Kumar Dutta": [
+            "Department of Medicine, Mahatma Gandhi Medical College and Research Institute, Puducherry, India"
+        ]
+    }
+}

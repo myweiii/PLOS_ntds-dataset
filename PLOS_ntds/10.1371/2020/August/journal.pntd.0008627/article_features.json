@@ -1,0 +1,30 @@
+{
+    "Title": "CRISPR-mediated Transfection of Brugia malayi",
+    "URL": "https://doi.org/10.1371/journal.pntd.0008627",
+    "Published": "August 31, 2020",
+    "Subject_Areas": [
+        "Genomics",
+        "Brugia malayi",
+        "CRISPR",
+        "Polymerase chain reaction",
+        "Parasitic diseases",
+        "Transfection",
+        "Nucleases",
+        "Vector cloning"
+    ],
+    "Authors": {
+        "Canhui Liu": [
+            "Center for Global Health Infectious Disease Research, College of Public Health, University of South Florida, Tampa, Florida, United States of America"
+        ],
+        "Alexandra Grote": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York, United States of America"
+        ],
+        "Elodie Ghedin": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York, United States of America",
+            "Department of Epidemiology, School of Global Public Health, New York University, New York, New York, United States of America"
+        ],
+        "Thomas R. Unnasch": [
+            "Center for Global Health Infectious Disease Research, College of Public Health, University of South Florida, Tampa, Florida, United States of America"
+        ]
+    }
+}

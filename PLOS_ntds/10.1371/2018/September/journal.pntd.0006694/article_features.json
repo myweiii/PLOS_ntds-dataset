@@ -1,0 +1,104 @@
+{
+    "Title": "Isolation of pathogenic Leptospira strains from naturally infected cattle in Uruguay reveals high serovar diversity, and uncovers a relevant risk for human leptospirosis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006694",
+    "Published": "September 13, 2018",
+    "Subject_Areas": [
+        "Leptospira interrogans",
+        "Urine",
+        "Leptospira",
+        "Leptospirosis",
+        "Bacterial pathogens",
+        "Infectious disease epidemiology",
+        "Polymerase chain reaction",
+        "Cattle"
+    ],
+    "Authors": {
+        "Leticia Zarantonelli": [
+            "Laboratorio de Microbiolog\u00eda Molecular y Estructural, Institut Pasteur de Montevideo, Montevideo, Uruguay",
+            "Unidad Mixta UMPI, Institut Pasteur de Montevideo + Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Montevideo, Uruguay"
+        ],
+        "Alejandra Suanes": [
+            "Departamento de Bacteriolog\u00eda, Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Sede Central, Ministerio de Ganader\u00eda, Agricultura y Pesca, Montevideo, Uruguay"
+        ],
+        "Paulina Meny": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "Florencia Buroni": [
+            "Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Laboratorio Regional Noroeste, Ministerio de Ganader\u00eda, Agricultura y Pesca, Paysand\u00fa, Uruguay"
+        ],
+        "Cecilia Nieves": [
+            "Laboratorio de Microbiolog\u00eda Molecular y Estructural, Institut Pasteur de Montevideo, Montevideo, Uruguay"
+        ],
+        "Ximena Salaberry": [
+            "Departamento de Bacteriolog\u00eda, Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Sede Central, Ministerio de Ganader\u00eda, Agricultura y Pesca, Montevideo, Uruguay"
+        ],
+        "Carolina Briano": [
+            "Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Laboratorio Regional Este, Ministerio de Ganader\u00eda, Agricultura y Pesca, Treinta y Tres, Uruguay"
+        ],
+        "Natalia Ashfield": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "Caroline Da Silva Silveira": [
+            "Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Estaci\u00f3n Experimental La Estanzuela, Colonia, Uruguay"
+        ],
+        "Fernando Dutra": [
+            "Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Laboratorio Regional Este, Ministerio de Ganader\u00eda, Agricultura y Pesca, Treinta y Tres, Uruguay"
+        ],
+        "Cristina Easton": [
+            "Departamento de Bacteriolog\u00eda, Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Sede Central, Ministerio de Ganader\u00eda, Agricultura y Pesca, Montevideo, Uruguay"
+        ],
+        "Martin Fraga": [
+            "Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Estaci\u00f3n Experimental La Estanzuela, Colonia, Uruguay"
+        ],
+        "Federico Giannitti": [
+            "Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Estaci\u00f3n Experimental La Estanzuela, Colonia, Uruguay"
+        ],
+        "Camila Hamond": [
+            "Unidad Mixta UMPI, Institut Pasteur de Montevideo + Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Montevideo, Uruguay",
+            "Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Estaci\u00f3n Experimental La Estanzuela, Colonia, Uruguay"
+        ],
+        "Melissa Mac\u00edas-Rioseco": [
+            "Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Estaci\u00f3n Experimental La Estanzuela, Colonia, Uruguay"
+        ],
+        "Clara Men\u00e9ndez": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "Alberto Mortola": [
+            "Departamento de Bacteriolog\u00eda, Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Sede Central, Ministerio de Ganader\u00eda, Agricultura y Pesca, Montevideo, Uruguay"
+        ],
+        "Mathieu Picardeau": [
+            "Unit\u00e9 de Biologie des Spiroch\u00e8tes, Institut Pasteur, Paris, France",
+            "Joint International Unit \u00ab Integrative Microbiology of Zoonotic Agents \u00bb IMiZA, Institut Pasteur de Montevideo, Montevideo, Uruguay / Institut Pasteur, Paris, France"
+        ],
+        "Jair Quintero": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "Cristina R\u00edos": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "V\u00edctor Rodr\u00edguez": [
+            "Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Laboratorio Regional Noroeste, Ministerio de Ganader\u00eda, Agricultura y Pesca, Paysand\u00fa, Uruguay"
+        ],
+        "Agust\u00edn Romero": [
+            "Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Laboratorio Regional Este, Ministerio de Ganader\u00eda, Agricultura y Pesca, Treinta y Tres, Uruguay"
+        ],
+        "Gustavo Varela": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "Rodolfo Rivero": [
+            "Divisi\u00f3n Laboratorios Veterinarios \u201cMiguel C. Rubino\u201d Laboratorio Regional Noroeste, Ministerio de Ganader\u00eda, Agricultura y Pesca, Paysand\u00fa, Uruguay"
+        ],
+        "Felipe Schelotto": [
+            "Departamento de Bacteriolog\u00eda y Virolog\u00eda, Instituto de Higiene, Facultad de Medicina, Universidad de la Rep\u00fablica, Montevideo, Uruguay"
+        ],
+        "Franklin Riet-Correa": [
+            "Instituto Nacional de Investigaci\u00f3n Agropecuaria INIA, Estaci\u00f3n Experimental La Estanzuela, Colonia, Uruguay"
+        ],
+        "Alejandro Buschiazzo": [
+            "Laboratorio de Microbiolog\u00eda Molecular y Estructural, Institut Pasteur de Montevideo, Montevideo, Uruguay",
+            "Joint International Unit \u00ab Integrative Microbiology of Zoonotic Agents \u00bb IMiZA, Institut Pasteur de Montevideo, Montevideo, Uruguay / Institut Pasteur, Paris, France",
+            "D\u00e9partement de Microbiologie, Institut Pasteur, Paris, France"
+        ],
+        "on behalf of the Grupo de Trabajo Interinstitucional de Leptospirosis Consortium": []
+    }
+}

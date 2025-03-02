@@ -1,0 +1,27 @@
+{
+    "Title": "Classification of containers with Aedes aegypti pupae using a Neural Networks model",
+    "URL": "https://doi.org/10.1371/journal.pntd.0006592",
+    "Published": "July 23, 2018",
+    "Subject_Areas": [
+        "Pupae",
+        "Aedes aegypti",
+        "Neural networks",
+        "Dengue fever",
+        "Mosquitoes",
+        "Water resources",
+        "Information theory",
+        "Brazil"
+    ],
+    "Authors": {
+        "Roberto de Andrade Medronho": [
+            "Faculdade de Medicina, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brasil",
+            "Instituto de Estudos em Sa\u00fade Coletiva, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brasil"
+        ],
+        "Volney de Magalh\u00e3es C\u00e2mara": [
+            "Instituto de Estudos em Sa\u00fade Coletiva, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brasil"
+        ],
+        "Leonardo Macrini": [
+            "Instituto Tr\u00eas Rios, Universidade Federal Rural do Rio de Janeiro, Rio de Janeiro, Brasil"
+        ]
+    }
+}

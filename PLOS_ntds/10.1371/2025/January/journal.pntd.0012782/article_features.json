@@ -1,0 +1,28 @@
+{
+    "Title": "Using ESPEN data for evidence-based control of neglected tropical diseases in sub-Saharan Africa: A comprehensive model-based geostatistical analysis of soil-transmitted helminths",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012782",
+    "Published": "January 9, 2025",
+    "Subject_Areas": [
+        "Soil-transmitted helminthiases",
+        "Rwanda",
+        "Hookworms",
+        "Ascaris",
+        "Africa",
+        "Neglected tropical diseases",
+        "Cartography",
+        "Covariance"
+    ],
+    "Authors": {
+        "Jessie Jane Khaki": [
+            "The Centre for Health Informatics, Computing, and Statistics (CHICAS), Lancaster Medical School, Lancaster University, Lancaster, United Kingdom",
+            "Malawi Liverpool Wellcome (MLW) Programme, Blantyre, Malawi",
+            "School of Global and Public Health, Kamuzu University of Health Sciences, Blantyre, Malawi"
+        ],
+        "Mark Minnery": [
+            "Evidence Action, Deworm the World Initiative, Washington DC, United States of America"
+        ],
+        "Emanuele Giorgi": [
+            "The Centre for Health Informatics, Computing, and Statistics (CHICAS), Lancaster Medical School, Lancaster University, Lancaster, United Kingdom"
+        ]
+    }
+}
