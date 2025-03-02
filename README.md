@@ -7,7 +7,7 @@
 
 ---
 
-The PLOS_ntds dataset exclusively comprises 10100 pieces of research articles from PLOS Neglected Tropical Diseases. It captures various components of each article, including the abstract, article content, author summary, acknowledgements, and other features. Below is a sample structure for one article:
+The PLOS_ntds dataset exclusively comprises 10200 pieces of research articles from PLOS Neglected Tropical Diseases. It captures various components of each article, including the abstract, article content, author summary, acknowledgements, and other features. Below is a sample structure for one article:
 ```
 - 10.1371
     - 2024
