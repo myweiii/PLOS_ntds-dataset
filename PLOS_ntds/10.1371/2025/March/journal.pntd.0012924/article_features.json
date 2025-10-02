@@ -1,0 +1,49 @@
+{
+    "Title": "Unsupervised machine learning identifies biomarkers of disease progression in post-kala-azar dermal leishmaniasis in Sudan",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012924",
+    "Published": "March 11, 2025",
+    "Subject_Areas": [
+        "Lesions",
+        "Leishmaniasis",
+        "Hematology",
+        "Albumins",
+        "Cytokines",
+        "Bilirubin",
+        "Eosinophils",
+        "Principal component analysis"
+    ],
+    "Authors": {
+        "Ana Torres": [
+            "WHO Collaborating Centre for Leishmaniasis. Spanish National Centre for Microbiology, Instituto de Salud Carlos III, Majadahonda (Madrid), Spain",
+            "CIBER de Enfermedades Infecciosas, Instituto de Salud Carlos III, Madrid, Spain",
+            "Escuela de Doctorado, Universidad Autónoma de Madrid, Madrid, Spain"
+        ],
+        "Brima Musa Younis": [
+            "Institute of Endemic Diseases, University of Khartoum, Khartoum, Sudan"
+        ],
+        "Samuel Tesema": [
+            "Drugs for Neglected Diseases Initiative, Nairobi, Kenya"
+        ],
+        "Jose Carlos Solana": [
+            "WHO Collaborating Centre for Leishmaniasis. Spanish National Centre for Microbiology, Instituto de Salud Carlos III, Majadahonda (Madrid), Spain",
+            "CIBER de Enfermedades Infecciosas, Instituto de Salud Carlos III, Madrid, Spain"
+        ],
+        "Javier Moreno": [
+            "WHO Collaborating Centre for Leishmaniasis. Spanish National Centre for Microbiology, Instituto de Salud Carlos III, Majadahonda (Madrid), Spain",
+            "CIBER de Enfermedades Infecciosas, Instituto de Salud Carlos III, Madrid, Spain"
+        ],
+        "Antonio J. Martín-Galiano": [
+            "Core Scientific and Technical Units, Instituto de Salud Carlos III, Madrid, Spain"
+        ],
+        "Ahmed Mudawi Musa": [
+            "Institute of Endemic Diseases, University of Khartoum, Khartoum, Sudan"
+        ],
+        "Fabiana Alves": [
+            "Drugs for Neglected Diseases Initiative, Geneva, Switzerland"
+        ],
+        "Eugenia Carrillo": [
+            "WHO Collaborating Centre for Leishmaniasis. Spanish National Centre for Microbiology, Instituto de Salud Carlos III, Majadahonda (Madrid), Spain",
+            "CIBER de Enfermedades Infecciosas, Instituto de Salud Carlos III, Madrid, Spain"
+        ]
+    }
+}

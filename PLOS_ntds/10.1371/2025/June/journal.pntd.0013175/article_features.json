@@ -1,0 +1,65 @@
+{
+    "Title": "Unraveling regional variability in Dengue outbreaks in Brazil: leveraging the Moving Epidemics Method (MEM) and climate data to optimize vector control strategies",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013175",
+    "Published": "June 23, 2025",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Seasons",
+        "Brazil",
+        "Epidemiology",
+        "Climate change",
+        "Infectious disease control",
+        "Clustering algorithms",
+        "Viral diseases"
+    ],
+    "Authors": {
+        "Ayrton Sena Gouveia": [
+            "Graduate Program in Epidemiology in Public Health, Sergio Arouca National School of Public Health, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Marcelo Ferreira da Costa Gomes": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Iasmim Ferreira de Almeida": [
+            "Graduate Program in Epidemiology in Public Health, Sergio Arouca National School of Public Health, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Raquel Martins Lana": [
+            "Barcelona Supercomputing Center (BSC), Barcelona, Spain"
+        ],
+        "Leonardo Soares Bastos": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Lucas Monteiro Bianchi": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Sara de Souza Oliveira": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Eduardo Correa Araujo": [
+            "School of Applied Mathematics, Getulio Vargas Foundation (FGV), Rio de Janeiro, Brazil"
+        ],
+        "Danielle Andreza da Cruz Ferreira": [
+            "Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil"
+        ],
+        "Dalila Machado Botelho Oliveira": [
+            "Graduate Program in Tropical Medicine, Oswaldo Cruz Institute, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Vinicius Barbosa Godinho": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Luã Bida Vacaro": [
+            "School of Applied Mathematics, Getulio Vargas Foundation (FGV), Rio de Janeiro, Brazil"
+        ],
+        "Thais Irene Souza Riback": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Oswaldo Gonçalves Cruz": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ],
+        "Flávio Codeço Coelho": [
+            "School of Applied Mathematics, Getulio Vargas Foundation (FGV), Rio de Janeiro, Brazil"
+        ],
+        "Cláudia Torres Codeço": [
+            "Scientific Computing Program, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Title": "Classification of Trypanosoma brucei mammalian life cycle stages using Deep Learning Algorithms",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013298",
+    "Published": "August 14, 2025",
+    "Subject_Areas": [
+        "Parasitic life cycles",
+        "Trypanosoma brucei gambiense",
+        "Deep learning",
+        "Trypanosoma",
+        "Trypanosoma brucei",
+        "Graphics pipelines",
+        "Parasitic diseases",
+        "Protozoan life cycles"
+    ],
+    "Authors": {
+        "Hamid Cheraghi": [
+            "Department of Biological Physics, Eötvös Loránd University (ELTE), Budapest, Hungary",
+            "CellSorter Scientific Company for Innovations, Budapest, Hungary"
+        ],
+        "Lara López-Escobar": [
+            "Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal"
+        ],
+        "José Rino": [
+            "Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal"
+        ],
+        "Luisa M. Figueiredo": [
+            "Gulbenkian Institute for Molecular Medicine, Lisbon, Portugal"
+        ],
+        "Bálint Szabó": [
+            "Department of Biological Physics, Eötvös Loránd University (ELTE), Budapest, Hungary",
+            "CellSorter Scientific Company for Innovations, Budapest, Hungary"
+        ]
+    }
+}

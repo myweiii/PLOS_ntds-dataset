@@ -1,6 +1,6 @@
 {
     "Objectives": "We aimed to evaluate the relationships between climate variability, animal reservoirs and scrub typhus incidence in Southern China.",
     "Methods": "We obtained data on scrub typhus cases in Guangzhou every month from 2006 to 2014 from the Chinese communicable disease network. Time-series Poisson regression models and distributed lag nonlinear models (DLNM) were used to evaluate the relationship between risk factors and scrub typhus.",
-    "Results": "Wavelet analysis found the incidence of scrub typhus cycled with a period of approximately 8\u201312 months and long-term trends with a period of approximately 24\u201336 months. The DLNM model shows that relative humidity, rainfall, DTR, MEI and rodent density were associated with the incidence of scrub typhus.",
+    "Results": "Wavelet analysis found the incidence of scrub typhus cycled with a period of approximately 8–12 months and long-term trends with a period of approximately 24–36 months. The DLNM model shows that relative humidity, rainfall, DTR, MEI and rodent density were associated with the incidence of scrub typhus.",
     "Conclusions": "Our findings suggest that the incidence scrub typhus has two main temporal cycles. Determining the reason for this trend and how it can be used for disease control and prevention requires additional research. The transmission of scrub typhus is highly dependent on climate factors and rodent density, both of which should be considered in prevention and control strategies for scrub typhus."
 }

@@ -1,0 +1,37 @@
+{
+    "Title": "Computational screening of antiviral candidates for Monkeypox virus DNA polymerase and A42R protein",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013312",
+    "Published": "July 29, 2025",
+    "Subject_Areas": [
+        "Molecular dynamics",
+        "Biochemical simulations",
+        "Library screening",
+        "Molecular docking",
+        "Drug interactions",
+        "Protein interactions",
+        "Hydrogen bonding",
+        "Antiviral therapy"
+    ],
+    "Authors": {
+        "Muhammad Amjid": [
+            "College of Pharmacy and Research Institute of Pharmaceutical Sciences, Gyeongsang National University, Jinju, Republic of Korea",
+            "Department of Chemistry, Kohat University of Science and Technology, Kohat Khyber Pakhtunkhwa, Pakistan"
+        ],
+        "Muhammad Maroof Khan": [
+            "Department of Biotechnology, Agriculture University of Peshawar, Peshawar, Pakistan"
+        ],
+        "Stephen F. Pastore": [
+            "Molecular Neuropsychiatry & Development (MiND) Lab, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada",
+            "Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada"
+        ],
+        "John B. Vincent": [
+            "Molecular Neuropsychiatry & Development (MiND) Lab, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada",
+            "Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada",
+            "Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada"
+        ],
+        "Tahir Muhammad": [
+            "Molecular Neuropsychiatry & Development (MiND) Lab, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada",
+            "Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada"
+        ]
+    }
+}

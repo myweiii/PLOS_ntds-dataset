@@ -1,0 +1,1 @@
+The author thanks Yara Halasa-Rappel for assistance with per-case dengue burden data, especially navigating the GBD 2019 results. The author also thanks Keaton Hamm for assistance with CUR decomposition.

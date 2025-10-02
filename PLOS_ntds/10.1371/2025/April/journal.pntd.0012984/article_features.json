@@ -1,0 +1,48 @@
+{
+    "Title": "ARBOALVO: A Bayesian spatiotemporal learning and predictive model for dengue cases in the endemic Northeast city of Natal, Rio Grande do Norte, Brazil",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012984",
+    "Published": "April 29, 2025",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Neighborhoods",
+        "Epidemiology",
+        "Eggs",
+        "Entomology",
+        "Medical risk factors",
+        "Arboviruses",
+        "Brazil"
+    ],
+    "Authors": {
+        "Mariane Branco Alves": [
+            "Departamento de Métodos Estatísticos, Instituto de Matemática, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Rafael Santos Erbisti": [
+            "Departamento de Estatística, Instituto de Matemática e Estatística, Universidade Federal Fluminense, Niterói, Brazil"
+        ],
+        "Aline Araújo Nobre": [
+            "Programa de Computação Científica da Fiocruz, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Taynãna César Simões": [
+            "Instituto René Rachou, Fundação Oswaldo Cruz, Belo Horizonte, Brazil"
+        ],
+        "Alessandre de Medeiros Tavares": [
+            "Departamento de Métodos Estatísticos, Instituto de Matemática, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil"
+        ],
+        "Márcia Cristina Melo": [
+            "Centro de Controle de Zoonoses, Secretaria Municipal de Saúde de Natal, Rio Grande do Norte, Brazil"
+        ],
+        "Rodrigo Moreira Pedreira": [
+            "Centro de Controle de Zoonoses, Secretaria Municipal de Saúde de Natal, Rio Grande do Norte, Brazil"
+        ],
+        "Jan Pierre Martins de Araújo": [
+            "Centro de Controle de Zoonoses, Secretaria Municipal de Saúde de Natal, Rio Grande do Norte, Brazil"
+        ],
+        "Marilia Sá Carvalho": [
+            "Programa de Computação Científica da Fiocruz, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil"
+        ],
+        "Nildimar Alves Honório": [
+            "Laboratório das Interações Vírus-Hospedeiros, Instituto Oswaldo Cruz, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil",
+            "Núcleo Operacional Sentinela de Mosquitos Vetores–Nosmove/Fiocruz, Rio de Janeiro, Brazil"
+        ]
+    }
+}

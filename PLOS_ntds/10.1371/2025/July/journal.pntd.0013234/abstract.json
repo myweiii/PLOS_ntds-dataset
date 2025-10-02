@@ -1,0 +1,3 @@
+{
+    "Abstract": "Background: Soil-transmitted helminth (STH) and Schistosoma mansoni (S. mansoni) infections remain significant public health concerns in tropical and subtropical regions. Deep Convolutional Neural Networks (DCNNs) have already shown promising accuracy in identifying STH and S. mansoni eggs in the same, in-distribution (ID) settings. However, their performance in real-world, out-of-distribution (OOD) scenarios, characterized by variations in image capture devices and the appearance of previously unseen egg types, has not been thoroughly investigated. Assessing the robustness of DCNNs under these challenging conditions is crucial for ensuring their reliability in field diagnostics."
+}

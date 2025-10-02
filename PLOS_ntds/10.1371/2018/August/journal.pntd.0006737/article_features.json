@@ -1,5 +1,5 @@
 {
-    "Title": "Spatiotemporal prediction of infectious diseases using structured Gaussian processes with application to Crimean\u2013Congo hemorrhagic fever",
+    "Title": "Spatiotemporal prediction of infectious diseases using structured Gaussian processes with application to Crimean–Congo hemorrhagic fever",
     "URL": "https://doi.org/10.1371/journal.pntd.0006737",
     "Published": "August 17, 2018",
     "Subject_Areas": [
@@ -13,21 +13,21 @@
         "Trees"
     ],
     "Authors": {
-        "\u00c7i\u011fdem Ak": [
-            "Graduate School of Sciences and Engineering, Ko\u00e7 University, \u0130stanbul, Turkey"
+        "Çiğdem Ak": [
+            "Graduate School of Sciences and Engineering, Koç University, İstanbul, Turkey"
         ],
-        "\u00d6nder Erg\u00f6n\u00fcl": [
-            "Department of Infectious Diseases and Clinical Microbiology, School of Medicine, Ko\u00e7 University, \u0130stanbul, Turkey"
+        "Önder Ergönül": [
+            "Department of Infectious Diseases and Clinical Microbiology, School of Medicine, Koç University, İstanbul, Turkey"
         ],
-        "\u0130rfan \u015eencan": [
+        "İrfan Şencan": [
             "Public Health Directorate, Ministry of Health, Ankara, Turkey"
         ],
-        "Mehmet Ali Toruno\u011flu": [
+        "Mehmet Ali Torunoğlu": [
             "Public Health Directorate, Ministry of Health, Ankara, Turkey"
         ],
-        "Mehmet G\u00f6nen": [
-            "Department of Industrial Engineering, College of Engineering, Ko\u00e7 University, \u0130stanbul, Turkey",
-            "School of Medicine, Ko\u00e7 University, \u0130stanbul, Turkey"
+        "Mehmet Gönen": [
+            "Department of Industrial Engineering, College of Engineering, Koç University, İstanbul, Turkey",
+            "School of Medicine, Koç University, İstanbul, Turkey"
         ]
     }
 }

@@ -1,0 +1,33 @@
+{
+    "Title": "Dengue nowcasting in Brazil by combining official surveillance data and Google Trends information",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012501",
+    "Published": "August 18, 2025",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Brazil",
+        "Disease surveillance",
+        "Decision making",
+        "Epidemiology",
+        "Public and occupational health",
+        "Twitter",
+        "Seasons"
+    ],
+    "Authors": {
+        "Yang Xiao": [
+            "Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
+        ],
+        "Guilherme Soares": [
+            "Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+            "Institute of Mathematical and Computer Sciences, University of São Paulo (USP), São Carlos, Brazil"
+        ],
+        "Leonardo Bastos": [
+            "Scientific Computing Programme, Oswaldo Cruz Foundation (Fiocruz), Rio de Janeiro, Brazil"
+        ],
+        "Rafael Izbicki": [
+            "Department of Statistics, Federal University of São Carlos (UFSCar), São Carlos, Brazil"
+        ],
+        "Paula Moraga": [
+            "Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
+        ]
+    }
+}

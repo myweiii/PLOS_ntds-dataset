@@ -1,0 +1,19 @@
+Why was this study done?
+
+The World Health Organization recently declared a global initiative to control arboviral diseases. Many of these are caused by pathogenic flaviviruses, most transmitted by mosquitoes and other arthropod vectors such as ticks.
+Vaccination is a key intervention for diseases caused by flaviviruses.
+Co-administration of different vaccines, including currently licensed flavivirus vaccines, is commonly practiced.
+Co-administration of vaccines saves time and reduces the number of visits to healthcare facilities and vaccine clinics.
+Cellular immune responses have not been thoroughly evaluated upon co-administration of currently licensed flavivirus vaccines, including yellow fever virus (YFV), tick-borne encephalitis virus (TBEV), and Japanese encephalitis virus (JEV) vaccines.
+
+
+What did the researchers find?
+
+The magnitude and specificity of CD4+ and CD8+ T cell responses to virus-specific antigens remained largely unaltered by the concomitant delivery of the studied flavivirus vaccines.
+Concomitant delivery of vaccines in the same or different upper arms of the study participants had minimal impact on CD4+ and CD8+ T cell responses.
+
+
+What do these findings mean?
+
+The studied vaccines maintained distinct CD4+ and CD8+ T cell reactivity across their respective viral antigens without generating any marked cross-reactivity to each other or ZIKV-antigens, with exception for some signs of CD8+ T cell cross reactivity.
+Along with recently published data from the present study cohort, co-administration of three commonly used current licensed flavivirus vaccines is feasible without increasing the risk of adverse events or significantly affecting the development of either neutralizing antibodies (nAbs) or T cell responses against the respective viral antigens.

@@ -1,0 +1,43 @@
+{
+    "Title": "Detecting soil-transmitted helminth and Schistosoma mansoni eggs in Kato-Katz stool smear microscopy images: A comprehensive in- and out-of-distribution evaluation of YOLOv7 variants",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013234",
+    "Published": "July 3, 2025",
+    "Subject_Areas": [
+        "Eggs",
+        "Schistosoma mansoni",
+        "Ascaris lumbricoides",
+        "Hookworms",
+        "Soil-transmitted helminthiases",
+        "Tides",
+        "Parasitic diseases",
+        "Diagnostic medicine"
+    ],
+    "Authors": {
+        "Mohammed Aliy Mohammed": [
+            "IDLab, Ghent University - imec, Ghent University, Ghent, Belgium",
+            "School of Biomedical Engineering, Jimma Institute of Technology, Jimma University, Jimma, Ethiopia"
+        ],
+        "Esla Timothy Anzaku": [
+            "Department of Electronics and Information Systems, Ghent University, Ghent, Belgium",
+            "Center for Biosystems and Biotech Data Science, Ghent University Global Campus, Incheon, South Korea"
+        ],
+        "Peter Kenneth Ward": [
+            "IDLab, Ghent University - imec, Ghent University, Ghent, Belgium",
+            "Enaiblers AB, Uppsala, Sweden",
+            "Department of Translational Physiology, Infectiology and Public Health, Ghent University, Merelbeke, Belgium"
+        ],
+        "Bruno Levecke": [
+            "Department of Translational Physiology, Infectiology and Public Health, Ghent University, Merelbeke, Belgium"
+        ],
+        "Janarthanan Krishnamoorthy": [
+            "School of Biomedical Engineering, Jimma Institute of Technology, Jimma University, Jimma, Ethiopia"
+        ],
+        "Wesley De Neve": [
+            "Department of Electronics and Information Systems, Ghent University, Ghent, Belgium",
+            "Center for Biosystems and Biotech Data Science, Ghent University Global Campus, Incheon, South Korea"
+        ],
+        "Sofie Van Hoecke": [
+            "IDLab, Ghent University - imec, Ghent University, Ghent, Belgium"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Title": "Multi-contrast machine learning improves schistosomiasis diagnostic performance",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012879",
+    "Published": "August 4, 2025",
+    "Subject_Areas": [
+        "Eggs",
+        "Schistosoma haematobium",
+        "Urine",
+        "Schistosomiasis",
+        "Diagnostic medicine",
+        "Light microscopy",
+        "Machine learning",
+        "Data acquisition"
+    ],
+    "Authors": {
+        "María Díaz de León Derby": [
+            "Department of Bioengineering, University of California, Berkeley, Berkeley, California, United States of America"
+        ],
+        "Charles B. Delahunt": [
+            "Global Health Labs, Inc, Bellevue, Washington, United States of America"
+        ],
+        "Ethan Spencer": [
+            "Global Health Labs, Inc, Bellevue, Washington, United States of America"
+        ],
+        "Jean T. Coulibaly": [
+            "UFR Biosciences, Université Félix Houphouët-Boigny, Abidjan, Côte d’Ivoire",
+            "Centre Suisse de Recherches Scientifiques en Côte d’Ivoire, Abidjan, Côte d’Ivoire"
+        ],
+        "Kigbafori D. Silué": [
+            "UFR Biosciences, Université Félix Houphouët-Boigny, Abidjan, Côte d’Ivoire",
+            "Centre Suisse de Recherches Scientifiques en Côte d’Ivoire, Abidjan, Côte d’Ivoire"
+        ],
+        "Isaac I. Bogoch": [
+            "Division of General Internal Medicine, Toronto General Hospital, University Health Network, Toronto, Canada",
+            "Division of Infectious Diseases, Toronto General Hospital, University Health Network, Toronto, Canada",
+            "Department of Medicine, University of Toronto, Toronto, Canada"
+        ],
+        "Anne-Laure Le Ny": [
+            "Global Health Labs, Inc, Bellevue, Washington, United States of America"
+        ],
+        "Daniel A. Fletcher": [
+            "Department of Bioengineering, University of California, Berkeley, Berkeley, California, United States of America",
+            "Biological Systems and Engineering Division, Lawrence Berkeley National Laboratory, Berkeley, California, United States of America",
+            "Chan Zuckerberg Biohub, San Francisco, California, United States of America",
+            "California Institute for Quantitative Biosciences (QB3), University of California, Berkeley, Berkeley, California, United States of America"
+        ]
+    }
+}

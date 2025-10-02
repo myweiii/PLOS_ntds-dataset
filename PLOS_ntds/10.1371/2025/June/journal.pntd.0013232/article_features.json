@@ -1,0 +1,51 @@
+{
+    "Title": "Annual global dengue dynamics are related to multi-source factors revealed by a machine learning prediction analysis",
+    "URL": "https://doi.org/10.1371/journal.pntd.0013232",
+    "Published": "June 25, 2025",
+    "Subject_Areas": [
+        "Dengue fever",
+        "Anemia",
+        "Mosquitoes",
+        "Air travel",
+        "Machine learning",
+        "Aedes aegypti",
+        "Medical risk factors",
+        "Immunity"
+    ],
+    "Authors": {
+        "Haoyu Long": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China",
+            "Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, P.R. China"
+        ],
+        "Yilin Chen": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China"
+        ],
+        "Jingru Feng": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China"
+        ],
+        "Jian Chen": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China"
+        ],
+        "Xue Zhang": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China"
+        ],
+        "Wenjie Han": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China"
+        ],
+        "Min Kang": [
+            "Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, P.R. China"
+        ],
+        "Xiangjun Du": [
+            "School of Public Health (Shenzhen), Sun Yat-sen University, Guangzhou, P.R. China",
+            "School of Public Health (Shenzhen), Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China",
+            "Shenzhen Key Laboratory of Pathogenic Microbes & Biosafety, Shenzhen Campus of Sun Yat-sen University, Shenzhen, P.R. China",
+            "Key Laboratory of Tropical Disease Control, Ministry of Education, Sun Yat-sen University, Guangzhou, P.R. China"
+        ]
+    }
+}

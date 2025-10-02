@@ -1,0 +1,1 @@
+We gratefully thank the Resource for Biocomputing, the University of California, San Francisco, supported by the National Institutes of Health R01-GM129325 and the Office of Cyber Infrastructure and Computational Biology, National Institute of Allergy and Infectious Diseases, Bethesda, Maryland, for providing the bioinformatics tools to analyze and visualize protein structures.

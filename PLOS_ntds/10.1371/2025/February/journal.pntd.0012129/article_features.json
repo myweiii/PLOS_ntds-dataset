@@ -1,0 +1,104 @@
+{
+    "Title": "Improved limit of detection for zoonotic Plasmodium knowlesi and P. cynomolgi surveillance using reverse transcription for total nucleic acid preserved samples or dried blood spots",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012129",
+    "Published": "February 6, 2025",
+    "Subject_Areas": [
+        "Plasmodium",
+        "Reverse transcription",
+        "Polymerase chain reaction",
+        "Malaria",
+        "Parasitic diseases",
+        "Zoonoses",
+        "Blood",
+        "Ribosomal RNA"
+    ],
+    "Authors": {
+        "Kamil A. Braima": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia"
+        ],
+        "Kim A. Piera": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia"
+        ],
+        "Inke N. D. Lubis": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia",
+            "Faculty of Medicine, Universitas Sumatera Utara, Medan, Sumatera Utara, Indonesia"
+        ],
+        "Rintis Noviyanti": [
+            "Eijkman Research Center for Molecular Biology, BRIN, Indonesia"
+        ],
+        "Giri S. Rajahram": [
+            "Exeins Health Initiative, Jakarta, Indonesia",
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia",
+            "Clinical Research Centre-Queen Elizabeth Hospital, Ministry of Health, Kota Kinabalu, Sabah, Malaysia"
+        ],
+        "Pinkan Kariodimedjo": [
+            "School of Medicine and Health Sciences, Monash University Malaysia, Kuala Lumpur, Malaysia"
+        ],
+        "Irbah R. A. Nainggolan": [
+            "Faculty of Medicine, Universitas Sumatera Utara, Medan, Sumatera Utara, Indonesia"
+        ],
+        "Ranti Permatasari": [
+            "Faculty of Medicine, Universitas Sumatera Utara, Medan, Sumatera Utara, Indonesia"
+        ],
+        "Leily Trianty": [
+            "Eijkman Research Center for Molecular Biology, BRIN, Indonesia"
+        ],
+        "Ristya Amalia": [
+            "Exeins Health Initiative, Jakarta, Indonesia"
+        ],
+        "Sitti Saimah Sakam": [
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia"
+        ],
+        "Angelica F. Tan": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia",
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia"
+        ],
+        "Timothy William": [
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia",
+            "Clinical Research Centre-Queen Elizabeth Hospital, Ministry of Health, Kota Kinabalu, Sabah, Malaysia"
+        ],
+        "Jacob A. F. Westaway": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia",
+            "Centre for Tropical Bioinformatics and Molecular Biology, James Cook University, Cairns, Queensland, Australia"
+        ],
+        "PingChin Lee": [
+            "Biotechnology Research Institute, Universiti Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia",
+            "Faculty of Science and Natural Resources, Universiti Malaysia Sabah, Kota Kinabalu, Sabah Malaysia"
+        ],
+        "Sylvia Daim": [
+            "Faculty of Medicine and Health Sciences, Universiti Malaysia Sabah, Kota Kinabalu, Sabah, Malaysia"
+        ],
+        "Henry Surendra": [
+            "Monash University Indonesia, Tangerang, Indonesia",
+            "Oxford University Clinical Research Unit Indonesia, Faculty of Medicine Universitas Indonesia, Jakarta, Indonesia"
+        ],
+        "Nathaniel Christy": [
+            "U.S. Naval Medical Research Unit INDO PACIFIC, Singapore"
+        ],
+        "Andrew G. Letizia": [
+            "U.S. Naval Medical Research Unit INDO PACIFIC, Singapore"
+        ],
+        "Christopher L. Peatey": [
+            "Drug Resistance and Diagnostics, Australian Defence Force Malaria and Infectious Disease Institute, Brisbane, Queensland, Australia"
+        ],
+        "Mohd Arshil Moideen": [
+            "Faculty of Medicine & Defence Health, National Defence University of Malaysia"
+        ],
+        "Bridget E. Barber": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia",
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia",
+            "QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia"
+        ],
+        "Colin J. Sutherland": [
+            "Department of Infection Biology, London School of Hygiene & Tropical Medicine, London, United Kingdom"
+        ],
+        "Nicholas M. Anstey": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia",
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia"
+        ],
+        "Matthew J. Grigg": [
+            "Global and Tropical Health Division, Menzies School of Health Research and Charles Darwin University, Darwin, Northern Territory, Australia",
+            "Infectious Diseases Society Kota Kinabalu Sabah-Menzies School of Health Research 6 Clinical Research Unit, Kota Kinabalu, Sabah, Malaysia"
+        ]
+    }
+}

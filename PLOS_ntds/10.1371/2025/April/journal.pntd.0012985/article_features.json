@@ -1,0 +1,33 @@
+{
+    "Title": "Transformer-based deep learning enables improved B-cell epitope prediction in parasitic pathogens: A proof-of-concept study on Fasciola hepatica",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012985",
+    "Published": "April 29, 2025",
+    "Subject_Areas": [
+        "Deep learning",
+        "Machine learning",
+        "Fasciola hepatica",
+        "Protein sequencing",
+        "Machine learning algorithms",
+        "Proteomic databases",
+        "Parasitic diseases",
+        "Protein structure prediction"
+    ],
+    "Authors": {
+        "Rui-Si Hu": [
+            "School of Health and Wellness Industry & School of Medicine, Sichuan University of Arts and Science, Dazhou, Sichuan Province, People’s Republic of China",
+            "Key Laboratory of Intelligent Medicine and Health Data Science, Sichuan University of Arts and Science, Dazhou, Sichuan Province, People’s Republic of China"
+        ],
+        "Kui Gu": [
+            "School of Pharmacy and Bioengineering, Chongqing University of Technology, Banan, Chongqing, People’s Republic of China"
+        ],
+        "Muhammad Ehsan": [
+            "Department of Parasitology, Faculty of Veterinary and Animal Sciences, The Islamia University of Bahawalpur, Punjab, Pakistan"
+        ],
+        "Sayed Haidar Abbas Raza": [
+            "State Key Laboratory of Biocontrol, School of Life Sciences, Sun Yat-Sen University, Guangzhou, Guangdong Province, People’s Republic of China"
+        ],
+        "Chun-Ren Wang": [
+            "College of Animal Science and Veterinary Medicine, Heilongjiang Bayi Agricultural University, Daqing, Heilongjiang Province, People’s Republic of China"
+        ]
+    }
+}

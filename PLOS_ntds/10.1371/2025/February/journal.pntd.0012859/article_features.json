@@ -1,0 +1,77 @@
+{
+    "Title": "Epidemiological surveillance and phylogenetic diversity of Orthohantavirus hantanense using high-fidelity nanopore sequencing, Republic of Korea",
+    "URL": "https://doi.org/10.1371/journal.pntd.0012859",
+    "Published": "February 7, 2025",
+    "Subject_Areas": [
+        "Genomics",
+        "Mammalian genomics",
+        "Viral genomics",
+        "Hemorrhagic fever with renal syndrome",
+        "Rodents",
+        "Phylogenetic analysis",
+        "Nanopore sequencing",
+        "Phylogeography"
+    ],
+    "Authors": {
+        "Kyungmin Park": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Institute for Viral Diseases, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Jongwoo Kim": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Graduate Program, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Juyoung Noh": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Graduate Program, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Seong-Gyu Kim": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Graduate Program, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Hee-Kyung Cho": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Graduate Program, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Kijin Kim": [
+            "Faculty of Health Sciences, Centre for Infectious Disease Genomics and One Health, Simon Fraser University, Burnaby, Canada",
+            "Department of Molecular Biology and Biochemistry, Simon Fraser University, Burnaby, Canada"
+        ],
+        "Ye-rin Seo": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Taehun Lim": [
+            "Department of Microbiology, College of Medicine, Hallym University, Chuncheon, Republic of Korea"
+        ],
+        "Seonghyeon Lee": [
+            "Department of Microbiology, College of Medicine, Hallym University, Chuncheon, Republic of Korea"
+        ],
+        "Jaeyeon Lee": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Graduate Program, Korea University College of Medicine, Seoul, Republic of Korea"
+        ],
+        "Seung In Lim": [
+            "The Fifth Preventive Medicine Unit of Republic of Korea Army, Pocheon, Republic of Korea"
+        ],
+        "Young Hoon Joo": [
+            "The First Preventive Medicine Unit of Republic of Korea Army, Goyang, Republic of Korea"
+        ],
+        "Buddle Lee": [
+            "The Third Preventive Medicine Unit of Republic of Korea Army, Inje, Republic of Korea"
+        ],
+        "Seok Hyeon Yun": [
+            "The Second Preventive Medicine Unit of Republic of Korea Army, Chuncheon, Republic of Korea"
+        ],
+        "Changbo Park": [
+            "Republic of Korea Army Headquarters, Daejeon, Republic of Korea"
+        ],
+        "Won-Keun Kim": [
+            "Department of Microbiology, College of Medicine, Hallym University, Chuncheon, Republic of Korea",
+            "Institute of Medical Research, College of Medicine, Hallym University, Chuncheon, Republic of Korea"
+        ],
+        "Jin-Won Song": [
+            "Department of Microbiology, Korea University College of Medicine, Seoul, Republic of Korea",
+            "Department of Biomedical Sciences, Graduate Program, Korea University College of Medicine, Seoul, Republic of Korea"
+        ]
+    }
+}
