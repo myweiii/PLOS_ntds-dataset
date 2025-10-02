@@ -130,8 +130,8 @@ for article_url in tqdm(article_urls):
         #print(authors_institutions)
         article_features["Authors"] = authors_institutions
         #print(article_features)
-        with open(folder_path + "article_features.json", "w") as file:
-            json.dump(article_features, file, indent=4)
+        with open(folder_path + "article_features.json", "w", encoding="utf-8") as file:
+            json.dump(article_features, file, indent=4, ensure_ascii=False)
         
             
         abstract = soup.find("div", class_="abstract toc-section abstract-type-")
@@ -149,8 +149,8 @@ for article_url in tqdm(article_urls):
 
         #print(abstract_dict)
         
-        with open(folder_path + "abstract.json", "w") as file:
-            json.dump(abstract_dict, file, indent=4)
+        with open(folder_path + "abstract.json", "w", encoding="utf-8") as file:
+            json.dump(abstract_dict, file, indent=4, ensure_ascii=False)
         
         
         
@@ -193,8 +193,8 @@ for article_url in tqdm(article_urls):
         with open(folder_path + "acknowledgments.txt", "w", encoding="utf-8") as file:
             file.write(acknowledgments)
         
-        with open(folder_path + "content.json", "w") as file:
-            json.dump(content, file, indent=4)
+        with open(folder_path + "content.json", "w", encoding="utf-8") as file:
+            json.dump(content, file, indent=4, ensure_ascii=False)
             
         '''
         ### Crawling figures, tables, and pdfs
@@ -205,19 +205,19 @@ for article_url in tqdm(article_urls):
             response = requests.get(url[1])
             if response.status_code == 200:
                 file_path = folder_path + "src/" + f"{name}.tiff"
-                with open(file_path, "wb") as f:
+                with open(file_path, "wb", encoding="utf-8") as f:
                     f.write(response.content)
             else:
                 print(f"Failed to download {url[1]}")
                 
-        with open(folder_path + "figure_table.json", "w") as file:
-            json.dump(figure, file, indent=4)
+        with open(folder_path + "figure_table.json", "w", encoding="utf-8") as file:
+            json.dump(figure, file, indent=4, ensure_ascii=False)
 
 
         response = requests.get(pdf_url)
         if response.status_code == 200:
             file_path = folder_path + "src/" + f"{doi.split('/')[1]}.pdf"
-            with open(file_path, "wb") as f:
+            with open(file_path, "wb", encoding="utf-8") as f:
                 f.write(response.content)
         else:
             print(f"Failed to download {pdf_url}")
